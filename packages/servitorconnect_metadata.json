@@ -1,11 +1,11 @@
 {
   "name": "servitorconnect",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "A tool to repeat intentions hourly from a file or direct input.",
-  "author": "AnthroHeart (Thomas Sweet)",
+  "author": null,
   "license": "GPLv3",
-  "home_page": "https://github.com/tsweet77/servitorconnect",
-  "download_filename": "servitorconnect-1.1.0.tar.gz",
-  "download_time": "2025-09-26T11:24:22.025489",
+  "home_page": null,
+  "download_filename": "servitorconnect-1.2.0.tar.gz",
+  "download_time": "2025-09-26T11:47:16.483130",
   "package_url": "https://pypi.org/project/servitorconnect/"
 }
