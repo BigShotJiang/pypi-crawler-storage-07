@@ -1,0 +1,11 @@
+{
+  "name": "pyriksdagen",
+  "version": "1.10.0",
+  "summary": "Access the Riksdagen corpus",
+  "author": "ninpnin",
+  "license": "MIT",
+  "home_page": "https://github.com/welfare-state-analytics/riksdagen-corpus",
+  "download_filename": "pyriksdagen-1.10.0.tar.gz",
+  "download_time": "2025-09-26T14:30:13.507618",
+  "package_url": "https://pypi.org/project/pyriksdagen/"
+}

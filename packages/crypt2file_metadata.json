@@ -1,0 +1,11 @@
+{
+  "name": "crypt2file",
+  "version": "1.0.0",
+  "summary": "A simple tool to encrypt/decrypt files using a machine-specific key.",
+  "author": "Kyunghoon",
+  "license": "MIT",
+  "home_page": "https://github.com/aloecandy/crypt2file",
+  "download_filename": "crypt2file-1.0.0.tar.gz",
+  "download_time": "2025-09-26T14:30:26.242149",
+  "package_url": "https://pypi.org/project/crypt2file/"
+}

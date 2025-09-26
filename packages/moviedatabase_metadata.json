@@ -1,0 +1,11 @@
+{
+  "name": "moviedatabase",
+  "version": "0.1.0",
+  "summary": "A movie database management system",
+  "author": "DatMayo",
+  "license": null,
+  "home_page": "https://github.com/DatMayo/MovieDatabse",
+  "download_filename": "moviedatabase-0.1.0.tar.gz",
+  "download_time": "2025-09-26T14:30:32.876023",
+  "package_url": "https://pypi.org/project/moviedatabase/"
+}

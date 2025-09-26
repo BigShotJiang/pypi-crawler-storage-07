@@ -1,0 +1,11 @@
+{
+  "name": "runicorn",
+  "version": "0.3.1",
+  "summary": "Local, open-source experiment tracking and visualization (a simple, self-hosted alternative to W&B)",
+  "author": "Runicorn Authors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "runicorn-0.3.1.tar.gz",
+  "download_time": "2025-09-26T14:30:26.782553",
+  "package_url": "https://pypi.org/project/runicorn/"
+}

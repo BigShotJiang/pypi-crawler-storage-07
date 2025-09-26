@@ -1,11 +1,11 @@
 {
   "name": "universal-hotreload-python",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Easy HotReload for Python projects",
   "author": "naXan",
   "license": null,
   "home_page": null,
-  "download_filename": "universal_hotreload_python-0.1.0.tar.gz",
-  "download_time": "2025-09-26T10:47:29.670204",
+  "download_filename": "universal_hotreload_python-0.1.2.tar.gz",
+  "download_time": "2025-09-26T14:30:03.888288",
   "package_url": "https://pypi.org/project/universal-hotreload-python/"
 }
