@@ -1,11 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-26T13:36:47.915007
-- **Total Packages**: 91
-- **Total Size**: 73.3 MB
+- **Download Time**: 2025-09-26T13:49:03.608160
+- **Total Packages**: 87
+- **Total Size**: 19.04 MB
 
 ## Packages List
+- bn-configuration
+- python-github-plus
+- polars
+- pyrtex
+- bijx
+- encord-agents
+- bermuda-ledger
+- funcsim
+- qsinc
+- deen-api-client
+- luminesce-sdk
+- SuperGemini
+- typst-pyimage
+- skfobserver
+- easycoder
+- a003558
+- EasyLoggerAJM
+- niti
+- NoMoCLIP
+- propert
+- neuromancer
+- rds-proxy-password-rotation
+- syn-commodore
+- blueapi
+- gwtc-tools
+- ecodonut
+- authentik-client
+- Semapp
+- jupyterlite-ai
+- ydl-podcast
+- h1stars-payment-sdk
+- simple-googlesheet-interface
+- tuzi-mcp
+- naijalingo-asr
+- quantforge
+- mlx.xunit2rst
+- fw-meta
+- pyicloud
+- securesystemslib
+- mec
+- nsj-rest-lib2
+- wowool-portuguese
 - nova-trame
 - autohpsearch
 - fsspec-utils
@@ -17,7 +59,6 @@
 - tenzir
 - iblatlas
 - hydrolib-core
-- mec
 - moc-cli
 - django-easy-icons
 - eodc-faas-openeo
@@ -29,7 +70,6 @@
 - slapos.cookbook
 - policy-weaver
 - syngen-databricks
-- nsj-rest-lib2
 - zjt_trading_lib
 - wowool-italian
 - mcp-macos
@@ -53,47 +93,3 @@
 - tomba-io
 - beaver-db
 - oks-cli
-- ITL-service
-- pulumi-provider-boilerplate
-- ibmsecurity
-- drbutil
-- openmetadata-managed-apis
-- wowool-dutch
-- authentik-client
-- kektordb-client
-- django-codemod
-- agenta
-- ctao-bdms-clients
-- simple-googlesheet-interface
-- nuclia-models
-- eflips-depot
-- pyistat
-- scikinC
-- statsuite-lib
-- frequenz-core
-- industrial-model
-- feature-engineering-rs
-- MetaRpcMT5
-- qubo-solver
-- nbdev-apl
-- nbdev-django
-- pretix-zugferd
-- nbdev-sphinx
-- nbdev-scipy
-- sap-bdc-connect-sdk
-- nbdev-pytorch
-- nbdev-pandas
-- cloudnetpy-qc
-- nbdev-numpy
-- nbdev-stdlib
-- py-gitea
-- trustgraph-vertexai
-- wowool-french
-- trustgraph-ocr
-- trustgraph-mcp
-- trustgraph-flow
-- trustgraph-embeddings-hf
-- trustgraph-cli
-- trustgraph-bedrock
-- trustgraph-base
-- trustgraph

@@ -1,0 +1,11 @@
+{
+  "name": "fw-meta",
+  "version": "4.7.1",
+  "summary": "Flywheel metadata extraction.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fw_meta-4.7.1-py3-none-any.whl",
+  "download_time": "2025-09-26T13:48:37.119549",
+  "package_url": "https://pypi.org/project/fw-meta/"
+}

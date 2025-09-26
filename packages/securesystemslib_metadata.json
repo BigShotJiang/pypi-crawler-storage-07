@@ -1,0 +1,11 @@
+{
+  "name": "securesystemslib",
+  "version": "1.3.1",
+  "summary": "A library that provides cryptographic and general-purpose routines for Secure Systems Lab projects at NYU",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "securesystemslib-1.3.1.tar.gz",
+  "download_time": "2025-09-26T13:48:38.154808",
+  "package_url": "https://pypi.org/project/securesystemslib/"
+}

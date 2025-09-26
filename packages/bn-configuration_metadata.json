@@ -1,0 +1,11 @@
+{
+  "name": "bn-configuration",
+  "version": "0.0.1",
+  "summary": "configuration loader",
+  "author": "jovi",
+  "license": null,
+  "home_page": "https://gitlab.com/bynubian/bynode/python_packages/configuration",
+  "download_filename": "bn_configuration-0.0.1.tar.gz",
+  "download_time": "2025-09-26T13:48:16.459821",
+  "package_url": "https://pypi.org/project/bn-configuration/"
+}

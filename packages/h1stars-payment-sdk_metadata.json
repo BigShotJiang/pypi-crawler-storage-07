@@ -1,0 +1,11 @@
+{
+  "name": "h1stars-payment-sdk",
+  "version": "1.0.0",
+  "summary": "Python SDK for H1Stars Payment Gateway",
+  "author": "h1stars",
+  "license": null,
+  "home_page": "https://github.com/h1gurodev/h1stars-python-sdk",
+  "download_filename": "h1stars_payment_sdk-1.0.0.tar.gz",
+  "download_time": "2025-09-26T13:48:33.549557",
+  "package_url": "https://pypi.org/project/h1stars-payment-sdk/"
+}

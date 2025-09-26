@@ -1,0 +1,11 @@
+{
+  "name": "neuromancer",
+  "version": "1.5.5",
+  "summary": "Neural Modules with Adaptive Nonlinear Constraints and Efficient Regularization",
+  "author": null,
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "neuromancer-1.5.5-py3-none-any.whl",
+  "download_time": "2025-09-26T13:48:28.060058",
+  "package_url": "https://pypi.org/project/neuromancer/"
+}

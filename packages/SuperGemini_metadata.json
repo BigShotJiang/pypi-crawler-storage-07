@@ -1,0 +1,11 @@
+{
+  "name": "SuperGemini",
+  "version": "4.0.10",
+  "summary": "SuperGemini Framework Management Hub - AI-enhanced development framework for Gemini single-agent architecture",
+  "author": "hyunjae lim, NomenAK, Mithun Gowda B",
+  "license": "MIT",
+  "home_page": "https://github.com/SuperClaude-Org/SuperGemini_Framework",
+  "download_filename": "supergemini-4.0.10.tar.gz",
+  "download_time": "2025-09-26T13:48:22.936088",
+  "package_url": "https://pypi.org/project/SuperGemini/"
+}

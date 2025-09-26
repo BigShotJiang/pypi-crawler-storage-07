@@ -1,0 +1,11 @@
+{
+  "name": "gwtc-tools",
+  "version": "0.3.1",
+  "summary": "A package for gwtc operations, including interactions with gracedb",
+  "author": "Chad Hanna",
+  "license": null,
+  "home_page": "https://git.ligo.org/chad-hanna/gwtc",
+  "download_filename": "gwtc_tools-0.3.1.tar.gz",
+  "download_time": "2025-09-26T13:48:30.198604",
+  "package_url": "https://pypi.org/project/gwtc-tools/"
+}
