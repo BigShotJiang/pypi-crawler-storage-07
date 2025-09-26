@@ -1,11 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-26T15:29:45.201048
-- **Total Packages**: 85
-- **Total Size**: 72.1 MB
+- **Download Time**: 2025-09-26T15:40:04.596687
+- **Total Packages**: 87
+- **Total Size**: 20.61 MB
 
 ## Packages List
+- lupin-sw-ut-report
+- subcortex-visualization
+- voxtream
+- dibisoreporting
+- okx-exchange
+- kucoin-api
+- woofipro-api
+- bitget
+- bitmart
+- woo-api
+- binance
+- htx
+- coinex-api
+- bingx
+- bybit-api
+- gate-io-api
+- bitmex-api
+- crypto-com-sdk
+- mexc-exchange-api
+- kucoin-futures-api
+- svc-infra
+- scivianna
+- tokenizer
+- markdown-parser-py
+- neuromancer
+- absd
+- agenterprise
+- dibisoplot
+- cryskura
+- rosamllib
+- conson-xp
+- diffstar
+- mrgrain.cdk-esbuild
 - arkparse
 - rapidata
 - infrahub-mcp
@@ -36,7 +69,6 @@
 - entity-query-language
 - iparapheur-provisioning
 - iparapheur-internal
-- svc-infra
 - pandas-plots
 - odoo-addon-account-dashboard-banner-mis-builder
 - supabase-pydantic
@@ -60,34 +92,4 @@
 - agentkit-gf
 - roboherd
 - foscat
-- agenterprise
 - odoo-image-fetcher
-- arthexis
-- el1xr_opt
-- crawlstudio
-- napari-mAIcrobe
-- aliyun-python-sdk-dypnsapi
-- intake-esgf
-- gateau
-- sdcflows
-- trgenpy
-- nautobot-dns-models
-- pyconvexity
-- perigon
-- algoliasearch
-- civic-transparency-cwe-types
-- openwind
-- wechat-agent
-- serialsrv
-- projen.canary-package
-- cube-alchemy-streamlit-components
-- bloqade-circuit
-- breathe-design
-- prek
-- sundew-algorithms
-- aicostmanager
-- conson-xp
-- codemie-mcp-datasources
-- opencosmo
-- smithery
-- codemie-mcp-assistants

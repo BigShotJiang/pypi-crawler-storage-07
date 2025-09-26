@@ -1,11 +1,11 @@
 {
   "name": "fmconsult-utils-python-sdk",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "summary": "Canivete suiço da FMConsult",
   "author": null,
   "license": "MIT License\n        \n        Copyright (c) 2025 Seu Nome\n        \n        Permission is hereby granted, free of charge, to any person obtaining a copy...\n        ",
   "home_page": null,
-  "download_filename": "fmconsult_utils_python_sdk-2.0.5.tar.gz",
-  "download_time": "2025-09-26T15:29:04.204785",
+  "download_filename": "fmconsult_utils_python_sdk-2.0.6.tar.gz",
+  "download_time": "2025-09-26T15:39:41.241736",
   "package_url": "https://pypi.org/project/fmconsult-utils-python-sdk/"
 }
