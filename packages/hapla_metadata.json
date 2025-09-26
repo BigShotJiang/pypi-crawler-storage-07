@@ -1,0 +1,11 @@
+{
+  "name": "hapla",
+  "version": "0.40.0",
+  "summary": "Framework for haplotype clustering in phased genotype data",
+  "author": "Jonas Meisner",
+  "license": null,
+  "home_page": "https://github.com/Rosemeis/hapla",
+  "download_filename": "hapla-0.40.0.tar.gz",
+  "download_time": "2025-09-26T21:24:30.379774",
+  "package_url": "https://pypi.org/project/hapla/"
+}

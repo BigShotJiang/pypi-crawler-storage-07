@@ -1,13 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-26T21:09:14.721946
-- **Total Packages**: 78
-- **Total Size**: 25.74 MB
+- **Download Time**: 2025-09-26T21:25:08.574699
+- **Total Packages**: 77
+- **Total Size**: 14.63 MB
 
 ## Packages List
-- tiny-python
 - authentik-client
+- taegis-sdk-python
+- bpe-qwen
+- nettracer3d
+- connector-py
+- phiFEM
+- meson
+- airos
+- letta-client
+- juan-almeida-image-processing
+- aenet-gpr
+- django-easy-cache
+- mcgt-core
+- hapla
+- catocli
+- demo-greeter-pkg
+- pyPhyNR
+- osdental-library
+- neuronum
+- xiaoranli
+- stytch
+- sshsig
+- logyca-azure-storage-blob
+- kabukit
+- rxlm
+- llama-stack
+- llama-stack-client
+- rillio
+- nfo-maker
+- paraview-mcp
+- benchcraft
+- opswork
+- tiny-python
 - memmachine
 - terminator
 - ibm-watsonx-orchestrate-mcp-server
@@ -15,14 +46,11 @@
 - terminator-py
 - fsspec-utils
 - pasha.powermod
-- nfo-maker
 - lanscape
 - arrakis-server
 - timetracking
 - VeryEasyAI
-- paraview-mcp
 - vcon
-- aenet-gpr
 - extend-ai
 - carbonic
 - standardbots
@@ -38,7 +66,6 @@
 - data-gatherer
 - sparkfly
 - yoyodyne
-- rxlm
 - Encryptors
 - tide-feature-selection
 - optycode-sdk
@@ -56,31 +83,3 @@
 - torchlens
 - qanswer_sdk
 - fieldz
-- langmem-cloudflare-vectorize
-- ddtrace
-- producteca
-- ada-url
-- django-unicom
-- can-cannelloni
-- FlowerPower
-- girder-worker
-- girder-client
-- pytest-girder
-- girder-plugin-worker
-- devservices
-- girder-virtual-folders
-- girder-user-quota
-- girder-thumbnails
-- girder-terms
-- girder-slicer-cli-web
-- girder-sentry
-- girder-readme
-- girder-oauth
-- girder-ldap
-- girder-jobs
-- girder-item-licenses
-- girder-import-tracker
-- girder-homepage
-- girder-hashsum-download
-- girder-gravatar
-- girder-google-analytics

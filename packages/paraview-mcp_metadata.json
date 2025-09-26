@@ -1,11 +1,11 @@
 {
   "name": "paraview-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "MCP (Model Context Protocol) server for ParaView visualization control",
   "author": "Shusen Liu and Haichao Miao",
   "license": "MIT",
   "home_page": "https://github.com/LLNL/paraview_mcp",
-  "download_filename": "paraview_mcp-0.1.0.tar.gz",
-  "download_time": "2025-09-26T21:08:40.523570",
+  "download_filename": "paraview_mcp-0.1.1.tar.gz",
+  "download_time": "2025-09-26T21:24:39.775028",
   "package_url": "https://pypi.org/project/paraview-mcp/"
 }
