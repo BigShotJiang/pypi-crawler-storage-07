@@ -1,0 +1,11 @@
+{
+  "name": "ldc-xac",
+  "version": "1.0.0",
+  "summary": "External API Caller with comprehensive logging",
+  "author": "Ayush Sonar",
+  "license": "MIT",
+  "home_page": "https://github.com/ayushsonar-lendenclub/ldc-xac",
+  "download_filename": "ldc_xac-1.0.0.tar.gz",
+  "download_time": "2025-09-26T10:47:33.906796",
+  "package_url": "https://pypi.org/project/ldc-xac/"
+}

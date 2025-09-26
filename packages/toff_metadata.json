@@ -1,0 +1,11 @@
+{
+  "name": "toff",
+  "version": "0.2.1",
+  "summary": "toff is a python package to get topologies from open force fields.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "toff-0.2.1.tar.gz",
+  "download_time": "2025-09-26T10:47:38.041569",
+  "package_url": "https://pypi.org/project/toff/"
+}

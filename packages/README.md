@@ -1,15 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-26T10:32:33.166861
-- **Total Packages**: 80
-- **Total Size**: 58.79 MB
+- **Download Time**: 2025-09-26T10:47:58.917077
+- **Total Packages**: 86
+- **Total Size**: 32.99 MB
 
 ## Packages List
+- when-lang
+- revng
+- PySILLS
+- simple-googlesheet-interface
+- apheris-preprocessing
+- konduktor-nightly
+- scruby
+- sai-rl
+- mango-genetic
+- ksrpc
+- sbcluster
+- pyucell
+- sphinx-ubuntu-images
+- jmstate
+- arvasit-auth-sdk
+- trainy-policy-nightly
+- neurokin
+- polars-genson
+- pdf-appendix
+- nitrotools
+- ddump
+- pyistat
+- agentmake
+- datacorecommon
+- api-linter-101
+- jinzhupy
+- letta-nightly
+- telescoop-backup
+- fruxon
+- mylair
+- pyoctomap
+- universal-hotreload-python
+- authentik-client
+- graph-attention-student
+- oda-data
+- plugwise_usb
+- tessdb-reports
+- modlib
+- django-activity-audit
+- ldc-xac
+- dissect.database
+- djcheckup
+- expectise
+- rwkv-ops
+- glchat-plugin
+- ag-kit-py
+- toff
+- h2hdb-downloader
+- psr-factory
+- webshot-mcp
+- smer-visual
+- kingsoftcloud-sdk-python
 - mango-time-series
 - aipyapp
 - mango-autoencoder
-- pyoctomap
 - idvpackage
 - vlcishared
 - debugn
@@ -18,7 +69,6 @@
 - datamarket
 - giant-news
 - dcs-sdk
-- authentik-client
 - whisperlivekit
 - tfctl
 - caf.distribute
@@ -33,7 +83,6 @@
 - lace-client
 - ghsa-client
 - irispreppy
-- mylair
 - pyconvexity
 - crawlee
 - lazyllm
@@ -43,46 +92,3 @@
 - stackit-alb
 - arivo-settings-models
 - pyD3TN
-- tf-keras-nightly
-- inference-exp
-- vital
-- oarepo-runtime
-- jyhelper
-- arvasit-auth-sdk
-- psr-factory
-- oda_data
-- conson-xp
-- glpic
-- odoo-addon-mail-show-follower
-- ai-edge-torch-nightly
-- trxtools
-- earthcarekit
-- agentflowpy
-- gnpy
-- laboneq
-- webshot-mcp
-- DLMS-SPODES-client
-- sheet-sqa
-- nvidia-nat-llama-index
-- nvidia-nat-s3
-- nvidia-nat
-- nvidia-nat-all
-- nvidia-nat-weave
-- nvidia-nat-adk
-- venvr
-- stackit-iaas
-- nvidia-nat-mem0ai
-- nvidia-nat-zep-cloud
-- nvidia-nat-mcp
-- etextedit
-- nvidia-nat-phoenix
-- murfey
-- chattr
-- dune-client
-- nvidia-nat-redis
-- alawymdb
-- nvidia-nat-crewai
-- nvidia-nat-ingestion
-- dez
-- nvidia-nat-test
-- annealing-ab
