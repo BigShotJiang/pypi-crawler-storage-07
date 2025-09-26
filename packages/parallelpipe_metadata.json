@@ -1,0 +1,11 @@
+{
+  "name": "parallelpipe",
+  "version": "0.3.1",
+  "summary": "Pipeline parallelization library",
+  "author": "Giuseppe Tribulato",
+  "license": "MIT",
+  "home_page": "https://github.com/gtsystem/parallelpipe",
+  "download_filename": "parallelpipe-0.3.1-py3-none-any.whl",
+  "download_time": "2025-09-26T16:36:32.352901",
+  "package_url": "https://pypi.org/project/parallelpipe/"
+}

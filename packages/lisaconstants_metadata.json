@@ -1,0 +1,11 @@
+{
+  "name": "lisaconstants",
+  "version": "2.0.1",
+  "summary": "Provides values sanctioned by the LISA Science Ground Segment (SGS) for physical constants and mission parameters",
+  "author": "Jean-Baptiste Bayle",
+  "license": "BSD 3-Clause",
+  "home_page": "https://gitlab.esa.int/lisa-sgs/commons/lisa-constants",
+  "download_filename": "lisaconstants-2.0.1.tar.gz",
+  "download_time": "2025-09-26T16:36:06.008142",
+  "package_url": "https://pypi.org/project/lisaconstants/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Anime3rbDL",
+  "version": "1.0.8",
+  "summary": "Anime3rbDL is a robust, feature-rich command-line application designed for anime enthusiasts. It enables seamless searching, browsing, and downloading of high-quality anime episodes directly from the Anime3rb platform. Featuring advanced logging capabilities, customizable color output, multi-resolution support, batch downloading, and comprehensive CLI options, it provides a powerful yet user-friendly experience for managing anime collections efficiently.",
+  "author": "Jo0x01",
+  "license": "MIT",
+  "home_page": "https://github.com/Jo0X01/Anime3rbDL",
+  "download_filename": "anime3rbdl-1.0.8.tar.gz",
+  "download_time": "2025-09-26T16:36:09.729606",
+  "package_url": "https://pypi.org/project/Anime3rbDL/"
+}

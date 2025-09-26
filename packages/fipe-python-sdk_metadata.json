@@ -1,11 +1,11 @@
 {
   "name": "fipe-python-sdk",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "summary": "Client de comunicaçao c/ API da Fipe",
   "author": null,
   "license": "MIT License\n        \n        Copyright (c) 2025 Seu Nome\n        \n        Permission is hereby granted, free of charge, to any person obtaining a copy...\n        ",
   "home_page": null,
-  "download_filename": "fipe_python_sdk-1.0.5.tar.gz",
-  "download_time": "2025-09-26T15:47:16.112142",
+  "download_filename": "fipe_python_sdk-1.1.0.tar.gz",
+  "download_time": "2025-09-26T16:36:28.574063",
   "package_url": "https://pypi.org/project/fipe-python-sdk/"
 }
