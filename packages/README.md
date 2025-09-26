@@ -1,14 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-26T11:24:40.482841
-- **Total Packages**: 85
-- **Total Size**: 40.69 MB
+- **Download Time**: 2025-09-26T11:33:03.427999
+- **Total Packages**: 82
+- **Total Size**: 26.62 MB
 
 ## Packages List
+- uniovi-simur-wearablepermed-utils
+- soopsocks
+- bg4h
+- mlx.unity2junit
+- worker-automate-hub
+- educommon
+- exomiser-ml
+- odoo-addon-hr-holidays-summary-email
+- torchx-nightly
+- daytona_sdk
+- blogsimi
+- daytona
+- clerk-sdk
+- rapida-python
+- pp.server
+- ljobx
+- sleepy-nmr
+- daytona_api_client_async
+- daytona_api_client
+- torchft-nightly
+- topfarm
+- pythonflex
+- xypattern
+- PYield
+- vease-back
 - torchium
 - authentik-client
-- ljobx
 - mcp-bookmark-server
 - infrahub-server
 - shipy-web
@@ -21,14 +45,12 @@
 - ultimate-notion
 - sai-rl
 - OpenGeodeWeb-Back
-- pp.server
 - weaviate-client
 - pyweclapp
 - creditpulse
 - cleanote
 - jupyterlab-chat
 - glpic
-- soopsocks
 - earningscall
 - mango
 - streamlit-octostar-utils
@@ -66,28 +88,3 @@
 - golf-mcp
 - brynq-sdk-bob
 - textfx
-- bmsdna-lakeapi
-- glow
-- clerk-sdk
-- cogstim
-- splunk_add_on_ucc_framework
-- recurvedata-lib
-- pydpm-xl
-- debugn
-- locust
-- vandc
-- datachain
-- scine-autocas
-- python-aea
-- pyedb
-- mlx.unity2junit
-- odoo-addon-l10n-es-vat-book-invoice-summary
-- htmlgen-mcp
-- GPALexp
-- workers-py
-- annex4risk-detector
-- d-back
-- shotgun-sh
-- tg-signer
-- rxiv-maker
-- shadcn-agent
