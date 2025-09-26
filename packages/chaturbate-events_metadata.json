@@ -1,0 +1,11 @@
+{
+  "name": "chaturbate-events",
+  "version": "1.10.0",
+  "summary": "An asynchronous client for the Chaturbate Events API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chaturbate_events-1.10.0.tar.gz",
+  "download_time": "2025-09-26T23:01:19.955440",
+  "package_url": "https://pypi.org/project/chaturbate-events/"
+}

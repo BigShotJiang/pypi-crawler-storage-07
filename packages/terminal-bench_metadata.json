@@ -1,0 +1,11 @@
+{
+  "name": "terminal-bench",
+  "version": "0.2.18",
+  "summary": "Terminal-bench is a collection of tasks and evaluation harness for evaluating AI agents' ability to complete complex tasks in terminal environments.",
+  "author": "Alex Shaw, Mike Merrill",
+  "license": null,
+  "home_page": null,
+  "download_filename": "terminal_bench-0.2.18.tar.gz",
+  "download_time": "2025-09-26T23:01:15.042544",
+  "package_url": "https://pypi.org/project/terminal-bench/"
+}
