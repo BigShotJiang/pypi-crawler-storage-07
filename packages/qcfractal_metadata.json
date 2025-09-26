@@ -1,0 +1,11 @@
+{
+  "name": "qcfractal",
+  "version": "0.63",
+  "summary": "A distributed compute and database platform for quantum chemistry.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qcfractal-0.63.tar.gz",
+  "download_time": "2025-09-26T18:12:52.263364",
+  "package_url": "https://pypi.org/project/qcfractal/"
+}

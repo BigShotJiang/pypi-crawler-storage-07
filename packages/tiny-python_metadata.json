@@ -1,0 +1,11 @@
+{
+  "name": "tiny-python",
+  "version": "0.1.0",
+  "summary": "A safe execution environment for a Python-like DSL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tiny_python-0.1.0.tar.gz",
+  "download_time": "2025-09-26T18:13:16.134519",
+  "package_url": "https://pypi.org/project/tiny-python/"
+}

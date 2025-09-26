@@ -1,0 +1,11 @@
+{
+  "name": "penney",
+  "version": "0.5",
+  "summary": "Penney's game",
+  "author": "Sepand Haghighi",
+  "license": "MIT",
+  "home_page": "https://github.com/sepandhaghighi/penney",
+  "download_filename": "penney-0.5.tar.gz",
+  "download_time": "2025-09-26T18:13:04.684417",
+  "package_url": "https://pypi.org/project/penney/"
+}

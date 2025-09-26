@@ -1,0 +1,11 @@
+{
+  "name": "climetlab-eumetnet-postprocessing-benchmark",
+  "version": "0.3.2",
+  "summary": "A plugin for climetlab to retrieve the EUMETNET postprocessing benchmark dataset.",
+  "author": "Jonathan Demaeyer",
+  "license": "BSD-3-Clause License",
+  "home_page": "https://github.com/Climdyn/climetlab-eumetnet-postprocessing-benchmark",
+  "download_filename": "climetlab_eumetnet_postprocessing_benchmark-0.3.2.tar.gz",
+  "download_time": "2025-09-26T18:13:05.710780",
+  "package_url": "https://pypi.org/project/climetlab-eumetnet-postprocessing-benchmark/"
+}

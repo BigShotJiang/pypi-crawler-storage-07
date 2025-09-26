@@ -1,0 +1,11 @@
+{
+  "name": "yandex-book-api",
+  "version": "0.1.2",
+  "summary": "Pydantic wrapper for Bookmate API",
+  "author": "stepan163s",
+  "license": "MIT",
+  "home_page": "https://github.com/stepan163s/yandex-book-api",
+  "download_filename": "yandex_book_api-0.1.2.tar.gz",
+  "download_time": "2025-09-26T18:12:44.021811",
+  "package_url": "https://pypi.org/project/yandex-book-api/"
+}

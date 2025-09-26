@@ -1,0 +1,11 @@
+{
+  "name": "deep-quant-lib",
+  "version": "0.1.0",
+  "summary": "A signature-based primal-dual engine for pricing American options.",
+  "author": "Cormac Kinsella",
+  "license": "MIT",
+  "home_page": "https://github.com/c0rmac/deep-quant",
+  "download_filename": "deep_quant_lib-0.1.0.tar.gz",
+  "download_time": "2025-09-26T18:13:14.083397",
+  "package_url": "https://pypi.org/project/deep-quant-lib/"
+}

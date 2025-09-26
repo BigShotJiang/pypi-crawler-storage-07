@@ -1,0 +1,11 @@
+{
+  "name": "tgclients",
+  "version": "0.24.0",
+  "summary": "TextGrid Python client library for textgrid.de repository access.",
+  "author": "Stefan Hynek, Ubbo Veentjer",
+  "license": "LGPL",
+  "home_page": "https://gitlab.gwdg.de/dariah-de/textgridrep/textgrid-python-clients",
+  "download_filename": "tgclients-0.24.0.tar.gz",
+  "download_time": "2025-09-26T18:13:17.682785",
+  "package_url": "https://pypi.org/project/tgclients/"
+}
