@@ -1,11 +1,11 @@
 {
   "name": "serialsrv",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "Serial Port Reader HTTP Service with ABAP integration",
   "author": "opriori - Altay Kireççi",
   "license": null,
   "home_page": "https://github.com/altaykireci/serialsrv",
-  "download_filename": "serialsrv-1.0.3.tar.gz",
-  "download_time": "2025-09-26T15:29:37.955859",
+  "download_filename": "serialsrv-1.0.5.tar.gz",
+  "download_time": "2025-09-26T16:12:14.737182",
   "package_url": "https://pypi.org/project/serialsrv/"
 }

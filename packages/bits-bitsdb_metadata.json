@@ -1,0 +1,11 @@
+{
+  "name": "bits-bitsdb",
+  "version": "1.0.16",
+  "summary": "BITS BITSdb",
+  "author": "Dev Null",
+  "license": null,
+  "home_page": "https://github.com/broadinstitute/bits-bitsdb.git",
+  "download_filename": "bits_bitsdb-1.0.16.tar.gz",
+  "download_time": "2025-09-26T16:12:23.435633",
+  "package_url": "https://pypi.org/project/bits-bitsdb/"
+}

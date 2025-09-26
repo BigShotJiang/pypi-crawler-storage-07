@@ -1,11 +1,11 @@
 {
   "name": "mosaicx",
-  "version": "1.0.10",
+  "version": "1.1.0",
   "summary": "Medical cOmputational Suite for Advanced Intelligent eXtraction",
   "author": null,
   "license": "DUAL LICENSING NOTICE\n        ====================\n        \n        MOSAICX is dual-licensed under the terms of both the GNU Affero General Public License v3.0 (AGPL-3.0) and a Commercial License.\n        \n        OPEN SOURCE LICENSE\n        ===================\n        \n        This software is available under the GNU Affero General Public License v3.0 (AGPL-3.0).\n        \n        Under this license, you are free to use, modify, and distribute this software, provided that:\n        - Any derivative work or application that uses this software must also be open-sourced under AGPL-3.0\n        - If you run this software on a server and provide it as a service, you must make the complete source code of your application (including modifications) available to your users\n        - You must include this license notice and copyright information in all copies\n        \n        For the complete AGPL-3.0 license terms, see LICENSE-AGPL-3.0.txt\n        \n        COMMERCIAL LICENSE\n        ==================\n        \n        If you wish to use this software in a commercial product or service without the open-source requirements of AGPL-3.0, you must obtain a commercial license.\n        \n        Commercial licenses are available from:\n        \n            Zenta GmbH\n            \n            For commercial licensing inquiries, please contact:\n            Email: info@zenta.solutions\n            Subject: MOSAICX Commercial License Request\n        \n        Commercial licensing allows you to:\n        - Use this software in proprietary applications\n        - Distribute applications containing this software without open-source obligations\n        - Customize and modify the software without sharing changes\n        - Receive commercial support and maintenance\n        \n        COPYRIGHT AND ATTRIBUTION\n        ==========================\n        \n        Copyright (c) 2024 DIGITX Lab, Department of Radiology, LMU Munich University Hospital\n        Developed by Lalith Kumar Shiyam Sundar, PhD\n        \n        Commercial licensing managed by Zenta GmbH\n        \n        IMPORTANT NOTICE\n        ================\n        \n        By using this software, you agree to comply with the terms of one of the above licenses.\n        If you are unsure which license applies to your use case, please contact Zenta GmbH for clarification.",
   "home_page": null,
-  "download_filename": "mosaicx-1.0.10.tar.gz",
-  "download_time": "2025-09-26T15:29:06.956234",
+  "download_filename": "mosaicx-1.1.0.tar.gz",
+  "download_time": "2025-09-26T16:12:27.659238",
   "package_url": "https://pypi.org/project/mosaicx/"
 }

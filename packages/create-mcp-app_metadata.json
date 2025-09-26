@@ -1,11 +1,11 @@
 {
   "name": "create-mcp-app",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "CLI tool to bootstrap MCP (Model Context Protocol) server projects",
   "author": "elliot-evno",
   "license": null,
   "home_page": null,
-  "download_filename": "create_mcp_app-1.0.4.tar.gz",
-  "download_time": "2025-09-26T14:30:42.090277",
+  "download_filename": "create_mcp_app-1.0.5.tar.gz",
+  "download_time": "2025-09-26T16:12:04.366083",
   "package_url": "https://pypi.org/project/create-mcp-app/"
 }

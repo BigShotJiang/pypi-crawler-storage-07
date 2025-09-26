@@ -1,0 +1,11 @@
+{
+  "name": "lite-bootstrap",
+  "version": "0.20.0",
+  "summary": "Lite package for bootstrapping new microservices",
+  "author": "Artur Shiriev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lite_bootstrap-0.20.0.tar.gz",
+  "download_time": "2025-09-26T16:11:58.540496",
+  "package_url": "https://pypi.org/project/lite-bootstrap/"
+}

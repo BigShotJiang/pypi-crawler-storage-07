@@ -1,0 +1,11 @@
+{
+  "name": "chik-blockchain",
+  "version": "2.5.6",
+  "summary": "Chik blockchain full node, farmer, timelord, and wallet.",
+  "author": "Mariano Sorgente",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "chik_blockchain-2.5.6.tar.gz",
+  "download_time": "2025-09-26T16:11:56.781627",
+  "package_url": "https://pypi.org/project/chik-blockchain/"
+}

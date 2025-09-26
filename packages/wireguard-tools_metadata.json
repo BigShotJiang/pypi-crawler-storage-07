@@ -1,0 +1,11 @@
+{
+  "name": "wireguard-tools",
+  "version": "0.5.3",
+  "summary": "Pure python reimplementation of wireguard-tools",
+  "author": "Carnegie Mellon University",
+  "license": "MIT",
+  "home_page": "https://github.com/cmusatyalab/wireguard-tools",
+  "download_filename": "wireguard_tools-0.5.3.tar.gz",
+  "download_time": "2025-09-26T16:12:17.676244",
+  "package_url": "https://pypi.org/project/wireguard-tools/"
+}
