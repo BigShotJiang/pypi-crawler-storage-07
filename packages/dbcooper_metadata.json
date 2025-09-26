@@ -1,11 +1,11 @@
 {
   "name": "dbcooper",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "The dbcooper package turns a database connection into a collection of functions, handling logic for keeping track of connections and letting you take advantage of autocompletion when exploring a database.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dbcooper-0.0.7.tar.gz",
-  "download_time": "2025-09-26T18:37:39.154072",
+  "download_filename": "dbcooper-0.0.8.tar.gz",
+  "download_time": "2025-09-26T19:34:31.042367",
   "package_url": "https://pypi.org/project/dbcooper/"
 }

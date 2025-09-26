@@ -1,11 +1,11 @@
 {
   "name": "girder-thumbnails",
-  "version": "3.2.9",
+  "version": "3.2.10",
   "summary": "Generate thumbnails from files.",
   "author": "Kitware, Inc.",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "girder_thumbnails-3.2.9.tar.gz",
-  "download_time": "2025-09-26T19:13:21.871732",
+  "download_filename": "girder_thumbnails-3.2.10.tar.gz",
+  "download_time": "2025-09-26T19:35:08.172509",
   "package_url": "https://pypi.org/project/girder-thumbnails/"
 }

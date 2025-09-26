@@ -1,0 +1,11 @@
+{
+  "name": "fire-opal",
+  "version": "9.0.4",
+  "summary": "Fire Opal Client",
+  "author": "Q-CTRL",
+  "license": "https://q-ctrl.com/terms",
+  "home_page": "https://q-ctrl.com",
+  "download_filename": "fire_opal-9.0.4.tar.gz",
+  "download_time": "2025-09-26T19:34:39.877254",
+  "package_url": "https://pypi.org/project/fire-opal/"
+}

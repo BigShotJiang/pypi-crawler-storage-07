@@ -1,0 +1,11 @@
+{
+  "name": "orionapi",
+  "version": "0.2.3",
+  "summary": "A python interface for the Orion Advisors platform web API",
+  "author": "spencerogden-dsam",
+  "license": null,
+  "home_page": null,
+  "download_filename": "orionapi-0.2.3.tar.gz",
+  "download_time": "2025-09-26T19:34:38.014616",
+  "package_url": "https://pypi.org/project/orionapi/"
+}
