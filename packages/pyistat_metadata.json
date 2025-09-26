@@ -1,11 +1,11 @@
 {
   "name": "pyistat",
-  "version": "1.1.1",
+  "version": "1.1.3",
   "summary": "Pyistat is a friendly module made to easily allow anyone to use Python to search and get datasets from ISTAT APIs. There are two modules: the search module is used to find datasets and gives all the information needed to build a request URL. The get module is used to get data after helping you properly setup the dimensions (the keys, as called by ISTAT). Full documentation available on GitHub: https://github.com/DertoVampi/pyistat",
   "author": "Cosimo Di Martino",
   "license": "MPL-2.0",
   "home_page": null,
-  "download_filename": "pyistat-1.1.1.tar.gz",
-  "download_time": "2025-09-26T11:08:41.935374",
+  "download_filename": "pyistat-1.1.3.tar.gz",
+  "download_time": "2025-09-26T13:36:31.884754",
   "package_url": "https://pypi.org/project/pyistat/"
 }

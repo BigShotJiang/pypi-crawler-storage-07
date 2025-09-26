@@ -1,0 +1,11 @@
+{
+  "name": "frequenz-core",
+  "version": "1.3.0",
+  "summary": "Core utilities to complement Python's standard library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "frequenz_core-1.3.0.tar.gz",
+  "download_time": "2025-09-26T13:36:33.455707",
+  "package_url": "https://pypi.org/project/frequenz-core/"
+}

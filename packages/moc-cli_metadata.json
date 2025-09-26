@@ -1,0 +1,11 @@
+{
+  "name": "moc-cli",
+  "version": "0.11.0",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/cds-astro/cds-moc-rust/tree/main/crates/cli",
+  "download_filename": "moc_cli-0.11.0-py3-none-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-09-26T13:36:03.971924",
+  "package_url": "https://pypi.org/project/moc-cli/"
+}

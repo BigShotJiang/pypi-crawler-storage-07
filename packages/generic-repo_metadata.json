@@ -1,0 +1,11 @@
+{
+  "name": "generic-repo",
+  "version": "2.0.5",
+  "summary": "A powerful, production-ready Python package for DynamoDB operations with repository pattern (sync and async)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "generic_repo-2.0.5.tar.gz",
+  "download_time": "2025-09-26T13:36:18.579762",
+  "package_url": "https://pypi.org/project/generic-repo/"
+}

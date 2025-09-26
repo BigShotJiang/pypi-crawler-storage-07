@@ -1,0 +1,11 @@
+{
+  "name": "oks-cli",
+  "version": "1.16",
+  "summary": null,
+  "author": "Outscale SAS",
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "oks_cli-1.16.tar.gz",
+  "download_time": "2025-09-26T13:36:23.385797",
+  "package_url": "https://pypi.org/project/oks-cli/"
+}

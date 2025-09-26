@@ -1,0 +1,11 @@
+{
+  "name": "nibe",
+  "version": "2.19.0",
+  "summary": "Nibe heatpump communication library",
+  "author": "Jevgeni Kiski",
+  "license": "LGPL 3",
+  "home_page": "https://github.com/yozik04/nibe",
+  "download_filename": "nibe-2.19.0.tar.gz",
+  "download_time": "2025-09-26T13:36:17.355968",
+  "package_url": "https://pypi.org/project/nibe/"
+}

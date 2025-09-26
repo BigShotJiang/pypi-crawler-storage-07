@@ -1,0 +1,11 @@
+{
+  "name": "eflips-depot",
+  "version": "4.14.0",
+  "summary": "Depot Simulation for eFLIPS",
+  "author": "Enrico Lauth",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "eflips_depot-4.14.0.tar.gz",
+  "download_time": "2025-09-26T13:36:30.847781",
+  "package_url": "https://pypi.org/project/eflips-depot/"
+}

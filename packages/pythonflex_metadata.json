@@ -1,11 +1,11 @@
 {
   "name": "pythonflex",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "summary": "pythonFLEX is a benchmarking toolkit for evaluating CRISPR screen results against biological gold standards. The toolkit computes gene-level and complex-level performance metrics, helping researchers systematically assess the biological relevance and resolution of their CRISPR screening data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pythonflex-0.2.2.tar.gz",
-  "download_time": "2025-09-26T12:19:19.154872",
+  "download_filename": "pythonflex-0.2.4.tar.gz",
+  "download_time": "2025-09-26T13:36:05.667114",
   "package_url": "https://pypi.org/project/pythonflex/"
 }

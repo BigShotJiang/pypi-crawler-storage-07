@@ -1,0 +1,11 @@
+{
+  "name": "policy-weaver",
+  "version": "0.3.2",
+  "summary": "Policy Weaver for Microsoft Fabric",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "policy_weaver-0.3.2.tar.gz",
+  "download_time": "2025-09-26T13:36:09.507160",
+  "package_url": "https://pypi.org/project/policy-weaver/"
+}

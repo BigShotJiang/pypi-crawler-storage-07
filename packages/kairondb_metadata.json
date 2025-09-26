@@ -1,0 +1,11 @@
+{
+  "name": "kairondb",
+  "version": "1.0.1",
+  "summary": "A high-performance async Python ORM with Go backend for maximum database performance. Features connection pooling, query caching, migrations, profiling, and comprehensive validation.",
+  "author": "Daniel Giansante",
+  "license": "MIT",
+  "home_page": "https://github.com/DanielGiansante/KaironDB",
+  "download_filename": "kairondb-1.0.1.tar.gz",
+  "download_time": "2025-09-26T13:36:07.339455",
+  "package_url": "https://pypi.org/project/kairondb/"
+}
