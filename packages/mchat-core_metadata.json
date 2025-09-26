@@ -1,0 +1,11 @@
+{
+  "name": "mchat-core",
+  "version": "0.2.3",
+  "summary": "Framework for building multi-agent chat applications with autogen",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mchat_core-0.2.3.tar.gz",
+  "download_time": "2025-09-26T17:28:01.145620",
+  "package_url": "https://pypi.org/project/mchat-core/"
+}

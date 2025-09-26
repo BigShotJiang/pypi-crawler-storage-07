@@ -1,0 +1,11 @@
+{
+  "name": "clanguru",
+  "version": "1.0.0",
+  "summary": "C language utils and tools based on the clang and binutils modules.",
+  "author": "cuinixam",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clanguru-1.0.0.tar.gz",
+  "download_time": "2025-09-26T17:27:32.866241",
+  "package_url": "https://pypi.org/project/clanguru/"
+}

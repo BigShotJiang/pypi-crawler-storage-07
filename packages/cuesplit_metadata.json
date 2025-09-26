@@ -1,0 +1,11 @@
+{
+  "name": "cuesplit",
+  "version": "0.1.0",
+  "summary": "Split and tag cd audio base on cue sheets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cuesplit-0.1.0.tar.gz",
+  "download_time": "2025-09-26T17:27:35.491828",
+  "package_url": "https://pypi.org/project/cuesplit/"
+}
