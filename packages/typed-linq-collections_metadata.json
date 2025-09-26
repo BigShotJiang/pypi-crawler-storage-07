@@ -1,11 +1,11 @@
 {
   "name": "typed-linq-collections",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "A Python LINQ library with full type annotations, lazy evaluation and collection types that are drop in replacements for standard Python collections.",
   "author": "Magnus Lidbom",
   "license": null,
   "home_page": null,
-  "download_filename": "typed_linq_collections-0.0.1.tar.gz",
-  "download_time": "2025-09-26T23:25:41.138776",
+  "download_filename": "typed_linq_collections-0.0.3.tar.gz",
+  "download_time": "2025-09-26T23:47:28.581299",
   "package_url": "https://pypi.org/project/typed-linq-collections/"
 }
