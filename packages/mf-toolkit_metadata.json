@@ -1,0 +1,11 @@
+{
+  "name": "mf-toolkit",
+  "version": "1.1.1",
+  "summary": "A high-performance Python toolkit for the analysis of multifractal time series and complex systems.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mf_toolkit-1.1.1.tar.gz",
+  "download_time": "2025-09-26T18:38:01.230964",
+  "package_url": "https://pypi.org/project/mf-toolkit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "estuaire",
+  "version": "1.0.2",
+  "summary": "Fast marching estuaire solver with ray tracing",
+  "author": "J.-P. Mercier",
+  "license": null,
+  "home_page": null,
+  "download_filename": "estuaire-1.0.2-cp313-cp313-macosx_15_0_arm64.whl",
+  "download_time": "2025-09-26T18:37:38.634538",
+  "package_url": "https://pypi.org/project/estuaire/"
+}
