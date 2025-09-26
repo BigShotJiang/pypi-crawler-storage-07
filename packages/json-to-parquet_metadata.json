@@ -1,0 +1,11 @@
+{
+  "name": "json-to-parquet",
+  "version": "0.1.0",
+  "summary": "Memory-efficient JSON to Parquet converter",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "json_to_parquet-0.1.0-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2025-09-26T20:11:45.136756",
+  "package_url": "https://pypi.org/project/json-to-parquet/"
+}

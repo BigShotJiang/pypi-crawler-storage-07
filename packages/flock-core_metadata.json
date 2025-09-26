@@ -1,0 +1,11 @@
+{
+  "name": "flock-core",
+  "version": "0.4.543",
+  "summary": "Declarative LLM Orchestration at Scale",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flock_core-0.4.543.tar.gz",
+  "download_time": "2025-09-26T20:11:19.078412",
+  "package_url": "https://pypi.org/project/flock-core/"
+}

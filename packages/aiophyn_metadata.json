@@ -1,0 +1,11 @@
+{
+  "name": "aiophyn",
+  "version": "2025.6.1",
+  "summary": "An asynchronous library for Phyn Smart Water devices",
+  "author": "MizterB",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiophyn-2025.6.1.tar.gz",
+  "download_time": "2025-09-26T20:11:39.405632",
+  "package_url": "https://pypi.org/project/aiophyn/"
+}
