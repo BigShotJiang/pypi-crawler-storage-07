@@ -1,11 +1,11 @@
 {
   "name": "hmr-daemon",
-  "version": "0.4.2",
+  "version": "0.4.2.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hmr_daemon-0.4.2.tar.gz",
-  "download_time": "2025-09-26T22:09:29.249317",
+  "download_filename": "hmr_daemon-0.4.2.1.tar.gz",
+  "download_time": "2025-09-26T23:32:28.208887",
   "package_url": "https://pypi.org/project/hmr-daemon/"
 }
