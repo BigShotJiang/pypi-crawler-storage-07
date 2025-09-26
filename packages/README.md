@@ -1,18 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-26T16:51:42.957922
-- **Total Packages**: 89
-- **Total Size**: 22.75 MB
+- **Download Time**: 2025-09-26T17:11:09.545850
+- **Total Packages**: 86
+- **Total Size**: 19.57 MB
 
 ## Packages List
+- myapp-betrand1999
+- ephemeris
+- perplexityai
+- serialsrv
+- pop2net
+- detection-dataset-annotator
+- datajunction
+- datajunction-reflection
+- datajunction-query
+- datajunction-server
+- airbyte-source-facebook-marketing
+- dao-ai
+- isanlp-rst
+- sportsball
+- skypilot-nightly
+- boto3-dataclass
+- boto3-dataclass-acm
+- boto3-dataclass-account
+- boto3-dataclass-accessanalyzer
+- tecton
+- cribl-mgmt-plane
+- ansys-aedt-toolkits-common
+- cohere-compass-sdk
+- rds-proxy-password-rotation
+- crewai
+- luciditycli
+- csvpath
+- ddevdb
+- django-nativemojo
+- bn-configuration
+- policyengine-us
+- unimpeded
+- ryseble
+- juriscraper
+- cpp-linter-hooks
+- extrator-xml-fiscal
+- uniovi-simur-wearablepermed-utils
+- authentik-client
+- ideaweaver-agent
+- sentry-kafka-schemas
+- target-firebase
 - pepystats
 - sqlglot
 - eodag-labextension
 - django-cfg
 - onnx-diagnostic
 - rfd-protocol
-- extrator-xml-fiscal
 - qumulo-api
 - cybrid-api-bank-python
 - cybrid-api-organization-python
@@ -41,7 +81,6 @@
 - nominal-api-protos
 - nominal-api
 - hippius
-- authentik-client
 - pyfibers
 - svc-infra
 - sysnet-attachments-model
@@ -50,48 +89,6 @@
 - abstract-utilities
 - denario_app
 - python-usajobsapi
-- tecton
 - yellowdog-python-examples
 - dissect.target
 - sklekmeans
-- dycw-utilities
-- python3-cyberfusion-queue-support
-- lisaconstants
-- hiti-preproc
-- beaver-db
-- archytas
-- edx-enterprise
-- Anime3rbDL
-- asmc-preparedecoding
-- pyoctomap
-- py-manage-nginx
-- dlt645
-- swellow
-- isocoder
-- persiantools
-- dataforge-sdk
-- truss
-- lib-cli-exit-tools
-- anthropic
-- process-improvement
-- pyreq-lite
-- simplejson
-- chisel
-- devtron-cli
-- vertex-batch
-- hiverge-cli
-- myrio-library
-- phylogenie
-- netron
-- tiffwrite
-- py-lamina
-- gchat-sdk
-- minsearch
-- moduvent
-- graphrag-eval
-- planqk-quantum
-- nomad-media-pip
-- ncatbot
-- x-transformers
-- fipe-python-sdk
-- aind-metadata-extractor
