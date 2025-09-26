@@ -1,0 +1,11 @@
+{
+  "name": "types-maya",
+  "version": "0.2.0",
+  "summary": "External type annotations for Autodesk Maya Python API",
+  "author": "Thibaud Gambier",
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_maya-0.2.0.tar.gz",
+  "download_time": "2025-09-26T14:47:38.875112",
+  "package_url": "https://pypi.org/project/types-maya/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tokenizer",
+  "version": "3.5.2",
+  "summary": "A tokenizer for Icelandic text",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tokenizer-3.5.2.tar.gz",
+  "download_time": "2025-09-26T14:47:42.201033",
+  "package_url": "https://pypi.org/project/tokenizer/"
+}

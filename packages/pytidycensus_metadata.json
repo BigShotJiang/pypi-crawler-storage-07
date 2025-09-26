@@ -1,11 +1,11 @@
 {
   "name": "pytidycensus",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Python interface to US Census Bureau APIs with LLM, pandas and GeoPandas support",
   "author": "Michael Mann mmann1123@gwu.edu",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytidycensus-1.0.1.tar.gz",
-  "download_time": "2025-09-26T14:08:55.717400",
+  "download_filename": "pytidycensus-1.0.2.tar.gz",
+  "download_time": "2025-09-26T14:47:55.333827",
   "package_url": "https://pypi.org/project/pytidycensus/"
 }

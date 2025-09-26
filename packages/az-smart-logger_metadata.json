@@ -1,0 +1,11 @@
+{
+  "name": "az-smart-logger",
+  "version": "1.0.5",
+  "summary": "Smart Logger library for Python projects with FastAPI, Flask, and Django support",
+  "author": "Shahabaz Alam",
+  "license": "MIT",
+  "home_page": "https://github.com/ShahabazAlam/smart-logger",
+  "download_filename": "az_smart_logger-1.0.5.tar.gz",
+  "download_time": "2025-09-26T14:47:18.043187",
+  "package_url": "https://pypi.org/project/az-smart-logger/"
+}
