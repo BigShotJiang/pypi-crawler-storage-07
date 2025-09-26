@@ -1,0 +1,11 @@
+{
+  "name": "gcl-certbot-plugin",
+  "version": "0.0.3",
+  "summary": "Plugin for certbot to allow dns-01 acme checks in letsencrypt.",
+  "author": "Genesis Corporation",
+  "license": null,
+  "home_page": "https://github.com/infraguys/gcl_certbot_plugin",
+  "download_filename": "gcl_certbot_plugin-0.0.3.tar.gz",
+  "download_time": "2025-09-26T19:22:27.902307",
+  "package_url": "https://pypi.org/project/gcl-certbot-plugin/"
+}

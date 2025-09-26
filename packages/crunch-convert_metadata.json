@@ -1,0 +1,11 @@
+{
+  "name": "crunch-convert",
+  "version": "0.2.0",
+  "summary": "crunch-convert - Conversion module for the CrunchDAO Platform",
+  "author": "Enzo CACERES",
+  "license": null,
+  "home_page": "https://github.com/crunchdao/crunch-convert",
+  "download_filename": "crunch_convert-0.2.0.tar.gz",
+  "download_time": "2025-09-26T19:22:42.507185",
+  "package_url": "https://pypi.org/project/crunch-convert/"
+}

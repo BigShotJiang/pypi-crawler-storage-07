@@ -1,0 +1,11 @@
+{
+  "name": "boto3-dataclass-bedrock-agent-runtime",
+  "version": "1.40.0",
+  "summary": "Dataclass for boto3 bedrock_agent_runtime.",
+  "author": "Sanhe Hu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "boto3_dataclass_bedrock_agent_runtime-1.40.0-py3-none-any.whl",
+  "download_time": "2025-09-26T19:22:24.687396",
+  "package_url": "https://pypi.org/project/boto3-dataclass-bedrock-agent-runtime/"
+}

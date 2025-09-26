@@ -1,11 +1,11 @@
 {
   "name": "upas",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "summary": "Universal Protocol Analysis & Simulation Framework",
   "author": "BitsDiver Team",
   "license": "MIT",
   "home_page": "https://github.com/BitsDiver/upas-cli",
-  "download_filename": "upas-1.0.11.tar.gz",
-  "download_time": "2025-09-26T19:12:54.274625",
+  "download_filename": "upas-1.0.12.tar.gz",
+  "download_time": "2025-09-26T19:22:22.542154",
   "package_url": "https://pypi.org/project/upas/"
 }

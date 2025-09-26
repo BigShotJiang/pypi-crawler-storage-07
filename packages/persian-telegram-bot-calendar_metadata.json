@@ -1,0 +1,11 @@
+{
+  "name": "persian-telegram-bot-calendar",
+  "version": "1.0.5",
+  "summary": "Python inline calendar for telegram bots with persian jalali date support",
+  "author": "Artem Bakhanov - Mohammad",
+  "license": "MIT",
+  "home_page": "https://github.com/mbhesam/python-telegram-bot-calendar",
+  "download_filename": "persian_telegram_bot_calendar-1.0.5.tar.gz",
+  "download_time": "2025-09-26T19:22:41.411616",
+  "package_url": "https://pypi.org/project/persian-telegram-bot-calendar/"
+}
