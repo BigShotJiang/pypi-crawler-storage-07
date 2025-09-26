@@ -1,11 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-26T20:31:15.888513
-- **Total Packages**: 84
-- **Total Size**: 13.68 MB
+- **Download Time**: 2025-09-26T20:40:53.336724
+- **Total Packages**: 91
+- **Total Size**: 25.65 MB
 
 ## Packages List
+- girder-thumbnails
+- girder-terms
+- girder-sentry
+- girder-readme
+- girder-oauth
+- girder-ldap
+- girder-jobs
+- girder-item-licenses
+- girder-homepage
+- girder-hashsum-download
+- localstack-core
+- girder-gravatar
+- girder-google-analytics
+- girder-download-statistics
+- girder-dicom-viewer
+- girder-autojoin
+- girder-authorized-upload
+- girder-audit-logs
+- girder
+- cxbuilder-aws-lex
+- ad98h21798dhuiqsjda
+- mara-client
+- cjm-fasthtml-daisyui
+- fraim
+- ftp-core-bindings-pyo3
+- ftp-core
+- azureml-metrics
+- azureml-evaluate-mlflow
+- azureml-acft-multimodal-components
+- azureml-acft-image-components
+- azureml-acft-contrib-hf-nlp
+- azureml-acft-contrib-hf-diffusion
+- azureml-acft-common-components
+- azureml-acft-accelerator
+- breez-sdk-spark
+- agatha-protobuf
+- checkedframe
+- bot-vision-suite
+- svc-infra
+- cognite-toolkit
+- asmc-preparedecoding
+- authentik-client
 - layrz-forms
 - boto3-dataclass-redshift
 - boto3-dataclass-rds-data
@@ -42,8 +84,6 @@
 - thds.adls
 - boto3-dataclass-codebuild
 - ouverture-firefox
-- ftp-core-bindings-pyo3
-- ftp-core
 - paymcp
 - layrz-sdk
 - physiboss-models
@@ -57,36 +97,3 @@
 - cybrid-api-organization-python
 - structlog-config
 - cybrid-api-bank-python
-- cybrid-api-id-python
-- hyku-ingest
-- dragonfly-energy
-- dragonfly-radiance
-- flock-core
-- dbc
-- datajunction
-- datajunction-reflection
-- datajunction-query
-- datajunction-server
-- pydataknot
-- authentik-client
-- jdaviz
-- mcp-4get
-- agatha-protobuf
-- kagent-langgraph
-- kagent-core
-- trimesh
-- kagent-adk
-- wool
-- dazllm
-- increase
-- modxpy
-- aenet-gpr
-- honeybee-radiance-postprocess
-- pj-bridge
-- prism-blanklines
-- pyportainer
-- upas
-- couchdb-cluster-admin
-- grooveshop-django-api
-- fw-file-rs
-- pygpt-net

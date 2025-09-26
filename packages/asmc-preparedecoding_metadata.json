@@ -1,11 +1,11 @@
 {
   "name": "asmc-preparedecoding",
-  "version": "2.2.4",
+  "version": "2.2.5",
   "summary": "Prepare decoding quantities for ASMC & FastSMC",
   "author": "PalamaraLab (https://palamaralab.github.io/)",
   "license": null,
   "home_page": null,
-  "download_filename": "asmc_preparedecoding-2.2.4-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2025-09-26T16:36:10.261452",
+  "download_filename": "asmc_preparedecoding-2.2.5-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-09-26T20:40:25.350397",
   "package_url": "https://pypi.org/project/asmc-preparedecoding/"
 }

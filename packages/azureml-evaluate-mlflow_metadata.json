@@ -1,0 +1,11 @@
+{
+  "name": "azureml-evaluate-mlflow",
+  "version": "0.0.81",
+  "summary": "Contains the integration code of AzureML Evaluate with Mlflow.",
+  "author": "Microsoft Corp",
+  "license": "Proprietary https://aka.ms/azureml-preview-sdk-license ",
+  "home_page": null,
+  "download_filename": "azureml_evaluate_mlflow-0.0.81-py3-none-any.whl",
+  "download_time": "2025-09-26T20:40:18.170761",
+  "package_url": "https://pypi.org/project/azureml-evaluate-mlflow/"
+}
