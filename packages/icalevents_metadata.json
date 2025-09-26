@@ -1,0 +1,11 @@
+{
+  "name": "icalevents",
+  "version": "0.3.1",
+  "summary": "Simple Python 3 library to download, parse and query iCal sources.",
+  "author": "Martin Eigenmann",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "icalevents-0.3.1.tar.gz",
+  "download_time": "2025-09-26T18:50:36.929259",
+  "package_url": "https://pypi.org/project/icalevents/"
+}

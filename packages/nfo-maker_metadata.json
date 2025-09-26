@@ -1,0 +1,11 @@
+{
+  "name": "nfo-maker",
+  "version": "0.1.0",
+  "summary": "Retro NFO/keygen-style banner generator (CLI + library).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nfo_maker-0.1.0.tar.gz",
+  "download_time": "2025-09-26T18:50:34.266079",
+  "package_url": "https://pypi.org/project/nfo-maker/"
+}
