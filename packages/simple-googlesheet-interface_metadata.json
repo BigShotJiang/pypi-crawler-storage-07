@@ -1,11 +1,11 @@
 {
   "name": "simple-googlesheet-interface",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "summary": "simple_gsheet_interface: Module to work with the most simple version with Google Sheets: READ, WRITE and CLEAR data from an existing spreadsheet of Google",
   "author": "Robert Rijnbeek",
   "license": null,
   "home_page": "https://github.com/R-Rijnbeek/simple_googlesheet_interface",
-  "download_filename": "simple_googlesheet_interface-0.0.4.tar.gz",
-  "download_time": "2025-09-26T11:47:04.713829",
+  "download_filename": "simple_googlesheet_interface-0.0.7.tar.gz",
+  "download_time": "2025-09-26T12:19:10.137337",
   "package_url": "https://pypi.org/project/simple-googlesheet-interface/"
 }

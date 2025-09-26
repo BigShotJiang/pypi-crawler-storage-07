@@ -1,0 +1,11 @@
+{
+  "name": "ae-templates",
+  "version": "0.3.1",
+  "summary": "ae namespace module portion templates: ae.templates",
+  "author": "AndiEcker",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://gitlab.com/ae-group/ae_templates",
+  "download_filename": "ae_templates-0.3.1.tar.gz",
+  "download_time": "2025-09-26T12:19:23.365859",
+  "package_url": "https://pypi.org/project/ae-templates/"
+}

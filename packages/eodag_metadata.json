@@ -1,0 +1,11 @@
+{
+  "name": "eodag",
+  "version": "3.9.0",
+  "summary": "Earth Observation Data Access Gateway",
+  "author": "CS GROUP - France",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/CS-SI/eodag",
+  "download_filename": "eodag-3.9.0.tar.gz",
+  "download_time": "2025-09-26T12:19:03.291925",
+  "package_url": "https://pypi.org/project/eodag/"
+}

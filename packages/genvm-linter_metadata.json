@@ -1,0 +1,11 @@
+{
+  "name": "genvm-linter",
+  "version": "0.1.0",
+  "summary": "A Python linter for GenLayer GenVM intelligent contracts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "genvm_linter-0.1.0.tar.gz",
+  "download_time": "2025-09-26T12:19:29.098818",
+  "package_url": "https://pypi.org/project/genvm-linter/"
+}

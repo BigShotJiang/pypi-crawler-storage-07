@@ -1,0 +1,11 @@
+{
+  "name": "bw-simapro-csv",
+  "version": "0.4.3",
+  "summary": "Utility library to read and parse SimaPro CSV LCI and LCIA files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bw_simapro_csv-0.4.3.tar.gz",
+  "download_time": "2025-09-26T12:19:05.962139",
+  "package_url": "https://pypi.org/project/bw-simapro-csv/"
+}

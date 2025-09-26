@@ -1,0 +1,11 @@
+{
+  "name": "spsdk-keyfactor",
+  "version": "0.4.1",
+  "summary": "SPSDK Signature Provider plugin using Keyfactor's API",
+  "author": "NXP",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "spsdk_keyfactor-0.4.1.tar.gz",
+  "download_time": "2025-09-26T12:18:53.862805",
+  "package_url": "https://pypi.org/project/spsdk-keyfactor/"
+}

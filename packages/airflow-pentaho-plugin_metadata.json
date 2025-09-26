@@ -1,0 +1,11 @@
+{
+  "name": "airflow-pentaho-plugin",
+  "version": "1.2.3",
+  "summary": null,
+  "author": "Damavis",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/damavis/airflow-pentaho-plugin",
+  "download_filename": "airflow_pentaho_plugin-1.2.3.tar.gz",
+  "download_time": "2025-09-26T12:19:18.115832",
+  "package_url": "https://pypi.org/project/airflow-pentaho-plugin/"
+}

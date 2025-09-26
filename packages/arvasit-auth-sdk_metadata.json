@@ -1,11 +1,11 @@
 {
   "name": "arvasit-auth-sdk",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "A comprehensive authentication SDK for Python with Pydantic support. Features include user registration, login, 2FA, password management, and secure token handling.",
   "author": "pratik",
   "license": null,
   "home_page": null,
-  "download_filename": "arvasit_auth_sdk-0.1.5.tar.gz",
-  "download_time": "2025-09-26T11:08:53.589642",
+  "download_filename": "arvasit_auth_sdk-0.1.7.tar.gz",
+  "download_time": "2025-09-26T12:19:36.385876",
   "package_url": "https://pypi.org/project/arvasit-auth-sdk/"
 }

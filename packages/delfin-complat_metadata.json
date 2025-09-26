@@ -1,0 +1,11 @@
+{
+  "name": "delfin-complat",
+  "version": "1.0.2",
+  "summary": "Automated ORCA, xTB and CREST workflow for predicting preferred spin states and associated redox potentials.",
+  "author": "Maximilian Hartmann",
+  "license": null,
+  "home_page": null,
+  "download_filename": "delfin_complat-1.0.2.tar.gz",
+  "download_time": "2025-09-26T12:19:32.234816",
+  "package_url": "https://pypi.org/project/delfin-complat/"
+}
