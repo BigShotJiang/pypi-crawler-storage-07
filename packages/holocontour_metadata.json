@@ -1,0 +1,11 @@
+{
+  "name": "holocontour",
+  "version": "0.1.6",
+  "summary": "A minimalist toolkit for holographic plankton image segmentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "holocontour-0.1.6.tar.gz",
+  "download_time": "2025-09-26T13:01:49.748049",
+  "package_url": "https://pypi.org/project/holocontour/"
+}

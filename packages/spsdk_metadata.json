@@ -1,0 +1,11 @@
+{
+  "name": "spsdk",
+  "version": "3.3.0",
+  "summary": "Open Source Secure Provisioning SDK for NXP MCU/MPU",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "spsdk-3.3.0.tar.gz",
+  "download_time": "2025-09-26T13:01:28.570079",
+  "package_url": "https://pypi.org/project/spsdk/"
+}

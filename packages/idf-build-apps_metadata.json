@@ -1,0 +1,11 @@
+{
+  "name": "idf-build-apps",
+  "version": "2.13.0",
+  "summary": "Tools for building ESP-IDF related apps.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "idf_build_apps-2.13.0.tar.gz",
+  "download_time": "2025-09-26T13:01:23.736393",
+  "package_url": "https://pypi.org/project/idf-build-apps/"
+}
