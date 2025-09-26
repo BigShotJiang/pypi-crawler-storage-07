@@ -1,0 +1,11 @@
+{
+  "name": "axis-vapix",
+  "version": "0.1.4",
+  "summary": "Library for interacting with the Axis VAPIX API",
+  "author": "Dark Decoy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "axis_vapix-0.1.4.tar.gz",
+  "download_time": "2025-09-26T21:32:28.326807",
+  "package_url": "https://pypi.org/project/axis-vapix/"
+}
