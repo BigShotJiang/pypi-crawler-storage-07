@@ -1,0 +1,11 @@
+{
+  "name": "aemet-mcp",
+  "version": "0.3.1",
+  "summary": "AEMET API integration with MCP (Model Context Protocol)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aemet_mcp-0.3.1.tar.gz",
+  "download_time": "2025-09-26T21:08:54.384331",
+  "package_url": "https://pypi.org/project/aemet-mcp/"
+}

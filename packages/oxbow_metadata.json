@@ -1,0 +1,11 @@
+{
+  "name": "oxbow",
+  "version": "0.4.2",
+  "summary": "Read genomic file formats into data frames and more.",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "oxbow-0.4.2.tar.gz",
+  "download_time": "2025-09-26T21:08:52.797730",
+  "package_url": "https://pypi.org/project/oxbow/"
+}
