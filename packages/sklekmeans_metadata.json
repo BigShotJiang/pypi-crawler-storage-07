@@ -1,0 +1,11 @@
+{
+  "name": "sklekmeans",
+  "version": "0.1.0",
+  "summary": "Equilibrium K-Means (EKMeans) clustering algorithms compatible with scikit-learn",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "sklekmeans-0.1.0.tar.gz",
+  "download_time": "2025-09-26T15:29:16.345208",
+  "package_url": "https://pypi.org/project/sklekmeans/"
+}

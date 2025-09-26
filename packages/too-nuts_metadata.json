@@ -1,0 +1,11 @@
+{
+  "name": "too-nuts",
+  "version": "0.2.post1",
+  "summary": "Program to parse through neutrino source catalogs and select promising candidates to perform follow-up observations",
+  "author": "EUSO-SPB2 ToO team",
+  "license": "BSD-3-Clause-Clear",
+  "home_page": "https://jem-euso.gitlab.io/euso-spb2/too/too-nuts",
+  "download_filename": "too_nuts-0.2.post1.tar.gz",
+  "download_time": "2025-09-26T15:29:02.039821",
+  "package_url": "https://pypi.org/project/too-nuts/"
+}

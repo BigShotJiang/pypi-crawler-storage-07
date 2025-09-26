@@ -1,0 +1,11 @@
+{
+  "name": "aliyun-python-sdk-dypnsapi",
+  "version": "1.1.13",
+  "summary": "The dypnsapi module of Aliyun Python sdk.",
+  "author": "Aliyun",
+  "license": "Apache",
+  "home_page": "http://develop.aliyun.com/sdk/python",
+  "download_filename": "aliyun-python-sdk-dypnsapi-1.1.13.tar.gz",
+  "download_time": "2025-09-26T15:29:31.343724",
+  "package_url": "https://pypi.org/project/aliyun-python-sdk-dypnsapi/"
+}
