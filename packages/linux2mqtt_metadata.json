@@ -1,0 +1,11 @@
+{
+  "name": "linux2mqtt",
+  "version": "1.6.0",
+  "summary": "Send your linux stats and and events to mqtt and discovery them in home assistant.",
+  "author": "Adam Cooper",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "linux2mqtt-1.6.0.tar.gz",
+  "download_time": "2025-09-26T22:09:20.286342",
+  "package_url": "https://pypi.org/project/linux2mqtt/"
+}

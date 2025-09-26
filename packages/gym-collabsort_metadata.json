@@ -1,0 +1,11 @@
+{
+  "name": "gym-collabsort",
+  "version": "0.1.4",
+  "summary": "A Gymnasium environment for training agents on a collaborative sorting task",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gym_collabsort-0.1.4.tar.gz",
+  "download_time": "2025-09-26T22:09:27.143704",
+  "package_url": "https://pypi.org/project/gym-collabsort/"
+}

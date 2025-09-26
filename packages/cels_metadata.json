@@ -1,0 +1,11 @@
+{
+  "name": "cels",
+  "version": "0.4.1",
+  "summary": "Patch your YAML and JSON files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cels-0.4.1.tar.gz",
+  "download_time": "2025-09-26T22:09:29.797241",
+  "package_url": "https://pypi.org/project/cels/"
+}

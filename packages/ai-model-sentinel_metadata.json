@@ -1,0 +1,11 @@
+{
+  "name": "ai-model-sentinel",
+  "version": "1.0.0",
+  "summary": "Military Grade Security Scanner for AI Models and Python Files",
+  "author": "Saleh Asaad Abughabraa",
+  "license": "MIT",
+  "home_page": "https://github.com/SalehAsaadAbughabraa/ai-model-sentinel",
+  "download_filename": "ai_model_sentinel-1.0.0.tar.gz",
+  "download_time": "2025-09-26T22:09:11.734640",
+  "package_url": "https://pypi.org/project/ai-model-sentinel/"
+}
