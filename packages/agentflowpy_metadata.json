@@ -1,0 +1,11 @@
+{
+  "name": "agentflowpy",
+  "version": "1.0.0",
+  "summary": "Practial module to build AI agents with context management and step-based execution.",
+  "author": null,
+  "license": "NonCommercial No-AI License",
+  "home_page": null,
+  "download_filename": "agentflowpy-1.0.0.tar.gz",
+  "download_time": "2025-09-26T10:32:17.016413",
+  "package_url": "https://pypi.org/project/agentflowpy/"
+}

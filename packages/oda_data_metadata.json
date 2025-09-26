@@ -1,0 +1,11 @@
+{
+  "name": "oda_data",
+  "version": "2.2.1",
+  "summary": "A python package to work with Official Development Assistance data from the OECD DAC.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "oda_data-2.2.1.tar.gz",
+  "download_time": "2025-09-26T10:32:12.843087",
+  "package_url": "https://pypi.org/project/oda_data/"
+}

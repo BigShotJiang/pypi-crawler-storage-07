@@ -1,0 +1,11 @@
+{
+  "name": "pints",
+  "version": "0.5.1",
+  "summary": "Probabilistic Inference in Noisy Time-Series",
+  "author": null,
+  "license": "BSD 3-clause license",
+  "home_page": "https://github.com/pints-team/pints",
+  "download_filename": "pints-0.5.1.tar.gz",
+  "download_time": "2025-09-26T10:31:57.578093",
+  "package_url": "https://pypi.org/project/pints/"
+}

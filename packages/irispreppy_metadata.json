@@ -1,0 +1,11 @@
+{
+  "name": "irispreppy",
+  "version": "3.0.1",
+  "summary": "For radiometric calibration and point spread fcuntion deconvolution of IRIS spsetcrograph data",
+  "author": "Aaron W. Peat",
+  "license": "MIT",
+  "home_page": "https://github.com/OfAaron3/irispreppy",
+  "download_filename": "irispreppy-3.0.1.tar.gz",
+  "download_time": "2025-09-26T10:32:02.324274",
+  "package_url": "https://pypi.org/project/irispreppy/"
+}
