@@ -1,0 +1,11 @@
+{
+  "name": "jVMC",
+  "version": "1.5.8",
+  "summary": "jVMC: Versatile and performant variational Monte Carlo",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "jvmc-1.5.8.tar.gz",
+  "download_time": "2025-09-26T19:13:52.827961",
+  "package_url": "https://pypi.org/project/jVMC/"
+}

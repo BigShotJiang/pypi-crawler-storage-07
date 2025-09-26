@@ -1,0 +1,11 @@
+{
+  "name": "cocorum",
+  "version": "2.12.0",
+  "summary": "An unofficial Python wrapper for the Rumble Live Stream API v1.0 (beta)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cocorum-2.12.0.tar.gz",
+  "download_time": "2025-09-26T19:13:15.022958",
+  "package_url": "https://pypi.org/project/cocorum/"
+}

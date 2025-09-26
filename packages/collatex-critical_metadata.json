@@ -1,0 +1,11 @@
+{
+  "name": "collatex-critical",
+  "version": "0.1.0",
+  "summary": "Critical edition enhancements for CollateX with footnote apparatus and transliterations",
+  "author": "Dr. Dhaval Patel",
+  "license": null,
+  "home_page": "https://github.com/drdhaval2785/collatex-critical",
+  "download_filename": "collatex_critical-0.1.0.tar.gz",
+  "download_time": "2025-09-26T19:13:40.411657",
+  "package_url": "https://pypi.org/project/collatex-critical/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "meowmx",
+  "version": "0.1.1",
+  "summary": "Managed Event Orchestration With Multiple eXecutors",
+  "author": "Tim Simpson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "meowmx-0.1.1.tar.gz",
+  "download_time": "2025-09-26T19:13:50.499844",
+  "package_url": "https://pypi.org/project/meowmx/"
+}
