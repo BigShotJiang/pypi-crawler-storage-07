@@ -1,0 +1,11 @@
+{
+  "name": "mota",
+  "version": "0.1.1",
+  "summary": "A Comprehensive LLM API Interaction Tool",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "mota-0.1.1.tar.gz",
+  "download_time": "2025-09-26T20:30:27.377962",
+  "package_url": "https://pypi.org/project/mota/"
+}

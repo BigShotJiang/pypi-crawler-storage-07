@@ -1,0 +1,11 @@
+{
+  "name": "paymcp",
+  "version": "0.2.0",
+  "summary": "Provider-agnostic payment layer for MCP (Model Context Protocol) tools and agents.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "paymcp-0.2.0.tar.gz",
+  "download_time": "2025-09-26T20:30:46.547267",
+  "package_url": "https://pypi.org/project/paymcp/"
+}

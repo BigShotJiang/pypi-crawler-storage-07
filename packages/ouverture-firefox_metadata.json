@@ -1,0 +1,11 @@
+{
+  "name": "ouverture-firefox",
+  "version": "1.0.0",
+  "summary": "Un package d ouverture de firefox qu une seule fois",
+  "author": "emmanuel julien",
+  "license": null,
+  "home_page": "https://github.com/emmanuel-julien/ouverture_firefox",
+  "download_filename": "ouverture_firefox-1.0.0.tar.gz",
+  "download_time": "2025-09-26T20:30:44.576129",
+  "package_url": "https://pypi.org/project/ouverture-firefox/"
+}

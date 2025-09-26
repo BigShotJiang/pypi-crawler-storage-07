@@ -1,0 +1,11 @@
+{
+  "name": "structlog-config",
+  "version": "0.4.2",
+  "summary": "A comprehensive structlog configuration with sensible defaults for development and production environments, featuring context management, exception formatting, and path prettification.",
+  "author": "Michael Bianco",
+  "license": null,
+  "home_page": null,
+  "download_filename": "structlog_config-0.4.2.tar.gz",
+  "download_time": "2025-09-26T20:30:54.855426",
+  "package_url": "https://pypi.org/project/structlog-config/"
+}

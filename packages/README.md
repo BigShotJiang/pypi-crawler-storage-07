@@ -1,17 +1,68 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-26T20:12:03.817369
-- **Total Packages**: 86
-- **Total Size**: 42.55 MB
+- **Download Time**: 2025-09-26T20:31:15.888513
+- **Total Packages**: 84
+- **Total Size**: 13.68 MB
 
 ## Packages List
+- layrz-forms
+- boto3-dataclass-redshift
+- boto3-dataclass-rds-data
+- boto3-dataclass-organizations
+- doweb
+- boto3-dataclass-opensearchserverless
+- boto3-dataclass-opensearch
+- boto3-dataclass-logs
+- boto3-dataclass-kms
+- mota
+- boto3-dataclass-kinesis
+- boto3-dataclass-glue
+- whitepossum
+- serialsrv
+- boto3-dataclass-firehose
+- boto3-dataclass-emr
+- spotifywebapipython
+- boto3-dataclass-eks
+- boto3-dataclass-efs
+- boto3-dataclass-ecs
+- tree-sitter-t32
+- boto3-dataclass-ecr
+- boto3-dataclass-ebs
+- boto3-dataclass-codepipeline
+- standardbots
+- boto3-dataclass-codedeploy
+- shub-workflow
+- boto3-dataclass-codecommit
+- thds.atacama
+- thds.mops
+- arrakis
+- thds.humenc
+- thds.core
+- thds.adls
+- boto3-dataclass-codebuild
+- ouverture-firefox
+- ftp-core-bindings-pyo3
+- ftp-core
+- paymcp
+- layrz-sdk
+- physiboss-models
+- pytorch-bsf
+- lbt-dragonfly
+- supertable
+- turbopdf
+- cartography
+- lbt-honeybee
+- pyqrackising
+- cybrid-api-organization-python
+- structlog-config
+- cybrid-api-bank-python
+- cybrid-api-id-python
 - hyku-ingest
 - dragonfly-energy
 - dragonfly-radiance
 - flock-core
 - dbc
-- lbt-honeybee
 - datajunction
 - datajunction-reflection
 - datajunction-query
@@ -26,10 +77,7 @@
 - trimesh
 - kagent-adk
 - wool
-- supertable
 - dazllm
-- ftp-core-bindings-pyo3
-- ftp-core
 - increase
 - modxpy
 - aenet-gpr
@@ -39,56 +87,6 @@
 - pyportainer
 - upas
 - couchdb-cluster-admin
-- standardbots
 - grooveshop-django-api
 - fw-file-rs
 - pygpt-net
-- turbopdf
-- canfar
-- etextedit
-- methodwebscan
-- aiophyn
-- kuzu
-- dragonfly-core
-- whitepossum
-- terra-scientific-pipelines-service-api-client
-- dtpyfw
-- honeybee-energy
-- serialsrv
-- fastapi-factory-utilities
-- honeybee-radiance
-- arthur-common
-- json-to-parquet
-- amulety
-- jmstate
-- minio
-- wazuhevtx
-- gradio-client
-- everysk-lib
-- svc-infra
-- khalil-zaidi-calculator
-- pandas-stubs
-- segscript
-- python-ics
-- git-pass-helper
-- shub-workflow
-- neosqlite
-- materialgui
-- pulumi
-- cmomy
-- scifem
-- lionagi
-- LandsatL2C2
-- redditadmin
-- jax-healpy
-- airbyte-cdk
-- snadboy-ssh-docker
-- siga-mcp
-- sahi
-- plotmath
-- redis-benchmarks-specification
-- honeybee-core
-- lensecam
-- osmosis-ai
-- glean-sdk
-- Cirilla
