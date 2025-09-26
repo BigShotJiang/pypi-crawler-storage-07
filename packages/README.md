@@ -1,20 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-26T17:28:04.726913
-- **Total Packages**: 83
-- **Total Size**: 15.55 MB
+- **Download Time**: 2025-09-26T17:38:54.862643
+- **Total Packages**: 79
+- **Total Size**: 11.25 MB
 
 ## Packages List
+- jupyter-matlab-proxy
+- ftp-core-bindings-pyo3
+- llm-katan
+- toolos
+- fsai-proto-specs
+- turbopdf
+- fuzzylinguistics
+- etextedit
+- tecton
+- authentik-client
+- programgarden-finance
+- scikit-topt
+- virtme-ng
+- hiti-preproc
+- cuvette
+- epoch-protos
+- avalan
+- myapp-betrand1999
+- reprompt
+- yoyodyne
+- azureml-assets
+- tecton-runtime
+- arq-base-python
+- pyfunnel
+- matlab-proxy
+- agentmake
+- finstream
+- hyperbrowser
+- django-db-views
+- cdpy
+- pmdb_utils
 - a003558
+- scheduletools
+- alxhttp
+- pepystats
+- yta-stock-common
+- asynctoolspy
+- pymolfold
+- MorphoTreeViz
+- syntax-parser-prototype
+- bagel
+- analyst-klondike
+- programgarden-core
+- lock-and-key
+- abov3-ai
+- pylibbpf
+- analysistoolbox
+- redis
 - mypackage-sample
 - detdevlib-models
 - pawtorch
 - apolo-app-types
 - properpath
-- authentik-client
 - bafser-tgapi
-- hiti-preproc
 - tg-bot-screen
 - moose-lib
 - pythonbpf
@@ -25,7 +70,6 @@
 - hyper-sdk
 - craft-parts
 - escape-nt-command-line-argument
-- myapp-betrand1999
 - rolfedh-doc-utils
 - clamnibs
 - psaiops
@@ -36,56 +80,8 @@
 - abstract-webtools
 - alibabacloud-csas20230120
 - alibabacloud-sas20181203
-- yta-stock-common
 - cuesplit
 - napari-sphinx-theme
 - gancho
 - alibabacloud-dms-enterprise20181101
 - futurehouse-client
-- pyoctomap
-- boto3-dataclass-application-insights
-- boto3-dataclass-application-autoscaling
-- nionswift-instrumentation
-- boto3-dataclass-appintegrations
-- baml-claude-code
-- boto3-dataclass-appflow
-- boto3-dataclass-appfabric
-- boto3-dataclass-appconfigdata
-- boto3-dataclass-appconfig
-- scikeo
-- boto3-dataclass-apigatewayv2
-- aptx-activation
-- kbmc
-- boto3-dataclass-apigatewaymanagementapi
-- boto3-dataclass-apigateway
-- boto3-dataclass-amplifyuibuilder
-- boto3-dataclass-amplifybackend
-- boto3-dataclass-amplify
-- boto3-dataclass-amp
-- boto3-dataclass-aiops
-- boto3-dataclass-acm-pca
-- cliyaml
-- flagbit
-- toolos
-- extrator-xml-fiscal
-- svc-infra
-- lightbeam
-- ddevdb
-- cmomy
-- conson-xp
-- cerebrium
-- zerohertzLib
-- musicmaster
-- quantconnect-stubs
-- pydeephaven
-- qumulo-api
-- deephaven-core
-- lock-and-key
-- fw-file-rs
-- mchat-core
-- boto3-dataclass
-- boto3-dataclass-acm
-- boto3-dataclass-account
-- red-tidegear
-- boto3-dataclass-accessanalyzer
-- Sandroid

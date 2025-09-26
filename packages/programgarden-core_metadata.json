@@ -1,0 +1,11 @@
+{
+  "name": "programgarden-core",
+  "version": "0.1.1",
+  "summary": "자동화매매 클래스 상속, 로그, 환경 등의 핵심이되는 오픈소스",
+  "author": "프로그램동산",
+  "license": null,
+  "home_page": null,
+  "download_filename": "programgarden_core-0.1.1.tar.gz",
+  "download_time": "2025-09-26T17:38:31.587999",
+  "package_url": "https://pypi.org/project/programgarden-core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "epoch-protos",
+  "version": "2.0.8",
+  "summary": "Protocol Buffer definitions for EpochFolio models",
+  "author": "EpochLab",
+  "license": "MIT",
+  "home_page": "https://github.com/epochlab/epoch-protos",
+  "download_filename": "epoch_protos-2.0.8.tar.gz",
+  "download_time": "2025-09-26T17:38:14.276426",
+  "package_url": "https://pypi.org/project/epoch-protos/"
+}

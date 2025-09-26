@@ -1,0 +1,11 @@
+{
+  "name": "finstream",
+  "version": "0.0.3",
+  "summary": "finstream Python SDK",
+  "author": null,
+  "license": "See root LICENSE.\n        \n        ",
+  "home_page": null,
+  "download_filename": "finstream-0.0.3.tar.gz",
+  "download_time": "2025-09-26T17:38:21.064591",
+  "package_url": "https://pypi.org/project/finstream/"
+}

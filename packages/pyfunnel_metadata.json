@@ -1,0 +1,11 @@
+{
+  "name": "pyfunnel",
+  "version": "2.0.1",
+  "summary": "Comparison tool for two (x, y) data sets given tolerances in x and y directions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyfunnel-2.0.1.tar.gz",
+  "download_time": "2025-09-26T17:38:19.129707",
+  "package_url": "https://pypi.org/project/pyfunnel/"
+}

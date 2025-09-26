@@ -1,0 +1,11 @@
+{
+  "name": "yoyodyne",
+  "version": "0.4.2",
+  "summary": "Small-vocabulary neural sequence-to-sequence models",
+  "author": "Adam Wiemerslage, Travis M. Bartley",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "yoyodyne-0.4.2.tar.gz",
+  "download_time": "2025-09-26T17:38:16.763449",
+  "package_url": "https://pypi.org/project/yoyodyne/"
+}
