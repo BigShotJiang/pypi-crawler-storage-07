@@ -1,11 +1,11 @@
 {
   "name": "myrio-library",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "summary": "A library to control the myRIO board from National Instruments",
   "author": "Aitzol Ezeiza Ramos",
   "license": "MIT",
   "home_page": "https://github.com/AitzolEzeizaUPVEHU/myRIO_library",
-  "download_filename": "myrio_library-1.4.3.tar.gz",
-  "download_time": "2025-09-26T14:47:36.184872",
+  "download_filename": "myrio_library-1.4.4.tar.gz",
+  "download_time": "2025-09-26T15:10:40.272275",
   "package_url": "https://pypi.org/project/myrio-library/"
 }

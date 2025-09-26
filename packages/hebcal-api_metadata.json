@@ -1,11 +1,11 @@
 {
   "name": "hebcal-api",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Async client for Hebcal API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hebcal_api-0.1.3.tar.gz",
-  "download_time": "2025-09-26T14:08:57.305347",
+  "download_filename": "hebcal_api-0.1.4.tar.gz",
+  "download_time": "2025-09-26T15:10:30.359435",
   "package_url": "https://pypi.org/project/hebcal-api/"
 }

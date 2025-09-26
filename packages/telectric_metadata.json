@@ -1,0 +1,11 @@
+{
+  "name": "telectric",
+  "version": "0.1.1",
+  "summary": "Electrical calculations with the TElectric library",
+  "author": "Tahagaga",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "telectric-0.1.1.tar.gz",
+  "download_time": "2025-09-26T15:10:24.115728",
+  "package_url": "https://pypi.org/project/telectric/"
+}

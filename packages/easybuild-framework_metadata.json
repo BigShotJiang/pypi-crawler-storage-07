@@ -1,0 +1,11 @@
+{
+  "name": "easybuild-framework",
+  "version": "5.1.2",
+  "summary": "The EasyBuild framework supports the creation of custom easyblocks that implement support for installing particular (groups of) software packages.",
+  "author": "EasyBuild community",
+  "license": "GPLv2",
+  "home_page": "https://easybuild.io",
+  "download_filename": "easybuild_framework-5.1.2.tar.gz",
+  "download_time": "2025-09-26T15:10:28.291340",
+  "package_url": "https://pypi.org/project/easybuild-framework/"
+}
