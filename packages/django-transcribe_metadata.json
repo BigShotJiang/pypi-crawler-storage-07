@@ -1,0 +1,11 @@
+{
+  "name": "django-transcribe",
+  "version": "0.8.6",
+  "summary": "crowd source transcription",
+  "author": "BYU Library Software Engineering",
+  "license": null,
+  "home_page": "https://gitlab.com/byuhbll/lib/python/django-transcribe",
+  "download_filename": "django_transcribe-0.8.6-py3-none-any.whl",
+  "download_time": "2025-09-26T16:51:15.670481",
+  "package_url": "https://pypi.org/project/django-transcribe/"
+}

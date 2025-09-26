@@ -1,0 +1,11 @@
+{
+  "name": "onnx-diagnostic",
+  "version": "0.7.12",
+  "summary": "Investigate ONNX models",
+  "author": "Xavier Dupré",
+  "license": null,
+  "home_page": "https://github.com/sdpython/onnx-diagnostic",
+  "download_filename": "onnx_diagnostic-0.7.12-py3-none-any.whl",
+  "download_time": "2025-09-26T16:50:56.651727",
+  "package_url": "https://pypi.org/project/onnx-diagnostic/"
+}

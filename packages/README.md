@@ -1,16 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-26T16:36:51.689293
-- **Total Packages**: 84
-- **Total Size**: 24.08 MB
+- **Download Time**: 2025-09-26T16:51:42.957922
+- **Total Packages**: 89
+- **Total Size**: 22.75 MB
 
 ## Packages List
+- pepystats
+- sqlglot
+- eodag-labextension
+- django-cfg
+- onnx-diagnostic
+- rfd-protocol
+- extrator-xml-fiscal
+- qumulo-api
+- cybrid-api-bank-python
+- cybrid-api-organization-python
+- feeluown-bilibili
+- cybrid-api-id-python
+- cs3apis
+- mindtrace-ui
+- mindtrace-automation
+- mindtrace-models
+- mindtrace-jobs
+- mindtrace-hardware
+- mindtrace-datalake
+- mindtrace-cluster
+- mindtrace-apps
+- mindtrace-storage
+- mindtrace-database
+- aind-metadata-upgrader
+- mindtrace-registry
+- mindtrace-services
+- mindtrace-core
+- repl-python-wakatime
+- mindtrace
+- pyXLMS
+- fastmcp
+- quda
+- nominal-api-protos
+- nominal-api
+- hippius
+- authentik-client
+- pyfibers
+- svc-infra
+- sysnet-attachments-model
+- django-transcribe
+- AndroidFridaManager
+- abstract-utilities
+- denario_app
+- python-usajobsapi
+- tecton
+- yellowdog-python-examples
+- dissect.target
+- sklekmeans
+- dycw-utilities
 - python3-cyberfusion-queue-support
 - lisaconstants
 - hiti-preproc
 - beaver-db
-- sysnet-attachments-model
 - archytas
 - edx-enterprise
 - Anime3rbDL
@@ -21,7 +69,6 @@
 - swellow
 - isocoder
 - persiantools
-- abstract-utilities
 - dataforge-sdk
 - truss
 - lib-cli-exit-tools
@@ -29,7 +76,6 @@
 - process-improvement
 - pyreq-lite
 - simplejson
-- authentik-client
 - chisel
 - devtron-cli
 - vertex-batch
@@ -49,44 +95,3 @@
 - x-transformers
 - fipe-python-sdk
 - aind-metadata-extractor
-- fetchgraph
-- repl-python-wakatime
-- ome-metadata
-- etextedit
-- sqlmesh
-- parallelpipe
-- scruby
-- pythonic-fp
-- abcount
-- blacline
-- supertable
-- tidytcells
-- lmur
-- svc-infra
-- tecton-runtime
-- llm-station
-- alpaca-py
-- tecton
-- Sandroid
-- llamactl
-- llama-deploy-core
-- llama-deploy-appserver
-- abstract-webtools
-- Hafsa
-- cellmap-analyze
-- agentmake
-- red-tidegear
-- ndagen
-- pycarlo
-- a003558
-- autospice
-- spikesafe-python
-- newton
-- eida-consistency
-- alchemystai
-- taypi-create
-- crackers
-- structural-starterkit
-- asgard-eopf
-- taxonomy-connector
-- earthcarekit
