@@ -1,15 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-26T10:47:58.917077
-- **Total Packages**: 86
-- **Total Size**: 32.99 MB
+- **Download Time**: 2025-09-26T11:09:12.082420
+- **Total Packages**: 89
+- **Total Size**: 29.26 MB
 
 ## Packages List
+- bmsdna-lakeapi
+- authentik-client
+- glow
+- clerk-sdk
+- cogstim
+- splunk_add_on_ucc_framework
+- recurvedata-lib
+- inet-api-client
+- pydpm-xl
+- debugn
+- mcp-bookmark-server
+- locust
+- simple-googlesheet-interface
+- vandc
+- datachain
+- scine-autocas
+- python-aea
+- pyedb
+- mlx.unity2junit
+- odoo-addon-l10n-es-vat-book-invoice-summary
+- htmlgen-mcp
+- ljobx
+- GPALexp
+- workers-py
+- annex4risk-detector
+- d-back
+- shotgun-sh
+- tg-signer
+- rxiv-maker
+- shadcn-agent
+- huff
+- bangshim
+- tessdb-api
+- cognite-neat
+- pyistat
+- coordinated-workers
+- datacontract-helper
+- oagi
+- red-tidegear
+- hex-zmq-servers
+- dataprof
 - when-lang
 - revng
 - PySILLS
-- simple-googlesheet-interface
 - apheris-preprocessing
 - konduktor-nightly
 - scruby
@@ -27,7 +67,6 @@
 - pdf-appendix
 - nitrotools
 - ddump
-- pyistat
 - agentmake
 - datacorecommon
 - api-linter-101
@@ -38,7 +77,6 @@
 - mylair
 - pyoctomap
 - universal-hotreload-python
-- authentik-client
 - graph-attention-student
 - oda-data
 - plugwise_usb
@@ -57,38 +95,3 @@
 - psr-factory
 - webshot-mcp
 - smer-visual
-- kingsoftcloud-sdk-python
-- mango-time-series
-- aipyapp
-- mango-autoencoder
-- idvpackage
-- vlcishared
-- debugn
-- automation-toolkit
-- deepeval
-- datamarket
-- giant-news
-- dcs-sdk
-- whisperlivekit
-- tfctl
-- caf.distribute
-- sphinx-config-options
-- pints
-- laboneq_applications
-- tianxiadatong-qq-robot
-- caf.base
-- py-ctcmetrics
-- yahi
-- clss-model
-- lace-client
-- ghsa-client
-- irispreppy
-- pyconvexity
-- crawlee
-- lazyllm
-- zen-rule
-- ioh
-- ud3tn-utils
-- stackit-alb
-- arivo-settings-models
-- pyD3TN

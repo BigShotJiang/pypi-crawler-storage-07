@@ -1,0 +1,11 @@
+{
+  "name": "htmlgen-mcp",
+  "version": "0.2.2",
+  "summary": "AI-powered HTML website generator with auto-upload functionality via Model Context Protocol",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "htmlgen_mcp-0.2.2.tar.gz",
+  "download_time": "2025-09-26T11:08:34.745292",
+  "package_url": "https://pypi.org/project/htmlgen-mcp/"
+}
