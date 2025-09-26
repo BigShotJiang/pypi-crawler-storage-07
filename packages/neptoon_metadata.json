@@ -1,0 +1,11 @@
+{
+  "name": "neptoon",
+  "version": "0.13.6",
+  "summary": "The neptoon package makes CRNS processing and research simple.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "neptoon-0.13.6.tar.gz",
+  "download_time": "2025-09-26T11:24:18.882408",
+  "package_url": "https://pypi.org/project/neptoon/"
+}
