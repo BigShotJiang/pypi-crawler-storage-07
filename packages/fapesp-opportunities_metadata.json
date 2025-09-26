@@ -1,0 +1,11 @@
+{
+  "name": "fapesp-opportunities",
+  "version": "0.1.9",
+  "summary": "Program to list FAPESP opportunities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fapesp_opportunities-0.1.9.tar.gz",
+  "download_time": "2025-09-26T17:47:20.601536",
+  "package_url": "https://pypi.org/project/fapesp-opportunities/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "Uw-Django-Oidc",
-  "version": "1.0.2",
+  "version": "1.0.2.1",
   "summary": "Midlleware handles Django request with UW OIDC id-token.",
   "author": "UW-IT SETS",
   "license": "Apache License, Version 2.0",
   "home_page": "https://github.com/uw-it-aca/uw-django-oidc",
-  "download_filename": "uw_django_oidc-1.0.2.tar.gz",
-  "download_time": "2025-09-26T15:10:24.632157",
+  "download_filename": "uw_django_oidc-1.0.2.1.tar.gz",
+  "download_time": "2025-09-26T17:47:12.666470",
   "package_url": "https://pypi.org/project/Uw-Django-Oidc/"
 }

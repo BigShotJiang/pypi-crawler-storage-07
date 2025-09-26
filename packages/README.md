@@ -1,20 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-26T17:38:54.862643
-- **Total Packages**: 79
-- **Total Size**: 11.25 MB
+- **Download Time**: 2025-09-26T17:47:43.146751
+- **Total Packages**: 76
+- **Total Size**: 15.63 MB
 
 ## Packages List
-- jupyter-matlab-proxy
+- abstract-hugpy
+- jusfltuls
+- opencosmo
+- signalpilot-ai
+- unique_deep_research
+- vpe
+- django-activity-audit
+- fluid-labels
+- secsgml
+- programgarden
+- edgartools
+- lib-cli-exit-tools
+- akris-desktop
+- pyoctomap
+- collinear
+- muygpys
+- yta-stock-pixabay
+- agentmake
+- t-bug-catcher
 - ftp-core-bindings-pyo3
+- Uw-Django-Oidc
+- signalpilot-ai-internal
+- programgarden-community
+- langchain-tool-server
+- sportsball
+- fair-platform
+- sliderule
+- myapp-betrand1999
+- abstract-webtools
+- aa-killstats
+- data-retrieval-monitor
+- vllm-tgis-adapter
+- zerohertzLib
+- tecton-runtime
+- fapesp-opportunities
+- svc-infra
+- tecton
+- properpath
+- jupyter-matlab-proxy
 - llm-katan
 - toolos
 - fsai-proto-specs
 - turbopdf
 - fuzzylinguistics
 - etextedit
-- tecton
 - authentik-client
 - programgarden-finance
 - scikit-topt
@@ -23,15 +59,12 @@
 - cuvette
 - epoch-protos
 - avalan
-- myapp-betrand1999
 - reprompt
 - yoyodyne
 - azureml-assets
-- tecton-runtime
 - arq-base-python
 - pyfunnel
 - matlab-proxy
-- agentmake
 - finstream
 - hyperbrowser
 - django-db-views
@@ -49,39 +82,3 @@
 - bagel
 - analyst-klondike
 - programgarden-core
-- lock-and-key
-- abov3-ai
-- pylibbpf
-- analysistoolbox
-- redis
-- mypackage-sample
-- detdevlib-models
-- pawtorch
-- apolo-app-types
-- properpath
-- bafser-tgapi
-- tg-bot-screen
-- moose-lib
-- pythonbpf
-- dkist-processing-core
-- metabolights-utils
-- tiled
-- easter
-- hyper-sdk
-- craft-parts
-- escape-nt-command-line-argument
-- rolfedh-doc-utils
-- clamnibs
-- psaiops
-- aenet-gpr
-- serialsrv
-- hud-python
-- clanguru
-- abstract-webtools
-- alibabacloud-csas20230120
-- alibabacloud-sas20181203
-- cuesplit
-- napari-sphinx-theme
-- gancho
-- alibabacloud-dms-enterprise20181101
-- futurehouse-client

@@ -1,11 +1,11 @@
 {
   "name": "turbopdf",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "Generador de PDFs simples y rápidos para Python, ideal para entornos educativos y gubernamentales.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "turbopdf-0.7.0.tar.gz",
-  "download_time": "2025-09-26T17:38:07.923710",
+  "download_filename": "turbopdf-0.8.0.tar.gz",
+  "download_time": "2025-09-26T17:47:24.725004",
   "package_url": "https://pypi.org/project/turbopdf/"
 }
