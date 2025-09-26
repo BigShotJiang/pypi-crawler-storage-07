@@ -1,0 +1,11 @@
+{
+  "name": "dinoscan",
+  "version": "2.0.4",
+  "summary": "DinoScan - Comprehensive AST-based Python code analysis with real-time diagnostics, security scanning, and intelligent caching",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dinoscan-2.0.4.tar.gz",
+  "download_time": "2025-09-26T14:09:04.762938",
+  "package_url": "https://pypi.org/project/dinoscan/"
+}

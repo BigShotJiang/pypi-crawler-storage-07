@@ -1,0 +1,11 @@
+{
+  "name": "cfbs",
+  "version": "5.2.1",
+  "summary": "Tooling to build, manage and deploy CFEngine policy",
+  "author": "Northern.tech, Inc.",
+  "license": null,
+  "home_page": "https://github.com/cfengine/cfbs",
+  "download_filename": "cfbs-5.2.1.tar.gz",
+  "download_time": "2025-09-26T14:09:11.683226",
+  "package_url": "https://pypi.org/project/cfbs/"
+}

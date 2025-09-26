@@ -1,11 +1,11 @@
 {
   "name": "neurokin",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "package to support neural and kinematic data analysis",
   "author": "Elisa L. Garulli",
   "license": "BSD 2-clause",
   "home_page": "https://github.com/WengerLab/neurokin",
-  "download_filename": "neurokin-0.3.4.tar.gz",
-  "download_time": "2025-09-26T10:47:21.800262",
+  "download_filename": "neurokin-0.3.5.tar.gz",
+  "download_time": "2025-09-26T14:09:03.694215",
   "package_url": "https://pypi.org/project/neurokin/"
 }
