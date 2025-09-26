@@ -1,11 +1,11 @@
 {
   "name": "wikipedia-async",
-  "version": "0.18.0",
+  "version": "0.19.0",
   "summary": "A modern async Wikipedia API client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wikipedia_async-0.18.0.tar.gz",
-  "download_time": "2025-09-26T14:09:13.387123",
+  "download_filename": "wikipedia_async-0.19.0.tar.gz",
+  "download_time": "2025-09-26T15:47:33.650481",
   "package_url": "https://pypi.org/project/wikipedia-async/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "biscuit-python",
+  "version": "0.4.0",
+  "summary": "Python bindings for the biscuit auth platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "biscuit_python-0.4.0.tar.gz",
+  "download_time": "2025-09-26T15:47:44.243161",
+  "package_url": "https://pypi.org/project/biscuit-python/"
+}

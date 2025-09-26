@@ -1,0 +1,11 @@
+{
+  "name": "aoirint-matvtool",
+  "version": "0.7.0",
+  "summary": "A command line tool to handle a multi audio track video file",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aoirint_matvtool-0.7.0.tar.gz",
+  "download_time": "2025-09-26T15:47:20.767630",
+  "package_url": "https://pypi.org/project/aoirint-matvtool/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "publishmd",
+  "version": "0.1.0",
+  "summary": "Prepare markdown content for publication with configurable processing pipeline",
+  "author": "Mateus Molina",
+  "license": null,
+  "home_page": null,
+  "download_filename": "publishmd-0.1.0.tar.gz",
+  "download_time": "2025-09-26T15:47:10.558431",
+  "package_url": "https://pypi.org/project/publishmd/"
+}
