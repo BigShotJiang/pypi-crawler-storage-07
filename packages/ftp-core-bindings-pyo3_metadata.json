@@ -1,11 +1,11 @@
 {
   "name": "ftp-core-bindings-pyo3",
-  "version": "0.1.794",
+  "version": "0.1.795",
   "summary": "Python bindings for FTP Core library",
   "author": "Votre Nom <votre.email@example.com>",
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "ftp_core_bindings_pyo3-0.1.794-cp312-cp312-manylinux_2_34_x86_64.whl",
-  "download_time": "2025-09-26T20:40:16.526137",
+  "download_filename": "ftp_core_bindings_pyo3-0.1.795-cp312-cp312-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-09-26T20:47:27.796219",
   "package_url": "https://pypi.org/project/ftp-core-bindings-pyo3/"
 }

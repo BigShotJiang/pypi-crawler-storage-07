@@ -1,0 +1,11 @@
+{
+  "name": "can-cannelloni",
+  "version": "0.1.0",
+  "summary": "python-can backend for Cannelloni protocol",
+  "author": "Klaudiusz Staniek",
+  "license": null,
+  "home_page": null,
+  "download_filename": "can_cannelloni-0.1.0.tar.gz",
+  "download_time": "2025-09-26T20:47:37.242308",
+  "package_url": "https://pypi.org/project/can-cannelloni/"
+}

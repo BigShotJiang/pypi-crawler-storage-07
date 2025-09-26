@@ -1,0 +1,11 @@
+{
+  "name": "ada-url",
+  "version": "1.27.0",
+  "summary": "URL parser and manipulator based on the WHAT WG URL standard",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "ada_url-1.27.0.tar.gz",
+  "download_time": "2025-09-26T20:47:36.216709",
+  "package_url": "https://pypi.org/project/ada-url/"
+}
