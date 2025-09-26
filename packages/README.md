@@ -1,16 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-26T23:02:05.519734
-- **Total Packages**: 86
-- **Total Size**: 22.2 MB
+- **Download Time**: 2025-09-26T23:10:14.090120
+- **Total Packages**: 84
+- **Total Size**: 2.53 MB
 
 ## Packages List
+- aenet-gpr
+- authentik-client
+- eval-protocol
+- mlx-genkit
+- ohmyapi
+- easier-openai
+- graphiti-core
+- yumako
+- flexibuddiesrl
+- data-retrieval-monitor
+- tpu-info
+- uthavu-tools
+- basic-open-agent-tools
+- denario-app
+- ncut-pytorch
 - pyquoks
 - libmeshctrl
 - terminal-bench
 - nonebot-plugin-alisten
-- uthavu-tools
 - llm-to-json
 - prompture
 - cloud-files
@@ -19,14 +33,12 @@
 - sim-sci-test-monorepo-core
 - cmbagent
 - py-lerchs-grossmann
-- easier-openai
 - splunk-soar-sdk
 - pulumi
 - robolson
 - yretry
 - baml-claude-code
 - sim-sci-test-monorepo-public-health
-- authentik-client
 - django-nativemojo
 - aiq-platform-api
 - agntcy-app-sdk
@@ -78,17 +90,3 @@
 - omdev-cli
 - omdev-cext
 - boto3-dataclass-cloudcontrol
-- boto3-dataclass-cleanroomsml
-- mlx-cpu
-- boto3-dataclass-cleanrooms
-- boto3-dataclass-chime-sdk-voice
-- hibachi-xyz
-- flowtask
-- turbopdf
-- rds-proxy-password-rotation
-- hondana
-- canesm-process
-- machineconfig
-- coverage-universe
-- deepfabric
-- abstract-ide

@@ -1,0 +1,11 @@
+{
+  "name": "ncut-pytorch",
+  "version": "2.0.5",
+  "summary": "Normalized Cut and Spectral Embedding",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ncut_pytorch-2.0.5.tar.gz",
+  "download_time": "2025-09-26T23:09:37.163019",
+  "package_url": "https://pypi.org/project/ncut-pytorch/"
+}
