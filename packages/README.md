@@ -1,25 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-26T14:30:43.656544
+- **Download Time**: 2025-09-26T14:41:40.147046
 - **Total Packages**: 85
-- **Total Size**: 29.7 MB
+- **Total Size**: 1.75 MB
 
 ## Packages List
-- streamlit-octostar-utils
-- markdown-flow
-- SwiftGUI
-- physai
-- pytidycensus
-- uniovi-simur-wearablepermed-utils
-- music-assistant-models
-- file-of-test-of-wangziming
-- codemie-sdk-python
-- unoserver
-- py-http-auto-test
-- kitconcept.core
-- pyoctomap
-- ligo-gracedb
 - geo-features-generator
 - universal-hotreload-python
 - overturemaps
@@ -78,7 +64,9 @@
 - hussainn
 - purl-tools
 - tomba-io
+- uniovi-simur-wearablepermed-utils
 - oda-data
+- file-of-test-of-wangziming
 - robotframework-openapitools
 - unsloth
 - pyadvtools
@@ -89,5 +77,17 @@
 - unsloth-zoo
 - cmdstyler
 - create-mcp-app
+- physai
 - cometx
 - SuperClaude
+- aspect-sdk
+- agenterprise
+- tidy3d-mcp
+- wmill-pg
+- wmill
+- arvoredecisao
+- windmill-api
+- vittoriadb
+- treerequests
+- scp-app-sdk
+- pygridfit
