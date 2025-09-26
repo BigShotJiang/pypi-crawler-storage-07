@@ -1,0 +1,11 @@
+{
+  "name": "m3georeferencer",
+  "version": "0.1.1",
+  "summary": "Georeferencing GUI built for Moon Mineralogy Mapper data",
+  "author": "Z.M. Vig",
+  "license": "LICENSE",
+  "home_page": null,
+  "download_filename": "m3georeferencer-0.1.1.tar.gz",
+  "download_time": "2025-09-26T21:47:08.997378",
+  "package_url": "https://pypi.org/project/m3georeferencer/"
+}
