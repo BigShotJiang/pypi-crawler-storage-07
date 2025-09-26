@@ -1,0 +1,11 @@
+{
+  "name": "ani-scrapy",
+  "version": "0.1.14",
+  "summary": "Python library for scraping anime websites, currently supporting AnimeFLV and JKAnime.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ani_scrapy-0.1.14.tar.gz",
+  "download_time": "2025-09-26T23:25:41.780867",
+  "package_url": "https://pypi.org/project/ani-scrapy/"
+}
