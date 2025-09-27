@@ -1,11 +1,11 @@
 {
   "name": "gancho",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Gancho receives webhooks and triggers actions in response.",
   "author": null,
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "gancho-0.1.4.tar.gz",
-  "download_time": "2025-09-27T17:08:20.104578",
+  "download_filename": "gancho-0.1.5.tar.gz",
+  "download_time": "2025-09-27T17:25:48.918668",
   "package_url": "https://pypi.org/project/gancho/"
 }

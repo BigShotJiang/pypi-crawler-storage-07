@@ -1,0 +1,11 @@
+{
+  "name": "boto3-dataclass-pca-connector-scep",
+  "version": "1.40.0",
+  "summary": "Dataclass for boto3 pca_connector_scep.",
+  "author": "Sanhe Hu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "boto3_dataclass_pca_connector_scep-1.40.0-py3-none-any.whl",
+  "download_time": "2025-09-27T17:25:37.981672",
+  "package_url": "https://pypi.org/project/boto3-dataclass-pca-connector-scep/"
+}
