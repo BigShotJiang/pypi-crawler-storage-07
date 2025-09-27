@@ -1,0 +1,11 @@
+{
+  "name": "xaiembeddings",
+  "version": "0.1.2",
+  "summary": "A Python package for explainable AI embeddings analysis with perturbation-based methods.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xaiembeddings-0.1.2-py3-none-any.whl",
+  "download_time": "2025-09-27T23:09:31.131166",
+  "package_url": "https://pypi.org/project/xaiembeddings/"
+}

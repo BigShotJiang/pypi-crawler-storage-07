@@ -1,13 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T22:48:03.192407
-- **Total Packages**: 77
-- **Total Size**: 1.44 MB
+- **Download Time**: 2025-09-27T23:10:15.304633
+- **Total Packages**: 82
+- **Total Size**: 6.08 MB
 
 ## Packages List
-- graphene-directives
+- xaiembeddings
+- cdk-factory
+- svc-infra
+- radiate
+- authentik-client
+- pyrendering
+- bc-django-modeltranslator
+- pure-function-decorators
+- outlooklib
+- ppdmod
+- zoialib
+- groq
+- biblemate
+- stoobly-agent
+- private-project-windoows-snake-game
+- hic-io
+- ezga-lib
+- nbragg
+- osmose-presets
 - chbe444umd
+- hla-compass
+- aenet-gpr
+- wmill-pg
+- wmill
+- windmill-api
+- graphene-directives
 - boto3-dataclass-xray
 - boto3-dataclass-workspaces-web
 - boto3-dataclass-workspaces-thin-client
@@ -18,7 +42,6 @@
 - boto3-dataclass-workmail
 - boto3-dataclass-workdocs
 - boto3-dataclass-wisdom
-- cdk-factory
 - boto3-dataclass-wellarchitected
 - boto3-dataclass-wafv2
 - boto3-dataclass-waf-regional
@@ -31,11 +54,9 @@
 - shoebill-ai
 - automation-framework
 - sphinx-syntax
-- nbragg
 - GNServer
 - bayescurvefit
 - quorus
-- authentik-client
 - tectonic-cyberrange
 - func-adl-servicex-xaodr25
 - code-review-plus
@@ -51,7 +72,6 @@
 - fastapi-router-viz
 - baml-claude-code
 - sysetup
-- ezga-lib
 - datahold
 - underthesea
 - sapiens-transformers
@@ -68,18 +88,3 @@
 - swarms
 - pandorasat
 - gamms
-- dolze-templates
-- pymseed
-- async-kernel
-- carbonic
-- tissuelab-sdk
-- xai-review
-- docassemble.demo
-- wejax
-- aenet-gpr
-- crypticorn
-- djpress-publish-mastodon
-- KeyisBTools
-- pilibr
-- pyclsp
-- autoskope-client
