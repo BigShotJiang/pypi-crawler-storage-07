@@ -1,11 +1,21 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T05:38:29.540866
-- **Total Packages**: 73
-- **Total Size**: 1.9 MB
+- **Download Time**: 2025-09-27T05:47:43.538778
+- **Total Packages**: 77
+- **Total Size**: 0.62 MB
 
 ## Packages List
+- pmdb_utils
+- pulumi-cloudamqp
+- uthavu-tools
+- electroblocks
+- pulumi-azuredevops
+- ai-ebash
+- agentic-fabric-sdk
+- robhan-cdk-lib.aws-grafana
+- robhan-cdk-lib.aws-aps
+- ut-xls
 - photo-metadata
 - authentik-client
 - pre-commit-vauxoo
@@ -15,7 +25,6 @@
 - mybox
 - pulumi-auth0
 - prefig
-- uthavu-tools
 - pulumi-artifactory
 - fs.googledrivefs
 - bapp-framework-sdk
@@ -46,7 +55,6 @@
 - export-chapters
 - llmakits
 - ry
-- ai-ebash
 - mkdata
 - boto3-dataclass-lexv2-runtime
 - boto3-dataclass-lexv2-models
@@ -75,7 +83,3 @@
 - osym.rpc
 - iamdata
 - dump-things-service
-- lt-tensor
-- fts-tool
-- squadcast_sdk
-- NepTrainKit
