@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-partner-primeship",
+  "version": "18.0.1.0.0.3",
+  "summary": "Allow you to manage time limited prime memberships and prime membership activation products.",
+  "author": "Akretion, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-workflow",
+  "download_filename": "odoo_addon_sale_partner_primeship-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-09-27T03:49:23.722211",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-partner-primeship/"
+}

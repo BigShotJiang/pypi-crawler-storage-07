@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-auth-saml",
+  "version": "18.0.1.1.0.2",
+  "summary": "SAML2 Authentication",
+  "author": "XCG Consulting, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-auth",
+  "download_filename": "odoo_addon_auth_saml-18.0.1.1.0.2-py3-none-any.whl",
+  "download_time": "2025-09-27T03:49:21.926304",
+  "package_url": "https://pypi.org/project/odoo-addon-auth-saml/"
+}

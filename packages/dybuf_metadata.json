@@ -5,7 +5,7 @@
   "author": null,
   "license": "dybuf, dynamic buffer library\n        Copyright (C) 2015-2016 Yuchi (yuchi518@gmail.com)\n        \n        This program is free software; you can redistribute it and/or modify\n        it under the terms of the GNU General Public License version 2 as\n        published by the Free Software Foundation. For the terms of this\n        license, see <http://www.gnu.org/licenses>.\n        \n        This program is distributed in the hope that it will be useful,\n        but WITHOUT ANY WARRANTY; without even the implied warranty of\n        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n        GNU General Public License for more details.\n        \n        You should have received a copy of the GNU General Public License along\n        with this program; if not, write to the Free Software Foundation, Inc.,\n        51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.",
   "home_page": null,
-  "download_filename": "dybuf-0.3.0-cp310-cp310-macosx_10_9_universal2.whl",
-  "download_time": "2025-09-27T03:36:13.302446",
+  "download_filename": "dybuf-0.3.0.tar.gz",
+  "download_time": "2025-09-27T03:49:39.211011",
   "package_url": "https://pypi.org/project/dybuf/"
 }

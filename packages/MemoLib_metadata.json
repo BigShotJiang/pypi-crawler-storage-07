@@ -1,0 +1,11 @@
+{
+  "name": "MemoLib",
+  "version": "0.1.0",
+  "summary": "A Python library for machine learning model training and inference",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "memolib-0.1.0.tar.gz",
+  "download_time": "2025-09-27T03:49:26.942563",
+  "package_url": "https://pypi.org/project/MemoLib/"
+}

@@ -1,12 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T03:36:57.960504
-- **Total Packages**: 93
-- **Total Size**: 22.7 MB
+- **Download Time**: 2025-09-27T03:50:14.125539
+- **Total Packages**: 87
+- **Total Size**: 4.3 MB
 
 ## Packages List
 - pulumi-pagerduty
+- odoo-addon-auth-saml
+- odoo-addon-sale-delivery-state
+- odoo-addon-sale-pricelist-display-surcharge
+- odoo-addon-sale-partner-primeship
+- odoo-addons-oca-sale-workflow
+- python-tornet
+- authentik-client
+- MemoLib
+- bfcl-eval
+- autowzry
+- pyreads
+- qudas
+- pulumi-ns1
+- simacode
+- eq3btsmart
+- pulumi-newrelic
+- pulumi-hcloud
+- lexicon-python
 - odoo-addon-purchase-lot
 - lexia
 - krpcc
@@ -20,11 +38,9 @@
 - odoo-addon-project-task-creation-description-notification
 - Sj-Django-Vue3-Pytest
 - judgeval
-- pulumi-ns1
 - tuzi-mcp
 - prosemark
 - kuzu-memory
-- authentik-client
 - odoo-addons-oca-pos
 - cdktf-cdktf-provider-newrelic
 - odoo-addon-pos-category-complete-name
@@ -52,7 +68,6 @@
 - voxcity
 - captcha-ocr-devkit
 - npckk
-- autowzry
 - frametree
 - rest3client
 - datadog-cloudgen-firewall
@@ -78,24 +93,3 @@
 - sambanova
 - mailworks
 - agentic-fabric-sdk
-- odoo-addon-edi-product-oca
-- CodeVideoRenderer
-- portwatch
-- svc-infra
-- qtmodel
-- litellm-proxy-extras
-- pydanticTest
-- perforatedai
-- perforatedbp
-- boto3-dataclass-inspector
-- gs2
-- boto3-dataclass-inspector2
-- boto3-dataclass-importexport
-- odoo-addons-oca-crm
-- boto3-dataclass-imagebuilder
-- hepai
-- boto3-dataclass-identitystore
-- boto3-dataclass-healthlake
-- boto3-dataclass-health
-- boto3-dataclass-guardduty
-- boto3-dataclass-groundstation
