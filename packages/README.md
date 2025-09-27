@@ -1,31 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T10:39:37.878251
-- **Total Packages**: 77
-- **Total Size**: 3.69 MB
+- **Download Time**: 2025-09-27T10:48:07.882251
+- **Total Packages**: 80
+- **Total Size**: 0.15 MB
 
 ## Packages List
-- sfn-db-query-builder
-- authentik-client
-- data-science-pro
-- jax-sysid
-- llmakits
-- pydirecte
-- kitech-repository-test-dev
-- Vit3l
-- chi-drm
-- gradium
-- rockauto-api
-- amajakai14_mcp-agents
-- AOT-biomaps
-- almabtrieb
-- mcp-rag-librarian
-- deps-rocker
-- tvkit
-- zns-discord-bot
-- pyezvizapi
-- cfn2iam
 - nexustrader
 - uthavu-tools
 - aigc-compliance
@@ -36,15 +16,19 @@
 - openmetadata-managed-apis
 - nbcmdio
 - ibm-watsonx-data-intelligence-mcp-server
+- zns-discord-bot
 - forklet
 - lark-webhook-notify
 - tinypg
 - django-choices-field
+- authentik-client
+- AOT-biomaps
 - pypcapkit
 - komodo-api
 - smol_k8s_lab
 - qmemcalc
 - abstract-hugpy
+- mcp-rag-librarian
 - modulitiz-nano
 - ab-user
 - xlfilldown
@@ -54,6 +38,7 @@
 - tts-webui.fireredtts2
 - pygpt-net
 - stealthimpysdk
+- pydirecte
 - ez-agent
 - whisperlivekit
 - sender_policy_flattener
@@ -83,3 +68,21 @@
 - yellowdog-python-examples
 - modelity
 - pyforma
+- kreuzberg
+- supertable
+- finbourne-horizon-sdk
+- internal
+- graph-sitter
+- him-lychee
+- unirules
+- html-to-markdown
+- agilab
+- shipy-web
+- agi-core
+- agi-cluster
+- agi-node
+- agi-env
+- hyperquant
+- timetracking
+- slack-lists-mcp
+- conson-xp
