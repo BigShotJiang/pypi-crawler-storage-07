@@ -1,11 +1,11 @@
 {
   "name": "worktoy",
-  "version": "0.99.113",
+  "version": "0.99.114",
   "summary": "Collection of Utilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "worktoy-0.99.113.tar.gz",
-  "download_time": "2025-09-27T04:12:04.565996",
+  "download_filename": "worktoy-0.99.114.tar.gz",
+  "download_time": "2025-09-27T20:37:11.468653",
   "package_url": "https://pypi.org/project/worktoy/"
 }

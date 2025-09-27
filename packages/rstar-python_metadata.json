@@ -1,0 +1,11 @@
+{
+  "name": "rstar-python",
+  "version": "0.0.2",
+  "summary": "Python bindings for the rstar R*-tree spatial index",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/kephale/rstar-python",
+  "download_filename": "rstar_python-0.0.2.tar.gz",
+  "download_time": "2025-09-27T20:37:16.641260",
+  "package_url": "https://pypi.org/project/rstar-python/"
+}
