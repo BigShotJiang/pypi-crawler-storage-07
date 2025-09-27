@@ -1,0 +1,11 @@
+{
+  "name": "greenophy-client",
+  "version": "0.1.0",
+  "summary": "Python client for the Greenophy substantiveness classification API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "greenophy_client-0.1.0.tar.gz",
+  "download_time": "2025-09-27T16:48:16.244853",
+  "package_url": "https://pypi.org/project/greenophy-client/"
+}

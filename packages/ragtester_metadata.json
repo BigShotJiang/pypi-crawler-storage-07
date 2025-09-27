@@ -1,0 +1,11 @@
+{
+  "name": "ragtester",
+  "version": "0.2.0",
+  "summary": "A comprehensive Python library for testing and evaluating Retrieval-Augmented Generation (RAG) systems with LLM-generated questions and automated evaluation metrics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ragtester-0.2.0.tar.gz",
+  "download_time": "2025-09-27T16:47:49.189446",
+  "package_url": "https://pypi.org/project/ragtester/"
+}

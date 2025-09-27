@@ -1,0 +1,11 @@
+{
+  "name": "mlua",
+  "version": "0.0.1",
+  "summary": "A lua module manager library for python, it can transfer lua module to python object and call it.",
+  "author": "FreeStar007",
+  "license": null,
+  "home_page": "https://github.com/FreeStar007/mlua",
+  "download_filename": "mlua-0.0.1.tar.gz",
+  "download_time": "2025-09-27T16:47:47.400392",
+  "package_url": "https://pypi.org/project/mlua/"
+}

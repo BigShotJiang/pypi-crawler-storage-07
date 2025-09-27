@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-mcq",
+  "version": "0.1.3",
+  "summary": "MkDocs plugin for multiple choice quizzes",
+  "author": "broktoram",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mkdocs_mcq-0.1.3.tar.gz",
+  "download_time": "2025-09-27T16:47:59.737170",
+  "package_url": "https://pypi.org/project/mkdocs-mcq/"
+}

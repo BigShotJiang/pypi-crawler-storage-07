@@ -1,0 +1,11 @@
+{
+  "name": "gitbaba2",
+  "version": "0.1.2",
+  "summary": "A lightweight CLI tool to simplify GitHub workflows. With GitBaba you can push local projects, create new repositories, delete repos, and manage authentication without typing long Git or GitHub commands. Perfect for developers who want a faster shortcut to manage GitHub projects.",
+  "author": "BotolMehedi",
+  "license": "MIT",
+  "home_page": "https://github.com/BotolMehedi/gitbaba",
+  "download_filename": "gitbaba2-0.1.2.tar.gz",
+  "download_time": "2025-09-27T16:48:08.579652",
+  "package_url": "https://pypi.org/project/gitbaba2/"
+}
