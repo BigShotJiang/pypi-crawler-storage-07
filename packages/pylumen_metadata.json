@@ -1,0 +1,11 @@
+{
+  "name": "pylumen",
+  "version": "2.0.0",
+  "summary": "The official CLI for the Lumen Protocol & Local Prompt Generation.",
+  "author": "Far3k",
+  "license": "MIT",
+  "home_page": "https://github.com/Far3000-YT/lumen",
+  "download_filename": "pylumen-2.0.0.tar.gz",
+  "download_time": "2025-09-27T18:49:27.551450",
+  "package_url": "https://pypi.org/project/pylumen/"
+}

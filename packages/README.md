@@ -1,15 +1,27 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T18:36:50.464428
-- **Total Packages**: 87
-- **Total Size**: 8.88 MB
+- **Download Time**: 2025-09-27T18:50:13.809100
+- **Total Packages**: 84
+- **Total Size**: 4.91 MB
 
 ## Packages List
+- AFragmenter
+- shinestacker
+- pylumen
+- mcp-4get
 - energysystemmodels
-- greenophy-client
+- mcp-testing
+- parajax
+- mmslon
+- authentik-client
+- enerhabitat
 - skpoly
+- aemet-mcp
+- codearkt
+- MarkupSafe
 - quazydb
+- greenophy-client
 - boto3-dataclass-route53resolver
 - boto3-dataclass-route53profiles
 - boto3-dataclass-route53domains
@@ -23,7 +35,6 @@
 - boto3-dataclass-resourcegroupstaggingapi
 - boto3-dataclass-resource-groups
 - boto3-dataclass-resource-explorer-2
-- authentik-client
 - boto3-dataclass-resiliencehub
 - borgitory
 - boto3-dataclass-repostspace
@@ -64,7 +75,6 @@
 - smartdecision-sdk
 - StreamDeckLayoutManager
 - smt-design-space-ext
-- enerhabitat
 - utn-fra
 - graphlit-client
 - apisix-client
@@ -80,16 +90,3 @@
 - ut-eviq
 - FPC
 - clap-detector
-- astro-expanse
-- francis-agent
-- spx-sdk
-- hexdoc
-- reykit
-- PermutiveAPI
-- PyPlumIO
-- dycw-utilities
-- tagify
-- tabwrap
-- healthcare-ai-guardrails
-- pythonic-fp-booleans
-- lexicon-python

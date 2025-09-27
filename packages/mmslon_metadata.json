@@ -1,0 +1,11 @@
+{
+  "name": "mmslon",
+  "version": "20250927",
+  "summary": "MMSLON",
+  "author": "MMSLON",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/mmslon/hummingbot",
+  "download_filename": "mmslon-20250927-cp312-cp312-macosx_11_0_arm64.whl",
+  "download_time": "2025-09-27T18:49:30.500787",
+  "package_url": "https://pypi.org/project/mmslon/"
+}
