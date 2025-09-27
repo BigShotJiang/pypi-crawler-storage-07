@@ -1,11 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T06:14:04.511231
-- **Total Packages**: 83
-- **Total Size**: 10.03 MB
+- **Download Time**: 2025-09-27T06:37:00.909606
+- **Total Packages**: 86
+- **Total Size**: 33.56 MB
 
 ## Packages List
+- ai-edge-litert-sdk-mediatek-nightly
+- ai-edge-litert-sdk-qualcomm-nightly
+- pulumi-kong
+- abstract-hugpy
+- quazydb
+- pre-commit-vauxoo
+- PayPaython-mobile
+- lazy-mysql
+- pulumi-keycloak
+- codeviscraft
+- pulumi-kafka
+- django-x402
+- pulumi-gitlab
+- pulumi-hcloud
+- pulumi-harness
+- ljobx
+- aio-lanraragi
+- authentik-client
+- pulumi-ise
+- pulumi-http
+- rokh
+- pylint-odoo
+- snowcli-tools
+- pulumi-docker
+- pulumi-command
+- pulumi-ec
+- pulumi-github
+- ai-edge-litert-nightly
+- fake-bpy-module
+- fake-bpy-module-latest
+- cdk8s-awscdk-resolver
+- pulumi-fastly
+- sqlsaber
+- snowpark-submit
+- uthavu-tools
+- Radicale
+- fastmssql
+- pulumi-digitalocean
+- pulumi-datadog
+- pulumi-f5bigip
+- aws-iot-sitewise-mcp
+- parquool
+- pulumi-databricks
+- mplang-nightly
+- pulumi-aws-native
+- pixhawkcontroller
+- pulumi-external
+- ant-ray-cpp-nightly
+- pyg-nightly
 - djcheckup
 - czsc
 - ai-ebash
@@ -20,12 +69,9 @@
 - pulumi-consul
 - boto3-dataclass-license-manager
 - pulumi-confluentcloud
-- ut-eviq
 - oarepo-invenio-typing-stubs
-- uthavu-tools
 - nexte-ros2-tool
 - fastlib-py
-- authentik-client
 - schedrem
 - pulumi-cloudngfwaws
 - pulumi-alicloud
@@ -44,48 +90,5 @@
 - robhan-cdk-lib.aws-aps
 - ut-xls
 - photo-metadata
-- pre-commit-vauxoo
 - benchcraft
 - svc-infra
-- zenx
-- mybox
-- pulumi-auth0
-- prefig
-- pulumi-artifactory
-- fs.googledrivefs
-- bapp-framework-sdk
-- opendp
-- imgsearch
-- pulumi-akamai
-- backwardpipl
-- pulumi-archive
-- pylint-odoo
-- repo-review
-- pulumi-aiven
-- gam7
-- tooltree
-- qrpa
-- ethereal-sdk
-- TSMasterAPI
-- smartschool
-- fabricatio-typst
-- fabricatio
-- videobgremover
-- pytest-homeassistant-custom-component
-- chalkpy
-- pulumi-gcp
-- my-agents-adapter
-- bfcl-eval
-- sfq
-- export-chapters
-- llmakits
-- ry
-- mkdata
-- boto3-dataclass-lexv2-runtime
-- boto3-dataclass-lexv2-models
-- boto3-dataclass-lex-runtime
-- boto3-dataclass-lex-models
-- boto3-dataclass-launch-wizard
-- boto3-dataclass-lakeformation
-- boto3-dataclass-kinesisvideo
-- boto3-dataclass-kinesisanalyticsv2

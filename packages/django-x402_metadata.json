@@ -1,0 +1,11 @@
+{
+  "name": "django-x402",
+  "version": "0.0.1",
+  "summary": "Django middleware for the x402 'Payment Required' protocol",
+  "author": "Conner Swann",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_x402-0.0.1.tar.gz",
+  "download_time": "2025-09-27T06:36:18.879474",
+  "package_url": "https://pypi.org/project/django-x402/"
+}
