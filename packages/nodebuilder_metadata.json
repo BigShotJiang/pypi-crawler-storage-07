@@ -1,0 +1,11 @@
+{
+  "name": "nodebuilder",
+  "version": "1.0.0",
+  "summary": "Shadcn-style CLI to copy LangGraph nodes and workflows into your project.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nodebuilder-1.0.0.tar.gz",
+  "download_time": "2025-09-27T19:32:56.962267",
+  "package_url": "https://pypi.org/project/nodebuilder/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "bankingsdk",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Software Development Kit (SDK) client pour l'API Credit Risk",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bankingsdk-0.2.2.tar.gz",
-  "download_time": "2025-09-27T14:27:29.918390",
+  "download_filename": "bankingsdk-0.2.3.tar.gz",
+  "download_time": "2025-09-27T19:33:00.049581",
   "package_url": "https://pypi.org/project/bankingsdk/"
 }
