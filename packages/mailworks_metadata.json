@@ -1,11 +1,11 @@
 {
   "name": "mailworks",
-  "version": "1.0.0",
-  "summary": "A Python package for sending emails using Gmail SMTP",
+  "version": "2.2.0",
+  "summary": "A Python package for sending emails using any SMTP server with STARTTLS support",
   "author": "Antonio Costa",
   "license": null,
   "home_page": "https://github.com/antoniocostabr/mailworks",
-  "download_filename": "mailworks-1.0.0.tar.gz",
-  "download_time": "2025-09-27T00:43:30.517363",
+  "download_filename": "mailworks-2.2.0.tar.gz",
+  "download_time": "2025-09-27T03:02:29.880355",
   "package_url": "https://pypi.org/project/mailworks/"
 }

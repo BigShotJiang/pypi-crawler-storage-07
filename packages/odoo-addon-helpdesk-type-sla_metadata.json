@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-helpdesk-type-sla",
+  "version": "18.0.1.0.0.7",
+  "summary": "Helpdesk Type SLA",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/helpdesk",
+  "download_filename": "odoo_addon_helpdesk_type_sla-18.0.1.0.0.7-py3-none-any.whl",
+  "download_time": "2025-09-27T03:02:27.156106",
+  "package_url": "https://pypi.org/project/odoo-addon-helpdesk-type-sla/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "portwatch",
+  "version": "0.0.7",
+  "summary": "Real-time port and process monitor with dev port alerts and built-in config UI",
+  "author": "Madushanaka Rajapaksha",
+  "license": "MIT",
+  "home_page": "https://github.com/madushanakarajapakshe999/portwatch",
+  "download_filename": "portwatch-0.0.7.tar.gz",
+  "download_time": "2025-09-27T03:02:32.046794",
+  "package_url": "https://pypi.org/project/portwatch/"
+}

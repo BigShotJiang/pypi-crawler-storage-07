@@ -1,11 +1,11 @@
 {
   "name": "mcp-pdf",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "summary": "Secure FastMCP server for comprehensive PDF processing - text extraction, OCR, table extraction, forms, annotations, and more",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_pdf-1.1.2.tar.gz",
-  "download_time": "2025-09-26T19:13:10.823201",
+  "download_filename": "mcp_pdf-1.2.0.tar.gz",
+  "download_time": "2025-09-27T03:02:28.275050",
   "package_url": "https://pypi.org/project/mcp-pdf/"
 }

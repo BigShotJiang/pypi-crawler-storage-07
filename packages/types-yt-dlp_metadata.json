@@ -1,0 +1,11 @@
+{
+  "name": "types-yt-dlp",
+  "version": "2025.9.23.20250927",
+  "summary": "Typing stubs for yt-dlp",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_yt_dlp-2025.9.23.20250927.tar.gz",
+  "download_time": "2025-09-27T03:02:47.115225",
+  "package_url": "https://pypi.org/project/types-yt-dlp/"
+}

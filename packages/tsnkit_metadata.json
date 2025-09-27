@@ -1,0 +1,11 @@
+{
+  "name": "tsnkit",
+  "version": "0.3.0",
+  "summary": "A simple scheduling toolkit for time-sensitive network in Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tsnkit-0.3.0.tar.gz",
+  "download_time": "2025-09-27T03:02:52.469170",
+  "package_url": "https://pypi.org/project/tsnkit/"
+}
