@@ -1,11 +1,11 @@
 {
   "name": "timetracking",
-  "version": "1.0.37",
+  "version": "1.0.41",
   "summary": "A Python time tracking application with GUI, PDF export, and email functionality",
   "author": "Ricardo Nolan",
   "license": "MIT",
   "home_page": "https://github.com/ricardo-nolan/timetracking",
-  "download_filename": "timetracking-1.0.37.tar.gz",
-  "download_time": "2025-09-27T07:47:18.187841",
+  "download_filename": "timetracking-1.0.41.tar.gz",
+  "download_time": "2025-09-27T08:12:38.034829",
   "package_url": "https://pypi.org/project/timetracking/"
 }
