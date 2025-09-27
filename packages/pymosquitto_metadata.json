@@ -1,0 +1,11 @@
+{
+  "name": "pymosquitto",
+  "version": "0.3.5",
+  "summary": "A lightweight Python MQTT client implemented as a thin wrapper around libmosquitto",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymosquitto-0.3.5-py3-none-any.whl",
+  "download_time": "2025-09-27T14:27:28.826796",
+  "package_url": "https://pypi.org/project/pymosquitto/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "QMVVM",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "A Model-View-ViewModel(MVVM) framework for Qt",
   "author": "zhiyiYo",
   "license": "Apache-2.0",
   "home_page": "https://github.com/zhiyiYo/QMVVM",
-  "download_filename": "qmvvm-0.0.3.tar.gz",
-  "download_time": "2025-09-27T11:08:02.261906",
+  "download_filename": "qmvvm-0.0.4.tar.gz",
+  "download_time": "2025-09-27T14:27:44.962987",
   "package_url": "https://pypi.org/project/QMVVM/"
 }
