@@ -1,0 +1,11 @@
+{
+  "name": "graphcart",
+  "version": "0.1.2",
+  "summary": "A modular, one-stop data visualization package",
+  "author": "Swaathi S M",
+  "license": "MIT",
+  "home_page": "https://github.com/Swaathi-S-M/visuals",
+  "download_filename": "graphcart-0.1.2.tar.gz",
+  "download_time": "2025-09-27T14:08:32.050020",
+  "package_url": "https://pypi.org/project/graphcart/"
+}

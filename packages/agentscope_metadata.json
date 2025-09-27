@@ -1,0 +1,11 @@
+{
+  "name": "agentscope",
+  "version": "1.0.4",
+  "summary": "AgentScope: A Flexible yet Robust Multi-Agent Platform.",
+  "author": "SysML team of Alibaba Tongyi Lab ",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/agentscope-ai/agentscope",
+  "download_filename": "agentscope-1.0.4.tar.gz",
+  "download_time": "2025-09-27T14:08:30.464951",
+  "package_url": "https://pypi.org/project/agentscope/"
+}

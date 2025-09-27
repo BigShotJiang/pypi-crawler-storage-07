@@ -1,11 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T13:47:59.247841
-- **Total Packages**: 79
-- **Total Size**: 1.99 MB
+- **Download Time**: 2025-09-27T14:08:50.089220
+- **Total Packages**: 83
+- **Total Size**: 9.25 MB
 
 ## Packages List
+- sera-2
+- yt-chap
+- wavy-totem-lib
+- test-mcp-server-ap25092201
+- svc-infra
+- xai-review
+- pygameforbabies
+- pytest-djangoapp
+- aa-killstats
+- dt-cli-tools
+- dogpile-breaker
+- simple-math-moh
+- jupyterlab-zip-extension
+- inspect-swe
+- mtcli
+- boto3-dataclass-marketplacecommerceanalytics
+- RAGents
+- boto3-dataclass-marketplace-reporting
+- boto3-dataclass-marketplace-entitlement
+- boto3-dataclass-marketplace-deployment
+- boto3-dataclass-marketplace-catalog
+- cleandb
+- QuantumChecker
+- cc-clients-python-lib
+- boto3-dataclass-marketplace-agreement
+- boto3-dataclass-managedblockchain-query
+- boto3-dataclass-managedblockchain
+- boto3-dataclass-mailmanager
+- boto3-dataclass-macie2
+- boto3-dataclass-machinelearning
+- boto3-dataclass-m2
+- boto3-dataclass-lookoutvision
+- boto3-dataclass-lookoutmetrics
+- boto3-dataclass-lookoutequipment
+- snakegram
+- boto3-dataclass-location
+- boto3-dataclass-lightsail
+- boto3-dataclass-license-manager-user-subscriptions
+- boto3-dataclass-license-manager-linux-subscriptions
+- tensordict-nightly
+- mpl-sphinx-theme
+- rb-commons
+- python-telegram-bot
+- authentik-client
+- dvc-objects
+- agushuju
+- agentscope
+- mkdocs-sqlite-console
+- jarvis-ai-assistant
+- graphcart
+- ohmyapi
 - redbot-orm
 - file-of-test-of-wangziming
 - felupe
@@ -14,7 +65,6 @@
 - bankingsdk
 - testnexus
 - deps-rocker
-- ohmyapi
 - Instaweb
 - ufanet-intercom-api
 - clean-logging
@@ -24,7 +74,6 @@
 - mtlearn
 - aisuite4cn
 - tacozip
-- authentik-client
 - thaifastembed
 - data-science-pro
 - tavern
@@ -40,48 +89,3 @@
 - qgitc
 - django-dynamic-workflows
 - astreum
-- require-relative
-- breesy
-- draive
-- clipassgen
-- sphinx-breeze-theme
-- shadeDB
-- uthavu-tools
-- tflite-micro
-- rtsvg
-- pixelcache
-- clairmeta
-- study-lyte
-- opopoppo
-- agentle
-- osmose-presets
-- wise-api-client
-- polars-runtime-compat
-- polars-runtime-64
-- tyme4py
-- llmswap
-- polars-runtime-32
-- polars
-- shipy-web
-- nbdev-apl
-- nbdev-django
-- nbdev-sphinx
-- nbdev-scipy
-- nbdev-pytorch
-- nbdev-pandas
-- nbdev-numpy
-- nbdev-stdlib
-- queue-sqlite
-- pyalienvaultcli
-- reqman4
-- fwdi
-- pyinp
-- vvvkkkkkk
-- django-cloudflareimages-toolkit
-- cml-mcp
-- nokch
-- vppppppp
-- queue-sqlite-core
-- xronos-dashboard
-- tencentcloud-sdk-python-dlc
-- tencentcloud-sdk-python-common

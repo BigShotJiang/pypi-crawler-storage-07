@@ -1,0 +1,11 @@
+{
+  "name": "test-mcp-server-ap25092201",
+  "version": "0.1.5",
+  "summary": "Test MCP Server with media handling and prompt capabilities for bootstrap testing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "test_mcp_server_ap25092201-0.1.5.tar.gz",
+  "download_time": "2025-09-27T14:08:06.642604",
+  "package_url": "https://pypi.org/project/test-mcp-server-ap25092201/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mtcli",
+  "version": "2.5.0",
+  "summary": "Aplicativo CLI para exibir gráficos do MetaTrader 5 em texto acessível ao leitor de telas",
+  "author": "Valmir França da Silva",
+  "license": "GPL-3.0",
+  "home_page": "https://pypi.org/project/mtcli",
+  "download_filename": "mtcli-2.5.0.tar.gz",
+  "download_time": "2025-09-27T14:08:12.605928",
+  "package_url": "https://pypi.org/project/mtcli/"
+}

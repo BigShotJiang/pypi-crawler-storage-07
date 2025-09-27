@@ -1,0 +1,11 @@
+{
+  "name": "boto3-dataclass-lookoutmetrics",
+  "version": "1.40.0",
+  "summary": "Dataclass for boto3 lookoutmetrics.",
+  "author": "Sanhe Hu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "boto3_dataclass_lookoutmetrics-1.40.0-py3-none-any.whl",
+  "download_time": "2025-09-27T14:08:22.552501",
+  "package_url": "https://pypi.org/project/boto3-dataclass-lookoutmetrics/"
+}

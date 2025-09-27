@@ -1,0 +1,11 @@
+{
+  "name": "QuantumChecker",
+  "version": "0.3.7",
+  "summary": "A package to evaluate homework submissions in Python, SQL, PowerBI, and SSIS.",
+  "author": "Qobiljon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "quantumchecker-0.3.7.tar.gz",
+  "download_time": "2025-09-27T14:08:17.293783",
+  "package_url": "https://pypi.org/project/QuantumChecker/"
+}
