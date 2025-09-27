@@ -1,11 +1,11 @@
 {
   "name": "tuzi-mcp",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "An MCP (Model Context Protocol) server for asynchronous image generation using the Tu-zi API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tuzi_mcp-0.3.1.tar.gz",
-  "download_time": "2025-09-26T13:48:34.569647",
+  "download_filename": "tuzi_mcp-0.3.2.tar.gz",
+  "download_time": "2025-09-27T03:36:17.047610",
   "package_url": "https://pypi.org/project/tuzi-mcp/"
 }

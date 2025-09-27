@@ -1,0 +1,11 @@
+{
+  "name": "pycalcpp",
+  "version": "0.1.0",
+  "summary": "Calculadora matemática de alto rendimiento (C++ + pybind11)",
+  "author": "JOSEDVP76",
+  "license": "MIT",
+  "home_page": "https://github.com/JDEVELOPER76/PyCal-plus-plus",
+  "download_filename": "pycalcpp-0.1.0.tar.gz",
+  "download_time": "2025-09-27T03:36:24.562971",
+  "package_url": "https://pypi.org/project/pycalcpp/"
+}

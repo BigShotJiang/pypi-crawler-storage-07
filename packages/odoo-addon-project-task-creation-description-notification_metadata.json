@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-project-task-creation-description-notification",
+  "version": "16.0.1.0.0.3",
+  "summary": "Project task description in notifications",
+  "author": "Therp BV, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/project",
+  "download_filename": "odoo_addon_project_task_creation_description_notification-16.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-09-27T03:36:14.855119",
+  "package_url": "https://pypi.org/project/odoo-addon-project-task-creation-description-notification/"
+}

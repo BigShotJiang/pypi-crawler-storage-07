@@ -1,0 +1,11 @@
+{
+  "name": "dt-misc",
+  "version": "0.2.19",
+  "summary": "Misc. utility packages (geoloc, weather, sound, ...)",
+  "author": "Al DAmico",
+  "license": "MIT",
+  "home_page": "https://github.com/JavaWiz1/dt-misc",
+  "download_filename": "dt_misc-0.2.19.tar.gz",
+  "download_time": "2025-09-27T03:36:23.488646",
+  "package_url": "https://pypi.org/project/dt-misc/"
+}

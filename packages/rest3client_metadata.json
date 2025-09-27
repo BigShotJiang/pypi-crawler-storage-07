@@ -1,0 +1,11 @@
+{
+  "name": "rest3client",
+  "version": "0.7.4",
+  "summary": "An abstraction of the requests library providing a simpler API for consuming HTTP REST APIs",
+  "author": "Emilio Reyes",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/soda480/rest3client",
+  "download_filename": "rest3client-0.7.4.tar.gz",
+  "download_time": "2025-09-27T03:36:34.811121",
+  "package_url": "https://pypi.org/project/rest3client/"
+}
