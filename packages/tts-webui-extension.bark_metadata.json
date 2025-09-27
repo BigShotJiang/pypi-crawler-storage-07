@@ -1,0 +1,11 @@
+{
+  "name": "tts-webui-extension.bark",
+  "version": "0.0.4",
+  "summary": "Bark: A text-to-speech model",
+  "author": "rsxdalv",
+  "license": null,
+  "home_page": "https://github.com/rsxdalv/tts_webui_extension.bark",
+  "download_filename": "tts_webui_extension_bark-0.0.4-py3-none-any.whl",
+  "download_time": "2025-09-27T16:11:23.312053",
+  "package_url": "https://pypi.org/project/tts-webui-extension.bark/"
+}

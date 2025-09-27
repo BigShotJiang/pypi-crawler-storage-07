@@ -1,0 +1,11 @@
+{
+  "name": "tts-webui-extension.openai-tts-api",
+  "version": "0.13.4",
+  "summary": "OpenAI compatible TTS API with support for multiple TTS models",
+  "author": "rsxdalv",
+  "license": null,
+  "home_page": "https://github.com/rsxdalv/tts_webui_extension.openai_tts_api",
+  "download_filename": "tts_webui_extension_openai_tts_api-0.13.4-py3-none-any.whl",
+  "download_time": "2025-09-27T16:11:22.176895",
+  "package_url": "https://pypi.org/project/tts-webui-extension.openai-tts-api/"
+}

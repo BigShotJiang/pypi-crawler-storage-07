@@ -1,0 +1,11 @@
+{
+  "name": "tts-webui-extension.seamless-m4t",
+  "version": "0.0.7",
+  "summary": "SeamlessM4T is a multilingual and multimodal translation model supporting text and speech",
+  "author": "rsxdalv",
+  "license": null,
+  "home_page": "https://github.com/rsxdalv/tts_webui_extension.seamless_m4t",
+  "download_filename": "tts_webui_extension_seamless_m4t-0.0.7-py3-none-any.whl",
+  "download_time": "2025-09-27T16:11:19.868437",
+  "package_url": "https://pypi.org/project/tts-webui-extension.seamless-m4t/"
+}

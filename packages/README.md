@@ -1,11 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T15:48:11.668520
-- **Total Packages**: 91
-- **Total Size**: 0.68 MB
+- **Download Time**: 2025-09-27T16:12:06.996262
+- **Total Packages**: 90
+- **Total Size**: 3.85 MB
 
 ## Packages List
+- pygvas
+- avl-axi-stream
+- lsp-sim
+- debug-mcp-server-launcher
+- quantportfolio
+- agentcrew-ai
+- tce-lib
+- streetview-dl
+- cyberark-tpc-plugin-validator
+- tts-webui-extension.seamless-m4t
+- tts-webui-extension.riffusion
+- physai
+- hyperscale-stax
+- tts-webui-extension.openai-tts-api
+- tts-webui-extension.bark
+- awesome-cheap-flights
+- AstrBot
+- my-awesome-package-laxman-2025
+- tts-webui-extension.mimo-audio
+- tts-webui-extension.mms
+- sportsball
+- authentik-client
+- bygg
+- cleandb
+- htag
+- francis-agent
+- deepfabric
+- spotifywebapipython
+- avl-apb
+- python-openagent
+- simple-port-checker
+- sqlalchemy-querytools
+- x-mlps-pytorch
+- svc-infra
 - ohmyapi
 - xbstrap
 - siat
@@ -23,7 +57,6 @@
 - axisfuzzy
 - cyberdrop-dl-patched
 - pictex
-- awesome-cheap-flights
 - usdb-syncer
 - buddybet-transactionmanager
 - cfn2iam
@@ -32,9 +65,7 @@
 - pyqrackising
 - yoyodyne-pretrained
 - ticos-client
-- authentik-client
 - duplicaid
-- lsp-sim
 - robotframework-browserpom
 - restate
 - ipulse-shared-data-eng-ftredge
@@ -65,35 +96,3 @@
 - boto3-dataclass-mediastore-data
 - boto3-dataclass-mediastore
 - mplang-nightly
-- boto3-dataclass-mediapackagev2
-- boto3-dataclass-mediapackage-vod
-- boto3-dataclass-mediapackage
-- boto3-dataclass-medialive
-- boto3-dataclass-mediaconvert
-- boto3-dataclass-mediaconnect
-- graphcart
-- tts-webui-extension.fireredtts2
-- python-xfoil
-- dpaste-magic
-- sqlalchemy-bind-manager
-- energysystemmodels
-- process-gpt-agent-utils
-- process-gpt-agent-sdk
-- sportsball
-- cc-clients-python-lib
-- svc-infra
-- django-unicom
-- x-mlps-pytorch
-- hyundai-kia-connect-api
-- django-unfold-extra
-- pipevine
-- jupyterlab-zip-extension
-- fastrpc-py
-- voice-notes
-- DeepHME
-- randcraft
-- better-regressions
-- dataprof
-- novacordpy
-- mtlearn
-- test-mcp-server-ap25092201

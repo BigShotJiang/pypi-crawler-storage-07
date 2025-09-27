@@ -1,0 +1,11 @@
+{
+  "name": "tts-webui-extension.mimo-audio",
+  "version": "0.0.5",
+  "summary": "A template extension for TTS Generation WebUI",
+  "author": "rsxdalv",
+  "license": null,
+  "home_page": "https://github.com/rsxdalv/tts_webui_extension.mimo_audio",
+  "download_filename": "tts_webui_extension_mimo_audio-0.0.5-py3-none-any.whl",
+  "download_time": "2025-09-27T16:11:26.206635",
+  "package_url": "https://pypi.org/project/tts-webui-extension.mimo-audio/"
+}
