@@ -1,0 +1,11 @@
+{
+  "name": "smt-design-space-ext",
+  "version": "0.4.0",
+  "summary": "SMT design space extension for hierarchical variables handling",
+  "author": "Paul Saves et al.",
+  "license": "BSD-3",
+  "home_page": "https://github.com/SMTorg/smt-design-space",
+  "download_filename": "smt_design_space_ext-0.4.0.tar.gz",
+  "download_time": "2025-09-27T18:12:56.287315",
+  "package_url": "https://pypi.org/project/smt-design-space-ext/"
+}
