@@ -1,9 +1,18 @@
 {
-  "download_time": "2025-09-27T17:26:12.483349",
-  "total_packages_downloaded": 80,
-  "total_size_mb": 14.2,
+  "download_time": "2025-09-27T17:33:26.834067",
+  "total_packages_downloaded": 84,
+  "total_size_mb": 8.0,
   "packages": [
+    "mloggerai",
+    "RanaGPT",
+    "dflock",
+    "ddevdb",
+    "artistools",
+    "boto3-dataclass-qbusiness",
+    "boto3-dataclass-qapps",
     "spice-bio",
+    "boto3-dataclass-proton",
+    "boto3-dataclass-pricing",
     "boto3-dataclass-polly",
     "boto3-dataclass-pipes",
     "boto3-dataclass-pinpoint-sms-voice-v2",
@@ -53,7 +62,6 @@
     "wise-api-client",
     "RAGents",
     "keet",
-    "artistools",
     "missmixed",
     "graph-games-proto",
     "voxelmap",
@@ -78,10 +86,6 @@
     "pyqrackising",
     "orionis",
     "mvg",
-    "spaghettree",
-    "zns-discord-bot",
-    "suitcase-nomad-camels-hdf5",
-    "codexpydec",
-    "domilite"
+    "spaghettree"
   ]
 }
