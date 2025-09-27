@@ -1,0 +1,11 @@
+{
+  "name": "Steam-Stats",
+  "version": "1.4.0",
+  "summary": "A python project to get the stats of your Steam account and display them in your GitHub profile.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "steam_stats-1.4.0.tar.gz",
+  "download_time": "2025-09-27T00:44:03.830402",
+  "package_url": "https://pypi.org/project/Steam-Stats/"
+}

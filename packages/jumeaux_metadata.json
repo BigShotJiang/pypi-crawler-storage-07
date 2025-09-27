@@ -1,0 +1,11 @@
+{
+  "name": "jumeaux",
+  "version": "6.0.1",
+  "summary": "Check difference between two responses of API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jumeaux-6.0.1.tar.gz",
+  "download_time": "2025-09-27T00:43:48.934514",
+  "package_url": "https://pypi.org/project/jumeaux/"
+}
