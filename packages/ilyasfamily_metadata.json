@@ -1,0 +1,11 @@
+{
+  "name": "ilyasfamily",
+  "version": "0.1.0",
+  "summary": "Python implementation of IlyasFamily data format",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ilyasfamily-0.1.0.tar.gz",
+  "download_time": "2025-09-27T06:13:33.194425",
+  "package_url": "https://pypi.org/project/ilyasfamily/"
+}

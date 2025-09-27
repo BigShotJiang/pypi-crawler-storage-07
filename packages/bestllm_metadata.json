@@ -1,0 +1,11 @@
+{
+  "name": "bestllm",
+  "version": "0.0.1",
+  "summary": "Tries to pick the best local llm for your computer and environment.",
+  "author": "Timothy Crosley",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bestllm-0.0.1.tar.gz",
+  "download_time": "2025-09-27T06:13:17.731403",
+  "package_url": "https://pypi.org/project/bestllm/"
+}

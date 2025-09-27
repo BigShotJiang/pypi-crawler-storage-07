@@ -1,0 +1,11 @@
+{
+  "name": "eigenpuls",
+  "version": "0.1.0.post1.dev15",
+  "summary": "Container-native autonomous health checker daemon aggregating CLI-based probes with a unified API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eigenpuls-0.1.0.post1.dev15.tar.gz",
+  "download_time": "2025-09-27T06:13:16.558617",
+  "package_url": "https://pypi.org/project/eigenpuls/"
+}
