@@ -1,11 +1,31 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T18:50:13.809100
-- **Total Packages**: 84
-- **Total Size**: 4.91 MB
+- **Download Time**: 2025-09-27T19:08:03.585369
+- **Total Packages**: 85
+- **Total Size**: 13.88 MB
 
 ## Packages List
+- authentik-client
+- pycatflow
+- indico-plugin-feed-sync
+- jfjoch-client
+- mangledlt
+- ratemaking-tools
+- graph-games-proto
+- news-mcp-server
+- tiny-taskbot
+- xai-review
+- deebot-client
+- policyengine-us
+- academia-mcp
+- kuzu-memory
+- confkit
+- fittrackee
+- ultrapyup
+- mocktrics-exporter
+- vocalizr
+- index
 - AFragmenter
 - shinestacker
 - pylumen
@@ -14,7 +34,6 @@
 - mcp-testing
 - parajax
 - mmslon
-- authentik-client
 - enerhabitat
 - skpoly
 - aemet-mcp
@@ -72,21 +91,3 @@
 - gondola
 - tts-webui-extension.fireredtts2
 - artistools
-- smartdecision-sdk
-- StreamDeckLayoutManager
-- smt-design-space-ext
-- utn-fra
-- graphlit-client
-- apisix-client
-- polychromatic_effects_generator
-- cc-clients-python-lib
-- kuzu-memory
-- baudream
-- arize-phoenix-evals
-- agentds-bench
-- gcl-sdk
-- kodexa
-- reydb
-- ut-eviq
-- FPC
-- clap-detector

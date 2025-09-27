@@ -1,0 +1,11 @@
+{
+  "name": "fittrackee",
+  "version": "0.12.2",
+  "summary": "Self-hosted outdoor workout/activity tracker",
+  "author": "SamR1",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "fittrackee-0.12.2.tar.gz",
+  "download_time": "2025-09-27T19:07:27.678456",
+  "package_url": "https://pypi.org/project/fittrackee/"
+}
