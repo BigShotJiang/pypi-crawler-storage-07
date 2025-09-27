@@ -1,0 +1,11 @@
+{
+  "name": "boto3-dataclass-kinesisanalyticsv2",
+  "version": "1.40.0",
+  "summary": "Dataclass for boto3 kinesisanalyticsv2.",
+  "author": "Sanhe Hu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "boto3_dataclass_kinesisanalyticsv2-1.40.0-py3-none-any.whl",
+  "download_time": "2025-09-27T05:10:10.040108",
+  "package_url": "https://pypi.org/project/boto3-dataclass-kinesisanalyticsv2/"
+}

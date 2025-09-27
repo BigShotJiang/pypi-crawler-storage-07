@@ -1,11 +1,11 @@
 {
   "name": "fabricatio",
-  "version": "0.20.2",
+  "version": "0.20.3",
   "summary": "A LLM multi-agent framework.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fabricatio-0.20.2-cp312-cp312-manylinux_2_34_aarch64.whl",
-  "download_time": "2025-09-27T04:47:37.988182",
+  "download_filename": "fabricatio-0.20.3-cp312-cp312-manylinux_2_34_aarch64.whl",
+  "download_time": "2025-09-27T05:09:57.822093",
   "package_url": "https://pypi.org/project/fabricatio/"
 }
