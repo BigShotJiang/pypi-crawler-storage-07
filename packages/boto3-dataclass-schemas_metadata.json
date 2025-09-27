@@ -1,0 +1,11 @@
+{
+  "name": "boto3-dataclass-schemas",
+  "version": "1.40.0",
+  "summary": "Dataclass for boto3 schemas.",
+  "author": "Sanhe Hu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "boto3_dataclass_schemas-1.40.0-py3-none-any.whl",
+  "download_time": "2025-09-27T19:47:03.722812",
+  "package_url": "https://pypi.org/project/boto3-dataclass-schemas/"
+}

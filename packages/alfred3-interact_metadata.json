@@ -1,0 +1,11 @@
+{
+  "name": "alfred3-interact",
+  "version": "0.4.0",
+  "summary": "Components for interactive experiments in the alfred3 framework.",
+  "author": "Christian Treffenstädt",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "alfred3_interact-0.4.0.tar.gz",
+  "download_time": "2025-09-27T19:46:52.666267",
+  "package_url": "https://pypi.org/project/alfred3-interact/"
+}

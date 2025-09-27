@@ -1,0 +1,11 @@
+{
+  "name": "boto3-dataclass-s3outposts",
+  "version": "1.40.0",
+  "summary": "Dataclass for boto3 s3outposts.",
+  "author": "Sanhe Hu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "boto3_dataclass_s3outposts-1.40.0-py3-none-any.whl",
+  "download_time": "2025-09-27T19:47:10.481415",
+  "package_url": "https://pypi.org/project/boto3-dataclass-s3outposts/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mecopyfile",
+  "version": "1.0.0",
+  "summary": "A modern Python library for intuitive file and directory manipulation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mecopyfile-1.0.0.tar.gz",
+  "download_time": "2025-09-27T19:47:06.844731",
+  "package_url": "https://pypi.org/project/mecopyfile/"
+}

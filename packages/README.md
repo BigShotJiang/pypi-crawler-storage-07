@@ -1,11 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T19:33:27.759413
-- **Total Packages**: 76
-- **Total Size**: 14.02 MB
+- **Download Time**: 2025-09-27T19:47:34.643001
+- **Total Packages**: 85
+- **Total Size**: 9.67 MB
 
 ## Packages List
+- testsuv
+- opswork
+- pthelma
+- simplified-united-llm
+- mteb
+- alfred3-interact
+- sapiens-transformers
+- stego-lsb
+- d-back
+- hassette
+- alfred3
+- codearkt
+- unistat
+- rxlm
+- cml-mcp
+- xai-review
+- authentik-client
+- carbonic
+- boto3-dataclass-servicecatalog
+- boto3-dataclass-service-quotas
+- boto3-dataclass-serverlessrepo
+- boto3-dataclass-securitylake
+- boto3-dataclass-securityhub
+- boto3-dataclass-security-ir
+- nillanet
+- boto3-dataclass-sdb
+- boto3-dataclass-schemas
+- boto3-dataclass-scheduler
+- boto3-dataclass-savingsplans
+- makefast
+- boto3-dataclass-sagemaker-runtime
+- boto3-dataclass-sagemaker-metrics
+- mecopyfile
+- boto3-dataclass-sagemaker-geospatial
+- boto3-dataclass-sagemaker-featurestore-runtime
+- mkds
+- boto3-dataclass-sagemaker-edge
+- boto3-dataclass-sagemaker-a2i-runtime
+- boto3-dataclass-s3tables
+- boto3-dataclass-s3outposts
+- boto3-dataclass-s3control
 - boto3-dataclass-rum
 - terminator-py
 - lt-tensor
@@ -15,17 +56,14 @@
 - ukrainian-tts
 - red-tidegear
 - anfispy
-- carbonic
 - tesseract-decoder
 - simplyprint-bambu-lab
 - yunetas
 - youtube-indirici-atilla
 - rynaki
-- authentik-client
 - nodebuilder
 - annealing-ab
 - detroit
-- xai-review
 - kmlorm
 - dyngle
 - bankingsdk
@@ -33,7 +71,6 @@
 - parajax
 - pdfalyzer
 - eegdash
-- nillanet
 - a003558
 - PermutiveAPI
 - academia-mcp
@@ -54,31 +91,3 @@
 - policyengine-us
 - kuzu-memory
 - confkit
-- fittrackee
-- ultrapyup
-- mocktrics-exporter
-- vocalizr
-- index
-- AFragmenter
-- shinestacker
-- pylumen
-- mcp-4get
-- energysystemmodels
-- mcp-testing
-- mmslon
-- enerhabitat
-- skpoly
-- aemet-mcp
-- codearkt
-- MarkupSafe
-- quazydb
-- greenophy-client
-- boto3-dataclass-route53resolver
-- boto3-dataclass-route53profiles
-- boto3-dataclass-route53domains
-- boto3-dataclass-route53-recovery-readiness
-- weni-agents-toolkit
-- boto3-dataclass-route53-recovery-control-config
-- boto3-dataclass-route53-recovery-cluster
-- geek-cafe-services
-- boto3-dataclass-rolesanywhere
