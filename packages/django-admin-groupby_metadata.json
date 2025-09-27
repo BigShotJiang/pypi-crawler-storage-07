@@ -1,0 +1,11 @@
+{
+  "name": "django-admin-groupby",
+  "version": "1.1",
+  "summary": "A Django app that extends the admin interface with group-by functionality",
+  "author": "Alexei Gousev",
+  "license": null,
+  "home_page": "https://github.com/numegil/django-admin-groupby",
+  "download_filename": "django_admin_groupby-1.1.tar.gz",
+  "download_time": "2025-09-27T21:32:59.271446",
+  "package_url": "https://pypi.org/project/django-admin-groupby/"
+}

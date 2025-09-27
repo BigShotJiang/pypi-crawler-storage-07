@@ -1,0 +1,11 @@
+{
+  "name": "kronoterm2mqtt",
+  "version": "0.1.16",
+  "summary": "Sends MQTT events from KRONOTERM heat pump",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kronoterm2mqtt-0.1.16.tar.gz",
+  "download_time": "2025-09-27T21:32:58.236730",
+  "package_url": "https://pypi.org/project/kronoterm2mqtt/"
+}

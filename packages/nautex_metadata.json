@@ -1,0 +1,11 @@
+{
+  "name": "nautex",
+  "version": "0.2.17",
+  "summary": "Nautex AI MCP server that works as Product and Project manager for coding agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nautex-0.2.17.tar.gz",
+  "download_time": "2025-09-27T21:32:56.647644",
+  "package_url": "https://pypi.org/project/nautex/"
+}
