@@ -1,0 +1,11 @@
+{
+  "name": "dswell",
+  "version": "0.1.0",
+  "summary": "A daemon-based file deletion utility",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dswell-0.1.0.tar.gz",
+  "download_time": "2025-09-27T08:32:01.196274",
+  "package_url": "https://pypi.org/project/dswell/"
+}

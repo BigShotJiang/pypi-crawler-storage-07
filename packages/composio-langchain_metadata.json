@@ -1,11 +1,11 @@
 {
   "name": "composio-langchain",
-  "version": "0.8.14",
+  "version": "0.8.15",
   "summary": "Use Composio to get an array of tools with your Langchain agent.",
   "author": "composio",
   "license": null,
   "home_page": "https://github.com/ComposioHQ/composio",
-  "download_filename": "composio_langchain-0.8.14.tar.gz",
-  "download_time": "2025-09-26T14:47:29.073730",
+  "download_filename": "composio_langchain-0.8.15.tar.gz",
+  "download_time": "2025-09-27T08:32:12.093640",
   "package_url": "https://pypi.org/project/composio-langchain/"
 }
