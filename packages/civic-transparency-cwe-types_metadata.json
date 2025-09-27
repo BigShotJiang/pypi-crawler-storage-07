@@ -1,11 +1,11 @@
 {
   "name": "civic-transparency-cwe-types",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Immutable datatype library for Common Weakness Enumeration (CWE) analysis and validation workflows",
   "author": "Civic Interconnect",
   "license": null,
   "home_page": null,
-  "download_filename": "civic_transparency_cwe_types-0.0.5.tar.gz",
-  "download_time": "2025-09-27T12:56:07.421855",
+  "download_filename": "civic_transparency_cwe_types-0.0.6.tar.gz",
+  "download_time": "2025-09-27T18:36:15.412155",
   "package_url": "https://pypi.org/project/civic-transparency-cwe-types/"
 }
