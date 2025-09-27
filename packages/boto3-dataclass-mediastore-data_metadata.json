@@ -1,0 +1,11 @@
+{
+  "name": "boto3-dataclass-mediastore-data",
+  "version": "1.40.0",
+  "summary": "Dataclass for boto3 mediastore_data.",
+  "author": "Sanhe Hu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "boto3_dataclass_mediastore_data-1.40.0-py3-none-any.whl",
+  "download_time": "2025-09-27T15:09:32.629579",
+  "package_url": "https://pypi.org/project/boto3-dataclass-mediastore-data/"
+}

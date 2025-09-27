@@ -1,0 +1,11 @@
+{
+  "name": "boto3-dataclass-mediapackage-vod",
+  "version": "1.40.0",
+  "summary": "Dataclass for boto3 mediapackage_vod.",
+  "author": "Sanhe Hu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "boto3_dataclass_mediapackage_vod-1.40.0-py3-none-any.whl",
+  "download_time": "2025-09-27T15:09:34.710712",
+  "package_url": "https://pypi.org/project/boto3-dataclass-mediapackage-vod/"
+}

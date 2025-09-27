@@ -1,0 +1,11 @@
+{
+  "name": "dpaste-magic",
+  "version": "0.3.0",
+  "summary": "Magic command to dpaste / get line & cell content",
+  "author": "HerveMignot",
+  "license": "MIT",
+  "home_page": "http://github.com/HerveMignot/dpaste_magic",
+  "download_filename": "dpaste_magic-0.3.0.tar.gz",
+  "download_time": "2025-09-27T15:09:38.875609",
+  "package_url": "https://pypi.org/project/dpaste-magic/"
+}

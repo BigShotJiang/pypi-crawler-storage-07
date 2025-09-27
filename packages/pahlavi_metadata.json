@@ -1,0 +1,11 @@
+{
+  "name": "pahlavi",
+  "version": "0.3.0",
+  "summary": "A compact toolkit for Iran's past: convert dates & compare currency and new features",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pahlavi-0.3.0.tar.gz",
+  "download_time": "2025-09-27T15:09:14.307490",
+  "package_url": "https://pypi.org/project/pahlavi/"
+}

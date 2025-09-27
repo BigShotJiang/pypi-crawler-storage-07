@@ -1,0 +1,11 @@
+{
+  "name": "ticos-client",
+  "version": "0.7.2",
+  "summary": "A client SDK for the Ticos Agent system with HTTP and WebSocket support",
+  "author": "Ticos Team",
+  "license": null,
+  "home_page": "https://github.com/tiwater/ticos-client",
+  "download_filename": "ticos_client-0.7.2.tar.gz",
+  "download_time": "2025-09-27T15:09:15.356045",
+  "package_url": "https://pypi.org/project/ticos-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fylex",
+  "version": "1.2.3",
+  "summary": "Fylex: A production-ready, high-performance file utility tailored for Linux — with smart copy/move, hashing, filters, undo/redo, and conflict resolution.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fylex-1.2.3.tar.gz",
+  "download_time": "2025-09-27T15:09:12.725359",
+  "package_url": "https://pypi.org/project/fylex/"
+}

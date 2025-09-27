@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy-bind-manager",
+  "version": "0.13.2",
+  "summary": "A manager to easily handle multiple SQLAlchemy configurations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlalchemy_bind_manager-0.13.2.tar.gz",
+  "download_time": "2025-09-27T15:09:39.397536",
+  "package_url": "https://pypi.org/project/sqlalchemy-bind-manager/"
+}
