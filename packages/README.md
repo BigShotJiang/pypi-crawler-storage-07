@@ -1,25 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T13:15:38.439891
-- **Total Packages**: 79
-- **Total Size**: 10.28 MB
+- **Download Time**: 2025-09-27T13:30:34.431835
+- **Total Packages**: 81
+- **Total Size**: 14.44 MB
 
 ## Packages List
+- pashassh
+- wyhmcpserver
+- clean-logging
+- fbgemm-gpu-nightly-cpu
+- authentik-client
+- qgitc
+- rubetek-socket-api
+- data-science-pro
+- django-dynamic-workflows
+- astreum
+- desmos-studio
+- file-of-test-of-wangziming
+- require-relative
+- breesy
+- redbot-orm
+- draive
+- clipassgen
+- sphinx-breeze-theme
+- shadeDB
+- domru-intercom-api
+- uthavu-tools
+- tflite-micro
+- rtsvg
+- pixelcache
+- testnexus
+- clairmeta
+- study-lyte
+- opopoppo
+- agentle
+- osmose-presets
+- wise-api-client
+- polars-runtime-compat
 - polars-runtime-64
 - tyme4py
 - llmswap
 - polars-runtime-32
 - polars
-- data-science-pro
-- ragents
 - shipy-web
 - nbdev-apl
 - nbdev-django
 - nbdev-sphinx
 - nbdev-scipy
 - nbdev-pytorch
-- authentik-client
 - nbdev-pandas
 - nbdev-numpy
 - nbdev-stdlib
@@ -41,11 +70,9 @@
 - tencentcloud-sdk-python-common
 - django-hx
 - xronos
-- sphinx-breeze-theme
 - datahold
 - sportsball
 - mocktrics-exporter
-- clipassgen
 - lark-webhook-notify
 - setdoc
 - glotter2
@@ -59,29 +86,4 @@
 - AstrBot
 - tencentcloud-sdk-python-intl-en
 - catfacts-cli
-- file-of-test-of-wangziming
 - zbWidgetLib
-- create-rl-app
-- pyssp-standard
-- crypticorn-utils
-- osmose-presets
-- rtty-soda
-- sieves
-- mdbq
-- apisix-client
-- CheeseChase
-- pyolive
-- morphic
-- pycrdfcli
-- pywebtransport
-- tccli-intl-en
-- snakegram
-- tptt
-- roksta
-- foamlib
-- crypticorn
-- MangoDB-Connect
-- cvfbbbb
-- capture-hc
-- lihil
-- jbag

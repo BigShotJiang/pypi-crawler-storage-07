@@ -1,11 +1,11 @@
 {
   "name": "osmose-presets",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "osmose_presets-0.1.4.tar.gz",
-  "download_time": "2025-09-27T12:55:42.800874",
+  "download_filename": "osmose_presets-0.1.5.tar.gz",
+  "download_time": "2025-09-27T13:30:05.972073",
   "package_url": "https://pypi.org/project/osmose-presets/"
 }
