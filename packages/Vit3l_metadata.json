@@ -1,11 +1,11 @@
 {
   "name": "Vit3l",
-  "version": "0.19.1",
+  "version": "0.22.0",
   "summary": "Fork of Eel with Vite HMR support for modern web development",
   "author": "Juan Brotenelle",
   "license": null,
   "home_page": "https://github.com/JuanBrotenelle/vit3l",
-  "download_filename": "vit3l-0.19.1.tar.gz",
-  "download_time": "2025-09-26T12:19:08.574393",
+  "download_filename": "vit3l-0.22.0.tar.gz",
+  "download_time": "2025-09-27T10:39:00.579517",
   "package_url": "https://pypi.org/project/Vit3l/"
 }

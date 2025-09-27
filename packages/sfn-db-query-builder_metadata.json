@@ -1,0 +1,11 @@
+{
+  "name": "sfn-db-query-builder",
+  "version": "0.1.1",
+  "summary": "Simplify SQL queries across databases",
+  "author": "Rajesh Darak",
+  "license": null,
+  "home_page": "https://bitbucket.org/ChandaniStepFunction/db_query_builder",
+  "download_filename": "sfn_db_query_builder-0.1.1.tar.gz",
+  "download_time": "2025-09-27T10:38:56.756440",
+  "package_url": "https://pypi.org/project/sfn-db-query-builder/"
+}

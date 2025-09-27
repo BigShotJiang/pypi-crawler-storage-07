@@ -1,11 +1,11 @@
 {
   "name": "metabolights-utils",
-  "version": "1.4.5",
+  "version": "1.4.6",
   "summary": "MetaboLights open metabolomics data repository utility tools and API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "metabolights_utils-1.4.5.tar.gz",
-  "download_time": "2025-09-26T17:27:25.485515",
+  "download_filename": "metabolights_utils-1.4.6.tar.gz",
+  "download_time": "2025-09-27T10:39:09.259958",
   "package_url": "https://pypi.org/project/metabolights-utils/"
 }
