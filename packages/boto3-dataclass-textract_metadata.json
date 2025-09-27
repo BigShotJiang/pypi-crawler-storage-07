@@ -1,0 +1,11 @@
+{
+  "name": "boto3-dataclass-textract",
+  "version": "1.40.0",
+  "summary": "Dataclass for boto3 textract.",
+  "author": "Sanhe Hu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "boto3_dataclass_textract-1.40.0-py3-none-any.whl",
+  "download_time": "2025-09-27T21:47:32.575091",
+  "package_url": "https://pypi.org/project/boto3-dataclass-textract/"
+}
