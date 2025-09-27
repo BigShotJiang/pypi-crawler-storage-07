@@ -1,11 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T03:50:14.125539
-- **Total Packages**: 87
-- **Total Size**: 4.3 MB
+- **Download Time**: 2025-09-27T04:12:52.189164
+- **Total Packages**: 81
+- **Total Size**: 9.44 MB
 
 ## Packages List
+- worktoy
+- odoo-addon-stock-inventory-verification-request
+- akshare
+- kabukit
+- odoo-addon-shopfloor
+- odoo-addon-stock-storage-type
+- parsehub
+- llms-py
+- odoo-addon-mail-activity-meeting-reminder
+- boto3-dataclass-ivs-realtime
+- boto3-dataclass-ivs
+- boto3-dataclass-iotwireless
+- authentik-client
+- boto3-dataclass-iottwinmaker
+- boto3-dataclass-iotthingsgraph
+- boto3-dataclass-iotsitewise
+- s-MProcs
+- boto3-dataclass-iotsecuretunneling
+- odoo-addon-sign-oca
+- boto3-dataclass-iotfleetwise
+- boto3-dataclass-iotfleethub
+- boto3-dataclass-iotevents-data
+- MProcs
+- boto3-dataclass-iotevents
+- boto3-dataclass-iotdeviceadvisor
+- boto3-dataclass-iotanalytics
+- boto3-dataclass-iot-managed-integrations
+- boto3-dataclass-iot-jobs-data
+- odoo-addon-base-model-restrict-update
+- boto3-dataclass-iot-data
+- ohmyapi
+- boto3-dataclass-iot
+- boto3-dataclass-invoicing
+- boto3-dataclass-internetmonitor
+- boto3-dataclass-inspector-scan
+- pulumi-hcloud
+- pulumi-newrelic
+- crudle
+- keras-nightly
+- pex
 - pulumi-pagerduty
 - odoo-addon-auth-saml
 - odoo-addon-sale-delivery-state
@@ -13,7 +53,6 @@
 - odoo-addon-sale-partner-primeship
 - odoo-addons-oca-sale-workflow
 - python-tornet
-- authentik-client
 - MemoLib
 - bfcl-eval
 - autowzry
@@ -22,15 +61,12 @@
 - pulumi-ns1
 - simacode
 - eq3btsmart
-- pulumi-newrelic
-- pulumi-hcloud
 - lexicon-python
 - odoo-addon-purchase-lot
 - lexia
 - krpcc
 - BackcastPro
 - odoo-addon-purchase-mto-owner
-- ohmyapi
 - publicsuffixlist
 - dybuf
 - cdktf-cdktf-provider-nomad
@@ -48,48 +84,6 @@
 - odoo-addon-payroll-contract-advantages
 - philh_myftp_biz
 - odoo-addon-partner-identification
-- crudle
 - dt-misc
 - keras-rs-nightly
 - pycalcpp
-- l0n0lc
-- odoo-addon-mis-builder
-- basic-open-agent-tools
-- typed-linq-collections
-- GANDLF
-- pulumi-gcp
-- odoo-addon-mgmtsystem-review-survey
-- genai-prices
-- odoo-addon-maintenance-project
-- odoo-addon-maintenance-request-tags
-- airtest-mobileauto
-- pyolive
-- code-puppy
-- voxcity
-- captcha-ocr-devkit
-- npckk
-- frametree
-- rest3client
-- datadog-cloudgen-firewall
-- zenx
-- odoo-addon-l10n-it-currency-rate-update-boi
-- mcp-rag-librarian
-- tree-source-localization
-- npck
-- mtflib
-- mcp-mysql-tool
-- balify
-- video-to-ascii
-- odoo-addon-hr-holidays-summary-email
-- x-transformers
-- hockey-blast-common-lib
-- respick
-- odoo-addon-helpdesk-product
-- odoo-addon-helpdesk-mgmt
-- odoo-addon-helpdesk-mgmt-project
-- odoo-addon-helpdesk-type-sla
-- odoo-addon-helpdesk-mgmt-project-domain
-- mcp-pdf
-- sambanova
-- mailworks
-- agentic-fabric-sdk

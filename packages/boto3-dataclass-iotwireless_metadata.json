@@ -1,0 +1,11 @@
+{
+  "name": "boto3-dataclass-iotwireless",
+  "version": "1.40.0",
+  "summary": "Dataclass for boto3 iotwireless.",
+  "author": "Sanhe Hu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "boto3_dataclass_iotwireless-1.40.0-py3-none-any.whl",
+  "download_time": "2025-09-27T04:12:11.055444",
+  "package_url": "https://pypi.org/project/boto3-dataclass-iotwireless/"
+}

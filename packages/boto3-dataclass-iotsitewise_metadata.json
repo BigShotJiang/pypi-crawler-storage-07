@@ -1,0 +1,11 @@
+{
+  "name": "boto3-dataclass-iotsitewise",
+  "version": "1.40.0",
+  "summary": "Dataclass for boto3 iotsitewise.",
+  "author": "Sanhe Hu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "boto3_dataclass_iotsitewise-1.40.0-py3-none-any.whl",
+  "download_time": "2025-09-27T04:12:13.398215",
+  "package_url": "https://pypi.org/project/boto3-dataclass-iotsitewise/"
+}
