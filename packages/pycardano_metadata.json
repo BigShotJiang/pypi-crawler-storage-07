@@ -1,0 +1,11 @@
+{
+  "name": "pycardano",
+  "version": "0.16.0",
+  "summary": "A Cardano library in Python",
+  "author": "Jerry",
+  "license": "MIT",
+  "home_page": "https://github.com/Python-Cardano/pycardano",
+  "download_filename": "pycardano-0.16.0.tar.gz",
+  "download_time": "2025-09-27T21:08:15.133822",
+  "package_url": "https://pypi.org/project/pycardano/"
+}

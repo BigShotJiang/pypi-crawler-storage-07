@@ -1,11 +1,11 @@
 {
   "name": "redbot-orm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Postgres and SQLite extensions for Red-DiscordBot",
   "author": "Vertyco",
   "license": null,
   "home_page": "https://github.com/vertyco/redbot-orm",
-  "download_filename": "redbot_orm-1.0.1.tar.gz",
-  "download_time": "2025-09-27T13:47:16.042985",
+  "download_filename": "redbot_orm-1.0.2.tar.gz",
+  "download_time": "2025-09-27T21:08:17.197938",
   "package_url": "https://pypi.org/project/redbot-orm/"
 }
