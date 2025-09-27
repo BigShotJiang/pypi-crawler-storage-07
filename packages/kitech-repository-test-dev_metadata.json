@@ -1,11 +1,11 @@
 {
   "name": "kitech-repository-test-dev",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "[TEST DEV] KITECH Manufacturing Data Repository CLI and Library - Development Testing Version",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kitech_repository_test_dev-0.1.3.tar.gz",
-  "download_time": "2025-09-27T11:07:45.058613",
+  "download_filename": "kitech_repository_test_dev-0.1.5.tar.gz",
+  "download_time": "2025-09-27T11:21:55.817742",
   "package_url": "https://pypi.org/project/kitech-repository-test-dev/"
 }

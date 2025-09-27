@@ -1,11 +1,11 @@
 {
   "name": "vertex-batch",
-  "version": "1.0.3",
+  "version": "0.0.1",
   "summary": "A module for batch processing with Google Cloud Storage and MongoDB integration.",
   "author": "AYOUB ERRKHIS",
   "license": null,
   "home_page": null,
-  "download_filename": "vertex_batch-1.0.3.tar.gz",
-  "download_time": "2025-09-27T11:08:01.743498",
+  "download_filename": "vertex_batch-0.0.1.tar.gz",
+  "download_time": "2025-09-27T11:22:01.172992",
   "package_url": "https://pypi.org/project/vertex-batch/"
 }

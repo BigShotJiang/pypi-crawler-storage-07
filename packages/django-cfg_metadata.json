@@ -1,11 +1,11 @@
 {
   "name": "django-cfg",
-  "version": "1.3.5",
+  "version": "1.3.7",
   "summary": "🚀 Next-gen Django configuration: type-safety, AI features, blazing-fast setup, and automated best practices — all in one.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_cfg-1.3.5.tar.gz",
-  "download_time": "2025-09-27T11:07:46.624794",
+  "download_filename": "django_cfg-1.3.7.tar.gz",
+  "download_time": "2025-09-27T11:22:01.754054",
   "package_url": "https://pypi.org/project/django-cfg/"
 }
