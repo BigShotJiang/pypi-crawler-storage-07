@@ -1,9 +1,14 @@
 {
-  "download_time": "2025-09-27T09:26:52.486298",
-  "total_packages_downloaded": 76,
-  "total_size_mb": 0.94,
+  "download_time": "2025-09-27T09:33:29.778196",
+  "total_packages_downloaded": 77,
+  "total_size_mb": 0.34,
   "packages": [
     "timetracking",
+    "slack-lists-mcp",
+    "conson-xp",
+    "chart-beautifier",
+    "him-lychee",
+    "shipy-web",
     "student-management-basic",
     "authentik-client",
     "create-rl-app",
@@ -46,12 +51,7 @@
     "autogluon.common",
     "cltk",
     "funcguard",
-    "agilab",
-    "agi-core",
-    "agi-cluster",
-    "agi-node",
     "llm-registry",
-    "agi-env",
     "pynadlan",
     "aiocfscraper",
     "abstract-hugpy",
@@ -65,7 +65,6 @@
     "pytnl",
     "scxpand",
     "scxpand-cuda",
-    "chart-beautifier",
     "urwah-smart-file-organizer",
     "omni-lpr",
     "PyAccessModifier",
@@ -78,6 +77,8 @@
     "jupyterlab-js",
     "ai-ebash",
     "mplang-nightly",
-    "tfp-nightly"
+    "tfp-nightly",
+    "miniappi",
+    "philiarabbit"
   ]
 }

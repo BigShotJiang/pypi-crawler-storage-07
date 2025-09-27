@@ -1,12 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T09:26:52.486298
-- **Total Packages**: 76
-- **Total Size**: 0.94 MB
+- **Download Time**: 2025-09-27T09:33:29.778196
+- **Total Packages**: 77
+- **Total Size**: 0.34 MB
 
 ## Packages List
 - timetracking
+- slack-lists-mcp
+- conson-xp
+- chart-beautifier
+- him-lychee
+- shipy-web
 - student-management-basic
 - authentik-client
 - create-rl-app
@@ -49,12 +54,7 @@
 - autogluon.common
 - cltk
 - funcguard
-- agilab
-- agi-core
-- agi-cluster
-- agi-node
 - llm-registry
-- agi-env
 - pynadlan
 - aiocfscraper
 - abstract-hugpy
@@ -68,7 +68,6 @@
 - pytnl
 - scxpand
 - scxpand-cuda
-- chart-beautifier
 - urwah-smart-file-organizer
 - omni-lpr
 - PyAccessModifier
@@ -82,3 +81,5 @@
 - ai-ebash
 - mplang-nightly
 - tfp-nightly
+- miniappi
+- philiarabbit
