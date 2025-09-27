@@ -1,0 +1,11 @@
+{
+  "name": "wejax",
+  "version": "1.0.1",
+  "summary": "Compute the Fisher Information Matrix (FIM) of your favorite JAX models",
+  "author": "Jean-Baptiste Bayle",
+  "license": "BSD-3-Clause",
+  "home_page": "https://gitlab.com/lisamission/wejax",
+  "download_filename": "wejax-1.0.1.tar.gz",
+  "download_time": "2025-09-27T22:08:27.727366",
+  "package_url": "https://pypi.org/project/wejax/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "album-of-the-year-api",
+  "version": "0.2.10",
+  "summary": "A light weight Python library that acts as an API for the website albumoftheyear.org",
+  "author": "Jahsias White",
+  "license": "GNU",
+  "home_page": "https://github.com/JahsiasWhite/AlbumOfTheYearWrapper",
+  "download_filename": "album-of-the-year-api-0.2.10.tar.gz",
+  "download_time": "2025-09-27T22:08:33.441421",
+  "package_url": "https://pypi.org/project/album-of-the-year-api/"
+}

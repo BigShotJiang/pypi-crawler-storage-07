@@ -1,11 +1,11 @@
 {
   "name": "image-processing-yasmim",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Image Processing Package using skimage",
-  "author": "Karina",
+  "author": "Yasmim",
   "license": null,
-  "home_page": "https://github.com/tiemi/image-processing-package",
-  "download_filename": "image_processing_yasmim-0.0.2.tar.gz",
-  "download_time": "2025-09-27T21:24:02.694843",
+  "home_page": "https://github.com/Yasmim/image-processing-yasmim",
+  "download_filename": "image_processing_yasmim-0.0.3.tar.gz",
+  "download_time": "2025-09-27T22:08:28.769147",
   "package_url": "https://pypi.org/project/image-processing-yasmim/"
 }

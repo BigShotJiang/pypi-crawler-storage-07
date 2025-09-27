@@ -1,0 +1,11 @@
+{
+  "name": "tissuelab-sdk",
+  "version": "0.1.8",
+  "summary": "TissueLab Python SDK - OS-aware imaging wrappers",
+  "author": "TissueLab Team",
+  "license": null,
+  "home_page": "https://github.com/zhihuanglab/TissueLab-SDK.git",
+  "download_filename": "tissuelab_sdk-0.1.8.tar.gz",
+  "download_time": "2025-09-27T22:08:24.517150",
+  "package_url": "https://pypi.org/project/tissuelab-sdk/"
+}
