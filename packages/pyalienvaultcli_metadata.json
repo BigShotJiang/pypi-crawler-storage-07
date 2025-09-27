@@ -1,0 +1,11 @@
+{
+  "name": "pyalienvaultcli",
+  "version": "1.2",
+  "summary": "A simple Python script to interact with Alienvault OTX APIs from CLI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyalienvaultcli-1.2.tar.gz",
+  "download_time": "2025-09-27T13:15:01.072058",
+  "package_url": "https://pypi.org/project/pyalienvaultcli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "django-hx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Tools for using Django with HTMX",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_hx-0.1.0.tar.gz",
-  "download_time": "2025-09-27T12:55:53.183929",
+  "download_filename": "django_hx-0.1.1.tar.gz",
+  "download_time": "2025-09-27T13:15:11.308018",
   "package_url": "https://pypi.org/project/django-hx/"
 }

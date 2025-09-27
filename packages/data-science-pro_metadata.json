@@ -1,11 +1,11 @@
 {
   "name": "data-science-pro",
-  "version": "0.1.17",
+  "version": "0.1.19",
   "summary": "LLM-powered modular data science pipeline",
   "author": "Rajratan More",
   "license": null,
   "home_page": null,
-  "download_filename": "data_science_pro-0.1.17.tar.gz",
-  "download_time": "2025-09-27T12:55:30.099448",
+  "download_filename": "data_science_pro-0.1.19.tar.gz",
+  "download_time": "2025-09-27T13:14:52.515418",
   "package_url": "https://pypi.org/project/data-science-pro/"
 }
