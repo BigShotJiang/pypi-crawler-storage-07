@@ -1,0 +1,11 @@
+{
+  "name": "bc-django-modeltranslator",
+  "version": "0.0.3",
+  "summary": "A Django app for adding field-level translations to your models.",
+  "author": "max_luci4",
+  "license": "MIT",
+  "home_page": "https://github.com/chigan0/bc-model-translator.git",
+  "download_filename": "bc_django_modeltranslator-0.0.3.tar.gz",
+  "download_time": "2025-09-27T21:24:09.717940",
+  "package_url": "https://pypi.org/project/bc-django-modeltranslator/"
+}

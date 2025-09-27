@@ -1,11 +1,11 @@
 {
   "name": "kclasses",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Extensions of built-in Python classes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kclasses-0.1.3.tar.gz",
-  "download_time": "2025-09-27T21:08:08.921911",
+  "download_filename": "kclasses-0.1.4.tar.gz",
+  "download_time": "2025-09-27T21:24:13.087410",
   "package_url": "https://pypi.org/project/kclasses/"
 }
