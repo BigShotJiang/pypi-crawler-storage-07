@@ -1,0 +1,11 @@
+{
+  "name": "colcon-meson",
+  "version": "0.5.0",
+  "summary": "Extension for colcon to support Meson packages.",
+  "author": "Christian Rauch",
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "colcon_meson-0.5.0.tar.gz",
+  "download_time": "2025-09-27T17:47:17.310288",
+  "package_url": "https://pypi.org/project/colcon-meson/"
+}

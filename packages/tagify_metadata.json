@@ -1,0 +1,11 @@
+{
+  "name": "tagify",
+  "version": "0.0.10",
+  "summary": "Parser that converts strings with variables and functions to more advance strings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tagify-0.0.10.tar.gz",
+  "download_time": "2025-09-27T17:47:13.710285",
+  "package_url": "https://pypi.org/project/tagify/"
+}

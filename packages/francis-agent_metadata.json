@@ -1,11 +1,11 @@
 {
   "name": "francis-agent",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "summary": "Francis agent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "francis_agent-1.0.9.tar.gz",
-  "download_time": "2025-09-27T16:11:30.370259",
+  "download_filename": "francis_agent-1.0.10.tar.gz",
+  "download_time": "2025-09-27T17:47:09.278950",
   "package_url": "https://pypi.org/project/francis-agent/"
 }

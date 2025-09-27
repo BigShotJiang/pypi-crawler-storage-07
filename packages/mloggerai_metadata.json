@@ -1,11 +1,11 @@
 {
   "name": "mloggerai",
-  "version": "0.1.0",
-  "summary": "**AiLogger** is a Python package that automatically analyzes Python tracebacks using AI models (OpenAI / LM Studio) and provides concise bug fixes directly in the logs.",
-  "author": "mirko perrone",
+  "version": "0.1.1",
+  "summary": "AiLogger: AI-powered Python traceback analyzer",
+  "author": "Mirko Perrone",
   "license": null,
   "home_page": null,
-  "download_filename": "mloggerai-0.1.0.tar.gz",
-  "download_time": "2025-09-27T17:32:43.007384",
+  "download_filename": "mloggerai-0.1.1.tar.gz",
+  "download_time": "2025-09-27T17:47:20.137905",
   "package_url": "https://pypi.org/project/mloggerai/"
 }

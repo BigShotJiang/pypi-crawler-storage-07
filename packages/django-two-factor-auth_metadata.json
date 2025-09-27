@@ -1,0 +1,11 @@
+{
+  "name": "django-two-factor-auth",
+  "version": "1.18.1",
+  "summary": "Complete Two-Factor Authentication for Django",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_two_factor_auth-1.18.1.tar.gz",
+  "download_time": "2025-09-27T17:47:17.848867",
+  "package_url": "https://pypi.org/project/django-two-factor-auth/"
+}
