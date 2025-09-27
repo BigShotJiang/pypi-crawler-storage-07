@@ -1,0 +1,11 @@
+{
+  "name": "rune-lib",
+  "version": "0.0.3",
+  "summary": "Zero-configuration, OS-independent asset management for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rune_lib-0.0.3.tar.gz",
+  "download_time": "2025-09-27T04:47:35.666614",
+  "package_url": "https://pypi.org/project/rune-lib/"
+}
