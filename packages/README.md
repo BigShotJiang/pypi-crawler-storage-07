@@ -1,22 +1,32 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T13:30:34.431835
-- **Total Packages**: 81
-- **Total Size**: 14.44 MB
+- **Download Time**: 2025-09-27T13:38:37.915997
+- **Total Packages**: 79
+- **Total Size**: 3.37 MB
 
 ## Packages List
+- aisuite4cn
+- tacozip
+- authentik-client
+- thaifastembed
+- data-science-pro
+- testnexus
+- tavern
+- mtlearn
+- desmos-studio
+- grit-guardian-cli
+- django-unfold-patrick
+- veda-lib
+- domru-intercom-api
+- rubetek-socket-api
 - pashassh
 - wyhmcpserver
 - clean-logging
 - fbgemm-gpu-nightly-cpu
-- authentik-client
 - qgitc
-- rubetek-socket-api
-- data-science-pro
 - django-dynamic-workflows
 - astreum
-- desmos-studio
 - file-of-test-of-wangziming
 - require-relative
 - breesy
@@ -25,12 +35,10 @@
 - clipassgen
 - sphinx-breeze-theme
 - shadeDB
-- domru-intercom-api
 - uthavu-tools
 - tflite-micro
 - rtsvg
 - pixelcache
-- testnexus
 - clairmeta
 - study-lyte
 - opopoppo
@@ -77,13 +85,3 @@
 - setdoc
 - glotter2
 - universal-scraper
-- voxtream
-- tensorcircuit-nightly
-- exodus-core
-- ut-tod
-- process-gpt-agent-sdk
-- grit-guardian-cli
-- AstrBot
-- tencentcloud-sdk-python-intl-en
-- catfacts-cli
-- zbWidgetLib
