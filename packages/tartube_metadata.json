@@ -1,11 +1,11 @@
 {
   "name": "tartube",
-  "version": "2.5.171",
+  "version": "2.5.177",
   "summary": "GUI front-end for youtube-dl and yt-dlp",
   "author": "A S Lewis",
   "license": "LGPLv2.1+",
   "home_page": "https://tartube.sourceforge.io",
-  "download_filename": "tartube-2.5.171-py3-none-any.whl",
-  "download_time": "2025-09-27T08:12:08.747666",
+  "download_filename": "tartube-2.5.177-py3-none-any.whl",
+  "download_time": "2025-09-27T11:07:44.539879",
   "package_url": "https://pypi.org/project/tartube/"
 }
