@@ -1,0 +1,11 @@
+{
+  "name": "ab-client-token-validator",
+  "version": "0.1.0",
+  "summary": "A client library for accessing FastAPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ab_client_token_validator-0.1.0.tar.gz",
+  "download_time": "2025-09-27T09:09:40.903781",
+  "package_url": "https://pypi.org/project/ab-client-token-validator/"
+}

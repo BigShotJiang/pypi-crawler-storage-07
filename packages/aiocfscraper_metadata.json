@@ -1,0 +1,11 @@
+{
+  "name": "aiocfscraper",
+  "version": "1.2.71",
+  "summary": "A Python module to bypass Cloudflare's anti-bot page.",
+  "author": "bolone-sengkuni",
+  "license": null,
+  "home_page": "https://github.com/bolone-sengkuni/aio-cloudscraper",
+  "download_filename": "aiocfscraper-1.2.71.tar.gz",
+  "download_time": "2025-09-27T09:09:28.929644",
+  "package_url": "https://pypi.org/project/aiocfscraper/"
+}

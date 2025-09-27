@@ -1,0 +1,11 @@
+{
+  "name": "numersys",
+  "version": "0.0.1",
+  "summary": "Library for converting numbers between various numeral systems.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "numersys-0.0.1.tar.gz",
+  "download_time": "2025-09-27T09:09:24.232277",
+  "package_url": "https://pypi.org/project/numersys/"
+}

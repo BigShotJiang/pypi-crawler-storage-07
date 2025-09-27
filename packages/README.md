@@ -1,16 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T08:48:29.134310
-- **Total Packages**: 77
-- **Total Size**: 12.76 MB
+- **Download Time**: 2025-09-27T09:09:53.711942
+- **Total Packages**: 68
+- **Total Size**: 17.52 MB
 
 ## Packages List
+- authentik-client
+- ab-user
+- kitech-repository-test-dev
+- gdsfactory
+- autogluon
+- autogluon.timeseries
+- autogluon.multimodal
+- autogluon.tabular
+- autogluon.features
+- autogluon.core
+- autogluon.common
+- cltk
+- numersys
+- funcguard
+- agilab
+- agi-core
+- agi-cluster
+- agi-node
+- llm-registry
+- agi-env
+- pynadlan
+- aiocfscraper
+- abstract-hugpy
+- reqman4
+- headless-driver
+- notes-mcp
+- struct_post
+- pyapiq
+- timetracking
+- booklab
+- yak-server
+- swellow
+- pytnl
+- django-w-careers
+- scxpand
+- scxpand-cuda
+- chart-beautifier
+- create-rl-app
+- urwah-smart-file-organizer
+- omni-lpr
+- PyAccessModifier
+- uthavu-tools
+- zero-trust-sdk
+- ab-client-auth-client
+- ab-client-token-validator
 - xlfilldown
 - BackcastPro
-- uthavu-tools
 - abstract-webtools
-- abstract-hugpy
 - jupyterlab-js
 - ai-ebash
 - mplang-nightly
@@ -18,14 +61,10 @@
 - tfp-nightly
 - miniappi
 - philiarabbit
-- pynadlan
 - arrendatools.actualiza-renta
-- PyAccessModifier
-- authentik-client
 - graphem-rapids
 - pyconarr
 - django-dynamic-workflows
-- timetracking
 - zns-discord-bot
 - kuzu
 - ut-xls
@@ -35,51 +74,3 @@
 - qtmodel
 - sphinxnotes-project
 - mybox
-- fh2-drc-mcp-server
-- ab-template-package
-- chonkie
-- speech-gateway
-- iLibrary
-- dswell
-- rui-utils
-- mdbq
-- pulumi
-- nvfuser-cu126
-- nvfuser-cu128
-- respick
-- nvfuser-cu129
-- agenticle
-- ollm
-- mcp-rag-librarian
-- agentmail
-- AOT-biomaps
-- pyglove
-- prefect
-- prefect-client
-- composio-openai-agents
-- composio-openai
-- tartube
-- composio-llamaindex
-- composio-langgraph
-- composio-langchain
-- composio-google-adk
-- composio-google
-- composio-gemini
-- composio-crewai
-- composio-autogen
-- composio-anthropic
-- composio
-- zx-rpa
-- ab-template-service
-- ab-user
-- ab-auth-client-service
-- ab-token-validator
-- ab-token-issuer
-- ab-user-service
-- ab-token-validator-service
-- ab-token-store
-- ab-test-fixtures
-- ab-auth-flow
-- ab-cache
-- ab-database
-- ab-auth-client
