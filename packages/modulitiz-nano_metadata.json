@@ -1,11 +1,11 @@
 {
   "name": "modulitiz-nano",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "Raccolta dei miei moduli - versione nano",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "modulitiz_nano-0.1.3-py311-none-any.whl",
-  "download_time": "2025-09-27T11:32:53.750448",
+  "download_filename": "modulitiz_nano-0.1.5-py311-none-any.whl",
+  "download_time": "2025-09-27T12:16:57.014202",
   "package_url": "https://pypi.org/project/modulitiz-nano/"
 }

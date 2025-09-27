@@ -1,11 +1,11 @@
 {
   "name": "aiodecorator",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "summary": "Binance Python SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aiodecorator-3.0.2.tar.gz",
-  "download_time": "2025-09-27T04:32:36.203263",
+  "download_filename": "aiodecorator-3.0.3.tar.gz",
+  "download_time": "2025-09-27T12:16:49.265159",
   "package_url": "https://pypi.org/project/aiodecorator/"
 }

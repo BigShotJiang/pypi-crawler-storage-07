@@ -1,11 +1,11 @@
 {
   "name": "clean-logging",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "A clean and modular logging package",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "clean_logging-0.8.0-py3-none-any.whl",
-  "download_time": "2025-09-27T11:07:46.095920",
+  "download_filename": "clean_logging-0.9.0-py3-none-any.whl",
+  "download_time": "2025-09-27T12:17:06.305176",
   "package_url": "https://pypi.org/project/clean-logging/"
 }

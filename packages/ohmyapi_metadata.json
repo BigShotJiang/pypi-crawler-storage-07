@@ -1,11 +1,11 @@
 {
   "name": "ohmyapi",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "A Django-like but async web-framework based on FastAPI and TortoiseORM.",
   "author": "Brian Wiborg",
   "license": null,
   "home_page": null,
-  "download_filename": "ohmyapi-0.1.6.tar.gz",
-  "download_time": "2025-09-27T04:32:35.653045",
+  "download_filename": "ohmyapi-0.1.7.tar.gz",
+  "download_time": "2025-09-27T12:16:52.673143",
   "package_url": "https://pypi.org/project/ohmyapi/"
 }

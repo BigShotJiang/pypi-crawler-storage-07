@@ -1,0 +1,11 @@
+{
+  "name": "pdschema",
+  "version": "0.1.2",
+  "summary": "A Python library for validating pandas DataFrames using schemas",
+  "author": "pdschema contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/inquilabee/pdschema",
+  "download_filename": "pdschema-0.1.2.tar.gz",
+  "download_time": "2025-09-27T12:16:59.786054",
+  "package_url": "https://pypi.org/project/pdschema/"
+}
