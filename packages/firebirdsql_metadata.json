@@ -1,0 +1,11 @@
+{
+  "name": "firebirdsql",
+  "version": "1.4.1",
+  "summary": "Firebird RDBMS bindings for python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "firebirdsql-1.4.1.tar.gz",
+  "download_time": "2025-09-27T02:08:14.542111",
+  "package_url": "https://pypi.org/project/firebirdsql/"
+}

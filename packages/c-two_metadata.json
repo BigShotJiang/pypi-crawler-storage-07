@@ -1,0 +1,11 @@
+{
+  "name": "c-two",
+  "version": "0.2.6",
+  "summary": "C-Two is a resource-RPC framework that enables resource-oriented classes to be remotely invoked across different processes or machines.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "c_two-0.2.6.tar.gz",
+  "download_time": "2025-09-27T02:08:41.940426",
+  "package_url": "https://pypi.org/project/c-two/"
+}

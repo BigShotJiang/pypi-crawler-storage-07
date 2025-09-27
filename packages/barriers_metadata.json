@@ -1,0 +1,11 @@
+{
+  "name": "barriers",
+  "version": "2.0.0",
+  "summary": "Python decorators for including/excluding type checks, value/bounds checks, and other code blocks within the compiled bytecode of functions and methods.",
+  "author": "Andrei Lapets",
+  "license": null,
+  "home_page": null,
+  "download_filename": "barriers-2.0.0.tar.gz",
+  "download_time": "2025-09-27T02:08:35.967088",
+  "package_url": "https://pypi.org/project/barriers/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "virtucli",
+  "version": "0.8.3",
+  "summary": "Basic management of Virtualizor VMs from CLI.",
+  "author": "Hendra Manudinata",
+  "license": null,
+  "home_page": null,
+  "download_filename": "virtucli-0.8.3.tar.gz",
+  "download_time": "2025-09-27T02:08:39.046162",
+  "package_url": "https://pypi.org/project/virtucli/"
+}
