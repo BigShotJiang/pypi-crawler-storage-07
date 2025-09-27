@@ -1,0 +1,11 @@
+{
+  "name": "numyra-gateway",
+  "version": "0.1.1",
+  "summary": "Numyra Gateway",
+  "author": "simone",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "numyra_gateway-0.1.1.tar.gz",
+  "download_time": "2025-09-27T20:28:42.260740",
+  "package_url": "https://pypi.org/project/numyra-gateway/"
+}

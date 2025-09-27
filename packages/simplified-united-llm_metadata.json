@@ -1,11 +1,11 @@
 {
   "name": "simplified-united-llm",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A streamlined, lightweight LLM client library for OpenRouter and Ollama providers with structured output generation",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "simplified_united_llm-0.1.4.tar.gz",
-  "download_time": "2025-09-27T19:46:51.591700",
+  "download_filename": "simplified_united_llm-0.1.5.tar.gz",
+  "download_time": "2025-09-27T20:28:36.971482",
   "package_url": "https://pypi.org/project/simplified-united-llm/"
 }

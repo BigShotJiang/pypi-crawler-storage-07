@@ -1,0 +1,11 @@
+{
+  "name": "tsm-realtime",
+  "version": "0.1.4",
+  "summary": "Real-time audio time-scale modification with look-up approximation and full computation methods",
+  "author": "Sayema Lubis, Clark Peng, Jared Carreno",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tsm_realtime-0.1.4.tar.gz",
+  "download_time": "2025-09-27T20:28:41.106708",
+  "package_url": "https://pypi.org/project/tsm-realtime/"
+}

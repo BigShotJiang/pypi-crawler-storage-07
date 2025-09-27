@@ -1,11 +1,11 @@
 {
   "name": "tabwrap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Wrap LaTeX table fragments into complete documents for research workflows",
   "author": "Jan Fasnacht",
   "license": null,
   "home_page": "https://github.com/janfasnacht/tabwrap",
-  "download_filename": "tabwrap-1.0.0.tar.gz",
-  "download_time": "2025-09-27T17:47:14.276700",
+  "download_filename": "tabwrap-1.0.1.tar.gz",
+  "download_time": "2025-09-27T20:28:42.838434",
   "package_url": "https://pypi.org/project/tabwrap/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "sapiens-transformers",
-  "version": "1.4.6",
+  "version": "1.4.7",
   "summary": null,
   "author": "SAPIENS TECHNOLOGY",
   "license": "Proprietary Software",
   "home_page": "https://github.com/sapiens-technology/sapiens_transformers",
-  "download_filename": "sapiens_transformers-1.4.6.tar.gz",
-  "download_time": "2025-09-27T19:46:53.229581",
+  "download_filename": "sapiens_transformers-1.4.7.tar.gz",
+  "download_time": "2025-09-27T20:28:46.856265",
   "package_url": "https://pypi.org/project/sapiens-transformers/"
 }

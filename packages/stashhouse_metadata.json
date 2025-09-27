@@ -1,0 +1,11 @@
+{
+  "name": "stashhouse",
+  "version": "0.0.3",
+  "summary": "Centrally store files from a variety of protocols.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stashhouse-0.0.3.tar.gz",
+  "download_time": "2025-09-27T20:28:28.294604",
+  "package_url": "https://pypi.org/project/stashhouse/"
+}

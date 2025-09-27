@@ -1,0 +1,11 @@
+{
+  "name": "estimatePDF",
+  "version": "0.1.0",
+  "summary": "Probability Density Function Estimation Library",
+  "author": "Shantanu Sarkar",
+  "license": "MIT",
+  "home_page": "https://github.com/ShanSarkar75/estimatePDF",
+  "download_filename": "estimatepdf-0.1.0.tar.gz",
+  "download_time": "2025-09-27T20:28:34.655552",
+  "package_url": "https://pypi.org/project/estimatePDF/"
+}
