@@ -1,11 +1,11 @@
 {
   "name": "pycatflow",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A tool for visualizing categorical data over time.",
   "author": "Marcus Burkhardt",
   "license": "MIT",
   "home_page": "https://github.com/bumatic/PyCatFlow",
-  "download_filename": "pycatflow-0.2.0.tar.gz",
-  "download_time": "2025-09-27T19:07:20.190931",
+  "download_filename": "pycatflow-0.2.1.tar.gz",
+  "download_time": "2025-09-27T20:10:39.674869",
   "package_url": "https://pypi.org/project/pycatflow/"
 }

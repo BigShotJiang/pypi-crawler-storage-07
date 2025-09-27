@@ -1,11 +1,11 @@
 {
   "name": "indico-plugin-feed-sync",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Indico plugin for synchronizing external Indico feeds into local events",
   "author": "Attila Debreczeni",
   "license": null,
   "home_page": "https://github.com/Atisom/indico-plugin-feed-sync",
-  "download_filename": "indico_plugin_feed_sync-0.1.0.tar.gz",
-  "download_time": "2025-09-27T19:07:20.737707",
+  "download_filename": "indico_plugin_feed_sync-0.1.1.tar.gz",
+  "download_time": "2025-09-27T20:10:40.413319",
   "package_url": "https://pypi.org/project/indico-plugin-feed-sync/"
 }
