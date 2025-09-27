@@ -1,0 +1,11 @@
+{
+  "name": "voice-notes",
+  "version": "0.1.0",
+  "summary": "A voice recording and transcription application",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "voice_notes-0.1.0.tar.gz",
+  "download_time": "2025-09-27T14:47:32.138406",
+  "package_url": "https://pypi.org/project/voice-notes/"
+}
