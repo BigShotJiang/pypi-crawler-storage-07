@@ -1,0 +1,11 @@
+{
+  "name": "synthik-client",
+  "version": "0.2.0",
+  "summary": "Python client for Synthik Labs synthetic data generation API",
+  "author": "Synthik Labs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "synthik_client-0.2.0.tar.gz",
+  "download_time": "2025-09-27T07:08:57.012134",
+  "package_url": "https://pypi.org/project/synthik-client/"
+}

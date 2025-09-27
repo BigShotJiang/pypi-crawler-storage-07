@@ -1,11 +1,11 @@
 {
   "name": "uthavu-tools",
-  "version": "1.0.48",
+  "version": "1.0.50",
   "summary": "Collection of CLI utilities from Uthavu Software",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "uthavu_tools-1.0.48.tar.gz",
-  "download_time": "2025-09-27T06:36:32.278665",
+  "download_filename": "uthavu_tools-1.0.50.tar.gz",
+  "download_time": "2025-09-27T07:09:08.043136",
   "package_url": "https://pypi.org/project/uthavu-tools/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pymatgen-analysis-defects",
+  "version": "2025.9.26",
+  "summary": "Pymatgen extension for defects analysis",
+  "author": null,
+  "license": "modified BSD",
+  "home_page": null,
+  "download_filename": "pymatgen_analysis_defects-2025.9.26.tar.gz",
+  "download_time": "2025-09-27T07:09:01.123423",
+  "package_url": "https://pypi.org/project/pymatgen-analysis-defects/"
+}

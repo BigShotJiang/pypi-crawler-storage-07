@@ -1,16 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T06:49:36.086016
-- **Total Packages**: 91
-- **Total Size**: 9.83 MB
+- **Download Time**: 2025-09-27T07:09:42.637916
+- **Total Packages**: 86
+- **Total Size**: 13.21 MB
 
 ## Packages List
 - abstract-hugpy
+- pulumi-postgresql
+- authentik-client
+- synthik-client
+- mathai
+- cosmol-viewer
+- abstract-webtools
+- volttron-lib-auth
+- agentmail
+- ab-test-fixtures
+- pymatgen-analysis-defects
+- commity
+- ab-impersonation
+- ab-pkce
+- ab-auth-flow
+- ab-cache
+- ab-auth-client
+- pulumi-opsgenie
+- ab-client-generator
+- ab-database
+- pulumi-openstack
+- tf-models-nightly
+- uthavu-tools
+- PyAccessModifier
+- nativelib
+- mikit-learn
+- seu-3d
+- collatex-critical
+- zenx
+- archimedes
+- pulumi-null
+- pulumi-nomad
+- pulumi-newrelic
+- pulumi-ns1
+- pulumi-mongodbatlas
+- schwab-sdk-unofficial
+- pulumi-juniper-mist
+- pulumi-meraki
+- ethyca-fides
 - lusid-sdk
 - pulumi-mysql
 - timetracking
-- abstract-webtools
 - reliq
 - xdatetime
 - antipasta
@@ -19,9 +56,7 @@
 - pulumi-linode
 - cogency
 - lanscape
-- authentik-client
 - pulumi-mailgun
-- collatex-critical
 - fabricatio-anki
 - ab-dependency
 - fabricatio
@@ -57,43 +92,3 @@
 - pulumi-fastly
 - sqlsaber
 - snowpark-submit
-- uthavu-tools
-- Radicale
-- fastmssql
-- pulumi-digitalocean
-- pulumi-datadog
-- pulumi-f5bigip
-- aws-iot-sitewise-mcp
-- parquool
-- pulumi-databricks
-- mplang-nightly
-- pulumi-aws-native
-- pixhawkcontroller
-- pulumi-external
-- ant-ray-cpp-nightly
-- pyg-nightly
-- djcheckup
-- czsc
-- ai-ebash
-- eigenpuls
-- pulumi-dnsimple
-- bestllm
-- rxlm
-- pulumi-dbtcloud
-- rosamllib
-- foxwebsite
-- Projeto-Mega-Homem
-- pulumi-consul
-- boto3-dataclass-license-manager
-- pulumi-confluentcloud
-- oarepo-invenio-typing-stubs
-- nexte-ros2-tool
-- fastlib-py
-- schedrem
-- pulumi-cloudngfwaws
-- pulumi-alicloud
-- pmdb_utils
-- invoicing-pdf-2025-0926
-- pulumi-cloudinit
-- Cider.py
-- schwab-sdk-unofficial

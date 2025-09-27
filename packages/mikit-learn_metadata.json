@@ -1,0 +1,11 @@
+{
+  "name": "mikit-learn",
+  "version": "0.1.0",
+  "summary": "Multi-instance machine learning in Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mikit_learn-0.1.0.tar.gz",
+  "download_time": "2025-09-27T07:09:09.772140",
+  "package_url": "https://pypi.org/project/mikit-learn/"
+}
