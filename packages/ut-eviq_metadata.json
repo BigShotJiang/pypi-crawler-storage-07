@@ -1,11 +1,11 @@
 {
   "name": "ut-eviq",
-  "version": "1.9.9.20250925",
+  "version": "2.0.0.20250927",
   "summary": "Utilities for EcoVadis IQ Processing.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ut_eviq-1.9.9.20250925.tar.gz",
-  "download_time": "2025-09-27T06:13:23.841523",
+  "download_filename": "ut_eviq-2.0.0.20250927.tar.gz",
+  "download_time": "2025-09-27T06:48:53.025623",
   "package_url": "https://pypi.org/project/ut-eviq/"
 }

@@ -1,15 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T06:37:00.909606
-- **Total Packages**: 86
-- **Total Size**: 33.56 MB
+- **Download Time**: 2025-09-27T06:49:36.086016
+- **Total Packages**: 91
+- **Total Size**: 9.83 MB
 
 ## Packages List
+- abstract-hugpy
+- lusid-sdk
+- pulumi-mysql
+- timetracking
+- abstract-webtools
+- reliq
+- xdatetime
+- antipasta
+- ut-eviq
+- pulumi-minio
+- pulumi-linode
+- cogency
+- lanscape
+- authentik-client
+- pulumi-mailgun
+- collatex-critical
+- fabricatio-anki
+- ab-dependency
+- fabricatio
 - ai-edge-litert-sdk-mediatek-nightly
 - ai-edge-litert-sdk-qualcomm-nightly
 - pulumi-kong
-- abstract-hugpy
 - quazydb
 - pre-commit-vauxoo
 - PayPaython-mobile
@@ -23,7 +41,6 @@
 - pulumi-harness
 - ljobx
 - aio-lanraragi
-- authentik-client
 - pulumi-ise
 - pulumi-http
 - rokh
@@ -80,15 +97,3 @@
 - pulumi-cloudinit
 - Cider.py
 - schwab-sdk-unofficial
-- pulumi-azuread
-- ilyasfamily
-- pulumi-cloudamqp
-- electroblocks
-- pulumi-azuredevops
-- agentic-fabric-sdk
-- robhan-cdk-lib.aws-grafana
-- robhan-cdk-lib.aws-aps
-- ut-xls
-- photo-metadata
-- benchcraft
-- svc-infra
