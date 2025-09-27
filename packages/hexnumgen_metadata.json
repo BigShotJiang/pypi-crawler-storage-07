@@ -1,0 +1,11 @@
+{
+  "name": "hexnumgen",
+  "version": "0.4.0",
+  "summary": "Number literal generator for the Hex Casting mod for Minecraft.",
+  "author": "object-Object",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hexnumgen-0.4.0.tar.gz",
+  "download_time": "2025-09-27T04:32:31.280489",
+  "package_url": "https://pypi.org/project/hexnumgen/"
+}

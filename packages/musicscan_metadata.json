@@ -1,0 +1,11 @@
+{
+  "name": "musicscan",
+  "version": "0.2.3",
+  "summary": "Package for converting music metadata to XML",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "musicscan-0.2.3.tar.gz",
+  "download_time": "2025-09-27T04:32:44.478241",
+  "package_url": "https://pypi.org/project/musicscan/"
+}

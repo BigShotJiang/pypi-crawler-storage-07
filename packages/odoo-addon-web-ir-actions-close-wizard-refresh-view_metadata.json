@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-web-ir-actions-close-wizard-refresh-view",
+  "version": "16.0.1.0.0.12",
+  "summary": "Allow to refresh view data without reload the page.",
+  "author": "LevelPrime srl, Nova Code, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/web",
+  "download_filename": "odoo_addon_web_ir_actions_close_wizard_refresh_view-16.0.1.0.0.12-py3-none-any.whl",
+  "download_time": "2025-09-27T04:32:41.208196",
+  "package_url": "https://pypi.org/project/odoo-addon-web-ir-actions-close-wizard-refresh-view/"
+}

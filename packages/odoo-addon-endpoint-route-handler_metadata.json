@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-endpoint-route-handler",
+  "version": "18.0.1.1.0",
+  "summary": "Provide mixin and tool to generate custom endpoints on the fly.",
+  "author": "Camptocamp,Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/web-api",
+  "download_filename": "odoo_addon_endpoint_route_handler-18.0.1.1.0-py3-none-any.whl",
+  "download_time": "2025-09-27T04:32:40.137444",
+  "package_url": "https://pypi.org/project/odoo-addon-endpoint-route-handler/"
+}

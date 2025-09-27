@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-fs-attachment-s3",
+  "version": "18.0.1.1.0.2",
+  "summary": "Store attachments into S3 complient filesystem",
+  "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/storage",
+  "download_filename": "odoo_addon_fs_attachment_s3-18.0.1.1.0.2-py3-none-any.whl",
+  "download_time": "2025-09-27T04:32:46.130584",
+  "package_url": "https://pypi.org/project/odoo-addon-fs-attachment-s3/"
+}

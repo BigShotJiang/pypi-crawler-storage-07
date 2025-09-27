@@ -1,24 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T04:12:52.189164
-- **Total Packages**: 81
-- **Total Size**: 9.44 MB
+- **Download Time**: 2025-09-27T04:33:10.133412
+- **Total Packages**: 79
+- **Total Size**: 18.62 MB
 
 ## Packages List
+- ytdl-sub
+- simacode
+- osym.rpc
+- greenflash
+- osym.io
+- pulumi-alicloud
+- authentik-client
+- hexnumgen
+- syntax-parser-prototype
+- svc-infra
+- fh2-bailian-drc-server
+- uwsgiconf
+- export-chapters
+- undockit
+- refellips
+- ohmyapi
+- aiodecorator
+- bintang
+- rust-pyfunc
+- videobgremover
+- collatex-critical
+- odoo-addon-stock-storage-type
+- odoo-addon-shopfloor-mobile-base
+- odoo-addon-endpoint-route-handler
+- odoo-addon-web-pwa-oca
+- odoo-addon-web-ir-actions-close-wizard-refresh-view
+- oven-tensor
+- chromedriver-binary
+- odoo-addon-web-dark-mode
+- qrpa
+- musicscan
+- opensearch-protobufs
+- uthavu-tools
+- odoo-addon-fs-attachment-s3
+- cdktf-cdktf-provider-pagerduty
+- onefinity
+- odoo-addon-stock-picking-batch-operation-quick-change
+- odoo-addon-stock-picking-batch-planner
+- odoo-addon-stock-move-line-change-lot
+- odoo-addon-stock-picking-progress
+- odoo-addon-stock-picking-propagate-scheduled-date
+- odoo-addon-stock-move-line-reserved-quant
+- odoo-addon-stock-restrict-lot
+- odoo-addon-stock-quant-package-dimension
+- parsehub
 - worktoy
 - odoo-addon-stock-inventory-verification-request
 - akshare
 - kabukit
 - odoo-addon-shopfloor
-- odoo-addon-stock-storage-type
-- parsehub
 - llms-py
 - odoo-addon-mail-activity-meeting-reminder
 - boto3-dataclass-ivs-realtime
 - boto3-dataclass-ivs
 - boto3-dataclass-iotwireless
-- authentik-client
 - boto3-dataclass-iottwinmaker
 - boto3-dataclass-iotthingsgraph
 - boto3-dataclass-iotsitewise
@@ -36,7 +78,6 @@
 - boto3-dataclass-iot-jobs-data
 - odoo-addon-base-model-restrict-update
 - boto3-dataclass-iot-data
-- ohmyapi
 - boto3-dataclass-iot
 - boto3-dataclass-invoicing
 - boto3-dataclass-internetmonitor
@@ -44,46 +85,3 @@
 - pulumi-hcloud
 - pulumi-newrelic
 - crudle
-- keras-nightly
-- pex
-- pulumi-pagerduty
-- odoo-addon-auth-saml
-- odoo-addon-sale-delivery-state
-- odoo-addon-sale-pricelist-display-surcharge
-- odoo-addon-sale-partner-primeship
-- odoo-addons-oca-sale-workflow
-- python-tornet
-- MemoLib
-- bfcl-eval
-- autowzry
-- pyreads
-- qudas
-- pulumi-ns1
-- simacode
-- eq3btsmart
-- lexicon-python
-- odoo-addon-purchase-lot
-- lexia
-- krpcc
-- BackcastPro
-- odoo-addon-purchase-mto-owner
-- publicsuffixlist
-- dybuf
-- cdktf-cdktf-provider-nomad
-- odoo-addon-project-stakeholder
-- odoo-addon-project-task-creation-description-notification
-- Sj-Django-Vue3-Pytest
-- judgeval
-- tuzi-mcp
-- prosemark
-- kuzu-memory
-- odoo-addons-oca-pos
-- cdktf-cdktf-provider-newrelic
-- odoo-addon-pos-category-complete-name
-- infcraft
-- odoo-addon-payroll-contract-advantages
-- philh_myftp_biz
-- odoo-addon-partner-identification
-- dt-misc
-- keras-rs-nightly
-- pycalcpp
