@@ -1,0 +1,11 @@
+{
+  "name": "graphene-directives",
+  "version": "0.4.8",
+  "summary": "Schema Directives implementation for graphene",
+  "author": "Strollby",
+  "license": "MIT",
+  "home_page": "https://github.com/strollby/graphene-directives",
+  "download_filename": "graphene_directives-0.4.8.tar.gz",
+  "download_time": "2025-09-27T22:47:20.224985",
+  "package_url": "https://pypi.org/project/graphene-directives/"
+}

@@ -1,22 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T22:37:35.273261
-- **Total Packages**: 78
-- **Total Size**: 1.85 MB
+- **Download Time**: 2025-09-27T22:48:03.192407
+- **Total Packages**: 77
+- **Total Size**: 1.44 MB
 
 ## Packages List
-- private-project-windoows-snake-game
+- graphene-directives
+- chbe444umd
+- boto3-dataclass-xray
+- boto3-dataclass-workspaces-web
+- boto3-dataclass-workspaces-thin-client
+- boto3-dataclass-workspaces-instances
+- dazllm
+- boto3-dataclass-workspaces
+- boto3-dataclass-workmailmessageflow
+- boto3-dataclass-workmail
+- boto3-dataclass-workdocs
+- boto3-dataclass-wisdom
+- cdk-factory
+- boto3-dataclass-wellarchitected
+- boto3-dataclass-wafv2
+- boto3-dataclass-waf-regional
+- boto3-dataclass-waf
+- emcd-appcore
+- test-mcp-server-ap25092201
+- playpi
+- duplicaid
+- avendesora
+- shoebill-ai
+- automation-framework
+- sphinx-syntax
+- nbragg
+- GNServer
+- bayescurvefit
+- quorus
 - authentik-client
 - tectonic-cyberrange
-- shoebill-ai
 - func-adl-servicex-xaodr25
 - code-review-plus
 - blues-lib
 - wanabi
 - pycalcpp
 - machineconfig
-- test-mcp-server-ap25092201
 - syntax-diagrams
 - aiq-platform-api
 - pauc
@@ -39,13 +65,11 @@
 - django-enum
 - syngular-ai
 - faapi
-- chbe444umd
 - swarms
 - pandorasat
 - gamms
 - dolze-templates
 - pymseed
-- duplicaid
 - async-kernel
 - carbonic
 - tissuelab-sdk
@@ -59,28 +83,3 @@
 - pilibr
 - pyclsp
 - autoskope-client
-- album-of-the-year-api
-- voltarium
-- ubc-solar-physics
-- dazllm
-- boto3-dataclass-vpc-lattice
-- boto3-dataclass-voice-id
-- boto3-dataclass-verifiedpermissions
-- boto3-dataclass-trustedadvisor
-- boto3-dataclass-translate
-- boto3-dataclass-transfer
-- boto3-dataclass-transcribe
-- boto3-dataclass-tnb
-- boto3-dataclass-timestream-write
-- boto3-dataclass-timestream-query
-- boto3-dataclass-timestream-influxdb
-- boto3-dataclass-textract
-- code-puppy
-- boto3-dataclass-taxsettings
-- boto3-dataclass-synthetics
-- boto3-dataclass-swf
-- boto3-dataclass-support-app
-- boto3-dataclass-support
-- boto3-dataclass-supplychain
-- boto3-dataclass-sts
-- boto3-dataclass-storagegateway
