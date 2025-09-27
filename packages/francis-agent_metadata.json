@@ -1,0 +1,11 @@
+{
+  "name": "francis-agent",
+  "version": "1.0.6",
+  "summary": "Local autonomy loop with tools",
+  "author": "Ap3pp3rs94",
+  "license": null,
+  "home_page": "https://github.com/Ap3pp3rs94/francis-agent",
+  "download_filename": "francis_agent-1.0.6.tar.gz",
+  "download_time": "2025-09-27T15:25:25.938178",
+  "package_url": "https://pypi.org/project/francis-agent/"
+}

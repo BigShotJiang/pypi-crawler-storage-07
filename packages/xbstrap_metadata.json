@@ -1,0 +1,11 @@
+{
+  "name": "xbstrap",
+  "version": "0.34",
+  "summary": null,
+  "author": "Alexander van der Grinten",
+  "license": "MIT",
+  "home_page": "https://github.com/managarm/xbstrap",
+  "download_filename": "xbstrap-0.34.tar.gz",
+  "download_time": "2025-09-27T15:25:26.957847",
+  "package_url": "https://pypi.org/project/xbstrap/"
+}
