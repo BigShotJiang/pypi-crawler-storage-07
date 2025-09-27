@@ -1,11 +1,11 @@
 {
   "name": "tenzir-test",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Reusable test execution framework extracted from the Tenzir repository.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "tenzir_test-0.1.0.tar.gz",
-  "download_time": "2025-09-27T07:32:27.076681",
+  "download_filename": "tenzir_test-0.2.0.tar.gz",
+  "download_time": "2025-09-27T07:47:39.938489",
   "package_url": "https://pypi.org/project/tenzir-test/"
 }

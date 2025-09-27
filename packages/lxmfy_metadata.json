@@ -1,0 +1,11 @@
+{
+  "name": "lxmfy",
+  "version": "0.8.0",
+  "summary": "LXMF bot framework for creating bots for the Reticulum Network",
+  "author": "Quad4",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lxmfy-0.8.0.tar.gz",
+  "download_time": "2025-09-27T07:47:26.379519",
+  "package_url": "https://pypi.org/project/lxmfy/"
+}
