@@ -1,11 +1,11 @@
 {
   "name": "xlfilldown",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Stream an Excel sheet into SQLite or Excel with forward-fill padding, preserved Excel row numbers, and a stable row hash.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xlfilldown-0.3.0.tar.gz",
-  "download_time": "2025-09-27T08:47:48.804174",
+  "download_filename": "xlfilldown-0.3.1.tar.gz",
+  "download_time": "2025-09-27T10:09:27.157159",
   "package_url": "https://pypi.org/project/xlfilldown/"
 }

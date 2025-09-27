@@ -1,0 +1,11 @@
+{
+  "name": "qmemcalc",
+  "version": "0.1.1",
+  "summary": "GPU Memory Estimator for QLoRA / LoRA / Transformers",
+  "author": "Sachin",
+  "license": "MIT",
+  "home_page": "https://github.com/sachin62025/qmemcalc",
+  "download_filename": "qmemcalc-0.1.1.tar.gz",
+  "download_time": "2025-09-27T10:09:24.602152",
+  "package_url": "https://pypi.org/project/qmemcalc/"
+}

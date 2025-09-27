@@ -1,0 +1,11 @@
+{
+  "name": "chacc-dependency-manager",
+  "version": "1.1.1",
+  "summary": "Pip accelerator package. Intelligent, incremental dependency resolution and caching for pip environment based applications. It it meant to complement pip",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chacc_dependency_manager-1.1.1.tar.gz",
+  "download_time": "2025-09-27T10:09:28.747411",
+  "package_url": "https://pypi.org/project/chacc-dependency-manager/"
+}

@@ -1,30 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T09:48:13.841130
-- **Total Packages**: 80
-- **Total Size**: 6.94 MB
+- **Download Time**: 2025-09-27T10:10:00.961361
+- **Total Packages**: 77
+- **Total Size**: 20.02 MB
 
 ## Packages List
+- tinypg
+- django-choices-field
+- authentik-client
+- zns-discord-bot
+- AOT-biomaps
+- pypcapkit
+- komodo-api
+- smol_k8s_lab
+- qmemcalc
+- abstract-hugpy
+- mcp-rag-librarian
+- modulitiz-nano
+- ab-user
+- xlfilldown
+- oven-tensor
+- bitcoinwatcher
+- chacc-dependency-manager
+- tts-webui.fireredtts2
+- pygpt-net
+- stealthimpysdk
+- pydirecte
+- ez-agent
+- whisperlivekit
+- sender_policy_flattener
+- reliq
+- pycrdt
+- morphic
+- jbag
+- transformers-research
+- notes-mcp
+- mathrtc
+- hvrt-partitioner
+- chart-beautifier
+- imRender
+- jws-algorithms
+- optimisewait
+- yahi
+- dymoapi
+- cndi
+- bool-hybrid-array
 - numersys
 - radio-pyse
-- pydirecte
 - ocr-pro
 - fred-oss
 - ddd-cli
-- abstract-hugpy
 - leap-model-parser
 - nav-online-szamla
-- ez-agent
 - yellowdog-python-examples
 - modelity
 - pyforma
 - kreuzberg
 - supertable
-- notes-mcp
 - finbourne-horizon-sdk
 - internal
-- authentik-client
 - graph-sitter
 - him-lychee
 - unirules
@@ -39,7 +74,6 @@
 - timetracking
 - slack-lists-mcp
 - conson-xp
-- chart-beautifier
 - student-management-basic
 - create-rl-app
 - composio-openai-agents
@@ -49,40 +83,3 @@
 - composio-langchain
 - composio-google-adk
 - composio-google
-- composio-gemini
-- composio-crewai
-- composio-autogen
-- composio-anthropic
-- composio
-- reqman4
-- uthavu-tools
-- meyigi-scripts
-- tbp-nightly
-- gov-scheme-mcp
-- pp.server
-- cylestio-perimeter
-- python3-cloudpods
-- evmole
-- biliup
-- cosmol-viewer
-- opentelemetry-instrumentation-rq
-- django-w-careers
-- ab-user
-- kitech-repository-test-dev
-- gdsfactory
-- autogluon
-- autogluon.timeseries
-- autogluon.multimodal
-- autogluon.tabular
-- autogluon.features
-- autogluon.core
-- autogluon.common
-- cltk
-- funcguard
-- llm-registry
-- pynadlan
-- aiocfscraper
-- headless-driver
-- struct_post
-- pyapiq
-- booklab

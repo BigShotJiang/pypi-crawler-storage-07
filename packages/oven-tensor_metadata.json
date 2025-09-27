@@ -1,11 +1,11 @@
 {
   "name": "oven-tensor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "PyTorch-style tensor operations with CUDA kernels compiled by oven-compiler",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oven_tensor-0.1.0-py3-none-any.whl",
-  "download_time": "2025-09-27T04:32:41.735806",
+  "download_filename": "oven_tensor-0.1.1-py3-none-any.whl",
+  "download_time": "2025-09-27T10:09:27.666503",
   "package_url": "https://pypi.org/project/oven-tensor/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ez-agent",
-  "version": "0.2.0",
+  "version": "0.2.0.1",
   "summary": "基于 volcengine-python-sdk 的简单 AI Agent 框架",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ez_agent-0.2.0.tar.gz",
-  "download_time": "2025-09-27T09:47:34.570309",
+  "download_filename": "ez_agent-0.2.0.1.tar.gz",
+  "download_time": "2025-09-27T10:09:31.989320",
   "package_url": "https://pypi.org/project/ez-agent/"
 }
