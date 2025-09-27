@@ -1,12 +1,18 @@
 {
-  "download_time": "2025-09-27T15:26:10.293904",
-  "total_packages_downloaded": 89,
-  "total_size_mb": 23.45,
+  "download_time": "2025-09-27T15:33:36.650167",
+  "total_packages_downloaded": 90,
+  "total_size_mb": 4.85,
   "packages": [
+    "francis-agent",
+    "deepfabric",
+    "spotifywebapipython",
+    "avl-apb",
+    "python-openagent",
+    "simple-port-checker",
+    "sqlalchemy-querytools",
     "x-mlps-pytorch",
     "svc-infra",
     "authentik-client",
-    "francis-agent",
     "ohmyapi",
     "xbstrap",
     "siat",
@@ -86,11 +92,6 @@
     "django-unfold-extra",
     "pipevine",
     "jupyterlab-zip-extension",
-    "fastrpc-py",
-    "voice-notes",
-    "DeepHME",
-    "randcraft",
-    "better-regressions",
-    "dataprof"
+    "fastrpc-py"
   ]
 }

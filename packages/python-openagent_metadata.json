@@ -1,0 +1,11 @@
+{
+  "name": "python-openagent",
+  "version": "0.1.0",
+  "summary": "An agentic task execution framework for LLMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_openagent-0.1.0.tar.gz",
+  "download_time": "2025-09-27T15:32:51.415407",
+  "package_url": "https://pypi.org/project/python-openagent/"
+}

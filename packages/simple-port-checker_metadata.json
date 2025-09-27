@@ -1,0 +1,11 @@
+{
+  "name": "simple-port-checker",
+  "version": "0.5.3",
+  "summary": "A comprehensive tool for checking firewall ports, L7 protection services, and SSL/TLS certificate analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simple_port_checker-0.5.3.tar.gz",
+  "download_time": "2025-09-27T15:32:51.951093",
+  "package_url": "https://pypi.org/project/simple-port-checker/"
+}

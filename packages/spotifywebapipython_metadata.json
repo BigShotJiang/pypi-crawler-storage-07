@@ -1,11 +1,11 @@
 {
   "name": "spotifywebapipython",
-  "version": "1.0.247",
+  "version": "1.0.248",
   "summary": "Spotify Web API Python3 Library",
   "author": "Todd Lucas",
   "license": null,
   "home_page": null,
-  "download_filename": "spotifywebapipython-1.0.247-py3-none-any.whl",
-  "download_time": "2025-09-26T20:30:31.952268",
+  "download_filename": "spotifywebapipython-1.0.248-py3-none-any.whl",
+  "download_time": "2025-09-27T15:32:50.367963",
   "package_url": "https://pypi.org/project/spotifywebapipython/"
 }
