@@ -1,17 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T23:25:32.377766
-- **Total Packages**: 82
-- **Total Size**: 3.0 MB
+- **Download Time**: 2025-09-27T23:33:10.546320
+- **Total Packages**: 74
+- **Total Size**: 10.58 MB
 
 ## Packages List
-- xaiembeddings
-- cdk-factory
-- svc-infra
-- radiate
-- authentik-client
+- ubicoders-g2opy
 - pyrendering
+- braindecode
+- blaxel
+- authentik-client
+- svc-infra
+- offline-stenographer
+- chbe444umd
+- logcore
+- nuql
+- GNServer
+- syntax-diagrams
+- cdk-simplewebsite-deploy
+- mcp-rag-librarian
+- cdk-factory
+- gnobjects
+- xaiembeddings
+- machineconfig
+- aa-killtracker
+- pyview-web
+- arthexis
+- radiate
 - bc-django-modeltranslator
 - pure-function-decorators
 - outlooklib
@@ -25,7 +41,6 @@
 - ezga-lib
 - nbragg
 - osmose-presets
-- chbe444umd
 - hla-compass
 - aenet-gpr
 - wmill-pg
@@ -54,7 +69,6 @@
 - shoebill-ai
 - automation-framework
 - sphinx-syntax
-- GNServer
 - bayescurvefit
 - quorus
 - tectonic-cyberrange
@@ -63,28 +77,6 @@
 - blues-lib
 - wanabi
 - pycalcpp
-- machineconfig
-- syntax-diagrams
 - aiq-platform-api
 - pauc
-- logcore
 - django-render-static
-- fastapi-router-viz
-- baml-claude-code
-- sysetup
-- datahold
-- underthesea
-- sapiens-transformers
-- image-processing-yasmim
-- aiohomematic
-- GameSentenceMiner
-- art_studio_tz
-- bibboost
-- gcovr
-- ytdl-sub
-- django-enum
-- syngular-ai
-- faapi
-- swarms
-- pandorasat
-- gamms
