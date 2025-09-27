@@ -1,0 +1,11 @@
+{
+  "name": "aicv-python",
+  "version": "0.1.4",
+  "summary": "AiCV Python SDK - AI-powered CV analysis and generation toolkit",
+  "author": "AIGility Cloud Innovation",
+  "license": null,
+  "home_page": "https://github.com/AIGility-Cloud-Innovation/aicv-python",
+  "download_filename": "aicv-python-0.1.4.tar.gz",
+  "download_time": "2025-09-27T17:08:38.622308",
+  "package_url": "https://pypi.org/project/aicv-python/"
+}

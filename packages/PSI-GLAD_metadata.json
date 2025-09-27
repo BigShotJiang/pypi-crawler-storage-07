@@ -1,0 +1,11 @@
+{
+  "name": "PSI-GLAD",
+  "version": "0.1.1",
+  "summary": "A implementation of PSI-GLAD: Post-Selection Inference for Generalized Linear after Optimal Transport-based Domain Adaptation",
+  "author": "Nguyen Thang Loi",
+  "license": "MIT",
+  "home_page": "https://github.com/DAIR-Group/PSI-GLAD",
+  "download_filename": "PSI_GLAD-0.1.1.tar.gz",
+  "download_time": "2025-09-27T17:08:34.502195",
+  "package_url": "https://pypi.org/project/PSI-GLAD/"
+}

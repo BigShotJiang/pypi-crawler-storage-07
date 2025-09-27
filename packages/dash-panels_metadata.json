@@ -1,0 +1,11 @@
+{
+  "name": "dash-panels",
+  "version": "0.0.3",
+  "summary": "Resizable panels inspired by react-resizable-panels.",
+  "author": "Evan Rasmussen <evanras@umich.edu>",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dash_panels-0.0.3.tar.gz",
+  "download_time": "2025-09-27T17:08:24.794121",
+  "package_url": "https://pypi.org/project/dash-panels/"
+}

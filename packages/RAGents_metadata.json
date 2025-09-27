@@ -1,11 +1,11 @@
 {
   "name": "RAGents",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Production-ready agentic RAG framework featuring intelligent decision trees, Logic-LLM integration, multimodal processing, and enterprise observability",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ragents-0.1.2.tar.gz",
-  "download_time": "2025-09-27T14:08:14.173434",
+  "download_filename": "ragents-0.1.3.tar.gz",
+  "download_time": "2025-09-27T17:08:26.719777",
   "package_url": "https://pypi.org/project/RAGents/"
 }

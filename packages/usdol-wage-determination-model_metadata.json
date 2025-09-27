@@ -1,0 +1,11 @@
+{
+  "name": "usdol-wage-determination-model",
+  "version": "0.3.1",
+  "summary": "Pydantic model for USDOL prevailing wage determination records",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "usdol_wage_determination_model-0.3.1.tar.gz",
+  "download_time": "2025-09-27T17:08:22.942063",
+  "package_url": "https://pypi.org/project/usdol-wage-determination-model/"
+}
