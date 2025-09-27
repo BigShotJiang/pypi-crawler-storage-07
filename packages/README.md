@@ -1,19 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T09:33:29.778196
-- **Total Packages**: 77
-- **Total Size**: 0.34 MB
+- **Download Time**: 2025-09-27T09:48:13.841130
+- **Total Packages**: 80
+- **Total Size**: 6.94 MB
 
 ## Packages List
+- numersys
+- radio-pyse
+- pydirecte
+- ocr-pro
+- fred-oss
+- ddd-cli
+- abstract-hugpy
+- leap-model-parser
+- nav-online-szamla
+- ez-agent
+- yellowdog-python-examples
+- modelity
+- pyforma
+- kreuzberg
+- supertable
+- notes-mcp
+- finbourne-horizon-sdk
+- internal
+- authentik-client
+- graph-sitter
+- him-lychee
+- unirules
+- html-to-markdown
+- agilab
+- shipy-web
+- agi-core
+- agi-cluster
+- agi-node
+- agi-env
+- hyperquant
 - timetracking
 - slack-lists-mcp
 - conson-xp
 - chart-beautifier
-- him-lychee
-- shipy-web
 - student-management-basic
-- authentik-client
 - create-rl-app
 - composio-openai-agents
 - composio-openai
@@ -35,9 +62,7 @@
 - pp.server
 - cylestio-perimeter
 - python3-cloudpods
-- supertable
 - evmole
-- numersys
 - biliup
 - cosmol-viewer
 - opentelemetry-instrumentation-rq
@@ -57,29 +82,7 @@
 - llm-registry
 - pynadlan
 - aiocfscraper
-- abstract-hugpy
 - headless-driver
-- notes-mcp
 - struct_post
 - pyapiq
 - booklab
-- yak-server
-- swellow
-- pytnl
-- scxpand
-- scxpand-cuda
-- urwah-smart-file-organizer
-- omni-lpr
-- PyAccessModifier
-- zero-trust-sdk
-- ab-client-auth-client
-- ab-client-token-validator
-- xlfilldown
-- BackcastPro
-- abstract-webtools
-- jupyterlab-js
-- ai-ebash
-- mplang-nightly
-- tfp-nightly
-- miniappi
-- philiarabbit

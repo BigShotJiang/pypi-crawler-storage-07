@@ -1,11 +1,11 @@
 {
   "name": "him-lychee",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A powerful dictionary for common internet and text slang (Lychee Language Core).",
   "author": "Himpadma \"Him\"",
   "license": null,
   "home_page": "https://github.com/yourusername/lychee-repo",
-  "download_filename": "him_lychee-0.1.0-py3-none-any.whl",
-  "download_time": "2025-09-27T09:32:51.922601",
+  "download_filename": "him_lychee-0.1.1.tar.gz",
+  "download_time": "2025-09-27T09:47:41.406826",
   "package_url": "https://pypi.org/project/him-lychee/"
 }

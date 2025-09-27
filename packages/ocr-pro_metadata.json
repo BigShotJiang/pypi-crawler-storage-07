@@ -1,0 +1,11 @@
+{
+  "name": "ocr-pro",
+  "version": "0.1.1",
+  "summary": "OCR extractor for PAN and Aadhaar card details",
+  "author": "KoustubhPK",
+  "license": null,
+  "home_page": "https://github.com/yourusername/ocr-pro",
+  "download_filename": "ocr_pro-0.1.1.tar.gz",
+  "download_time": "2025-09-27T09:47:31.032425",
+  "package_url": "https://pypi.org/project/ocr-pro/"
+}
