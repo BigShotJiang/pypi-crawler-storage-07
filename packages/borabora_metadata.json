@@ -1,0 +1,11 @@
+{
+  "name": "borabora",
+  "version": "0.1.1",
+  "summary": "Command Line AI Assistant that converts natural language to Unix commands using Groq AI",
+  "author": "AndreyZ",
+  "license": "MIT",
+  "home_page": "https://github.com/invisible-hand/borabora",
+  "download_filename": "borabora-0.1.1.tar.gz",
+  "download_time": "2025-09-27T23:47:10.502651",
+  "package_url": "https://pypi.org/project/borabora/"
+}

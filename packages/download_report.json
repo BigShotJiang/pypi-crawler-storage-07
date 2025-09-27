@@ -1,13 +1,20 @@
 {
-  "download_time": "2025-09-27T23:33:10.546320",
-  "total_packages_downloaded": 74,
-  "total_size_mb": 10.58,
+  "download_time": "2025-09-27T23:47:49.798737",
+  "total_packages_downloaded": 76,
+  "total_size_mb": 1.41,
   "packages": [
+    "orionis",
+    "authentik-client",
+    "sphinx-syntax",
+    "borabora",
+    "sharepointlib",
+    "nv-ingest",
+    "nv-ingest-client",
+    "nv-ingest-api",
     "ubicoders-g2opy",
     "pyrendering",
     "braindecode",
     "blaxel",
-    "authentik-client",
     "svc-infra",
     "offline-stenographer",
     "chbe444umd",
@@ -65,17 +72,12 @@
     "avendesora",
     "shoebill-ai",
     "automation-framework",
-    "sphinx-syntax",
     "bayescurvefit",
     "quorus",
     "tectonic-cyberrange",
     "func-adl-servicex-xaodr25",
     "code-review-plus",
     "blues-lib",
-    "wanabi",
-    "pycalcpp",
-    "aiq-platform-api",
-    "pauc",
-    "django-render-static"
+    "wanabi"
   ]
 }
