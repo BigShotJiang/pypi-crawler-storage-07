@@ -1,16 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T07:24:21.198612
-- **Total Packages**: 80
-- **Total Size**: 8.14 MB
+- **Download Time**: 2025-09-27T07:33:02.037069
+- **Total Packages**: 77
+- **Total Size**: 9.72 MB
 
 ## Packages List
-- abstract-webtools
-- ab-token-issuer
-- timetracking
-- ab-user-service
+- ab-template-service
 - ab-token-validator-service
+- pulumi-tls
+- pulumi-venafi
+- timetracking
+- ab-token-store
+- ark-sdk
+- pyezvizapi
+- abstract-webtools
+- pulumi-cloudflare
+- tenzir-test
+- pulumi-snowflake
+- cvqp
+- abstract-hugpy
+- mathai
+- geobox
+- dmccodegui
+- pulumi-spotinst
+- pulumi-tailscale
+- terminotes
+- pulumi-xyz
+- pulumi-splunk
+- agentsystems-sdk
+- programacion
+- ai-model-sentinel
+- authentik-client
+- ab-token-issuer
+- ab-user-service
 - ollama-websearch-mcp
 - nbcmdio
 - benchling-sdk
@@ -19,7 +42,6 @@
 - colt
 - cbridge
 - pulumi-slack
-- programacion
 - pulumi-random
 - pulumi-rancher2
 - pulumi-scm
@@ -29,10 +51,8 @@
 - oelint-data
 - ride-the-duck
 - onnxscript
-- mathai
 - glux
 - ab-token-validator
-- ab-token-store
 - nuql
 - zenx
 - antback
@@ -40,9 +60,7 @@
 - pulumi-okta
 - fetchgraph
 - pulumi-pagerduty
-- abstract-hugpy
 - pulumi-postgresql
-- authentik-client
 - synthik-client
 - cosmol-viewer
 - volttron-lib-auth
@@ -65,24 +83,3 @@
 - mikit-learn
 - seu-3d
 - collatex-critical
-- archimedes
-- pulumi-null
-- pulumi-nomad
-- pulumi-newrelic
-- pulumi-ns1
-- pulumi-mongodbatlas
-- schwab-sdk-unofficial
-- pulumi-juniper-mist
-- pulumi-meraki
-- ethyca-fides
-- lusid-sdk
-- pulumi-mysql
-- reliq
-- xdatetime
-- antipasta
-- ut-eviq
-- pulumi-minio
-- pulumi-linode
-- cogency
-- lanscape
-- pulumi-mailgun

@@ -1,11 +1,11 @@
 {
   "name": "ab-token-store",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ab_token_store-0.1.1.tar.gz",
-  "download_time": "2025-09-27T07:23:49.900913",
+  "download_filename": "ab_token_store-0.1.2.tar.gz",
+  "download_time": "2025-09-27T07:32:24.415758",
   "package_url": "https://pypi.org/project/ab-token-store/"
 }
