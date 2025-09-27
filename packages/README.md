@@ -1,21 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T14:28:14.468685
-- **Total Packages**: 86
-- **Total Size**: 7.49 MB
+- **Download Time**: 2025-09-27T14:36:44.272652
+- **Total Packages**: 87
+- **Total Size**: 0.52 MB
 
 ## Packages List
+- brokle
+- annex4risk-detector
+- wise-api-client
+- talktollm
+- awesome-cheap-flights
+- data-science-pro
+- mtb-core
+- whisper-ai-zxs
+- accurpy
+- mcp-macos
 - django-unicom
 - pymosquitto
-- awesome-cheap-flights
 - bankingsdk
 - cc-clients-python-lib
 - rockerc
 - norvelang
 - authentik-client
 - norve
-- talktollm
 - ut-dic
 - smartpasslib
 - legend-pygeom-l200
@@ -24,7 +32,6 @@
 - torchstudio
 - svc-infra
 - skypilot-nightly
-- data-science-pro
 - drux
 - nagoya-bus-mcp
 - graphcart
@@ -86,9 +93,3 @@
 - agushuju
 - agentscope
 - mkdocs-sqlite-console
-- jarvis-ai-assistant
-- redbot-orm
-- file-of-test-of-wangziming
-- felupe
-- ok-script
-- zotlink
