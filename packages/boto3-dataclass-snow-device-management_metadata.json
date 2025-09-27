@@ -1,0 +1,11 @@
+{
+  "name": "boto3-dataclass-snow-device-management",
+  "version": "1.40.0",
+  "summary": "Dataclass for boto3 snow_device_management.",
+  "author": "Sanhe Hu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "boto3_dataclass_snow_device_management-1.40.0-py3-none-any.whl",
+  "download_time": "2025-09-27T20:47:33.563095",
+  "package_url": "https://pypi.org/project/boto3-dataclass-snow-device-management/"
+}

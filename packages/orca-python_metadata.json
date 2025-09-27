@@ -1,0 +1,11 @@
+{
+  "name": "orca-python",
+  "version": "0.9.0",
+  "summary": "Python SDK for the Predixus Orca product",
+  "author": "Frederick Mannings",
+  "license": null,
+  "home_page": null,
+  "download_filename": "orca_python-0.9.0.tar.gz",
+  "download_time": "2025-09-27T20:47:19.356034",
+  "package_url": "https://pypi.org/project/orca-python/"
+}
