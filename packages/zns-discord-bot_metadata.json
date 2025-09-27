@@ -1,0 +1,11 @@
+{
+  "name": "zns-discord-bot",
+  "version": "1.0.8",
+  "summary": "A Discord bot library that integrates many functionalities for Python",
+  "author": "Zennisch",
+  "license": null,
+  "home_page": "https://github.com/Zennisch/zns-discord-bot",
+  "download_filename": "zns_discord_bot-1.0.8-py3-none-any.whl",
+  "download_time": "2025-09-27T08:47:59.691081",
+  "package_url": "https://pypi.org/project/zns-discord-bot/"
+}

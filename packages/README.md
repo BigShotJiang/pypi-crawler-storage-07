@@ -1,21 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T08:32:35.531676
-- **Total Packages**: 80
-- **Total Size**: 7.94 MB
+- **Download Time**: 2025-09-27T08:48:29.134310
+- **Total Packages**: 77
+- **Total Size**: 12.76 MB
 
 ## Packages List
+- xlfilldown
+- BackcastPro
+- uthavu-tools
+- abstract-webtools
+- abstract-hugpy
+- jupyterlab-js
+- ai-ebash
+- mplang-nightly
+- opentelemetry-instrumentation-rq
+- tfp-nightly
+- miniappi
+- philiarabbit
+- pynadlan
+- arrendatools.actualiza-renta
+- PyAccessModifier
+- authentik-client
+- graphem-rapids
+- pyconarr
+- django-dynamic-workflows
+- timetracking
+- zns-discord-bot
+- kuzu
 - ut-xls
 - syntaxmatrix
 - schwab-sdk-unofficial
-- timetracking
-- authentik-client
 - internal
 - qtmodel
 - sphinxnotes-project
 - mybox
-- BackcastPro
 - fh2-drc-mcp-server
 - ab-template-package
 - chonkie
@@ -61,28 +80,6 @@
 - ab-token-store
 - ab-test-fixtures
 - ab-auth-flow
-- abstract-hugpy
 - ab-cache
 - ab-database
-- abstract-webtools
 - ab-auth-client
-- ab-impersonation
-- trip-pay-payment
-- ab-dependency
-- django-clickify
-- ab-pkce
-- headless-driver
-- ConstantsByYuvneil
-- pulumi-oci
-- neuro-simulator
-- easyrip
-- scruby
-- colt
-- zenx
-- yt-dlp-getpot-wpc
-- vembrane
-- xdsl
-- pulumi-proxmoxve
-- sapiens-transformers
-- fh2-bailian-drc-server
-- piqtree
