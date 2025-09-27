@@ -1,11 +1,11 @@
 {
   "name": "annealing-ab",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "selection of groups for AB tests",
   "author": "Nikolai",
   "license": null,
   "home_page": null,
-  "download_filename": "annealing_ab-0.0.6.tar.gz",
-  "download_time": "2025-09-26T10:32:32.666014",
+  "download_filename": "annealing_ab-0.0.7.tar.gz",
+  "download_time": "2025-09-27T19:21:25.232299",
   "package_url": "https://pypi.org/project/annealing-ab/"
 }

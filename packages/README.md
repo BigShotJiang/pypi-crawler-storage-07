@@ -1,24 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T19:08:03.585369
-- **Total Packages**: 85
-- **Total Size**: 13.88 MB
+- **Download Time**: 2025-09-27T19:22:11.433247
+- **Total Packages**: 83
+- **Total Size**: 1.83 MB
 
 ## Packages List
+- anfispy
+- annealing-ab
+- detroit
+- xai-review
+- kmlorm
+- dyngle
+- bankingsdk
+- testcato
+- parajax
+- pdfalyzer
+- eegdash
+- nillanet
+- a003558
+- PermutiveAPI
+- academia-mcp
+- limber-timber
+- tmin
+- smartdecision-sdk
+- MangledDlt
+- semantic-network
+- graph-games-proto
+- RanaGPT
 - authentik-client
 - pycatflow
 - indico-plugin-feed-sync
 - jfjoch-client
-- mangledlt
 - ratemaking-tools
-- graph-games-proto
 - news-mcp-server
 - tiny-taskbot
-- xai-review
 - deebot-client
 - policyengine-us
-- academia-mcp
 - kuzu-memory
 - confkit
 - fittrackee
@@ -32,7 +50,6 @@
 - mcp-4get
 - energysystemmodels
 - mcp-testing
-- parajax
 - mmslon
 - enerhabitat
 - skpoly
@@ -72,22 +89,3 @@
 - django-typer
 - abstract-utilities
 - cat-win
-- rafina
-- pyiron-atomistics
-- prosemark
-- django-dynamic-workflows
-- pycrdt
-- burla
-- tallybot
-- torchcurves
-- pyheimdall-nakala
-- AntiCAP
-- nomad-camels
-- fred-oss
-- langstruct
-- dublib
-- kmlorm
-- deepseek-cli
-- gondola
-- tts-webui-extension.fireredtts2
-- artistools
