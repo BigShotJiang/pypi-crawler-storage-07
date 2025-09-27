@@ -1,11 +1,11 @@
 {
   "name": "annex4risk-detector",
-  "version": "1.4.5",
+  "version": "1.4.6",
   "summary": "risk classification chat assistant",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "annex4risk_detector-1.4.5.tar.gz",
-  "download_time": "2025-09-27T14:35:59.471575",
+  "download_filename": "annex4risk_detector-1.4.6.tar.gz",
+  "download_time": "2025-09-27T16:32:35.710556",
   "package_url": "https://pypi.org/project/annex4risk-detector/"
 }
