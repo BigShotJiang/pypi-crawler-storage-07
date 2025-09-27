@@ -1,0 +1,11 @@
+{
+  "name": "universal-scraper",
+  "version": "1.9.3",
+  "summary": "AI-powered web scraping with customizable field extraction using multiple AI providers",
+  "author": "Witeso",
+  "license": null,
+  "home_page": "https://github.com/WitesoAI/universal-scraper",
+  "download_filename": "universal_scraper-1.9.3-py3-none-any.whl",
+  "download_time": "2025-09-27T12:55:32.965721",
+  "package_url": "https://pypi.org/project/universal-scraper/"
+}

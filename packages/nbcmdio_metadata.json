@@ -1,11 +1,11 @@
 {
   "name": "nbcmdio",
-  "version": "1.8.61",
+  "version": "1.8.62",
   "summary": "一个在终端中输出色彩斑斓、颜色多样内容以及快捷输入的强大工具。A powerful tool for outputting colorful content and enabling quick input in the terminal.",
   "author": "Cipen",
   "license": null,
   "home_page": "https://github.com/YXPHOPE/NbCmdIO",
-  "download_filename": "nbcmdio-1.8.61.tar.gz",
-  "download_time": "2025-09-27T10:39:11.826594",
+  "download_filename": "nbcmdio-1.8.62.tar.gz",
+  "download_time": "2025-09-27T12:56:02.680468",
   "package_url": "https://pypi.org/project/nbcmdio/"
 }

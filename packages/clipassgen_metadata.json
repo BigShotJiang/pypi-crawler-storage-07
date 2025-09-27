@@ -1,0 +1,11 @@
+{
+  "name": "clipassgen",
+  "version": "1.1.2",
+  "summary": "Console Smart Passwords Generator. Cross-platform console utility for generating cryptographically strong, recoverable, smart passwords.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clipassgen-1.1.2.tar.gz",
+  "download_time": "2025-09-27T12:55:30.721966",
+  "package_url": "https://pypi.org/project/clipassgen/"
+}

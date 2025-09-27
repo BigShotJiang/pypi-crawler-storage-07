@@ -1,0 +1,11 @@
+{
+  "name": "grit-guardian-cli",
+  "version": "0.1.1a0",
+  "summary": "A CLI habit tracker",
+  "author": "Patrick Weiss",
+  "license": "MIT",
+  "home_page": "https://github.com/pi-weiss/grit-guardian-cli",
+  "download_filename": "grit_guardian_cli-0.1.1a0.tar.gz",
+  "download_time": "2025-09-27T12:55:37.337524",
+  "package_url": "https://pypi.org/project/grit-guardian-cli/"
+}

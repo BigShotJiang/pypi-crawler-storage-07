@@ -1,0 +1,11 @@
+{
+  "name": "exodus-core",
+  "version": "1.3.14",
+  "summary": "Core functionality of εxodus",
+  "author": "Exodus Privacy",
+  "license": null,
+  "home_page": "https://github.com/Exodus-Privacy/exodus-core",
+  "download_filename": "exodus_core-1.3.14.tar.gz",
+  "download_time": "2025-09-27T12:55:35.201497",
+  "package_url": "https://pypi.org/project/exodus-core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cli-command-parser",
+  "version": "2025.9.27",
+  "summary": "CLI Command Parser",
+  "author": "Doug Skrypa",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/dskrypa/cli_command_parser",
+  "download_filename": "cli_command_parser-2025.9.27.tar.gz",
+  "download_time": "2025-09-27T12:56:03.209707",
+  "package_url": "https://pypi.org/project/cli-command-parser/"
+}

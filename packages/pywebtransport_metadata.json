@@ -1,0 +1,11 @@
+{
+  "name": "pywebtransport",
+  "version": "0.7.1",
+  "summary": "The canonical, async-native WebTransport stack for Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pywebtransport-0.7.1.tar.gz",
+  "download_time": "2025-09-27T12:55:47.555212",
+  "package_url": "https://pypi.org/project/pywebtransport/"
+}
