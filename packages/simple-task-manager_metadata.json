@@ -1,0 +1,11 @@
+{
+  "name": "simple-task-manager",
+  "version": "1.5.36",
+  "summary": "Simple task manager to handle execution of tasks in AWS docker or any system. It use a handler that can be loaded dynamically.",
+  "author": "Francisco R. Moreno Santana",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/Fran-4c4/staskmgr",
+  "download_filename": "simple_task_manager-1.5.36.tar.gz",
+  "download_time": "2025-09-27T11:47:02.019389",
+  "package_url": "https://pypi.org/project/simple-task-manager/"
+}

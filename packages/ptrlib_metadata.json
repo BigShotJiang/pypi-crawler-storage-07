@@ -1,0 +1,11 @@
+{
+  "name": "ptrlib",
+  "version": "3.0.1",
+  "summary": "CTF library",
+  "author": "ptr-yudai",
+  "license": null,
+  "home_page": "https://github.com/ptr-yudai/ptrlib/",
+  "download_filename": "ptrlib-3.0.1-py3-none-any.whl",
+  "download_time": "2025-09-27T11:46:52.734010",
+  "package_url": "https://pypi.org/project/ptrlib/"
+}
