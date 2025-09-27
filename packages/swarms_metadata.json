@@ -1,11 +1,11 @@
 {
   "name": "swarms",
-  "version": "8.3.8",
+  "version": "8.4.0",
   "summary": "Swarms - TGSC",
   "author": "Kye Gomez",
   "license": "MIT",
   "home_page": "https://github.com/kyegomez/swarms",
-  "download_filename": "swarms-8.3.8.tar.gz",
-  "download_time": "2025-09-27T00:43:59.068666",
+  "download_filename": "swarms-8.4.0.tar.gz",
+  "download_time": "2025-09-27T22:28:00.396820",
   "package_url": "https://pypi.org/project/swarms/"
 }

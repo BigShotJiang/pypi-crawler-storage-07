@@ -1,36 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-27T22:09:01.274368
+- **Download Time**: 2025-09-27T22:28:36.091559
 - **Total Packages**: 79
-- **Total Size**: 17.47 MB
+- **Total Size**: 23.72 MB
 
 ## Packages List
+- fastapi-router-viz
+- baml-claude-code
+- sysetup
+- ezga-lib
+- datahold
+- underthesea
+- sapiens-transformers
+- image-processing-yasmim
+- aiohomematic
+- GameSentenceMiner
+- art_studio_tz
+- bibboost
+- gcovr
+- ytdl-sub
+- django-enum
+- syngular-ai
+- faapi
+- chbe444umd
+- swarms
+- pandorasat
+- gamms
 - dolze-templates
 - authentik-client
 - pymseed
-- baml-claude-code
 - test-mcp-server-ap25092201
 - duplicaid
-- chbe444umd
 - async-kernel
-- underthesea
 - carbonic
 - tissuelab-sdk
 - xai-review
-- ytdl-sub
 - docassemble.demo
 - wejax
 - aenet-gpr
-- image-processing-yasmim
 - crypticorn
 - djpress-publish-mastodon
-- osmose-presets
 - KeyisBTools
 - pilibr
 - pyclsp
 - autoskope-client
-- datahold
 - album-of-the-year-api
 - voltarium
 - ubc-solar-physics
@@ -71,17 +85,3 @@
 - streamtick
 - apache-tvm-ffi
 - kronoterm2mqtt
-- django-admin-groupby
-- utn-fra
-- hat-gateway
-- litestar-mcp
-- kedro-mlflow
-- fred-oss
-- investing-algorithm-framework
-- ckanext-dcor-schemas
-- matpowercaseframes
-- envon
-- ohmyapi
-- cobib
-- mybox
-- pyview-web
