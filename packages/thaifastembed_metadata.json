@@ -1,0 +1,11 @@
+{
+  "name": "thaifastembed",
+  "version": "0.1.1",
+  "summary": "Thai BM25 sparse embeddings compatible with Qdrant for hybrid search",
+  "author": "porameht",
+  "license": null,
+  "home_page": "https://github.com/porameht/thaifastembed",
+  "download_filename": "thaifastembed-0.1.1.tar.gz",
+  "download_time": "2025-09-27T11:32:49.428824",
+  "package_url": "https://pypi.org/project/thaifastembed/"
+}
