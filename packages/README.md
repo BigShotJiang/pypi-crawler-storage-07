@@ -1,33 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T20:11:04.098934
-- **Total Packages**: 75
-- **Total Size**: 13.75 MB
+- **Download Time**: 2025-09-28T20:29:39.896618
+- **Total Packages**: 73
+- **Total Size**: 7.79 MB
 
 ## Packages List
-- edhrec-mcp
-- sapiens-transformers
-- wmill-pg
-- wmill
-- windmill-api
-- authentik-client
-- vital
-- agentic-fabric-sdk
-- karaoke-gen
-- pxrun
-- ezollama
-- cndi
-- ai-security-mcp
-- fastloop
-- rotas-brasil-python-sdk
-- cdp-ninja
-- parse-pcap
-- appium-python-client-shadowstep
 - django-nativemojo
 - assistants-framework
 - datablob
 - fontdownloader
+- sapiens-transformers
+- pxrun
 - sportsball
 - shareddata
 - yta-numpy
@@ -35,8 +19,10 @@
 - stsiskar-Base123
 - localfinder
 - mcd-stitcher
+- authentik-client
 - svc-infra
 - terminotes
+- ezollama
 - unique_toolkit
 - shellforgepy
 - lark-language-detector
@@ -70,6 +56,7 @@
 - leverage
 - pythonic-fp-iterables
 - voxelmap
+- cndi
 - weycop
 - textlinebreaker
 - oarepo-rdm
@@ -81,3 +68,14 @@
 - pdfautonup
 - pythonic-fp-fptools
 - copul
+- odoo-isabel-connect
+- django-dynamic-workflows
+- playpi
+- reliqua
+- antsibull-docs-parser
+- slmsuite
+- binwheels-neovim
+- poethepoet-tasks
+- bambulabs-api
+- eegdash
+- pycont-lite
