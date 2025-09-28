@@ -1,16 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T22:29:29.181785
-- **Total Packages**: 82
-- **Total Size**: 12.11 MB
+- **Download Time**: 2025-09-28T22:38:38.211639
+- **Total Packages**: 85
+- **Total Size**: 16.21 MB
 
 ## Packages List
-- async-kernel
+- osmose-presets
+- arvores-henrique-soares
 - authentik-client
+- simple-icons-pack
+- minhas-arvores
+- daffodil
+- vsec-tls
+- novara
+- py-lite-edu
+- flytekit-uv
+- Blinter
+- mlrun
+- python-openagent
+- ifstate
+- intradev
+- async-kernel
 - dooservice-cli
 - qlever
-- py-lite-edu
 - buddybet-transactionmanager
 - sahi
 - prompture
@@ -56,7 +69,6 @@
 - meross-iot
 - evo-data-converters-gocad
 - PyMultiHelper
-- Blinter
 - pyddm
 - polymo
 - teds
@@ -79,12 +91,3 @@
 - crp
 - ipmimonitoring
 - rp
-- pulse-lucide
-- irispie-ce
-- askOmi
-- vbrpytools
-- documark
-- correction-helper
-- uutel
-- gdsfactoryplus
-- fdtdcurrent

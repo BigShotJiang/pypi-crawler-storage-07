@@ -1,0 +1,11 @@
+{
+  "name": "daffodil",
+  "version": "0.5.10",
+  "summary": "Daffodil provides lightweight and fast 2-D dataframes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "daffodil-0.5.10.tar.gz",
+  "download_time": "2025-09-28T22:37:54.713219",
+  "package_url": "https://pypi.org/project/daffodil/"
+}
