@@ -1,0 +1,11 @@
+{
+  "name": "dtipod",
+  "version": "0.1.0",
+  "summary": "Podcatcher do_the_internet.sh-style",
+  "author": "Matthias Büchse",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://git.sr.ht/~mbuechse/dtipod",
+  "download_filename": "dtipod-0.1.0.tar.gz",
+  "download_time": "2025-09-28T12:17:36.153077",
+  "package_url": "https://pypi.org/project/dtipod/"
+}

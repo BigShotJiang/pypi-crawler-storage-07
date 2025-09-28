@@ -1,0 +1,11 @@
+{
+  "name": "merge-dictionaries",
+  "version": "0.4.1",
+  "summary": "Merge dictionaries",
+  "author": "Sébastien Santoro",
+  "license": "BSD-2-Clause",
+  "home_page": "https://devcentral.nasqueron.org/source/merge-dictionaries/",
+  "download_filename": "merge_dictionaries-0.4.1.tar.gz",
+  "download_time": "2025-09-28T12:17:26.824248",
+  "package_url": "https://pypi.org/project/merge-dictionaries/"
+}

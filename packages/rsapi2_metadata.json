@@ -1,11 +1,11 @@
 {
   "name": "rsapi2",
-  "version": "0.0.43",
+  "version": "0.0.44",
   "summary": "Python library for accessing Runescape APIs",
   "author": "xn--it-uiab.eu",
   "license": null,
   "home_page": "https://github.com/ostracker-xyz/pyrsapi",
-  "download_filename": "rsapi2-0.0.43.tar.gz",
-  "download_time": "2025-09-27T20:28:25.292828",
+  "download_filename": "rsapi2-0.0.44.tar.gz",
+  "download_time": "2025-09-28T12:17:39.248314",
   "package_url": "https://pypi.org/project/rsapi2/"
 }
