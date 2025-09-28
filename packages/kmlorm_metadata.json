@@ -1,11 +1,11 @@
 {
   "name": "kmlorm",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "A Django-style ORM for KML (Keyhole Markup Language) files",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kmlorm-1.0.1.tar.gz",
-  "download_time": "2025-09-28T21:24:41.407838",
+  "download_filename": "kmlorm-1.1.0.tar.gz",
+  "download_time": "2025-09-28T23:10:11.316013",
   "package_url": "https://pypi.org/project/kmlorm/"
 }

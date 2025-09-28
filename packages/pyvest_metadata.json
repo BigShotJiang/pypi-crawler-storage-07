@@ -1,0 +1,11 @@
+{
+  "name": "pyvest",
+  "version": "0.0.7",
+  "summary": "PyVest is a Python library that provides tools for investment analysis.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyvest-0.0.7.tar.gz",
+  "download_time": "2025-09-28T23:10:24.232408",
+  "package_url": "https://pypi.org/project/pyvest/"
+}

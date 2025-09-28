@@ -1,11 +1,11 @@
 {
   "name": "audio-separator",
-  "version": "0.38.1",
+  "version": "0.39.0",
   "summary": "Easy to use audio stem separation, using various models from UVR trained primarily by @Anjok07",
   "author": "Andrew Beveridge",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "audio_separator-0.38.1.tar.gz",
-  "download_time": "2025-09-28T06:39:22.934221",
+  "download_filename": "audio_separator-0.39.0.tar.gz",
+  "download_time": "2025-09-28T23:10:13.060767",
   "package_url": "https://pypi.org/project/audio-separator/"
 }

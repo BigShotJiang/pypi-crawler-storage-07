@@ -1,14 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T22:48:21.176087
-- **Total Packages**: 85
-- **Total Size**: 11.99 MB
+- **Download Time**: 2025-09-28T23:10:48.300056
+- **Total Packages**: 81
+- **Total Size**: 15.73 MB
 
 ## Packages List
-- osmose-presets
-- arvores-henrique-soares
+- schwab-sdk-unofficial
+- dyngle
 - authentik-client
+- catalax
+- sportsball
+- c2cwsgiutils
+- cyberark-tpc-plugin-validator
+- mythica
+- django-reportcraft
+- zepben.protobuf
+- cyberark-tpc-plugin-parser
+- kmlorm
+- buddybet-transactionmanager
+- calculadora-desarrollo-kevin
+- audio-separator
+- larch
+- nevu-ui
+- mybox
+- uutel
+- pyenzyme
+- fastloom
+- wheel-getter
+- SoullessAi-Dem
+- osmose-presets
+- bbeval
+- r82labs-analytics
+- toptle
+- ultralytics-actions
+- sv-sunday
+- spicelab
+- flask-inputfilter
+- ventricle
+- arvores-henrique-soares
+- scrollart
+- pyvest
 - simple-icons-pack
 - minhas-arvores
 - daffodil
@@ -24,7 +56,6 @@
 - async-kernel
 - dooservice-cli
 - qlever
-- buddybet-transactionmanager
 - sahi
 - prompture
 - sourcepp
@@ -45,7 +76,6 @@
 - dv-pipecat-ai
 - yaml-to-backend
 - open-space-toolkit-core
-- cyberark-tpc-plugin-validator
 - pybit
 - mkdocs-excalidraw
 - regula-documentreader-webclient
@@ -57,37 +87,3 @@
 - ohmyi3
 - VascoCal
 - qt4-doc-mcp-server
-- easier-openai
-- evo-data-converters-omf
-- metis-agent
-- midil-kit
-- graphflow
-- django-nativemojo
-- evo-data-converters-vtk
-- evo-data-converters-ubc
-- evo-data-converters-resqml
-- meross-iot
-- evo-data-converters-gocad
-- PyMultiHelper
-- pyddm
-- polymo
-- teds
-- claude-agent-sdk
-- aind-codeocean-pipeline-monitor
-- evo-data-converters-common
-- evo-data-converters-duf
-- mermaid-parser-py
-- ubicoders-vrobots-msgs
-- mkdocs-include-markdown-plugin
-- ass
-- uvicore
-- unisegp
-- mrtrix3-agent
-- ai-security-mcp
-- amino.dorks.fix
-- forteenall-kit
-- tce-lib
-- bitformat
-- crp
-- ipmimonitoring
-- rp

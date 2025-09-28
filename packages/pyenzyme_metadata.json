@@ -1,0 +1,11 @@
+{
+  "name": "pyenzyme",
+  "version": "2.2.0",
+  "summary": "A Python library for EnzymeML",
+  "author": "Jan Range",
+  "license": "BSD 2-Clause License",
+  "home_page": "https://github.com/EnzymeML/pyenzyme",
+  "download_filename": "pyenzyme-2.2.0.tar.gz",
+  "download_time": "2025-09-28T23:10:16.507482",
+  "package_url": "https://pypi.org/project/pyenzyme/"
+}
