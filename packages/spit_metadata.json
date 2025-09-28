@@ -1,11 +1,11 @@
 {
   "name": "spit",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "summary": "Comprehensive Python package for detecting differential transcript usage (DTU) in RNA-seq data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spit-2.0.3.tar.gz",
-  "download_time": "2025-09-27T21:08:12.565067",
+  "download_filename": "spit-2.0.4.tar.gz",
+  "download_time": "2025-09-28T12:56:41.011338",
   "package_url": "https://pypi.org/project/spit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "celery-chain-router",
+  "version": "0.1.0",
+  "summary": "A Celery router that uses permutation chains for task distribution",
+  "author": "Petrit Avdylaj",
+  "license": null,
+  "home_page": "https://github.com/petritavd/celery-chain-router",
+  "download_filename": "celery_chain_router-0.1.0.tar.gz",
+  "download_time": "2025-09-28T12:56:38.317645",
+  "package_url": "https://pypi.org/project/celery-chain-router/"
+}
