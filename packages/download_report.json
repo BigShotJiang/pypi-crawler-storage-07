@@ -1,7 +1,7 @@
 {
-  "download_time": "2025-09-28T20:37:42.272623",
+  "download_time": "2025-09-28T20:48:05.406022",
   "total_packages_downloaded": 74,
-  "total_size_mb": 10.93,
+  "total_size_mb": 2.67,
   "packages": [
     "authentik-client",
     "bettergit",
