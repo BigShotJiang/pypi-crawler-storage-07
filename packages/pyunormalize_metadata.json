@@ -1,0 +1,11 @@
+{
+  "name": "pyunormalize",
+  "version": "17.0.0",
+  "summary": "A library for Unicode normalization (NFC, NFD, NFKC, NFKD) independent of Python's core Unicode database.",
+  "author": "Marc Lodewijck",
+  "license": "MIT",
+  "home_page": "https://github.com/mlodewijck/pyunormalize",
+  "download_filename": "pyunormalize-17.0.0.tar.gz",
+  "download_time": "2025-09-28T21:08:54.751648",
+  "package_url": "https://pypi.org/project/pyunormalize/"
+}

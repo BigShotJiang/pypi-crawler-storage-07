@@ -1,0 +1,11 @@
+{
+  "name": "dsm-lib",
+  "version": "2.0.0",
+  "summary": "DSM library for a forecast air pollution",
+  "author": "Igor Chernitsin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dsm_lib-2.0.0.tar.gz",
+  "download_time": "2025-09-28T21:08:58.467127",
+  "package_url": "https://pypi.org/project/dsm-lib/"
+}
