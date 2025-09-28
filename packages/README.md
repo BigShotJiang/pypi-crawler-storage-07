@@ -1,17 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T22:10:21.389009
-- **Total Packages**: 81
-- **Total Size**: 4.93 MB
+- **Download Time**: 2025-09-28T22:29:29.181785
+- **Total Packages**: 82
+- **Total Size**: 12.11 MB
 
 ## Packages List
-- prosemark
+- async-kernel
+- authentik-client
 - dooservice-cli
+- qlever
+- py-lite-edu
+- buddybet-transactionmanager
+- sahi
+- prompture
+- sourcepp
+- sling
+- playpi
+- lm-deluge
+- ImageTileProcessor
+- mitoomics-gpu
+- timbal
+- beacon-api
+- invocation-tree
+- aenet-gpr
+- dataprep-ai
+- opswork
+- identory
+- geocompy
+- librovore
+- dv-pipecat-ai
+- yaml-to-backend
+- open-space-toolkit-core
+- cyberark-tpc-plugin-validator
+- pybit
+- mkdocs-excalidraw
+- regula-documentreader-webclient
+- prosemark
 - firegex
 - fgex
 - cliify
-- authentik-client
 - referrers
 - ohmyi3
 - VascoCal
@@ -25,7 +53,6 @@
 - evo-data-converters-vtk
 - evo-data-converters-ubc
 - evo-data-converters-resqml
-- py-lite-edu
 - meross-iot
 - evo-data-converters-gocad
 - PyMultiHelper
@@ -44,12 +71,10 @@
 - uvicore
 - unisegp
 - mrtrix3-agent
-- mitoomics-gpu
 - ai-security-mcp
 - amino.dorks.fix
 - forteenall-kit
 - tce-lib
-- mkdocs-excalidraw
 - bitformat
 - crp
 - ipmimonitoring
@@ -57,33 +82,9 @@
 - pulse-lucide
 - irispie-ce
 - askOmi
-- qlever
 - vbrpytools
 - documark
 - correction-helper
 - uutel
 - gdsfactoryplus
 - fdtdcurrent
-- cyberark-tpc-plugin-parser
-- sharepointlib
-- pyrendering
-- entity-query-language
-- rym-lpath
-- rym-cx
-- what2-grapheme
-- euroleague-api
-- gam7
-- pulse-mantine
-- pulse-framework
-- kmlorm
-- datafiller
-- dataprep-ai
-- ai-parrot
-- decisive-tree
-- orca-python
-- syrupy
-- hla-compass
-- lazyslide
-- openbrokerapi
-- py-license-auditor
-- docling-serve-sdk

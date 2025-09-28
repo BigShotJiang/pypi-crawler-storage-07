@@ -1,0 +1,11 @@
+{
+  "name": "ImageTileProcessor",
+  "version": "0.1.16",
+  "summary": "This is a in-house package to deal with lazy tiled image tile loading to save RAM and various methods to post process tiled outpus s",
+  "author": "Tong Li",
+  "license": "MIT",
+  "home_page": "https://github.com/BioinfoTongLI/ImageTileProcessor",
+  "download_filename": "imagetileprocessor-0.1.16.tar.gz",
+  "download_time": "2025-09-28T22:28:46.137260",
+  "package_url": "https://pypi.org/project/ImageTileProcessor/"
+}

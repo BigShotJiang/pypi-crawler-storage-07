@@ -1,11 +1,11 @@
 {
   "name": "mitoomics-gpu",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "GPU-accelerated pipeline to compute a Mitochondrial Health Index (MHI)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mitoomics_gpu-0.1.1.tar.gz",
-  "download_time": "2025-09-28T21:47:33.572222",
+  "download_filename": "mitoomics_gpu-0.1.2.tar.gz",
+  "download_time": "2025-09-28T22:28:46.720067",
   "package_url": "https://pypi.org/project/mitoomics-gpu/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "sahi",
-  "version": "0.11.35",
+  "version": "0.11.36",
   "summary": "A vision library for performing sliced inference on large images/small objects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sahi-0.11.35-py3-none-any.whl",
-  "download_time": "2025-09-26T20:11:59.625473",
+  "download_filename": "sahi-0.11.36-py3-none-any.whl",
+  "download_time": "2025-09-28T22:28:42.048130",
   "package_url": "https://pypi.org/project/sahi/"
 }
