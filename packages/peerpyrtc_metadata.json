@@ -1,0 +1,11 @@
+{
+  "name": "peerpyrtc",
+  "version": "0.2.0",
+  "summary": "A Python-based WebRTC signaling and data channel library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "peerpyrtc-0.2.0.tar.gz",
+  "download_time": "2025-09-28T19:21:58.328502",
+  "package_url": "https://pypi.org/project/peerpyrtc/"
+}

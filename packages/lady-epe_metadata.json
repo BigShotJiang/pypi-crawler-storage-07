@@ -1,0 +1,11 @@
+{
+  "name": "lady-epe",
+  "version": "0.1.0",
+  "summary": "Framework simbólico para auditoria de modelos com métricas de divergência temporal",
+  "author": "Cesar Rúbio",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lady_epe-0.1.0.tar.gz",
+  "download_time": "2025-09-28T19:21:59.371480",
+  "package_url": "https://pypi.org/project/lady-epe/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "binwheels-neovim",
+  "version": "0.11.4",
+  "summary": "Cross-platform Neovim installation via Python packaging",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "binwheels_neovim-0.11.4-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2025-09-28T19:21:52.018867",
+  "package_url": "https://pypi.org/project/binwheels-neovim/"
+}

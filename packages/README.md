@@ -1,11 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T19:07:52.869484
-- **Total Packages**: 80
-- **Total Size**: 11.93 MB
+- **Download Time**: 2025-09-28T19:22:25.616204
+- **Total Packages**: 78
+- **Total Size**: 26.53 MB
 
 ## Packages List
+- mcpcat
+- weycop
+- easier-openai
+- py-me
+- lark-language-detector
+- odoo-isabel-connect
+- django-dynamic-workflows
+- assistants-framework
+- cndi
+- playpi
+- reliqua
+- sapiens-transformers
+- antsibull-docs-parser
+- slmsuite
+- binwheels-neovim
+- poethepoet-tasks
+- bambulabs-api
+- eegdash
+- pycont-lite
+- intradev
+- mayan-edms
+- univllm
+- fastloop
+- svc-infra
+- authentik-client
+- CaesarCipher.extended
+- peerpyrtc
+- xword-dl
+- lady-epe
+- asyncfast
+- amgi-types
+- amgi-common
+- amgi-aiokafka
 - nipyapi
 - qe-connector
 - apache-airflow-providers-taskette-dev
@@ -15,7 +48,6 @@
 - nokch
 - mcp-context-server
 - sportsball
-- CaesarCipher.extended
 - oarepo-runtime
 - shareddata
 - labview-fpga-hdl-tools
@@ -23,23 +55,18 @@
 - mocap-converter
 - idun-agent-schema
 - graphlit-client
-- sapiens-transformers
 - mysql-ch-replicator
 - nl2bench
-- lark-language-detector
 - dorky-app
 - EyadGPT
 - ArvoresDecisaoGPRL4
-- py-me
 - code-puppy
 - dbt-switch
 - timelib-jack
 - Blinter
-- weycop
 - osmose-presets
 - index
 - crypticorn
-- authentik-client
 - pulumiverse-grafana
 - qanswer_sdk
 - pycrdt
@@ -57,32 +84,3 @@
 - otpme
 - clean-logging
 - mintzy
-- tcx2gpx
-- ccdexplorer-fundamentals
-- edhrec-mcp
-- prosemark
-- seapopym_optimization
-- termtap
-- webtap-tool
-- prompture
-- django-cookie-consent
-- homecom-alt
-- openbatch
-- ai-pipeline-core
-- fleetfluid
-- nrgrank
-- git-publish
-- recce-nightly
-- cerebrate-file
-- skilleter-thingy
-- molviewspec
-- easyascii-py
-- llms-py
-- identory
-- fast-bi-dbt-runner
-- sphinx-syntax
-- tespy
-- virgo-modules
-- git-goose
-- cyvest
-- contest-helper
