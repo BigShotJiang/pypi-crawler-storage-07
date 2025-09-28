@@ -1,11 +1,11 @@
 {
   "name": "gencalc",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "A Python library to calculate the start and end of any new or old generation.",
   "author": "Niral Bhatt",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gencalc-1.0.0.tar.gz",
-  "download_time": "2025-09-28T07:47:33.035934",
+  "download_filename": "gencalc-1.0.2.tar.gz",
+  "download_time": "2025-09-28T08:12:39.686096",
   "package_url": "https://pypi.org/project/gencalc/"
 }

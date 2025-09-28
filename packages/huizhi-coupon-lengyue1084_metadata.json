@@ -1,11 +1,11 @@
 {
   "name": "huizhi-coupon-lengyue1084",
-  "version": "0.1.13",
-  "summary": "一个优惠券的包，提供优惠券获取、查询",
+  "version": "0.1.15",
+  "summary": "汇智优惠券MCP服务包，提供多品类优惠券查询、筛选和推广链接生成功能，支持外卖、美食、休闲娱乐、酒店民宿、门票度假、医药等多个类目",
   "author": null,
   "license": "Copyright (c) 2018 The Python Packaging Authority  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.  THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.[project] name = \"huizhi-coupon-lengyue1084\" version = \"0.1.1\" description = \"一个简单的计算工具包，提供基本的数学运算和问候功能\" authors = [ { name = \"lengyue1084\", email = \"95695864@qq.com\" }, ] readme = \"README.md\" license = { file = \"LICENSE\" } requires-python = \">=3.12\" dependencies = [ \"mcp-server-fastmcp>=0.1.0\", ]  [project.scripts] huizhi-coupon-lengyue1084 = \"huizhi_coupon_lengyue1084.main:main\"  [build-system] requires = [\"hatchling\"] build-backend = \"hatchling.build\"  [tool.hatch.build.targets.wheel] packages = [\"src/huizhi_coupon_lengyue1084\"]  [tool.hatch.build.targets.sdist] packages = [\"src/huizhi_coupon_lengyue1084\"]",
   "home_page": null,
-  "download_filename": "huizhi_coupon_lengyue1084-0.1.13.tar.gz",
-  "download_time": "2025-09-28T07:32:42.459466",
+  "download_filename": "huizhi_coupon_lengyue1084-0.1.15.tar.gz",
+  "download_time": "2025-09-28T08:12:33.494502",
   "package_url": "https://pypi.org/project/huizhi-coupon-lengyue1084/"
 }

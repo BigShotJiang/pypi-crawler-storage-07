@@ -1,11 +1,11 @@
 {
   "name": "inet-api-client",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "Inet API Client - 用于访问Sky Cloud平台API的Python客户端库",
   "author": "Bobby Sheng",
   "license": "MIT",
   "home_page": "https://github.com/sky-cloud/inet-api-client",
-  "download_filename": "inet_api_client-1.2.1.tar.gz",
-  "download_time": "2025-09-28T07:47:34.112021",
+  "download_filename": "inet_api_client-1.2.2.tar.gz",
+  "download_time": "2025-09-28T08:12:41.730155",
   "package_url": "https://pypi.org/project/inet-api-client/"
 }

@@ -1,11 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T07:48:08.447814
-- **Total Packages**: 80
-- **Total Size**: 12.01 MB
+- **Download Time**: 2025-09-28T08:13:04.087914
+- **Total Packages**: 75
+- **Total Size**: 10.19 MB
 
 ## Packages List
+- alibabacloud-cas20200407
+- authentik-client
+- ap-mail
+- nonebot-plugin-auto-enter-group
+- baseline-checker
+- pyglove
+- mysingle-quant
+- prefect
+- prefect-client
+- musecbox
+- legit-api-client
+- tiferet-flask
+- symconf
+- eigenpuls
+- bento-sgl-router
+- p2d2
+- activefence-client-sdk
+- website-crawler-sdk
+- huizhi-coupon-lengyue1084
+- PyQvd
+- bizydraft
+- commonmeta-py
+- itrx
+- kxy-framework
+- investing-algorithm-framework
+- remip-client
+- iamex
+- remip
+- grades
+- aioasuswrt
+- gencalc
+- f2-commander
+- yottactl
+- mrtrix3-agent
+- inet-api-client
+- ugit-cli
+- alibuild
+- reydb
+- sautech
+- translate-shell
 - wxbtool
 - txt2ebook
 - rui-utils
@@ -16,16 +56,10 @@
 - hex-device
 - gmscaffold
 - seven-cloudapp-frame
-- kxy-framework
 - videolab
 - tudata
 - feldera
-- gencalc
-- mrtrix3-agent
-- inet-api-client
 - ComicGUISpider
-- p2d2
-- authentik-client
 - umanager
 - plassembler
 - restate
@@ -36,53 +70,14 @@
 - fotolab
 - nheri-simcenter
 - dynamicdns
-- bento-sgl-router
-- huizhi-coupon-lengyue1084
 - wathq-mcp-server
 - upplib
 - atv
 - gac
-- legit-api-client
 - PagodaAL
 - shancx
 - speechreclib
 - heatmap_cli
 - pulumi-xyz
-- mysingle-quant
 - qsarmil
 - corpus-judge
-- scopey
-- citation-title
-- ut-ioc
-- sch-lib
-- samudra-ai
-- litellm
-- nonebot-plugin-mhcodes
-- tritonparse
-- xsget
-- scruby
-- aiohomematic
-- dbt-colibri
-- jinzhupy
-- mcp-rag-librarian
-- structured-logger-railway
-- zimagi
-- pulumi-rancher2
-- monkey.dao
-- frogml
-- streamlit-nightly
-- oEmbedPy
-- idmtheory
-- pokercraft-local
-- eigenpuls
-- canns
-- stable-delusion
-- wiim
-- tf-models-nightly
-- qwak-core
-- django-unicom
-- aasman
-- flake8-deprecation
-- fastapi-agentrouter
-- slack-lists-mcp
-- ab-user
