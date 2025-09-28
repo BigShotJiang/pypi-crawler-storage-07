@@ -1,11 +1,19 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T14:27:03.855036
-- **Total Packages**: 80
-- **Total Size**: 11.64 MB
+- **Download Time**: 2025-09-28T14:34:12.645376
+- **Total Packages**: 79
+- **Total Size**: 5.71 MB
 
 ## Packages List
+- direct-formatting-pandas-ods-reader
+- iatoolkit
+- cg3d-maya-casc
+- xai-review
+- zk-chat
+- mimimon
+- abstract-webtools
+- pythonic-fp
 - authentik-client
 - buddybet-i18n
 - energysystemmodels
@@ -30,7 +38,6 @@
 - kupiapi
 - langfuse
 - unicex
-- abstract-webtools
 - sa-tenders
 - multi-agent-generator
 - django-unicom
@@ -75,14 +82,6 @@
 - llama-deploy-core
 - llama-deploy-appserver
 - quantification
-- xai-review
 - markdown-flow
 - pr-prompt
 - avl-axi
-- tencent-wedata-feature-engineering
-- wagjo-cowsay
-- castor-io
-- new-deepagents
-- redis-benchmarks-specification
-- UVR-resources
-- osmose-presets
