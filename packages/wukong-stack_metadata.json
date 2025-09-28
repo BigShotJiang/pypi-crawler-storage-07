@@ -1,11 +1,11 @@
 {
   "name": "wukong-stack",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "WukongStack is a dynamic CLI tool that generates a full-stack web application skeleton",
   "author": "Sunny Liu",
   "license": "MIT",
   "home_page": "https://github.com/devsunny/wukong-stack",
-  "download_filename": "wukong_stack-0.1.3.tar.gz",
-  "download_time": "2025-09-28T13:17:03.572686",
+  "download_filename": "wukong_stack-0.1.4.tar.gz",
+  "download_time": "2025-09-28T16:47:39.837528",
   "package_url": "https://pypi.org/project/wukong-stack/"
 }

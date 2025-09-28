@@ -1,0 +1,11 @@
+{
+  "name": "my-datetime-library",
+  "version": "0.1.0",
+  "summary": "A highly accurate custom datetime library built from scratch, supporting TAI, UTC, leap seconds, and timezones.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "my_datetime_library-0.1.0.tar.gz",
+  "download_time": "2025-09-28T16:47:27.971031",
+  "package_url": "https://pypi.org/project/my-datetime-library/"
+}

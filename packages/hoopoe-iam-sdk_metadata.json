@@ -1,0 +1,11 @@
+{
+  "name": "hoopoe-iam-sdk",
+  "version": "1.0.2",
+  "summary": "Official Python SDK for Hoopoe IAM Service - Identity and Access Management made simple",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hoopoe_iam_sdk-1.0.2.tar.gz",
+  "download_time": "2025-09-28T16:47:43.067709",
+  "package_url": "https://pypi.org/project/hoopoe-iam-sdk/"
+}

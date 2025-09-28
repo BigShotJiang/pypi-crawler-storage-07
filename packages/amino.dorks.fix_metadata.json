@@ -1,11 +1,11 @@
 {
   "name": "amino.dorks.fix",
-  "version": "3.7.5.4",
+  "version": "3.7.5.5",
   "summary": "Library for Amino. Telegram - https://t.me/aminodorks",
   "author": "misterio",
   "license": "MIT",
   "home_page": "https://github.com/misterio060/amino.dorks.fix",
-  "download_filename": "amino_dorks_fix-3.7.5.4.tar.gz",
-  "download_time": "2025-09-28T13:16:58.342228",
+  "download_filename": "amino_dorks_fix-3.7.5.5.tar.gz",
+  "download_time": "2025-09-28T16:47:48.444794",
   "package_url": "https://pypi.org/project/amino.dorks.fix/"
 }
