@@ -1,11 +1,11 @@
 {
   "name": "dolze-templates",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "summary": "Template system for Dolze landing pages",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dolze_templates-2.1.2.tar.gz",
-  "download_time": "2025-09-28T13:47:37.853216",
+  "download_filename": "dolze_templates-2.1.3.tar.gz",
+  "download_time": "2025-09-28T14:08:32.737587",
   "package_url": "https://pypi.org/project/dolze-templates/"
 }

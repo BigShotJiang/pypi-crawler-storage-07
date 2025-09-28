@@ -1,11 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T13:48:06.329800
+- **Download Time**: 2025-09-28T14:09:02.708733
 - **Total Packages**: 80
-- **Total Size**: 17.24 MB
+- **Total Size**: 22.29 MB
 
 ## Packages List
+- abstract-webtools
+- authentik-client
+- akash
+- fans
+- ryry-cli
+- ta-polars
+- tartex
+- xdat
+- fingrid-py
+- qwak-inference
+- easyrip
+- dumbjuice
+- av-mcp
+- inzicht
+- tobes-ui
+- simple-calculator-almakdye
+- django-unicom
+- byzh-ai
+- orderly-evm-connector
+- sora-sdk
+- sora-sdk-rpi
+- openubmc-bingo
+- energysystemmodels
+- pozansky-news-server
+- crawl4weibo
+- red-tidegear
+- ppio-sandbox
+- ohmyapi
+- dolze-templates
+- tensordict-nightly
+- PolUVR
+- cpp-linter
+- root-painter
+- sa-tenders
+- alpha-vantage-agent
+- django-linkcheck
 - wyoming-microsoft-stt
 - llamactl
 - llama-deploy-core
@@ -14,7 +50,6 @@
 - xai-review
 - markdown-flow
 - pr-prompt
-- django-unicom
 - avl-axi
 - tencent-wedata-feature-engineering
 - wagjo-cowsay
@@ -23,16 +58,12 @@
 - redis-benchmarks-specification
 - UVR-resources
 - osmose-presets
-- sa-tenders
 - tinyrml
-- authentik-client
 - eigenpuls
 - simple-llm-api
 - poottu
 - bool-hybrid-array
-- akash
 - xmptools
-- dolze-templates
 - earningspy
 - abov3-ai
 - lograder
@@ -55,34 +86,3 @@
 - mainsequence
 - rdfhelpers
 - elide
-- lisien
-- napari-flowreg
-- BackcastPro
-- ta-polars
-- norfetool
-- tallybot
-- jusfltuls
-- ascii-announcers
-- crawlo
-- zoozl
-- litestar-mcp
-- ogboost
-- lancetnic
-- speechreclib
-- soda-mq-client
-- documark
-- hcom
-- yahi
-- carp-rpc
-- valar
-- fabricatio-typst
-- fabricatio-tool
-- nbdev-apl
-- fabricatio
-- nbdev-django
-- fabricatio-core
-- nbdev-sphinx
-- fabricatio-novel
-- fabricatio-anki
-- nbdev-scipy
-- nbdev-pytorch

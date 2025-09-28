@@ -1,0 +1,11 @@
+{
+  "name": "django-linkcheck",
+  "version": "2.4.0",
+  "summary": "A Django app that will analyze and report on links in any model that you register with it.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_linkcheck-2.4.0.tar.gz",
+  "download_time": "2025-09-28T14:08:36.969240",
+  "package_url": "https://pypi.org/project/django-linkcheck/"
+}
