@@ -1,0 +1,11 @@
+{
+  "name": "flake8-deprecation",
+  "version": "1.0.1",
+  "summary": "flake8 extension to warning when you call a function that calls warning.warn",
+  "author": "Campbell Starky",
+  "license": "MIT",
+  "home_page": "https://github.com/cstarkers/flake8-deprecation",
+  "download_filename": "flake8_deprecation-1.0.1.tar.gz",
+  "download_time": "2025-09-28T07:24:04.174616",
+  "package_url": "https://pypi.org/project/flake8-deprecation/"
+}

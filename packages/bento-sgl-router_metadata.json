@@ -1,0 +1,11 @@
+{
+  "name": "bento-sgl-router",
+  "version": "0.0.2",
+  "summary": "Bento service with SGLang Router included",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bento_sgl_router-0.0.2.tar.gz",
+  "download_time": "2025-09-28T07:24:06.607571",
+  "package_url": "https://pypi.org/project/bento-sgl-router/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aasman",
-  "version": "0.2.1.5",
+  "version": "0.2.1.85",
   "summary": "A sample Python package for testing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aasman-0.2.1.5.tar.gz",
-  "download_time": "2025-09-28T05:47:40.744155",
+  "download_filename": "aasman-0.2.1.85.tar.gz",
+  "download_time": "2025-09-28T07:24:03.597755",
   "package_url": "https://pypi.org/project/aasman/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "canns",
+  "version": "0.8.3",
+  "summary": "A Python Library for Continuous Attractor Neural Networks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "canns-0.8.3.tar.gz",
+  "download_time": "2025-09-28T07:23:58.247739",
+  "package_url": "https://pypi.org/project/canns/"
+}
