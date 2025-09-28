@@ -1,14 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T18:49:01.734875
-- **Total Packages**: 75
-- **Total Size**: 5.92 MB
+- **Download Time**: 2025-09-28T19:07:52.869484
+- **Total Packages**: 80
+- **Total Size**: 11.93 MB
 
 ## Packages List
+- nipyapi
+- qe-connector
+- apache-airflow-providers-taskette-dev
+- bclib
+- fred-oss
+- geofig
+- nokch
+- mcp-context-server
+- sportsball
+- CaesarCipher.extended
+- oarepo-runtime
+- shareddata
+- labview-fpga-hdl-tools
+- clauth
+- mocap-converter
+- idun-agent-schema
+- graphlit-client
+- sapiens-transformers
+- mysql-ch-replicator
+- nl2bench
+- lark-language-detector
+- dorky-app
+- EyadGPT
+- ArvoresDecisaoGPRL4
+- py-me
+- code-puppy
+- dbt-switch
+- timelib-jack
+- Blinter
+- weycop
+- osmose-presets
+- index
+- crypticorn
+- authentik-client
+- pulumiverse-grafana
+- qanswer_sdk
+- pycrdt
 - reolink-aio
 - dknovautils
-- shareddata
 - montydb
 - toolbox-sdk
 - grape
@@ -19,21 +55,17 @@
 - sonatoki
 - pulumiverse-acme
 - otpme
-- authentik-client
 - clean-logging
-- crypticorn
 - mintzy
 - tcx2gpx
 - ccdexplorer-fundamentals
 - edhrec-mcp
-- lark-language-detector
 - prosemark
 - seapopym_optimization
 - termtap
 - webtap-tool
 - prompture
 - django-cookie-consent
-- oarepo-runtime
 - homecom-alt
 - openbatch
 - ai-pipeline-core
@@ -54,30 +86,3 @@
 - git-goose
 - cyvest
 - contest-helper
-- Mint-NM
-- whenever
-- zeed-movslib
-- ae-dev-ops
-- playpi
-- pyffmpeg
-- arcade-actions
-- moneyball
-- simplyprint-bambu-lab
-- sportsball
-- reykit
-- reydb
-- verbecc
-- abstract-utilities
-- osmose-presets
-- django-flex-report
-- aiostep
-- BatchalignHK
-- micktrace
-- torchabc
-- sportsfeatures
-- topologicpy
-- luks-tray
-- t-doc-common
-- rds-proxy-password-rotation
-- fastapi-users-db-dynamodb
-- breez-sdk-spark

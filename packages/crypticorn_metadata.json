@@ -1,11 +1,11 @@
 {
   "name": "crypticorn",
-  "version": "2.20.0",
+  "version": "3.0.1",
   "summary": "Maximise Your Crypto Trading Profits with Machine Learning",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "crypticorn-2.20.0.tar.gz",
-  "download_time": "2025-09-27T12:55:51.078386",
+  "download_filename": "crypticorn-3.0.1.tar.gz",
+  "download_time": "2025-09-28T19:07:25.027987",
   "package_url": "https://pypi.org/project/crypticorn/"
 }

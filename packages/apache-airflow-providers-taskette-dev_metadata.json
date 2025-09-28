@@ -1,11 +1,11 @@
 {
   "name": "apache-airflow-providers-taskette-dev",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Provider package apache-airflow-providers-taskette for Apache Airflow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apache_airflow_providers_taskette_dev-0.0.1.tar.gz",
-  "download_time": "2025-09-28T17:47:10.309828",
+  "download_filename": "apache_airflow_providers_taskette_dev-0.0.2.tar.gz",
+  "download_time": "2025-09-28T19:07:06.989743",
   "package_url": "https://pypi.org/project/apache-airflow-providers-taskette-dev/"
 }

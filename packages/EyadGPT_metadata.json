@@ -1,0 +1,11 @@
+{
+  "name": "EyadGPT",
+  "version": "6.8.6",
+  "summary": "ChatGPT is a reverse engineering of OpenAI's ChatGPT API",
+  "author": "Antonio Cheong",
+  "license": "GNU General Public License v2.0",
+  "home_page": "https://github.com/acheong08/ChatGPT",
+  "download_filename": "eyadgpt-6.8.6.tar.gz",
+  "download_time": "2025-09-28T19:07:19.079647",
+  "package_url": "https://pypi.org/project/EyadGPT/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pycrdt",
-  "version": "0.12.36",
+  "version": "0.12.37",
   "summary": "Python bindings for Yrs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pycrdt-0.12.36.tar.gz",
-  "download_time": "2025-09-27T18:36:26.397903",
+  "download_filename": "pycrdt-0.12.37.tar.gz",
+  "download_time": "2025-09-28T19:07:27.612963",
   "package_url": "https://pypi.org/project/pycrdt/"
 }
