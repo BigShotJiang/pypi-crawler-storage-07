@@ -1,0 +1,11 @@
+{
+  "name": "cgg",
+  "version": "0.4.9",
+  "summary": "cgg is a short form of call gguf model/file; cgg is a cmd-based app built on gguf-connector, which allows users interacting with large language model (i.e., chatgpt) via a simple command without coding a long long syntax",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cgg-0.4.9.tar.gz",
+  "download_time": "2025-09-28T02:26:16.403529",
+  "package_url": "https://pypi.org/project/cgg/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "llparse",
+  "version": "0.1.8",
+  "summary": "A Parody of llparse written for writing C Parsers with Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llparse-0.1.8.tar.gz",
+  "download_time": "2025-09-28T02:26:17.976707",
+  "package_url": "https://pypi.org/project/llparse/"
+}

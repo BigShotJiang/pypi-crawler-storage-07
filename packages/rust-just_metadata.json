@@ -1,0 +1,11 @@
+{
+  "name": "rust-just",
+  "version": "1.43.0",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/casey/just",
+  "download_filename": "rust_just-1.43.0.tar.gz",
+  "download_time": "2025-09-28T02:26:21.322585",
+  "package_url": "https://pypi.org/project/rust-just/"
+}

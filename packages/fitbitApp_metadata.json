@@ -1,0 +1,11 @@
+{
+  "name": "fitbitApp",
+  "version": "1.1.0",
+  "summary": "fitbit WEB API wrapper",
+  "author": "pom",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/gitpomtec/fitbitApp",
+  "download_filename": "fitbitapp-1.1.0.tar.gz",
+  "download_time": "2025-09-28T02:26:28.646794",
+  "package_url": "https://pypi.org/project/fitbitApp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "apengs-server-utils",
+  "version": "0.1.0",
+  "summary": "高效的数据库操作工具库，封装了MySQL和DuckDB的常用操作，支持数据同步、批量处理和缓存机制",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apengs_server_utils-0.1.0.tar.gz",
+  "download_time": "2025-09-28T02:26:17.456366",
+  "package_url": "https://pypi.org/project/apengs-server-utils/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "awt",
+  "version": "0.33.0",
+  "summary": "awt == 'abif web tool'. It's a web interface for abiftool & abiflib.",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "awt-0.33.0.tar.gz",
+  "download_time": "2025-09-28T02:26:22.372585",
+  "package_url": "https://pypi.org/project/awt/"
+}
