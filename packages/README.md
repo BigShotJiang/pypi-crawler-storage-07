@@ -1,11 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T07:33:22.361478
-- **Total Packages**: 79
-- **Total Size**: 23.01 MB
+- **Download Time**: 2025-09-28T07:48:08.447814
+- **Total Packages**: 80
+- **Total Size**: 12.01 MB
 
 ## Packages List
+- wxbtool
+- txt2ebook
+- rui-utils
+- abacustest
+- zmcp-data-analzyer
+- ant-ray-cpp-nightly
+- frida-fusion
+- hex-device
+- gmscaffold
+- seven-cloudapp-frame
+- kxy-framework
+- videolab
+- tudata
+- feldera
+- gencalc
+- mrtrix3-agent
+- inet-api-client
+- ComicGUISpider
+- p2d2
+- authentik-client
+- umanager
+- plassembler
+- restate
 - loan-analysis-toolkit
 - dump-things-service
 - facebook-utils
@@ -21,9 +44,7 @@
 - gac
 - legit-api-client
 - PagodaAL
-- mrtrix3-agent
 - shancx
-- authentik-client
 - speechreclib
 - heatmap_cli
 - pulumi-xyz
@@ -51,13 +72,11 @@
 - frogml
 - streamlit-nightly
 - oEmbedPy
-- p2d2
 - idmtheory
 - pokercraft-local
 - eigenpuls
 - canns
 - stable-delusion
-- kxy-framework
 - wiim
 - tf-models-nightly
 - qwak-core
@@ -67,21 +86,3 @@
 - fastapi-agentrouter
 - slack-lists-mcp
 - ab-user
-- xpander-sdk
-- aenet-gpr
-- iflow-mcp-cek_nomor_rekening_bank_indone
-- mikit-learn
-- lightrun
-- gink
-- toothedsword
-- Magmar
-- PureCloudPlatformClientV2
-- citation-utils
-- pyfwg
-- rcabench-platform
-- smartutils-py
-- pulumi-mongodbatlas
-- mail-pigeon
-- codex-client
-- xtlog
-- pylitex

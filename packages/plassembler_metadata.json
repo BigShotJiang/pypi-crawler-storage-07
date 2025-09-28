@@ -1,0 +1,11 @@
+{
+  "name": "plassembler",
+  "version": "1.8.1",
+  "summary": "Quickly and accurately assemble plasmids in hybrid sequenced bacterial isolates",
+  "author": "George Bouras",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "plassembler-1.8.1.tar.gz",
+  "download_time": "2025-09-28T07:47:36.883570",
+  "package_url": "https://pypi.org/project/plassembler/"
+}
