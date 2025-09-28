@@ -1,11 +1,11 @@
 {
   "name": "pyivxv",
-  "version": "0.0.1a1",
+  "version": "0.0.1a2",
   "summary": "Cryptographic recipes and primitives used in IVXV.",
   "author": "takakv",
   "license": null,
   "home_page": null,
-  "download_filename": "pyivxv-0.0.1a1.tar.gz",
-  "download_time": "2025-09-28T12:56:30.713772",
+  "download_filename": "pyivxv-0.0.1a2.tar.gz",
+  "download_time": "2025-09-28T17:25:34.223121",
   "package_url": "https://pypi.org/project/pyivxv/"
 }

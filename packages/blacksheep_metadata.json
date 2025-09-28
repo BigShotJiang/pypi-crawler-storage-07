@@ -1,0 +1,11 @@
+{
+  "name": "blacksheep",
+  "version": "2.4.1",
+  "summary": "Fast web framework for Python asyncio",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "blacksheep-2.4.1.tar.gz",
+  "download_time": "2025-09-28T17:25:28.423556",
+  "package_url": "https://pypi.org/project/blacksheep/"
+}
