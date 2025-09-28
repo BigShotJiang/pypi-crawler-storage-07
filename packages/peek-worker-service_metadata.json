@@ -1,0 +1,11 @@
+{
+  "name": "peek-worker-service",
+  "version": "5.1.5",
+  "summary": "Peek Worker Service - distributed multiprocessing support for Peek",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "peek-worker-service-5.1.5.tar.gz",
+  "download_time": "2025-09-28T11:22:36.525415",
+  "package_url": "https://pypi.org/project/peek-worker-service/"
+}

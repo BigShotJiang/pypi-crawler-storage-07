@@ -1,0 +1,11 @@
+{
+  "name": "peek-abstract-chunked-data-loader",
+  "version": "5.1.5",
+  "summary": "Peek Plugin AbstractDataLoader - equipment detail loading from a source server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "peek-abstract-chunked-data-loader-5.1.5.tar.gz",
+  "download_time": "2025-09-28T11:22:50.173323",
+  "package_url": "https://pypi.org/project/peek-abstract-chunked-data-loader/"
+}
