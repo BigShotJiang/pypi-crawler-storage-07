@@ -1,11 +1,11 @@
 {
   "name": "ryry-cli",
-  "version": "5.2",
+  "version": "5.3",
   "summary": "ryry tools",
   "author": "dalipen",
   "license": null,
   "home_page": "https://github.com/dalipenMedia",
-  "download_filename": "ryry_cli-5.2.tar.gz",
-  "download_time": "2025-09-28T10:47:23.785055",
+  "download_filename": "ryry_cli-5.3.tar.gz",
+  "download_time": "2025-09-28T11:08:25.902977",
   "package_url": "https://pypi.org/project/ryry-cli/"
 }

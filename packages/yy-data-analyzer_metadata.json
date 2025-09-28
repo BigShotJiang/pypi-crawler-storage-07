@@ -1,11 +1,11 @@
 {
   "name": "yy-data-analyzer",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "a analyzer mcp server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yy_data_analyzer-0.2.0.tar.gz",
-  "download_time": "2025-09-28T10:10:11.173411",
+  "download_filename": "yy_data_analyzer-0.3.0.tar.gz",
+  "download_time": "2025-09-28T11:08:30.803355",
   "package_url": "https://pypi.org/project/yy-data-analyzer/"
 }

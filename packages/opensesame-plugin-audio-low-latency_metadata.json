@@ -1,0 +1,11 @@
+{
+  "name": "opensesame-plugin-audio-low-latency",
+  "version": "10.9.1",
+  "summary": "An OpenSesame Plug-in for playing and recording audio files with low latency on Linux",
+  "author": "Bob Rosbag",
+  "license": "LICENSE.md",
+  "home_page": null,
+  "download_filename": "opensesame_plugin_audio_low_latency-10.9.1.tar.gz",
+  "download_time": "2025-09-28T11:08:37.918325",
+  "package_url": "https://pypi.org/project/opensesame-plugin-audio-low-latency/"
+}

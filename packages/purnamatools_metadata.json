@@ -1,11 +1,11 @@
 {
   "name": "purnamatools",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Python package to simplify the initial stages of model building and analysis for data science projects",
   "author": "Purnama Ridzky Nugraha",
   "license": null,
   "home_page": "https://github.com/PurnamaRidzkyN/purnamatools.git",
-  "download_filename": "purnamatools-0.2.2.tar.gz",
-  "download_time": "2025-09-28T10:29:52.210720",
+  "download_filename": "purnamatools-0.2.3.tar.gz",
+  "download_time": "2025-09-28T11:08:28.621206",
   "package_url": "https://pypi.org/project/purnamatools/"
 }

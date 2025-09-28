@@ -1,0 +1,11 @@
+{
+  "name": "florestmessangerapi",
+  "version": "1.0",
+  "summary": "API для FlorestMessanger (BOT).",
+  "author": "florestdev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "florestmessangerapi-1.0.tar.gz",
+  "download_time": "2025-09-28T11:08:31.884810",
+  "package_url": "https://pypi.org/project/florestmessangerapi/"
+}
