@@ -1,0 +1,11 @@
+{
+  "name": "interpn",
+  "version": "0.2.6",
+  "summary": "N-dimensional interpolation/extrapolation methods",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "interpn-0.2.6.tar.gz",
+  "download_time": "2025-09-28T14:47:34.297349",
+  "package_url": "https://pypi.org/project/interpn/"
+}

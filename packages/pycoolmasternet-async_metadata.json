@@ -1,0 +1,11 @@
+{
+  "name": "pycoolmasternet-async",
+  "version": "0.2.4",
+  "summary": "A python library to control CoolMasterNet HVAC bridges over asyncio.",
+  "author": "On Freund",
+  "license": "MIT",
+  "home_page": "https://github.com/OnFreund/pycoolmasternet-async",
+  "download_filename": "pycoolmasternet_async-0.2.4.tar.gz",
+  "download_time": "2025-09-28T14:47:31.629388",
+  "package_url": "https://pypi.org/project/pycoolmasternet-async/"
+}

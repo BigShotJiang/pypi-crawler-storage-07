@@ -1,11 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T14:34:12.645376
-- **Total Packages**: 79
-- **Total Size**: 5.71 MB
+- **Download Time**: 2025-09-28T14:48:13.070072
+- **Total Packages**: 80
+- **Total Size**: 9.44 MB
 
 ## Packages List
+- robotframework-browser
+- conson-xp
+- pyreporting
+- pycoolmasternet-async
+- unicex
+- spreadsheet-use
+- univer-use
+- ci-starter
+- interpn
+- cluefin-openapi
+- bluer-ugv
+- konigle
+- django-w-docs
+- simplyprint-bambu-lab
+- otpme
+- bluer-sbc
+- speed-analyzer
+- SuperGemini
+- authentik-client
+- json-pretty-diff
+- pyhieroglyphe
+- evonet
+- peakrdl-rust
 - direct-formatting-pandas-ods-reader
 - iatoolkit
 - cg3d-maya-casc
@@ -14,7 +37,6 @@
 - mimimon
 - abstract-webtools
 - pythonic-fp
-- authentik-client
 - buddybet-i18n
 - energysystemmodels
 - nbcmdio
@@ -37,13 +59,11 @@
 - lattica
 - kupiapi
 - langfuse
-- unicex
 - sa-tenders
 - multi-agent-generator
 - django-unicom
 - cmdargparse
 - bb-mcp-server
-- speed-analyzer
 - lograder
 - ezga-lib
 - akash
@@ -66,22 +86,3 @@
 - sora-sdk-rpi
 - openubmc-bingo
 - pozansky-news-server
-- crawl4weibo
-- red-tidegear
-- ppio-sandbox
-- ohmyapi
-- dolze-templates
-- tensordict-nightly
-- PolUVR
-- cpp-linter
-- root-painter
-- alpha-vantage-agent
-- django-linkcheck
-- wyoming-microsoft-stt
-- llamactl
-- llama-deploy-core
-- llama-deploy-appserver
-- quantification
-- markdown-flow
-- pr-prompt
-- avl-axi

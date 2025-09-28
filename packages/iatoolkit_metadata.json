@@ -1,11 +1,11 @@
 {
   "name": "iatoolkit",
-  "version": "0.3.9",
+  "version": "0.4.0",
   "summary": "IAToolkit",
   "author": "Fernando Libedinsky",
   "license": null,
   "home_page": null,
-  "download_filename": "iatoolkit-0.3.9.tar.gz",
-  "download_time": "2025-09-28T10:10:27.651891",
+  "download_filename": "iatoolkit-0.4.0.tar.gz",
+  "download_time": "2025-09-28T14:47:42.895810",
   "package_url": "https://pypi.org/project/iatoolkit/"
 }
