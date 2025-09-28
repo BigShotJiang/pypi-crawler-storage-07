@@ -1,0 +1,11 @@
+{
+  "name": "cdp-patches",
+  "version": "1.1",
+  "summary": "Patching CDP (Chrome DevTools Protocol) leaks on OS level. Easy to use with Playwright, Selenium, and other web automation tools.",
+  "author": "Vinyzu, Kaliiiiiiiiii",
+  "license": "GNU General Public License v3.0",
+  "home_page": "https://github.com/Kaliiiiiiiiii-Vinyzu/CDP-Patches/",
+  "download_filename": "cdp_patches-1.1.tar.gz",
+  "download_time": "2025-09-28T08:48:25.588457",
+  "package_url": "https://pypi.org/project/cdp-patches/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "speechreclib",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": null,
   "author": "avdonin.pb@yandex.ru",
   "license": null,
   "home_page": null,
-  "download_filename": "speechreclib-0.1.0.tar.gz",
-  "download_time": "2025-09-28T07:32:48.983476",
+  "download_filename": "speechreclib-0.1.1.tar.gz",
+  "download_time": "2025-09-28T08:48:13.003175",
   "package_url": "https://pypi.org/project/speechreclib/"
 }

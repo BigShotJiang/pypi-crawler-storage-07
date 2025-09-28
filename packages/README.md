@@ -1,25 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T08:33:10.006888
+- **Download Time**: 2025-09-28T08:48:57.622050
 - **Total Packages**: 80
-- **Total Size**: 4.59 MB
+- **Total Size**: 18.46 MB
 
 ## Packages List
+- wise-api-client
+- azpaddypy
+- speechreclib
+- jinzhupy
+- sc-utility
+- lifx-photons-interactor
+- tfp-nightly
+- ap-mail
+- wiliot-testers
+- eigenpuls
+- shoebill-ai
+- doris-vector-search
+- robot-log-visualizer
+- lifx-photons-core
+- restate
+- mplang-nightly
+- streamlit-webrtc
+- mortimer
+- counted-float
+- grapes
+- authentik-client
+- scopey
+- cdp-patches
+- iflow-mcp_vizro-mcp
+- mrtrix3-agent
+- leap-model-parser
+- diglife
+- brokle
+- icspacket
+- alfred3-interact
 - kuzu
 - website-crawler-sdk
 - xpander-sdk
 - dps-liumou-Stable
 - energysystemmodels
 - grades
-- iflow-mcp_vizro-mcp
 - dazpycheck
 - talker
-- authentik-client
 - hex-device
 - cdp-ninja
 - ap-cfg
-- grapes
 - mysingle-quant
 - p2d2
 - iojobs
@@ -46,7 +73,6 @@
 - nvfuser-cu129
 - investing-algorithm-framework
 - alibabacloud-cas20200407
-- ap-mail
 - nonebot-plugin-auto-enter-group
 - baseline-checker
 - pyglove
@@ -56,33 +82,7 @@
 - legit-api-client
 - tiferet-flask
 - symconf
-- eigenpuls
 - bento-sgl-router
 - activefence-client-sdk
 - huizhi-coupon-lengyue1084
 - PyQvd
-- commonmeta-py
-- itrx
-- kxy-framework
-- remip-client
-- iamex
-- remip
-- aioasuswrt
-- f2-commander
-- yottactl
-- mrtrix3-agent
-- inet-api-client
-- ugit-cli
-- alibuild
-- reydb
-- sautech
-- translate-shell
-- wxbtool
-- txt2ebook
-- rui-utils
-- abacustest
-- zmcp-data-analzyer
-- ant-ray-cpp-nightly
-- frida-fusion
-- gmscaffold
-- seven-cloudapp-frame

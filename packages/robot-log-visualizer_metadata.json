@@ -1,0 +1,11 @@
+{
+  "name": "robot-log-visualizer",
+  "version": "0.12.0",
+  "summary": "Visualizer for robot logger",
+  "author": "Giulio Romualdi",
+  "license": "BSD3",
+  "home_page": "https://github.com/ami-iit/robot-log-visualizer",
+  "download_filename": "robot_log_visualizer-0.12.0.tar.gz",
+  "download_time": "2025-09-28T08:48:19.119165",
+  "package_url": "https://pypi.org/project/robot-log-visualizer/"
+}

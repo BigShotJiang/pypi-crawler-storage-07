@@ -1,0 +1,11 @@
+{
+  "name": "mortimer",
+  "version": "0.10.0",
+  "summary": "A web-appication for the administration of alfred experiments.",
+  "author": "Christian Treffenstädt, Paul Wiemann, Johannes Brachem",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mortimer-0.10.0.tar.gz",
+  "download_time": "2025-09-28T08:48:22.609120",
+  "package_url": "https://pypi.org/project/mortimer/"
+}

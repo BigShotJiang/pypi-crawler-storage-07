@@ -1,11 +1,11 @@
 {
   "name": "shoebill-ai",
-  "version": "0.0.98",
+  "version": "0.0.99",
   "summary": "AI Agent Framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "shoebill_ai-0.0.98.tar.gz",
-  "download_time": "2025-09-27T22:47:32.247606",
+  "download_filename": "shoebill_ai-0.0.99.tar.gz",
+  "download_time": "2025-09-28T08:48:17.842846",
   "package_url": "https://pypi.org/project/shoebill-ai/"
 }
