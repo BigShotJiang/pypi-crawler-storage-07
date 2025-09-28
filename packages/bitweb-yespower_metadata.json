@@ -1,0 +1,11 @@
+{
+  "name": "bitweb-yespower",
+  "version": "1.0.6",
+  "summary": "Bindings for yespower-1.0 proof of work used by bitweb",
+  "author": "mraksoll",
+  "license": null,
+  "home_page": "https://github.com/bitweb-project/bitweb_yespower_python3",
+  "download_filename": "bitweb_yespower-1.0.6.tar.gz",
+  "download_time": "2025-09-28T05:10:03.272152",
+  "package_url": "https://pypi.org/project/bitweb-yespower/"
+}
