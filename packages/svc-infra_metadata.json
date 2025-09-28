@@ -1,11 +1,11 @@
 {
   "name": "svc-infra",
-  "version": "0.1.459",
+  "version": "0.1.460",
   "summary": "Infrastructure for building and deploying prod-ready services",
   "author": "Ali Khatami",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "svc_infra-0.1.459.tar.gz",
-  "download_time": "2025-09-28T04:32:56.960179",
+  "download_filename": "svc_infra-0.1.460.tar.gz",
+  "download_time": "2025-09-28T04:47:56.946059",
   "package_url": "https://pypi.org/project/svc-infra/"
 }

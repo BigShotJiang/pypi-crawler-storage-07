@@ -1,25 +1,41 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T04:33:34.646855
-- **Total Packages**: 79
-- **Total Size**: 6.31 MB
+- **Download Time**: 2025-09-28T04:48:31.315592
+- **Total Packages**: 77
+- **Total Size**: 5.31 MB
 
 ## Packages List
+- akari-bot-webui
+- iamdata
+- baseline-checker
+- drf-to-mkdoc
+- siglab-py
+- fast-backend-builder
+- bayescurvefit
+- archaea-core
+- pydartsnut
+- cdp-ninja
+- reghelp-client
+- authentik-client
+- svc-infra
+- heysol-api-client
+- machineconfig
+- jinzhupy
+- odoo-addon-l10n-ro-account-bank-statement-import-mt940-brd
+- mcp-rag-librarian
+- doip-server
+- libcalab
 - siat
 - hex-robo-utils
 - nhtsa
-- reghelp-client
 - bottle-file-cache
 - openvolley-pydatavolley
-- siglab-py
 - bit-counter
 - recurvedata-lib
-- svc-infra
 - univer-use
 - structured-logger-railway
 - fastrpc-py
-- authentik-client
 - uv-dynamic-versioning
 - fastapi-simple-redis-cache
 - prosemark
@@ -59,7 +75,6 @@
 - fred-oss
 - hwc-chw-ndarray-conversion
 - zk-chat
-- jinzhupy
 - iflow-mcp-cek_id_pln_prabayar_dan_pascab
 - autoagents-core
 - mcp-arduino
@@ -68,20 +83,3 @@
 - mvo-core
 - pyLiveKML
 - keras-rs-nightly
-- GANDLF
-- bayesianflow-for-chem
-- sass-embedded
-- charlie-dots-ocr
-- zuu
-- spyglass-ai
-- libinspector
-- oasm.rtmq
-- clado-observe
-- datagrunt
-- bilichat-request
-- deezy
-- statskita
-- friendly-module-not-found-error
-- atomicx
-- chia-wallet-sdk
-- db-help

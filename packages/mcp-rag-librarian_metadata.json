@@ -1,11 +1,11 @@
 {
   "name": "mcp-rag-librarian",
-  "version": "0.2.9",
+  "version": "0.3.0",
   "summary": "MCP server for RAG (Retrieval-Augmented Generation) operations with local document indexing - Fork with enhancements",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_rag_librarian-0.2.9.tar.gz",
-  "download_time": "2025-09-28T03:27:19.855061",
+  "download_filename": "mcp_rag_librarian-0.3.0.tar.gz",
+  "download_time": "2025-09-28T04:47:59.555608",
   "package_url": "https://pypi.org/project/mcp-rag-librarian/"
 }
