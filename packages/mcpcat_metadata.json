@@ -1,11 +1,11 @@
 {
   "name": "mcpcat",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Analytics Tool for MCP Servers - provides insights into MCP tool usage patterns",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcpcat-0.1.6.tar.gz",
-  "download_time": "2025-09-28T19:21:44.470773",
+  "download_filename": "mcpcat-0.1.7.tar.gz",
+  "download_time": "2025-09-28T19:48:06.909029",
   "package_url": "https://pypi.org/project/mcpcat/"
 }

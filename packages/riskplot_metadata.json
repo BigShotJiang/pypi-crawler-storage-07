@@ -1,0 +1,11 @@
+{
+  "name": "riskplot",
+  "version": "0.3.0",
+  "summary": "A comprehensive visualization package for risk analysis with ridge plots, heatmaps, waterfall charts, time series tools, and advanced 2D/3D country mapping",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "riskplot-0.3.0.tar.gz",
+  "download_time": "2025-09-28T19:48:00.887917",
+  "package_url": "https://pypi.org/project/riskplot/"
+}

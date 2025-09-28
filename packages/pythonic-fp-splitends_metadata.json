@@ -1,0 +1,11 @@
+{
+  "name": "pythonic-fp-splitends",
+  "version": "2.0.0",
+  "summary": "Mutable stack objects that can safely share data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pythonic_fp_splitends-2.0.0.tar.gz",
+  "download_time": "2025-09-28T19:48:01.428535",
+  "package_url": "https://pypi.org/project/pythonic-fp-splitends/"
+}

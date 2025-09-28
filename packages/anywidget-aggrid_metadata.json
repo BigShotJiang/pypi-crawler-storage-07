@@ -1,0 +1,11 @@
+{
+  "name": "anywidget-aggrid",
+  "version": "0.1.0",
+  "summary": "An AnyWidget wrapper around AG Grid",
+  "author": "barnab",
+  "license": null,
+  "home_page": null,
+  "download_filename": "anywidget_aggrid-0.1.0.tar.gz",
+  "download_time": "2025-09-28T19:47:43.258517",
+  "package_url": "https://pypi.org/project/anywidget-aggrid/"
+}

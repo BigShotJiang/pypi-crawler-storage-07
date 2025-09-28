@@ -1,0 +1,11 @@
+{
+  "name": "time-my-func",
+  "version": "0.3.0",
+  "summary": "A lightweight Python decorator to measure and print function execution time.",
+  "author": "Luca Paesano",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "time_my_func-0.3.0.tar.gz",
+  "download_time": "2025-09-28T19:47:49.122303",
+  "package_url": "https://pypi.org/project/time-my-func/"
+}

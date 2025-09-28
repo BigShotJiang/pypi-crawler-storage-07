@@ -1,0 +1,11 @@
+{
+  "name": "sz_semantics",
+  "version": "1.1.0",
+  "summary": "Transform JSON output from Senzing SDK for use with graph technologies, semantics, and downstream LLM integration",
+  "author": "Paco Nathan",
+  "license": "MIT",
+  "home_page": "https://github.com/senzing-garage/sz-semantics",
+  "download_filename": "sz_semantics-1.1.0.tar.gz",
+  "download_time": "2025-09-28T19:48:07.452129",
+  "package_url": "https://pypi.org/project/sz_semantics/"
+}
