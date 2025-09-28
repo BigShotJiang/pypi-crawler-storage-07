@@ -1,0 +1,11 @@
+{
+  "name": "waypaper",
+  "version": "2.7",
+  "summary": "GUI wallpaper setter for Wayland",
+  "author": "Roman Anufriev",
+  "license": "GPL",
+  "home_page": "https://github.com/anufrievroman/waypaper",
+  "download_filename": "waypaper-2.7.tar.gz",
+  "download_time": "2025-09-28T07:10:13.576180",
+  "package_url": "https://pypi.org/project/waypaper/"
+}

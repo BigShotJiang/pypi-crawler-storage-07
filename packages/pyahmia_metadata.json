@@ -1,11 +1,11 @@
 {
   "name": "pyahmia",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Search hidden services on the Tor network.",
   "author": "Escrapism",
   "license": null,
   "home_page": null,
-  "download_filename": "pyahmia-0.3.0.tar.gz",
-  "download_time": "2025-09-28T00:51:33.926253",
+  "download_filename": "pyahmia-0.4.0.tar.gz",
+  "download_time": "2025-09-28T07:10:15.922451",
   "package_url": "https://pypi.org/project/pyahmia/"
 }

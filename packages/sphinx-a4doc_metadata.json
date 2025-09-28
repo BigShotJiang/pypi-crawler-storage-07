@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-a4doc",
+  "version": "1.7.0",
+  "summary": "Sphinx domain and autodoc for Antlr4 grammars",
+  "author": "Tamika Nomara",
+  "license": "MIT",
+  "home_page": "https://github.com/taminomara/sphinx-a4doc",
+  "download_filename": "sphinx_a4doc-1.7.0.tar.gz",
+  "download_time": "2025-09-28T07:10:25.336009",
+  "package_url": "https://pypi.org/project/sphinx-a4doc/"
+}
