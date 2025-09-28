@@ -1,0 +1,11 @@
+{
+  "name": "napari-flowreg",
+  "version": "0.1.0a3",
+  "summary": "napari plugin for Flow-Registration motion correction",
+  "author": null,
+  "license": "CC BY-NC-SA 4.0",
+  "home_page": null,
+  "download_filename": "napari_flowreg-0.1.0a3.tar.gz",
+  "download_time": "2025-09-28T13:35:09.306308",
+  "package_url": "https://pypi.org/project/napari-flowreg/"
+}

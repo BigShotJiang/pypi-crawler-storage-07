@@ -1,11 +1,11 @@
 {
   "name": "tallybot",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Tallybot is your helpfull accountant",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tallybot-0.0.1.tar.gz",
-  "download_time": "2025-09-28T05:38:59.837119",
+  "download_filename": "tallybot-0.0.2.tar.gz",
+  "download_time": "2025-09-28T13:35:11.850659",
   "package_url": "https://pypi.org/project/tallybot/"
 }

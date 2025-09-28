@@ -1,18 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T13:17:11.275086
-- **Total Packages**: 87
-- **Total Size**: 40.63 MB
+- **Download Time**: 2025-09-28T13:35:49.240590
+- **Total Packages**: 83
+- **Total Size**: 14.2 MB
 
 ## Packages List
+- fbgemm-gpu-nightly-cpu
+- osmose-presets
+- sherpa-ml
+- spreadsheet-use
+- legit-api-client
+- mindforge-ml
+- authentik-client
+- bridgecrew
+- univer-use
+- bb-mcp-server
+- mainsequence
+- rdfhelpers
+- elide
+- eigenpuls
+- lisien
+- akash
+- napari-flowreg
+- BackcastPro
+- ta-polars
+- norfetool
+- tallybot
+- jusfltuls
+- ascii-announcers
+- crawlo
+- zoozl
+- litestar-mcp
+- ogboost
+- sa-tenders
+- redis-benchmarks-specification
 - lancetnic
 - speechreclib
 - soda-mq-client
 - documark
 - hcom
 - yahi
-- univer-use
 - carp-rpc
 - valar
 - fabricatio-typst
@@ -26,7 +54,6 @@
 - fabricatio-anki
 - nbdev-scipy
 - nbdev-pytorch
-- authentik-client
 - nbdev-pandas
 - nbdev-numpy
 - nbdev-stdlib
@@ -34,16 +61,12 @@
 - poli-core
 - yafi
 - rockerc
-- akash
 - math-mcp-learning-server
-- sa-tenders
 - pyjolt
 - ohmyapi
-- redis-benchmarks-specification
 - django-unicom
 - fhir-fast-parser
 - petsseries
-- osmose-presets
 - polybot
 - bankingsdk
 - speedy-utils
@@ -51,7 +74,6 @@
 - powerbin
 - codegen-cli
 - pgcopylib
-- eigenpuls
 - ztl
 - tianxiadatong-wx-robot
 - oralchess
@@ -63,33 +85,7 @@
 - pure-function-decorators
 - checkov
 - dopynion
-- mindforge-ml
 - polars-runtime-compat
 - create-rl-app
 - polars-runtime-64
 - polars-runtime-32
-- polars
-- amino.dorks.fix
-- hiveplotlib
-- poethepoet-tasks
-- htag
-- liana
-- deps-rocker
-- django-cms
-- shopiuu-api
-- SnakeScan
-- inatinqperf
-- wukong-stack
-- vecstack
-- paddle-onnxocr
-- llmakits
-- undine
-- frutsel
-- stashhouse-ssh
-- neoprimer
-- windows-snake-game
-- mcp-proxy-adapter
-- otpme
-- conson-xp
-- protoprimer
-- catamaran
