@@ -1,0 +1,11 @@
+{
+  "name": "bassa-reg",
+  "version": "0.1.7",
+  "summary": "The BASSA algorithm as presented in the paper Sparse Linear Bayesian Models for Organic Chemistry",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bassa_reg-0.1.7.tar.gz",
+  "download_time": "2025-09-28T17:08:17.523506",
+  "package_url": "https://pypi.org/project/bassa-reg/"
+}
