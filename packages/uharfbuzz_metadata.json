@@ -5,7 +5,7 @@
   "author": "Adrien Tétar",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/trufont/uharfbuzz",
-  "download_filename": "uharfbuzz-0.51.6-cp310-cp310-macosx_10_9_universal2.whl",
-  "download_time": "2025-09-28T09:47:32.095447",
+  "download_filename": "uharfbuzz-0.51.6.tar.gz",
+  "download_time": "2025-09-28T10:10:34.713015",
   "package_url": "https://pypi.org/project/uharfbuzz/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "kk_scene_wrapper",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "A wrapper for KK scene management",
   "author": "AX-MMD",
   "license": null,
   "home_page": null,
-  "download_filename": "kk_scene_wrapper-0.3.0.tar.gz",
-  "download_time": "2025-09-28T08:32:44.440919",
+  "download_filename": "kk_scene_wrapper-0.3.1.tar.gz",
+  "download_time": "2025-09-28T10:09:57.264088",
   "package_url": "https://pypi.org/project/kk_scene_wrapper/"
 }
