@@ -1,14 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T15:48:19.023875
-- **Total Packages**: 77
-- **Total Size**: 0.21 MB
+- **Download Time**: 2025-09-28T16:11:51.816412
+- **Total Packages**: 81
+- **Total Size**: 16.49 MB
 
 ## Packages List
+- installer-ml
+- deezy
+- betterwindow-ak251452
+- syqlorix
+- nrgrank
+- callflow-tracer
+- machinegnostics
+- je-auto-control-dev
+- authentik-client
+- fred-oss
+- mytqdm
+- oarepo-invenio-typing-stubs
+- sphinx-needs
+- tree-sitter-ada
+- fastapi-simple-redis-cache
+- localfinder
+- achatbot
+- fastgraphFPMS
+- neo4j-etl-lib
+- odoo-addon-l10n-br-fiscal
+- sphinx-datatables
+- dtipod
+- marci
+- syntheticRNASeq
+- carconnectivity-connector-audi
+- alglab
+- clean_ioc
+- uv-bump
+- ais-dagger-agents-config
+- nhc
+- exir-py-lib
+- package-installer-cli
+- tinypg
+- mignonFramework
+- Mint-NM
+- moduvent
+- pyiceberg-core
+- airbyte-cdk
+- data-science-pro
+- huibiao-framework
+- rna-synthub
+- fastapi-healthz
+- scitrera-app-framework
+- dbt-switch
+- bemyai
+- percentify
+- binscheme-parser
+- abcweaver
+- doctra
+- ohmyapi
+- nbcmdio
+- augint-org
+- brand.dev
 - assistants-framework
 - sphinxext-rediraffe
-- propeller-solver-core
 - reqman4
 - strictdoc
 - ra-netsuite-shared-utils
@@ -17,11 +69,9 @@
 - qforms
 - moteus-gui
 - moteus
-- authentik-client
 - foscat
 - byzh-ai
 - tree-sitter-t32
-- Mint-NM
 - replkit2
 - claude-mpm
 - detdevlib-models
@@ -32,54 +82,8 @@
 - package-is-debug
 - parse-pcap
 - e2D
-- fred-oss
 - hla-compass
 - llms-py
 - mathai
 - arithmetipy
 - django-w-blog
-- abov3-ai
-- saintess
-- stratum-ai
-- cocotb-vivado
-- direct-formatting-pandas-ods-reader
-- deltapv
-- osmose-presets
-- openapi-python-generator
-- fastapi-healthz
-- zipmanager
-- je-auto-control-dev
-- mp-procs
-- omga-cli
-- zvamz
-- swmjupyter
-- getBISy
-- programgarden-finance
-- yafowil.plone
-- otpme
-- cdp-ninja
-- programgarden-community
-- praxshell
-- programgarden
-- enthusiast-file-parsers
-- sycommon-python-lib
-- wyoming-microsoft-stt
-- biotime
-- robotframework-browser
-- conson-xp
-- pyreporting
-- pycoolmasternet-async
-- unicex
-- spreadsheet-use
-- univer-use
-- ci-starter
-- interpn
-- cluefin-openapi
-- bluer-ugv
-- konigle
-- django-w-docs
-- simplyprint-bambu-lab
-- bluer-sbc
-- speed-analyzer
-- SuperGemini
-- json-pretty-diff

@@ -1,0 +1,11 @@
+{
+  "name": "pyiceberg-core",
+  "version": "0.6.0",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": "https://rust.iceberg.apache.org",
+  "download_filename": "pyiceberg_core-0.6.0.tar.gz",
+  "download_time": "2025-09-28T16:11:25.413623",
+  "package_url": "https://pypi.org/project/pyiceberg-core/"
+}

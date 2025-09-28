@@ -1,0 +1,11 @@
+{
+  "name": "installer-ml",
+  "version": "0.1.0",
+  "summary": "Auto install and import ML/DL libraries in Python",
+  "author": "Nguyen Tan Dat",
+  "license": "MIT",
+  "home_page": "https://github.com/tandatnguyen89",
+  "download_filename": "installer_ml-0.1.0.tar.gz",
+  "download_time": "2025-09-28T16:11:03.270582",
+  "package_url": "https://pypi.org/project/installer-ml/"
+}
