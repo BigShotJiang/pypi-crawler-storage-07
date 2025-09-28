@@ -1,0 +1,11 @@
+{
+  "name": "hwc-chw-ndarray-conversion",
+  "version": "0.1.0a0",
+  "summary": "Explicit, contiguous HWC <-> CHW ndarray conversion.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hwc_chw_ndarray_conversion-0.1.0a0.tar.gz",
+  "download_time": "2025-09-28T03:49:19.914949",
+  "package_url": "https://pypi.org/project/hwc-chw-ndarray-conversion/"
+}

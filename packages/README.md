@@ -1,36 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T03:27:23.865771
+- **Download Time**: 2025-09-28T03:49:59.272359
 - **Total Packages**: 78
-- **Total Size**: 31.52 MB
+- **Total Size**: 7.81 MB
 
 ## Packages List
-- libinspector
+- cursus
+- ydl-podcast
+- huibiao-framework
+- hyperSIS
+- undockit
+- django-dynamic-workflows
+- fred-oss
+- hwc-chw-ndarray-conversion
+- mathai
+- em-app
+- zk-chat
+- jinzhupy
+- iflow-mcp-cek_id_pln_prabayar_dan_pascab
+- autoagents-core
+- mcp-arduino
+- pytest-api-framework-alpha
+- fastapi-simple-redis-cache
+- prompture
 - mvo-core
+- svc-infra
+- authentik-client
+- pyLiveKML
+- keras-rs-nightly
+- zenx
+- GANDLF
+- bayesianflow-for-chem
+- sass-embedded
+- charlie-dots-ocr
+- zuu
+- spyglass-ai
+- libinspector
 - oasm.rtmq
 - clado-observe
 - datagrunt
 - bilichat-request
 - deezy
-- svc-infra
 - statskita
 - friendly-module-not-found-error
 - atomicx
 - chia-wallet-sdk
-- authentik-client
-- fastapi-simple-redis-cache
 - db-help
 - frida-fusion
 - kospi-kosdaq-stock-server
 - diglife
-- hyperSIS
 - fastapi-redis-utils
 - fovus
-- jinzhupy
 - TSMasterAPI
 - dump-things-service
-- mcp-arduino
 - nhtsa
 - demo-example-package
 - maniac
@@ -51,36 +74,13 @@
 - z8ter
 - pyarrow-stubs
 - hyperquant
-- mathai
 - marketflow
 - MuffinTrack
 - naif-eop-high-prec
 - gladi
-- iflow-mcp-cek_id_pln_prabayar_dan_pascab
 - deepKernel
 - appmesh
 - hytest
 - sapiens-transformers
 - pokercraft-local
 - ansible-vars
-- uvexample
-- pyqrackising
-- fastapi-advanced-filters
-- monai-weekly
-- sportsball
-- aenet-gpr
-- dailycheckin
-- page-eyes
-- aiq-platform-api
-- arkitect
-- cqc-quam-state
-- python3-ssh
-- pygformula
-- baml-cc-py
-- mcp-rag-librarian
-- UnityPyTypetreeCodegen
-- uthavu-tools
-- qtmodel
-- knowledge-core-engine
-- private-project-windows-snake-game
-- hidrowebsdk

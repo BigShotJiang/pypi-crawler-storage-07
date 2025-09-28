@@ -1,11 +1,11 @@
 {
   "name": "jinzhupy",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "Common python package",
   "author": "brotherbaby",
   "license": null,
   "home_page": "https://gitee.com/brotherbabyxy/jinzhupy",
-  "download_filename": "jinzhupy-1.0.7.tar.gz",
-  "download_time": "2025-09-28T03:26:44.860123",
+  "download_filename": "jinzhupy-1.0.8.tar.gz",
+  "download_time": "2025-09-28T03:49:22.120181",
   "package_url": "https://pypi.org/project/jinzhupy/"
 }
