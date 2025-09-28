@@ -1,0 +1,11 @@
+{
+  "name": "icol",
+  "version": "0.3.0",
+  "summary": "Iterative Correlation Learning implementation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "icol-0.3.0.tar.gz",
+  "download_time": "2025-09-28T05:38:55.534067",
+  "package_url": "https://pypi.org/project/icol/"
+}

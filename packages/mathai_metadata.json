@@ -1,11 +1,11 @@
 {
   "name": "mathai",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Mathematics solving Ai tailored to NCERT",
   "author": "educated indians are having a low iq and are good for nothing",
   "license": null,
   "home_page": "https://github.com/infinity390/mathai4",
-  "download_filename": "mathai-0.1.8.tar.gz",
-  "download_time": "2025-09-28T04:12:26.221258",
+  "download_filename": "mathai-0.1.9.tar.gz",
+  "download_time": "2025-09-28T05:39:00.410928",
   "package_url": "https://pypi.org/project/mathai/"
 }
