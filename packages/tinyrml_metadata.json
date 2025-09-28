@@ -1,0 +1,11 @@
+{
+  "name": "tinyrml",
+  "version": "0.4.0",
+  "summary": "Implementation of a subset of R2RML and RML",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tinyrml-0.4.0.tar.gz",
+  "download_time": "2025-09-28T13:47:33.638878",
+  "package_url": "https://pypi.org/project/tinyrml/"
+}

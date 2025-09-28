@@ -1,27 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T13:35:49.240590
-- **Total Packages**: 83
-- **Total Size**: 14.2 MB
+- **Download Time**: 2025-09-28T13:48:06.329800
+- **Total Packages**: 80
+- **Total Size**: 17.24 MB
 
 ## Packages List
-- fbgemm-gpu-nightly-cpu
+- wyoming-microsoft-stt
+- llamactl
+- llama-deploy-core
+- llama-deploy-appserver
+- quantification
+- xai-review
+- markdown-flow
+- pr-prompt
+- django-unicom
+- avl-axi
+- tencent-wedata-feature-engineering
+- wagjo-cowsay
+- castor-io
+- new-deepagents
+- redis-benchmarks-specification
+- UVR-resources
 - osmose-presets
+- sa-tenders
+- tinyrml
+- authentik-client
+- eigenpuls
+- simple-llm-api
+- poottu
+- bool-hybrid-array
+- akash
+- xmptools
+- dolze-templates
+- earningspy
+- abov3-ai
+- lograder
+- MaRDMO
+- robotframework-browser
+- graph-sitter
+- nexaai
+- pypdf
+- fastapi-simple-redis-cache
+- crypticorn-utils
+- num-dual
+- fbgemm-gpu-nightly-cpu
 - sherpa-ml
 - spreadsheet-use
 - legit-api-client
 - mindforge-ml
-- authentik-client
 - bridgecrew
 - univer-use
 - bb-mcp-server
 - mainsequence
 - rdfhelpers
 - elide
-- eigenpuls
 - lisien
-- akash
 - napari-flowreg
 - BackcastPro
 - ta-polars
@@ -33,8 +67,6 @@
 - zoozl
 - litestar-mcp
 - ogboost
-- sa-tenders
-- redis-benchmarks-specification
 - lancetnic
 - speechreclib
 - soda-mq-client
@@ -54,38 +86,3 @@
 - fabricatio-anki
 - nbdev-scipy
 - nbdev-pytorch
-- nbdev-pandas
-- nbdev-numpy
-- nbdev-stdlib
-- task-scheduling
-- poli-core
-- yafi
-- rockerc
-- math-mcp-learning-server
-- pyjolt
-- ohmyapi
-- django-unicom
-- fhir-fast-parser
-- petsseries
-- polybot
-- bankingsdk
-- speedy-utils
-- multimodal-agent-framework
-- powerbin
-- codegen-cli
-- pgcopylib
-- ztl
-- tianxiadatong-wx-robot
-- oralchess
-- brokle
-- minibt
-- earnix-elevate
-- discordclients
-- tensorcircuit-nightly
-- pure-function-decorators
-- checkov
-- dopynion
-- polars-runtime-compat
-- create-rl-app
-- polars-runtime-64
-- polars-runtime-32
