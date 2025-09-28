@@ -1,0 +1,11 @@
+{
+  "name": "wathq-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP server for Saudi company lookup via WATHQ API",
+  "author": "WATHQ MCP Server",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wathq_mcp_server-0.1.0.tar.gz",
+  "download_time": "2025-09-28T07:32:42.991613",
+  "package_url": "https://pypi.org/project/wathq-mcp-server/"
+}

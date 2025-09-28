@@ -1,0 +1,11 @@
+{
+  "name": "loan-analysis-toolkit",
+  "version": "0.2.0",
+  "summary": "Provides various tools for loan analysis, including generating loan amortization schedule and total interest paid using daily calculation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "loan_analysis_toolkit-0.2.0.tar.gz",
+  "download_time": "2025-09-28T07:32:38.038579",
+  "package_url": "https://pypi.org/project/loan-analysis-toolkit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lcapy",
+  "version": "1.26",
+  "summary": "Symbolic linear circuit analysis",
+  "author": "Michael Hayes",
+  "license": null,
+  "home_page": "https://github.com/mph-/lcapy",
+  "download_filename": "lcapy-1.26.tar.gz",
+  "download_time": "2025-09-28T07:32:39.717724",
+  "package_url": "https://pypi.org/project/lcapy/"
+}

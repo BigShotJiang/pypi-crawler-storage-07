@@ -1,0 +1,11 @@
+{
+  "name": "citation-title",
+  "version": "0.0.2",
+  "summary": "Pattern matching Philippine Supreme Court citations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "citation_title-0.0.2.tar.gz",
+  "download_time": "2025-09-28T07:32:53.319682",
+  "package_url": "https://pypi.org/project/citation-title/"
+}

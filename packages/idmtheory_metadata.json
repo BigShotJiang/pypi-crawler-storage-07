@@ -1,0 +1,11 @@
+{
+  "name": "idmtheory",
+  "version": "0.3.0",
+  "summary": "A module for music theory concepts including tone intervals, notes, scales and chords.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "idmtheory-0.3.0.tar.gz",
+  "download_time": "2025-09-28T07:33:04.917014",
+  "package_url": "https://pypi.org/project/idmtheory/"
+}

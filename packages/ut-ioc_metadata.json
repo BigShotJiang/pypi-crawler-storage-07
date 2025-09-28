@@ -1,0 +1,11 @@
+{
+  "name": "ut-ioc",
+  "version": "1.1.4.20250928",
+  "summary": "Utilities for IO Control",
+  "author": "Bernd Stroehle",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ut_ioc-1.1.4.20250928.tar.gz",
+  "download_time": "2025-09-28T07:32:53.873686",
+  "package_url": "https://pypi.org/project/ut-ioc/"
+}

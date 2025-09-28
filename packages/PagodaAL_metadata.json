@@ -1,0 +1,11 @@
+{
+  "name": "PagodaAL",
+  "version": "0.1.0",
+  "summary": "A ZeroMQ-based communication library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pagodaal-0.1.0.tar.gz",
+  "download_time": "2025-09-28T07:32:46.806082",
+  "package_url": "https://pypi.org/project/PagodaAL/"
+}

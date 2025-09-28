@@ -1,0 +1,11 @@
+{
+  "name": "facebook-utils",
+  "version": "0.60.0",
+  "summary": "Simple utilites for Facebook integration with your website.",
+  "author": "Jonathan Vanasco",
+  "license": "BSD",
+  "home_page": "http://github.com/jvanasco/facebook_utils",
+  "download_filename": "facebook_utils-0.60.0.tar.gz",
+  "download_time": "2025-09-28T07:32:39.120632",
+  "package_url": "https://pypi.org/project/facebook-utils/"
+}

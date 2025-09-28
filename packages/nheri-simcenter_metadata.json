@@ -1,0 +1,11 @@
+{
+  "name": "nheri-simcenter",
+  "version": "0.9.44",
+  "summary": "NHERI SimCenter Python Dependencies",
+  "author": "Adam Zsarnóczay",
+  "license": "BSD License",
+  "home_page": "http://nheri-simcenter.github.io/nheri_simcenter/",
+  "download_filename": "nheri_simcenter-0.9.44.tar.gz",
+  "download_time": "2025-09-28T07:32:40.825023",
+  "package_url": "https://pypi.org/project/nheri-simcenter/"
+}
