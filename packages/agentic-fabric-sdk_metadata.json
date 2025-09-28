@@ -1,11 +1,11 @@
 {
   "name": "agentic-fabric-sdk",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Fabriq/Agentic Fabric Python SDK: high-level client, DX helpers, auth",
   "author": "Agentic Fabric Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "agentic_fabric_sdk-0.1.1.tar.gz",
-  "download_time": "2025-09-27T05:47:06.059928",
+  "download_filename": "agentic_fabric_sdk-0.1.3.tar.gz",
+  "download_time": "2025-09-28T20:10:27.924226",
   "package_url": "https://pypi.org/project/agentic-fabric-sdk/"
 }

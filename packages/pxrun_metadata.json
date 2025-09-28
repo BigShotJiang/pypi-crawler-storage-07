@@ -1,0 +1,11 @@
+{
+  "name": "pxrun",
+  "version": "0.1.1",
+  "summary": "Proxmox LXC Lifecycle Management Tool",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/pxrun",
+  "download_filename": "pxrun-0.1.1.tar.gz",
+  "download_time": "2025-09-28T20:10:28.971071",
+  "package_url": "https://pypi.org/project/pxrun/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cndi",
-  "version": "2.4.15",
+  "version": "2.4.16",
   "summary": null,
   "author": "Mayank Shinde",
   "license": null,
   "home_page": null,
-  "download_filename": "cndi-2.4.15.tar.gz",
-  "download_time": "2025-09-28T19:48:04.159291",
+  "download_filename": "cndi-2.4.16.tar.gz",
+  "download_time": "2025-09-28T20:10:30.014961",
   "package_url": "https://pypi.org/project/cndi/"
 }
