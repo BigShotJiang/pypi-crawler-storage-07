@@ -1,0 +1,11 @@
+{
+  "name": "mkdocstrings-github",
+  "version": "0.1.0",
+  "summary": "A GitHub Action handler for mkdocstrings",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mkdocstrings_github-0.1.0.tar.gz",
+  "download_time": "2025-09-28T11:47:37.995316",
+  "package_url": "https://pypi.org/project/mkdocstrings-github/"
+}

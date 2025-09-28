@@ -1,0 +1,11 @@
+{
+  "name": "mindforge-ml",
+  "version": "0.1.7",
+  "summary": "An open-source machine learning library for research and production, offering unified tools across deep learning, NLP, computer vision, reinforcement learning, and predictive analytics.",
+  "author": "Godsave Kawurem",
+  "license": "MIT",
+  "home_page": "https://github.com/Perfect-Aimers-Enterprise/mindforge",
+  "download_filename": "mindforge_ml-0.1.7.tar.gz",
+  "download_time": "2025-09-28T11:47:34.886774",
+  "package_url": "https://pypi.org/project/mindforge-ml/"
+}

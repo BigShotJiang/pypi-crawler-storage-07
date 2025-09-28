@@ -1,11 +1,11 @@
 {
   "name": "bit-counter",
-  "version": "0.3.0",
-  "summary": null,
+  "version": "0.3.1",
+  "summary": "Package for efficiently counting the number of one bits in a numpy array.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bit_counter-0.3.0.tar.gz",
-  "download_time": "2025-09-28T04:32:55.897769",
+  "download_filename": "bit_counter-0.3.1.tar.gz",
+  "download_time": "2025-09-28T11:47:38.508701",
   "package_url": "https://pypi.org/project/bit-counter/"
 }

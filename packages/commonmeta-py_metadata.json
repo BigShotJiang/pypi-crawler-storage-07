@@ -1,11 +1,11 @@
 {
   "name": "commonmeta-py",
-  "version": "0.177",
+  "version": "0.178",
   "summary": "Library for conversions to/from the Commonmeta scholarly metadata format",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "commonmeta_py-0.177.tar.gz",
-  "download_time": "2025-09-28T10:09:59.115380",
+  "download_filename": "commonmeta_py-0.178.tar.gz",
+  "download_time": "2025-09-28T11:47:44.191974",
   "package_url": "https://pypi.org/project/commonmeta-py/"
 }

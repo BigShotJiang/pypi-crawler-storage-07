@@ -1,0 +1,11 @@
+{
+  "name": "lstenv",
+  "version": "0.0.7",
+  "summary": "A tool on your command line for generating, syncing, and auditing .env files via scan",
+  "author": "aycsi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lstenv-0.0.7.tar.gz",
+  "download_time": "2025-09-28T11:47:28.539651",
+  "package_url": "https://pypi.org/project/lstenv/"
+}
