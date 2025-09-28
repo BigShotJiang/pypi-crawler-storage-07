@@ -1,11 +1,11 @@
 {
   "name": "nhtsa",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Unofficial Python SDK/wrapper for NHTSA APIs.",
   "author": "Reed Graff",
   "license": null,
   "home_page": "https://github.com/ReedGraff/NHTSA",
-  "download_filename": "nhtsa-0.1.2.tar.gz",
-  "download_time": "2025-09-28T03:26:47.465252",
+  "download_filename": "nhtsa-0.1.4.tar.gz",
+  "download_time": "2025-09-28T04:32:53.184578",
   "package_url": "https://pypi.org/project/nhtsa/"
 }

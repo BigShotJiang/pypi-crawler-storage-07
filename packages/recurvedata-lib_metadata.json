@@ -1,11 +1,11 @@
 {
   "name": "recurvedata-lib",
-  "version": "0.1.490",
+  "version": "0.1.491",
   "summary": "Common Library for ReOrc Data Platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "recurvedata_lib-0.1.490.tar.gz",
-  "download_time": "2025-09-26T12:19:01.090631",
+  "download_filename": "recurvedata_lib-0.1.491.tar.gz",
+  "download_time": "2025-09-28T04:32:56.431238",
   "package_url": "https://pypi.org/project/recurvedata-lib/"
 }

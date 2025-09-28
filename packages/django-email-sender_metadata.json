@@ -1,0 +1,11 @@
+{
+  "name": "django-email-sender",
+  "version": "2.0.6",
+  "summary": "A chainable Django email sender utility.",
+  "author": "Egbie Uku",
+  "license": null,
+  "home_page": "https://github.com/EgbieAndersonUku1/django-email-sender",
+  "download_filename": "django_email_sender-2.0.6.tar.gz",
+  "download_time": "2025-09-28T04:33:04.864690",
+  "package_url": "https://pypi.org/project/django-email-sender/"
+}
