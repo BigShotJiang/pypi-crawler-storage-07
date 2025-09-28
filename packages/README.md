@@ -1,23 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T15:26:17.004600
-- **Total Packages**: 80
-- **Total Size**: 9.18 MB
+- **Download Time**: 2025-09-28T15:33:46.850742
+- **Total Packages**: 77
+- **Total Size**: 6.0 MB
 
 ## Packages List
+- assistants-framework
+- sphinxext-rediraffe
+- propeller-solver-core
+- reqman4
+- strictdoc
+- ra-netsuite-shared-utils
+- hyperSIS
+- gitme-cli
+- qforms
 - moteus-gui
 - moteus
 - authentik-client
 - foscat
 - byzh-ai
-- qforms
 - tree-sitter-t32
 - Mint-NM
 - replkit2
 - claude-mpm
 - detdevlib-models
-- gitme-cli
 - airweave-sdk
 - streamlit-aggrid
 - spiegeltools
@@ -30,7 +37,6 @@
 - llms-py
 - mathai
 - arithmetipy
-- hyperSIS
 - django-w-blog
 - abov3-ai
 - saintess
@@ -77,12 +83,3 @@
 - speed-analyzer
 - SuperGemini
 - json-pretty-diff
-- pyhieroglyphe
-- evonet
-- peakrdl-rust
-- iatoolkit
-- cg3d-maya-casc
-- xai-review
-- zk-chat
-- mimimon
-- abstract-webtools

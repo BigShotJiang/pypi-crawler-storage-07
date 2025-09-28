@@ -1,0 +1,11 @@
+{
+  "name": "sphinxext-rediraffe",
+  "version": "0.3.0",
+  "summary": "Sphinx Extension that redirects non-existent pages to working pages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinxext_rediraffe-0.3.0.tar.gz",
+  "download_time": "2025-09-28T15:33:00.730574",
+  "package_url": "https://pypi.org/project/sphinxext-rediraffe/"
+}

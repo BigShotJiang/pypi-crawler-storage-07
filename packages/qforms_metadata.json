@@ -1,11 +1,11 @@
 {
   "name": "qforms",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Qforms: google-forms like local form generator tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qforms-0.0.3.tar.gz",
-  "download_time": "2025-09-28T15:25:33.177481",
+  "download_filename": "qforms-0.0.4.tar.gz",
+  "download_time": "2025-09-28T15:33:05.267091",
   "package_url": "https://pypi.org/project/qforms/"
 }

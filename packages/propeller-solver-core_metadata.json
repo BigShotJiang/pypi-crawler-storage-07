@@ -1,0 +1,11 @@
+{
+  "name": "propeller-solver-core",
+  "version": "133.3.7",
+  "summary": "This package is a proof of concept used by bugdotexe to conduct a research. It has been uploaded for test purposes only. Its only function is to confirm the installation of the package on victim's machines. The code is not malicious in any way and will be deleted after the research survey has been concluded. I do not accept any liability for any direct, indirect, or consequential loss or damage arising from use of, or reliance on, this package.",
+  "author": "bugdotexe",
+  "license": null,
+  "home_page": null,
+  "download_filename": "propeller_solver_core-133.3.7.tar.gz",
+  "download_time": "2025-09-28T15:33:01.337599",
+  "package_url": "https://pypi.org/project/propeller-solver-core/"
+}
