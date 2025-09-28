@@ -1,29 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T16:11:51.816412
-- **Total Packages**: 81
-- **Total Size**: 16.49 MB
+- **Download Time**: 2025-09-28T16:31:56.544647
+- **Total Packages**: 78
+- **Total Size**: 0.06 MB
 
 ## Packages List
-- installer-ml
-- deezy
-- betterwindow-ak251452
-- syqlorix
-- nrgrank
-- callflow-tracer
-- machinegnostics
-- je-auto-control-dev
-- authentik-client
-- fred-oss
-- mytqdm
-- oarepo-invenio-typing-stubs
-- sphinx-needs
-- tree-sitter-ada
-- fastapi-simple-redis-cache
-- localfinder
-- achatbot
-- fastgraphFPMS
 - neo4j-etl-lib
 - odoo-addon-l10n-br-fiscal
 - sphinx-datatables
@@ -44,6 +26,7 @@
 - moduvent
 - pyiceberg-core
 - airbyte-cdk
+- authentik-client
 - data-science-pro
 - huibiao-framework
 - rna-synthub
@@ -51,6 +34,7 @@
 - scitrera-app-framework
 - dbt-switch
 - bemyai
+- fastgraphFPMS
 - percentify
 - binscheme-parser
 - abcweaver
@@ -82,8 +66,21 @@
 - package-is-debug
 - parse-pcap
 - e2D
+- fred-oss
 - hla-compass
 - llms-py
 - mathai
 - arithmetipy
 - django-w-blog
+- abov3-ai
+- saintess
+- stratum-ai
+- cocotb-vivado
+- direct-formatting-pandas-ods-reader
+- deltapv
+- osmose-presets
+- openapi-python-generator
+- zipmanager
+- je-auto-control-dev
+- mp-procs
+- omga-cli
