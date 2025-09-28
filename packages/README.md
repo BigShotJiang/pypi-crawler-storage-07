@@ -1,18 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T08:13:04.087914
-- **Total Packages**: 75
-- **Total Size**: 10.19 MB
+- **Download Time**: 2025-09-28T08:33:10.006888
+- **Total Packages**: 80
+- **Total Size**: 4.59 MB
 
 ## Packages List
-- alibabacloud-cas20200407
+- kuzu
+- website-crawler-sdk
+- xpander-sdk
+- dps-liumou-Stable
+- energysystemmodels
+- grades
+- iflow-mcp_vizro-mcp
+- dazpycheck
+- talker
 - authentik-client
+- hex-device
+- cdp-ninja
+- ap-cfg
+- grapes
+- mysingle-quant
+- p2d2
+- iojobs
+- cattle_grid
+- NSI-corrati
+- scitbx
+- bizydraft
+- langextract-docling
+- rediacc
+- alfred3
+- gencalc
+- simple-carla
+- py-melissa-climate
+- ksrpc
+- machineconfig
+- craftground
+- harry-complex-sdk-mamotion
+- kk_scene_wrapper
+- ostracker2
+- nvfuser-cu128
+- gdsfactory
+- nvfuser-cu126
+- pulumi-gcp
+- nvfuser-cu129
+- investing-algorithm-framework
+- alibabacloud-cas20200407
 - ap-mail
 - nonebot-plugin-auto-enter-group
 - baseline-checker
 - pyglove
-- mysingle-quant
 - prefect
 - prefect-client
 - musecbox
@@ -21,22 +58,16 @@
 - symconf
 - eigenpuls
 - bento-sgl-router
-- p2d2
 - activefence-client-sdk
-- website-crawler-sdk
 - huizhi-coupon-lengyue1084
 - PyQvd
-- bizydraft
 - commonmeta-py
 - itrx
 - kxy-framework
-- investing-algorithm-framework
 - remip-client
 - iamex
 - remip
-- grades
 - aioasuswrt
-- gencalc
 - f2-commander
 - yottactl
 - mrtrix3-agent
@@ -53,31 +84,5 @@
 - zmcp-data-analzyer
 - ant-ray-cpp-nightly
 - frida-fusion
-- hex-device
 - gmscaffold
 - seven-cloudapp-frame
-- videolab
-- tudata
-- feldera
-- ComicGUISpider
-- umanager
-- plassembler
-- restate
-- loan-analysis-toolkit
-- dump-things-service
-- facebook-utils
-- lcapy
-- fotolab
-- nheri-simcenter
-- dynamicdns
-- wathq-mcp-server
-- upplib
-- atv
-- gac
-- PagodaAL
-- shancx
-- speechreclib
-- heatmap_cli
-- pulumi-xyz
-- qsarmil
-- corpus-judge

@@ -1,0 +1,11 @@
+{
+  "name": "talker",
+  "version": "1.9.9",
+  "summary": "The almighty remote command executor for Unix machines",
+  "author": "Doron Cohen",
+  "license": "BSD",
+  "home_page": "https://github.com/weka-io/talker",
+  "download_filename": "talker-1.9.9.tar.gz",
+  "download_time": "2025-09-28T08:32:32.276661",
+  "package_url": "https://pypi.org/project/talker/"
+}

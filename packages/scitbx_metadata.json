@@ -1,0 +1,11 @@
+{
+  "name": "scitbx",
+  "version": "0.0.94",
+  "summary": "For academic data processing and plotting etc.",
+  "author": "Songyan Zhu",
+  "license": "MIT Licence",
+  "home_page": "https://github.com/soonyenju/scitbx",
+  "download_filename": "scitbx-0.0.94.tar.gz",
+  "download_time": "2025-09-28T08:32:38.121528",
+  "package_url": "https://pypi.org/project/scitbx/"
+}

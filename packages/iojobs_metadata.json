@@ -1,0 +1,11 @@
+{
+  "name": "iojobs",
+  "version": "0.1.0",
+  "summary": "Lightweight asynchronous job scheduler with cron-like syntax and delayed execution for Python functions",
+  "author": "Sergey Yavorsky",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iojobs-0.1.0.tar.gz",
+  "download_time": "2025-09-28T08:32:36.562312",
+  "package_url": "https://pypi.org/project/iojobs/"
+}
