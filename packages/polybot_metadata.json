@@ -1,0 +1,11 @@
+{
+  "name": "polybot",
+  "version": "0.9.7",
+  "summary": "A simple framework for building robust social media bots for multiple networks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "polybot-0.9.7.tar.gz",
+  "download_time": "2025-09-28T13:16:45.111704",
+  "package_url": "https://pypi.org/project/polybot/"
+}

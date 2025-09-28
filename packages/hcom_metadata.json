@@ -1,11 +1,11 @@
 {
   "name": "hcom",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "CLI tool for launching multiple Claude Code terminals with interactive subagents, headless persistence, and real-time communication via hooks",
   "author": "aannoo",
   "license": null,
   "home_page": null,
-  "download_filename": "hcom-0.2.2.tar.gz",
-  "download_time": "2025-09-27T17:25:41.625633",
+  "download_filename": "hcom-0.2.3.tar.gz",
+  "download_time": "2025-09-28T13:16:27.036821",
   "package_url": "https://pypi.org/project/hcom/"
 }

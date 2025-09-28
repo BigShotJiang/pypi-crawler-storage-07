@@ -1,0 +1,11 @@
+{
+  "name": "carp-rpc",
+  "version": "0.0.9",
+  "summary": "Async RPC toolkit",
+  "author": "Bill Gribble",
+  "license": "MIT",
+  "home_page": "https://github.com/bgribble/carp",
+  "download_filename": "carp_rpc-0.0.9.tar.gz",
+  "download_time": "2025-09-28T13:16:28.595429",
+  "package_url": "https://pypi.org/project/carp-rpc/"
+}

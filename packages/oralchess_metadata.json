@@ -1,0 +1,11 @@
+{
+  "name": "oralchess",
+  "version": "0.1.0",
+  "summary": "OralChess: A simple chess engine with minimax and optional oral AI integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "oralchess-0.1.0.tar.gz",
+  "download_time": "2025-09-28T13:16:50.313170",
+  "package_url": "https://pypi.org/project/oralchess/"
+}

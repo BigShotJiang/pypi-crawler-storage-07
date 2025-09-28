@@ -1,11 +1,11 @@
 {
   "name": "pure-function-decorators",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Try to enforce various types of function purity in Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pure_function_decorators-0.1.2.tar.gz",
-  "download_time": "2025-09-27T23:09:34.871238",
+  "download_filename": "pure_function_decorators-0.1.3.tar.gz",
+  "download_time": "2025-09-28T13:16:53.457344",
   "package_url": "https://pypi.org/project/pure-function-decorators/"
 }

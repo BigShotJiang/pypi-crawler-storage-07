@@ -1,0 +1,11 @@
+{
+  "name": "vecstack",
+  "version": "0.5.1",
+  "summary": "Python package for stacking (machine learning technique)",
+  "author": "Igor Ivanov",
+  "license": "MIT",
+  "home_page": "https://github.com/vecxoz/vecstack",
+  "download_filename": "vecstack-0.5.1.tar.gz",
+  "download_time": "2025-09-28T13:17:04.091003",
+  "package_url": "https://pypi.org/project/vecstack/"
+}
