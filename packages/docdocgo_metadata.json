@@ -1,0 +1,11 @@
+{
+  "name": "docdocgo",
+  "version": "0.1.0",
+  "summary": "Insert pandas DataFrames as tables into Microsoft Word documents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docdocgo-0.1.0.tar.gz",
+  "download_time": "2025-09-28T10:29:58.473131",
+  "package_url": "https://pypi.org/project/docdocgo/"
+}

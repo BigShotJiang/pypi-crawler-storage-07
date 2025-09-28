@@ -1,12 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T10:10:37.507125
-- **Total Packages**: 86
-- **Total Size**: 13.63 MB
+- **Download Time**: 2025-09-28T10:30:36.306665
+- **Total Packages**: 85
+- **Total Size**: 10.02 MB
 
 ## Packages List
+- machineconfig
+- purnamatools
+- torchzero
+- ryry-cli
+- mloggerai
+- syngular-ai
+- direct-formatting-pandas-ods-reader
+- frogml
+- ab-user-service
+- syntheticRNASeq
+- statute-utils
 - authentik-client
+- abstract-webtools
+- docdocgo
+- wikipedia-async
+- wechat-draft
+- config-types
+- licensespring
+- prelawsql
+- pyinla
+- python-openagent
+- os-flip
+- reydb
+- fraiseql
+- dumbjuice
+- ccdexplorer-fundamentals
+- tf-keras-nightly
+- qwak-core
+- ab-database
+- pozansky-news-server
+- bigtools
+- zenx
+- ai-edge-torch-nightly
+- aiogram-sentinel
+- rapidnbt
+- mplang-nightly
+- parsehub
+- ai4u
+- dbt-ai
+- remit-service
 - mdbq
 - iflow-mcp-webit_translator
 - nvidia-nat-llama-index
@@ -52,43 +91,3 @@
 - aiqtoolkit-zep-cloud
 - aiqtoolkit-agno
 - apache-airflow-providers-smtp
-- apache-airflow-providers-openlineage
-- apache-airflow-providers-microsoft-psrp
-- apache-airflow-providers-fab
-- apache-airflow-providers-edge3
-- upplib
-- apache-airflow-providers-cncf-kubernetes
-- apache-airflow-providers-celery
-- de-escalation-scoring-module
-- numworks_env
-- diglife
-- bento-sgl-router
-- bafser-tgapi
-- abstract-webtools
-- clarity-cli
-- slack-lists-mcp
-- teds
-- paddleformers
-- ab-alembic-auto-migrate
-- pozansky-news-server
-- metaxuda
-- jinzhupy
-- dbt-ai
-- hex-zmq-servers
-- iatoolkit
-- sqliteplus-enhanced
-- fastgraphFPMS
-- fourim
-- pytest-pythonhashseed
-- ppio-sandbox
-- taku-cli
-- plua
-- python3-cloudpods
-- statute-utils
-- xbstrap
-- ncatbot
-- uharfbuzz
-- blackdoc
-- minimcp-servers
-- pyahmia
-- bigtools

@@ -1,11 +1,11 @@
 {
   "name": "syngular-ai",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Syngular lets you connect to AI agents running locally or in production, stream their outputs, and collect structured feedback without infrastructure overhead.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "syngular_ai-0.1.0.tar.gz",
-  "download_time": "2025-09-27T22:27:57.916390",
+  "download_filename": "syngular_ai-0.2.0.tar.gz",
+  "download_time": "2025-09-28T10:29:54.327127",
   "package_url": "https://pypi.org/project/syngular-ai/"
 }

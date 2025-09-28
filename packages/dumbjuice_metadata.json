@@ -1,0 +1,11 @@
+{
+  "name": "dumbjuice",
+  "version": "0.9.2",
+  "summary": "DumbJuice is a Python module that simplifies the process of packaging small Python programs into self-contained installable packages. These packages can be shared with non-technical users, who only need to run a single install.bat file to install Python, set up a virtual environment, install necessary dependencies, and create a shortcut to the program on their desktop.",
+  "author": "Lorithai",
+  "license": null,
+  "home_page": "https://github.com/lorithai/dumbjuice",
+  "download_filename": "dumbjuice-0.9.2.tar.gz",
+  "download_time": "2025-09-28T10:30:04.640219",
+  "package_url": "https://pypi.org/project/dumbjuice/"
+}
