@@ -1,0 +1,11 @@
+{
+  "name": "s3vectorm",
+  "version": "0.1.1",
+  "summary": "Type-safe Python ORM for AWS S3 Vectors - build RAG applications within minutes and 90% cost savings.",
+  "author": "Sanhe Hu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "s3vectorm-0.1.1.tar.gz",
+  "download_time": "2025-09-28T00:51:42.750096",
+  "package_url": "https://pypi.org/project/s3vectorm/"
+}

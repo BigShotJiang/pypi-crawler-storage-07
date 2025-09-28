@@ -1,11 +1,11 @@
 {
   "name": "mloggerai",
-  "version": "0.1.1",
+  "version": "0.0.0.dev2",
   "summary": "AiLogger: AI-powered Python traceback analyzer",
   "author": "Mirko Perrone",
   "license": null,
   "home_page": null,
-  "download_filename": "mloggerai-0.1.1.tar.gz",
-  "download_time": "2025-09-27T17:47:20.137905",
+  "download_filename": "mloggerai-0.0.0.dev2.tar.gz",
+  "download_time": "2025-09-28T00:52:12.978837",
   "package_url": "https://pypi.org/project/mloggerai/"
 }

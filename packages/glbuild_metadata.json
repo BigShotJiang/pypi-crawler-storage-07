@@ -1,0 +1,11 @@
+{
+  "name": "glbuild",
+  "version": "0.1.27",
+  "summary": "A lightweight library and CLI tool for historical GitLab build data and logs collection.",
+  "author": "Henri Aïdasso",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/ets-devops/pipelines/digital-twin/glbuild",
+  "download_filename": "glbuild-0.1.27.tar.gz",
+  "download_time": "2025-09-28T00:52:11.931838",
+  "package_url": "https://pypi.org/project/glbuild/"
+}

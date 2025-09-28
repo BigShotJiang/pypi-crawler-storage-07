@@ -1,11 +1,11 @@
 {
   "name": "mct-nightly",
-  "version": "2.4.2.20250927.534",
+  "version": "2.4.2.20250928.555",
   "summary": "A Model Compression Toolkit for neural networks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mct_nightly-2.4.2.20250927.534.tar.gz",
-  "download_time": "2025-09-27T00:44:11.678131",
+  "download_filename": "mct_nightly-2.4.2.20250928.555.tar.gz",
+  "download_time": "2025-09-28T00:52:06.704311",
   "package_url": "https://pypi.org/project/mct-nightly/"
 }
