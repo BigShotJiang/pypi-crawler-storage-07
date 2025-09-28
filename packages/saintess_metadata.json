@@ -1,0 +1,11 @@
+{
+  "name": "saintess",
+  "version": "0.9.3",
+  "summary": "Official wrapper for Discord API.",
+  "author": "Saint Official",
+  "license": null,
+  "home_page": "https://github.com/yourusername/saintess",
+  "download_filename": "saintess-0.9.3.tar.gz",
+  "download_time": "2025-09-28T15:09:02.309995",
+  "package_url": "https://pypi.org/project/saintess/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zipmanager",
+  "version": "0.6.1",
+  "summary": "Allows you to manage zip folders as data",
+  "author": "SimplePythonCoder",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zipmanager-0.6.1.tar.gz",
+  "download_time": "2025-09-28T15:09:09.956451",
+  "package_url": "https://pypi.org/project/zipmanager/"
+}

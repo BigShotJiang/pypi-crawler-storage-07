@@ -1,0 +1,11 @@
+{
+  "name": "mp-procs",
+  "version": "0.1.1",
+  "summary": "Common lightweight PyTerrier adapters for specific artifact shapes - query and document processors for modular IR pipelines",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mp_procs-0.1.1.tar.gz",
+  "download_time": "2025-09-28T15:09:11.118419",
+  "package_url": "https://pypi.org/project/mp-procs/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zvamz",
+  "version": "0.0.115",
+  "summary": "Codes used for Amazon seller report cleaning and API pulls.",
+  "author": "arvinS05",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zvamz-0.0.115.tar.gz",
+  "download_time": "2025-09-28T15:09:12.867640",
+  "package_url": "https://pypi.org/project/zvamz/"
+}

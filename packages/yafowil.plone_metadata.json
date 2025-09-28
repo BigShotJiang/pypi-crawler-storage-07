@@ -1,0 +1,11 @@
+{
+  "name": "yafowil.plone",
+  "version": "5.0.0",
+  "summary": "Plone Integration with YAFOWIL",
+  "author": "BlueDynamics Alliance",
+  "license": "BSD",
+  "home_page": "https://github.com/bluedynamics/yafowil.plone",
+  "download_filename": "yafowil_plone-5.0.0.tar.gz",
+  "download_time": "2025-09-28T15:09:15.754694",
+  "package_url": "https://pypi.org/project/yafowil.plone/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cocotb-vivado",
+  "version": "0.0.5",
+  "summary": "Limited cocotb/Python interface for Xilinx Vivado Simulator",
+  "author": "Tomasz Hemperek",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/themperek/cocotb-vivado",
+  "download_filename": "cocotb_vivado-0.0.5.tar.gz",
+  "download_time": "2025-09-28T15:09:04.165601",
+  "package_url": "https://pypi.org/project/cocotb-vivado/"
+}

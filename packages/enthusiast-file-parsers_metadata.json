@@ -1,0 +1,11 @@
+{
+  "name": "enthusiast-file-parsers",
+  "version": "1.0.0",
+  "summary": "A plugin for Enthusiast that provides a file parsers.",
+  "author": "Damian Sowiński",
+  "license": null,
+  "home_page": null,
+  "download_filename": "enthusiast_file_parsers-1.0.0.tar.gz",
+  "download_time": "2025-09-28T15:09:19.325767",
+  "package_url": "https://pypi.org/project/enthusiast-file-parsers/"
+}
