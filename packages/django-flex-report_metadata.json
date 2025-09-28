@@ -1,0 +1,11 @@
+{
+  "name": "django-flex-report",
+  "version": "0.9.20",
+  "summary": "A Django app to create flexible reports",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_flex_report-0.9.20.tar.gz",
+  "download_time": "2025-09-28T18:12:38.341574",
+  "package_url": "https://pypi.org/project/django-flex-report/"
+}

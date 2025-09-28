@@ -1,0 +1,11 @@
+{
+  "name": "pyopenxr",
+  "version": "1.1.5201",
+  "summary": "Unofficial Python bindings for OpenXR VR/AR device access",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyopenxr-1.1.5201.tar.gz",
+  "download_time": "2025-09-28T18:12:48.902563",
+  "package_url": "https://pypi.org/project/pyopenxr/"
+}

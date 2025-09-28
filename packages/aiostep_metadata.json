@@ -1,0 +1,11 @@
+{
+  "name": "aiostep",
+  "version": "0.3.6",
+  "summary": "A Python library to handle steps in aiogram framework.",
+  "author": "Nasrollah Yusefi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiostep-0.3.6.tar.gz",
+  "download_time": "2025-09-28T18:12:38.861978",
+  "package_url": "https://pypi.org/project/aiostep/"
+}
