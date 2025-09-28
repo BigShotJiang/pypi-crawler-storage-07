@@ -1,26 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T18:35:58.722689
-- **Total Packages**: 74
-- **Total Size**: 7.72 MB
+- **Download Time**: 2025-09-28T18:49:01.734875
+- **Total Packages**: 75
+- **Total Size**: 5.92 MB
 
 ## Packages List
+- reolink-aio
+- dknovautils
+- shareddata
+- montydb
+- toolbox-sdk
+- grape
+- selective-json-parser
+- lexicon-python
+- mkdocstrings-github
+- inka2
+- sonatoki
+- pulumiverse-acme
+- otpme
+- authentik-client
+- clean-logging
+- crypticorn
+- mintzy
+- tcx2gpx
+- ccdexplorer-fundamentals
+- edhrec-mcp
+- lark-language-detector
 - prosemark
 - seapopym_optimization
 - termtap
 - webtap-tool
 - prompture
-- selective-json-parser
-- ccdexplorer-fundamentals
 - django-cookie-consent
 - oarepo-runtime
 - homecom-alt
 - openbatch
 - ai-pipeline-core
-- shareddata
 - fleetfluid
-- authentik-client
 - nrgrank
 - git-publish
 - recce-nightly
@@ -32,7 +49,6 @@
 - identory
 - fast-bi-dbt-runner
 - sphinx-syntax
-- mintzy
 - tespy
 - virgo-modules
 - git-goose
@@ -65,18 +81,3 @@
 - rds-proxy-password-rotation
 - fastapi-users-db-dynamodb
 - breez-sdk-spark
-- selectolax
-- adversarial-nets-lib-econ
-- kittylog
-- newsflash
-- mmcfilters
-- perpetual
-- pyopenxr
-- apache-airflow-providers-taskette-dev
-- fastapi-simple-redis-cache
-- respark
-- zoialib
-- stigg-api-client-v2
-- investing-algorithm-framework
-- stigg-api-client
-- gac

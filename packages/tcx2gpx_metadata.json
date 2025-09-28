@@ -1,0 +1,11 @@
+{
+  "name": "tcx2gpx",
+  "version": "0.1.6",
+  "summary": "Convert Garmin TCX GPS tracks to GPX",
+  "author": null,
+  "license": "GNU GPLv3 only",
+  "home_page": null,
+  "download_filename": "tcx2gpx-0.1.6.tar.gz",
+  "download_time": "2025-09-28T18:48:31.641120",
+  "package_url": "https://pypi.org/project/tcx2gpx/"
+}

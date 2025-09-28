@@ -1,11 +1,11 @@
 {
   "name": "mintzy",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Mintzy SDK for stock price prediction",
   "author": "Om Kulthe ",
   "license": null,
   "home_page": null,
-  "download_filename": "mintzy-0.1.3.tar.gz",
-  "download_time": "2025-09-28T18:35:32.584495",
+  "download_filename": "mintzy-0.1.4.tar.gz",
+  "download_time": "2025-09-28T18:48:31.122586",
   "package_url": "https://pypi.org/project/mintzy/"
 }

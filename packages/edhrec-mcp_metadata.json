@@ -1,0 +1,11 @@
+{
+  "name": "edhrec-mcp",
+  "version": "1.0.0",
+  "summary": "A Model Context Protocol (MCP) server providing tools to obtain information from edhrec.com using LLMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "edhrec_mcp-1.0.0.tar.gz",
+  "download_time": "2025-09-28T18:48:32.679316",
+  "package_url": "https://pypi.org/project/edhrec-mcp/"
+}

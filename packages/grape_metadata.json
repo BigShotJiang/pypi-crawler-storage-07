@@ -1,0 +1,11 @@
+{
+  "name": "grape",
+  "version": "0.2.5",
+  "summary": "🍇 GRAPE is a Rust/Python Graph Representation Learning library for Predictions and Evaluations.",
+  "author": "Luca Cappelletti, Tommaso Fontana, Vida Ravanmehr, Peter Robinson",
+  "license": "MIT",
+  "home_page": "https://github.com/AnacletoLAB/grape",
+  "download_filename": "grape-0.2.5.tar.gz",
+  "download_time": "2025-09-28T18:48:25.368684",
+  "package_url": "https://pypi.org/project/grape/"
+}
