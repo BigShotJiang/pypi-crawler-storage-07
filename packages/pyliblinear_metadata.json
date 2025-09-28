@@ -1,0 +1,11 @@
+{
+  "name": "pyliblinear",
+  "version": "249.0",
+  "summary": "A liblinear python API",
+  "author": "André Malo",
+  "license": "Apache-2.0",
+  "home_page": "https://opensource.perlig.de/pyliblinear/",
+  "download_filename": "pyliblinear-249.0.tar.gz",
+  "download_time": "2025-09-28T09:09:45.560928",
+  "package_url": "https://pypi.org/project/pyliblinear/"
+}

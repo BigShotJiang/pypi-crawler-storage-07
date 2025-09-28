@@ -1,0 +1,11 @@
+{
+  "name": "rko-lio",
+  "version": "0.1.2",
+  "summary": "A Robust Approach for LiDAR-Inertial Odometry Without Sensor-Specific Modelling",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rko_lio-0.1.2-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-09-28T09:09:48.300385",
+  "package_url": "https://pypi.org/project/rko-lio/"
+}

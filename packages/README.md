@@ -1,33 +1,74 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T08:48:57.622050
-- **Total Packages**: 80
-- **Total Size**: 18.46 MB
+- **Download Time**: 2025-09-28T09:10:14.448450
+- **Total Packages**: 82
+- **Total Size**: 14.79 MB
 
 ## Packages List
+- carbonic
+- authentik-client
+- damast
+- sc-utility
+- fastapi-reloader
+- orderly-evm-connector
+- astral-intelligence
+- ab-alembic-auto-migrate
+- autogluon
+- autogluon.timeseries
+- autogluon.multimodal
+- autogluon.tabular
+- togo
+- autogluon.features
+- autogluon.core
+- autogluon.common
+- wyoming-microsoft-tts
+- MangoDB-Connect
+- cosmic-crisp
+- ct-neat-python
+- libero2gym
+- twaddle
+- iflow-mcp-webit_translator
+- wyoming-microsoft-stt
+- fastgraphFPMS
+- mysingle-quant
+- langextract-docling
+- jit-utils-backend
+- restate
+- minjiang-host-client
+- pyliblinear
+- delta-trace-db
+- jaxnasium
+- alibabacloud-cms20240330
+- magic-terminal-cli
+- rko-lio
+- machineconfig
+- oold
+- scopey
+- energysystemmodels
+- usfiscaldata
+- tira
+- art_studio_tz
+- atv
+- word-document-reader-mcp
+- doris-vector-search
 - wise-api-client
 - azpaddypy
 - speechreclib
 - jinzhupy
-- sc-utility
 - lifx-photons-interactor
 - tfp-nightly
 - ap-mail
 - wiliot-testers
 - eigenpuls
 - shoebill-ai
-- doris-vector-search
 - robot-log-visualizer
 - lifx-photons-core
-- restate
 - mplang-nightly
 - streamlit-webrtc
 - mortimer
 - counted-float
 - grapes
-- authentik-client
-- scopey
 - cdp-patches
 - iflow-mcp_vizro-mcp
 - mrtrix3-agent
@@ -40,49 +81,10 @@
 - website-crawler-sdk
 - xpander-sdk
 - dps-liumou-Stable
-- energysystemmodels
 - grades
 - dazpycheck
 - talker
 - hex-device
 - cdp-ninja
 - ap-cfg
-- mysingle-quant
 - p2d2
-- iojobs
-- cattle_grid
-- NSI-corrati
-- scitbx
-- bizydraft
-- langextract-docling
-- rediacc
-- alfred3
-- gencalc
-- simple-carla
-- py-melissa-climate
-- ksrpc
-- machineconfig
-- craftground
-- harry-complex-sdk-mamotion
-- kk_scene_wrapper
-- ostracker2
-- nvfuser-cu128
-- gdsfactory
-- nvfuser-cu126
-- pulumi-gcp
-- nvfuser-cu129
-- investing-algorithm-framework
-- alibabacloud-cas20200407
-- nonebot-plugin-auto-enter-group
-- baseline-checker
-- pyglove
-- prefect
-- prefect-client
-- musecbox
-- legit-api-client
-- tiferet-flask
-- symconf
-- bento-sgl-router
-- activefence-client-sdk
-- huizhi-coupon-lengyue1084
-- PyQvd

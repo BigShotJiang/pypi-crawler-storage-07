@@ -1,0 +1,11 @@
+{
+  "name": "magic-terminal-cli",
+  "version": "1.0.0",
+  "summary": "A magical terminal assistant that understands natural language and makes command-line operations effortless",
+  "author": "Magic Terminal Team",
+  "license": null,
+  "home_page": "https://github.com/Yogesh-developer/magic-terminal",
+  "download_filename": "magic_terminal_cli-1.0.0.tar.gz",
+  "download_time": "2025-09-28T09:09:47.749319",
+  "package_url": "https://pypi.org/project/magic-terminal-cli/"
+}
