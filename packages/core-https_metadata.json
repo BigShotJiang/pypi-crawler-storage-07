@@ -1,0 +1,11 @@
+{
+  "name": "core-https",
+  "version": "2.0.0",
+  "summary": "This project/library contains common elements related to HTTP & API services...",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "core_https-2.0.0.tar.gz",
+  "download_time": "2025-09-28T20:37:01.022497",
+  "package_url": "https://pypi.org/project/core-https/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "QuantumTUNA",
+  "version": "0.8.0",
+  "summary": "A user-friendly quantum chemistry program for diatomics.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quantumtuna-0.8.0.tar.gz",
+  "download_time": "2025-09-28T20:37:11.249705",
+  "package_url": "https://pypi.org/project/QuantumTUNA/"
+}

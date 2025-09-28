@@ -1,0 +1,11 @@
+{
+  "name": "borders",
+  "version": "1.3.0.post1",
+  "summary": "A module to create a frame when printing a list of strings, with control on the alignment of the text and frame. Can also act like 'input()'.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "borders-1.3.0.post1.tar.gz",
+  "download_time": "2025-09-28T20:37:20.848013",
+  "package_url": "https://pypi.org/project/borders/"
+}

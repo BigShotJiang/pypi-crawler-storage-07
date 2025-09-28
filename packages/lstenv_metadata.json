@@ -1,11 +1,11 @@
 {
   "name": "lstenv",
-  "version": "0.0.10",
+  "version": "0.1.1",
   "summary": "A tool for editing environment variables",
   "author": "aycsi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lstenv-0.0.10.tar.gz",
-  "download_time": "2025-09-28T12:17:14.808893",
+  "download_filename": "lstenv-0.1.1.tar.gz",
+  "download_time": "2025-09-28T20:37:05.186151",
   "package_url": "https://pypi.org/project/lstenv/"
 }
