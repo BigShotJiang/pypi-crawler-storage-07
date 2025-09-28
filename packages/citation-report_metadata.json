@@ -1,0 +1,11 @@
+{
+  "name": "citation-report",
+  "version": "0.2.0",
+  "summary": "Regex formula of Philippine Supreme Court citations in report format, i.e. SCRA, PHIL, OFFG.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "citation_report-0.2.0.tar.gz",
+  "download_time": "2025-09-28T06:38:55.070150",
+  "package_url": "https://pypi.org/project/citation-report/"
+}

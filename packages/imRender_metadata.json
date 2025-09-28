@@ -1,11 +1,11 @@
 {
   "name": "imRender",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "summary": ".",
   "author": null,
-  "license": null,
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "imrender-0.0.0.tar.gz",
-  "download_time": "2025-09-27T10:09:38.625972",
+  "download_filename": "imRender-0.1.0.tar.gz",
+  "download_time": "2025-09-28T06:39:21.780581",
   "package_url": "https://pypi.org/project/imRender/"
 }

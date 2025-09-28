@@ -1,0 +1,11 @@
+{
+  "name": "db-libs",
+  "version": "1.2",
+  "summary": "'redis', 'mongo', 'elasticsearch', 'mysql', 'sqlachemy', '线程安全的数据库封装，享元模式支持无限实例化调用'",
+  "author": "bfzs",
+  "license": "BSD License",
+  "home_page": null,
+  "download_filename": "db_libs-1.2.tar.gz",
+  "download_time": "2025-09-28T06:39:08.644768",
+  "package_url": "https://pypi.org/project/db-libs/"
+}

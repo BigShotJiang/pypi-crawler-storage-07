@@ -1,11 +1,11 @@
 {
   "name": "ntust-courses",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "NTUST Class Querier",
   "author": "xinshoutw",
   "license": null,
   "home_page": null,
-  "download_filename": "ntust_courses-0.2.0.tar.gz",
-  "download_time": "2025-09-28T06:14:25.567926",
+  "download_filename": "ntust_courses-0.2.1.tar.gz",
+  "download_time": "2025-09-28T06:39:05.716940",
   "package_url": "https://pypi.org/project/ntust-courses/"
 }

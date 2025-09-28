@@ -1,0 +1,11 @@
+{
+  "name": "yt-queue",
+  "version": "0.11.18",
+  "summary": "CLI to keep track of videos in Youtube playlists",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yt_queue-0.11.18.tar.gz",
+  "download_time": "2025-09-28T06:39:01.948622",
+  "package_url": "https://pypi.org/project/yt-queue/"
+}
