@@ -1,0 +1,11 @@
+{
+  "name": "kupiapi",
+  "version": "1.0.11",
+  "summary": "Scraper API for extracting products data from kupi.cz",
+  "author": "Vojtech Orava",
+  "license": null,
+  "home_page": "https://github.com/vorava/kupiapi",
+  "download_filename": "kupiapi-1.0.11.tar.gz",
+  "download_time": "2025-09-28T14:26:31.949194",
+  "package_url": "https://pypi.org/project/kupiapi/"
+}

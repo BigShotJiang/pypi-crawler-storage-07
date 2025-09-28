@@ -1,0 +1,11 @@
+{
+  "name": "rxn-rdf-converter",
+  "version": "0.1.0",
+  "summary": "Package for extracting chemical reaction serialized (Google Protocol Buffers mechanism) in Open Reaction Database (ORD) schema to Resource Descriptive Framework (RDF) triples in JSON-LD and/or Turtle format.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rxn_rdf_converter-0.1.0.tar.gz",
+  "download_time": "2025-09-28T14:26:29.830304",
+  "package_url": "https://pypi.org/project/rxn-rdf-converter/"
+}

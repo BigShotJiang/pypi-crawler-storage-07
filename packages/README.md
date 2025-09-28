@@ -1,13 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T14:09:02.708733
+- **Download Time**: 2025-09-28T14:27:03.855036
 - **Total Packages**: 80
-- **Total Size**: 22.29 MB
+- **Total Size**: 11.64 MB
 
 ## Packages List
-- abstract-webtools
 - authentik-client
+- buddybet-i18n
+- energysystemmodels
+- nbcmdio
+- cbrapi
+- liana
+- port-ocean
+- py3Dmol
+- aibox-nlp
+- modelship
+- inferencesh
+- restructuredpython
+- sweetiepy
+- CrossRename
+- hat-gateway
+- leaninit
+- yta-numpy
+- rxn-rdf-converter
+- pyavwx-wrapper
+- faststream
+- lattica
+- kupiapi
+- langfuse
+- unicex
+- abstract-webtools
+- sa-tenders
+- multi-agent-generator
+- django-unicom
+- cmdargparse
+- bb-mcp-server
+- speed-analyzer
+- lograder
+- ezga-lib
 - akash
 - fans
 - ryry-cli
@@ -22,13 +53,11 @@
 - inzicht
 - tobes-ui
 - simple-calculator-almakdye
-- django-unicom
 - byzh-ai
 - orderly-evm-connector
 - sora-sdk
 - sora-sdk-rpi
 - openubmc-bingo
-- energysystemmodels
 - pozansky-news-server
 - crawl4weibo
 - red-tidegear
@@ -39,7 +68,6 @@
 - PolUVR
 - cpp-linter
 - root-painter
-- sa-tenders
 - alpha-vantage-agent
 - django-linkcheck
 - wyoming-microsoft-stt
@@ -58,31 +86,3 @@
 - redis-benchmarks-specification
 - UVR-resources
 - osmose-presets
-- tinyrml
-- eigenpuls
-- simple-llm-api
-- poottu
-- bool-hybrid-array
-- xmptools
-- earningspy
-- abov3-ai
-- lograder
-- MaRDMO
-- robotframework-browser
-- graph-sitter
-- nexaai
-- pypdf
-- fastapi-simple-redis-cache
-- crypticorn-utils
-- num-dual
-- fbgemm-gpu-nightly-cpu
-- sherpa-ml
-- spreadsheet-use
-- legit-api-client
-- mindforge-ml
-- bridgecrew
-- univer-use
-- bb-mcp-server
-- mainsequence
-- rdfhelpers
-- elide

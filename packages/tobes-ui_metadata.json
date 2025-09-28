@@ -1,11 +1,11 @@
 {
   "name": "tobes-ui",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Totally Bearable Spectrometer UI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tobes_ui-0.2.0.tar.gz",
-  "download_time": "2025-09-28T10:09:51.234608",
+  "download_filename": "tobes_ui-0.2.1.tar.gz",
+  "download_time": "2025-09-28T14:26:45.364910",
   "package_url": "https://pypi.org/project/tobes-ui/"
 }

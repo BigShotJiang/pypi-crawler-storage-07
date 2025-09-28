@@ -1,0 +1,11 @@
+{
+  "name": "leaninit",
+  "version": "0.0.9",
+  "summary": "Compression of initialized data and/or code for embedded systems.",
+  "author": "Sebastien Riou",
+  "license": null,
+  "home_page": null,
+  "download_filename": "leaninit-0.0.9.tar.gz",
+  "download_time": "2025-09-28T14:26:28.781707",
+  "package_url": "https://pypi.org/project/leaninit/"
+}
