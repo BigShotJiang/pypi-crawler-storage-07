@@ -1,8 +1,16 @@
 {
-  "download_time": "2025-09-28T23:25:48.354244",
-  "total_packages_downloaded": 77,
-  "total_size_mb": 3.42,
+  "download_time": "2025-09-28T23:33:39.401896",
+  "total_packages_downloaded": 74,
+  "total_size_mb": 1.4,
   "packages": [
+    "python-openagent",
+    "NASADEM",
+    "checkthat-ai",
+    "bettergit",
+    "SoullessAi-Dem",
+    "flask-selfheal",
+    "illumo-flow",
+    "elbowK",
     "codemail",
     "sportsball",
     "authentik-client",
@@ -40,7 +48,6 @@
     "pyenzyme",
     "fastloom",
     "wheel-getter",
-    "SoullessAi-Dem",
     "osmose-presets",
     "bbeval",
     "r82labs-analytics",
@@ -61,7 +68,6 @@
     "py-lite-edu",
     "Blinter",
     "mlrun",
-    "python-openagent",
     "ifstate",
     "intradev",
     "async-kernel",
@@ -70,15 +76,6 @@
     "sahi",
     "prompture",
     "sourcepp",
-    "sling",
-    "playpi",
-    "lm-deluge",
-    "ImageTileProcessor",
-    "mitoomics-gpu",
-    "timbal",
-    "beacon-api",
-    "invocation-tree",
-    "aenet-gpr",
-    "dataprep-ai"
+    "sling"
   ]
 }

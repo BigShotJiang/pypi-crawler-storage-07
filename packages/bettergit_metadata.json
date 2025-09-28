@@ -1,11 +1,11 @@
 {
   "name": "bettergit",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "BetterGit is a conversational CLI wrapper for Git that encourages Conventional Commits.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bettergit-2.0.0.tar.gz",
-  "download_time": "2025-09-28T21:08:56.917333",
+  "download_filename": "bettergit-2.0.1.tar.gz",
+  "download_time": "2025-09-28T23:33:01.342203",
   "package_url": "https://pypi.org/project/bettergit/"
 }

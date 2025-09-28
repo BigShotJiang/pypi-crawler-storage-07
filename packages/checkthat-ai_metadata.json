@@ -1,0 +1,11 @@
+{
+  "name": "checkthat-ai",
+  "version": "0.2.0",
+  "summary": "A Python SDK for the CheckThat AI platform's unified LLM API with claim refinement and normalization capabilities.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "checkthat_ai-0.2.0.tar.gz",
+  "download_time": "2025-09-28T23:33:00.821595",
+  "package_url": "https://pypi.org/project/checkthat-ai/"
+}

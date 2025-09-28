@@ -1,0 +1,11 @@
+{
+  "name": "illumo-flow",
+  "version": "0.1.4",
+  "summary": "Workflow orchestration primitives for illumo demo",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "illumo_flow-0.1.4.tar.gz",
+  "download_time": "2025-09-28T23:33:02.921402",
+  "package_url": "https://pypi.org/project/illumo-flow/"
+}
