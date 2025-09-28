@@ -1,0 +1,11 @@
+{
+  "name": "ros2tree",
+  "version": "0.2.0",
+  "summary": "ROS2 command extension that displays topics, nodes, and services in a hierarchical tree format",
+  "author": "Lin Hsiang-Jui",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros2tree-0.2.0-py3-none-any.whl",
+  "download_time": "2025-09-28T09:25:56.994482",
+  "package_url": "https://pypi.org/project/ros2tree/"
+}

@@ -1,13 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T09:10:14.448450
-- **Total Packages**: 82
-- **Total Size**: 14.79 MB
+- **Download Time**: 2025-09-28T09:26:31.497585
+- **Total Packages**: 84
+- **Total Size**: 29.54 MB
 
 ## Packages List
-- carbonic
+- mysingle-quant
 - authentik-client
+- abstract-webtools
+- datahold
+- argmin-testfunctions-py
+- comfy-api-simplified
+- kxy-framework
+- tbp-nightly
+- ukbeaver
+- airweave-sdk
+- energysystemmodels
+- stepup
+- pygpt-net
+- eigenpuls
+- legit-api-client
+- ppio-sandbox
+- turbocore
+- novita-sandbox
+- meyigi-scripts
+- ros2tree
+- wikipedia-async
+- minimcp-servers
+- minjiang-client
+- xai-review
+- ipilot
+- carbonic
 - damast
 - sc-utility
 - fastapi-reloader
@@ -31,7 +55,6 @@
 - iflow-mcp-webit_translator
 - wyoming-microsoft-stt
 - fastgraphFPMS
-- mysingle-quant
 - langextract-docling
 - jit-utils-backend
 - restate
@@ -45,7 +68,6 @@
 - machineconfig
 - oold
 - scopey
-- energysystemmodels
 - usfiscaldata
 - tira
 - art_studio_tz
@@ -60,7 +82,6 @@
 - tfp-nightly
 - ap-mail
 - wiliot-testers
-- eigenpuls
 - shoebill-ai
 - robot-log-visualizer
 - lifx-photons-core
@@ -69,22 +90,3 @@
 - mortimer
 - counted-float
 - grapes
-- cdp-patches
-- iflow-mcp_vizro-mcp
-- mrtrix3-agent
-- leap-model-parser
-- diglife
-- brokle
-- icspacket
-- alfred3-interact
-- kuzu
-- website-crawler-sdk
-- xpander-sdk
-- dps-liumou-Stable
-- grades
-- dazpycheck
-- talker
-- hex-device
-- cdp-ninja
-- ap-cfg
-- p2d2
