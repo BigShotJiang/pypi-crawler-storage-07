@@ -1,11 +1,11 @@
 {
   "name": "automation-toolkit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "基于uiautomator2的自动化测试工具包",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "automation_toolkit-0.1.1.tar.gz",
-  "download_time": "2025-09-28T02:26:31.937080",
+  "download_filename": "automation_toolkit-0.1.2.tar.gz",
+  "download_time": "2025-09-28T05:29:32.922113",
   "package_url": "https://pypi.org/project/automation-toolkit/"
 }

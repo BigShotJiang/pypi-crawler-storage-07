@@ -1,0 +1,11 @@
+{
+  "name": "yangsuite-restconf",
+  "version": "2.1.12",
+  "summary": "RESTCONF protocol",
+  "author": "YANG Suite development team",
+  "license": "Cisco General Terms",
+  "home_page": "https://developer.cisco.com/yangsuite",
+  "download_filename": "yangsuite_restconf-2.1.12-py3-none-any.whl",
+  "download_time": "2025-09-28T05:29:35.014718",
+  "package_url": "https://pypi.org/project/yangsuite-restconf/"
+}

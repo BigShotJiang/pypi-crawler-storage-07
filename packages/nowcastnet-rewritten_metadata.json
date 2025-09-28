@@ -1,0 +1,11 @@
+{
+  "name": "nowcastnet-rewritten",
+  "version": "0.1.1",
+  "summary": "A personal reimplementation of NowcastNet inference framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nowcastnet_rewritten-0.1.1.tar.gz",
+  "download_time": "2025-09-28T05:29:30.823818",
+  "package_url": "https://pypi.org/project/nowcastnet-rewritten/"
+}
