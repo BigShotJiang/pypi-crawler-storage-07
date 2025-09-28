@@ -1,11 +1,11 @@
 {
   "name": "bafser-tgapi",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "summary": "bafser tg api",
   "author": "Mixel Te",
   "license": null,
   "home_page": null,
-  "download_filename": "bafser_tgapi-1.2.0.tar.gz",
-  "download_time": "2025-09-28T10:10:19.937870",
+  "download_filename": "bafser_tgapi-1.3.0.tar.gz",
+  "download_time": "2025-09-28T10:39:33.410073",
   "package_url": "https://pypi.org/project/bafser-tgapi/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "aek-lregr-trainer",
+  "version": "0.1.0",
+  "summary": "Automatic ANN/DNN Linear Regression and Classification Trainer",
+  "author": "Alp Emre Karaahmet",
+  "license": null,
+  "home_page": "https://github.com/alpemre8/aek-lregr-trainer",
+  "download_filename": "aek_lregr_trainer-0.1.0.tar.gz",
+  "download_time": "2025-09-28T10:39:38.124735",
+  "package_url": "https://pypi.org/project/aek-lregr-trainer/"
+}

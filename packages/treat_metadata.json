@@ -1,0 +1,11 @@
+{
+  "name": "treat",
+  "version": "0.4.1",
+  "summary": "Delicious tests for Python",
+  "author": "Sébastien Eustace",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "treat-0.4.1.tar.gz",
+  "download_time": "2025-09-28T10:39:34.046219",
+  "package_url": "https://pypi.org/project/treat/"
+}

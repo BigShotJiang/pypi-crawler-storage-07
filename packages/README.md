@@ -1,11 +1,27 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T10:30:36.306665
-- **Total Packages**: 85
-- **Total Size**: 10.02 MB
+- **Download Time**: 2025-09-28T10:40:20.737518
+- **Total Packages**: 83
+- **Total Size**: 5.05 MB
 
 ## Packages List
+- abstract-webtools
+- word-document-table-editor-mcp
+- authentik-client
+- injectionkit
+- bafser-tgapi
+- treat
+- eigenpuls
+- fastrapi
+- bafser
+- mysingle-quant
+- hex-zmq-servers
+- aek-lregr-trainer
+- v440
+- legit-api-client
+- opensesame-plugin-radboudbox
+- windows-snake-game
 - machineconfig
 - purnamatools
 - torchzero
@@ -17,8 +33,6 @@
 - ab-user-service
 - syntheticRNASeq
 - statute-utils
-- authentik-client
-- abstract-webtools
 - docdocgo
 - wikipedia-async
 - wechat-draft
@@ -75,19 +89,3 @@
 - nvidia-nat-ragaai
 - nvidia-nat-profiling
 - nvidia-nat-data-flywheel
-- nvidia-nat-langchain
-- aiqtoolkit-semantic-kernel
-- fantacalciosimulator
-- aiqtoolkit-weave
-- aiqtoolkit-mem0ai
-- aiqtoolkit-test
-- codeakshcalculator
-- aiqtoolkit-llama-index
-- energysystemmodels
-- aiqtoolkit
-- aiqtoolkit-langchain
-- aiqtoolkit-crewai
-- yy-data-analyzer
-- aiqtoolkit-zep-cloud
-- aiqtoolkit-agno
-- apache-airflow-providers-smtp

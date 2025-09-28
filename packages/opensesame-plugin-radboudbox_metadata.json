@@ -1,0 +1,11 @@
+{
+  "name": "opensesame-plugin-radboudbox",
+  "version": "4.6.0",
+  "summary": "An OpenSesame Plug-in for collecting button responses, audio detection, voice key and sending stimulus synchronization triggers with the Radboud Buttonbox to data acquisition systems",
+  "author": "Bob Rosbag",
+  "license": "LICENSE.md",
+  "home_page": null,
+  "download_filename": "opensesame_plugin_radboudbox-4.6.0.tar.gz",
+  "download_time": "2025-09-28T10:39:40.045812",
+  "package_url": "https://pypi.org/project/opensesame-plugin-radboudbox/"
+}
