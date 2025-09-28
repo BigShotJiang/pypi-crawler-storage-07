@@ -1,0 +1,11 @@
+{
+  "name": "datagrunt",
+  "version": "2.1.2",
+  "summary": "Read CSV files and convert to other file formats easily",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "datagrunt-2.1.2.tar.gz",
+  "download_time": "2025-09-28T03:26:33.109652",
+  "package_url": "https://pypi.org/project/datagrunt/"
+}

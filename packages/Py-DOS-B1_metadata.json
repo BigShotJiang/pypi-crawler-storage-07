@@ -1,11 +1,11 @@
 {
   "name": "Py-DOS-B1",
-  "version": "1.0.4",
-  "summary": "A DOS-like operating system simulator with classic commands",
+  "version": "1.0.5",
+  "summary": "An MS-DoS-like CLI OS made entirely in Python.",
   "author": "Basanta Bhandari",
   "license": null,
   "home_page": null,
-  "download_filename": "py_dos_b1-1.0.4.tar.gz",
-  "download_time": "2025-09-28T02:26:13.220080",
+  "download_filename": "py_dos_b1-1.0.5.tar.gz",
+  "download_time": "2025-09-28T03:26:55.473761",
   "package_url": "https://pypi.org/project/Py-DOS-B1/"
 }

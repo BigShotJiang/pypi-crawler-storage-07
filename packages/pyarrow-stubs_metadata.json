@@ -1,0 +1,11 @@
+{
+  "name": "pyarrow-stubs",
+  "version": "20.0.0.20250928",
+  "summary": "Type annotations for pyarrow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyarrow_stubs-20.0.0.20250928.tar.gz",
+  "download_time": "2025-09-28T03:27:00.171170",
+  "package_url": "https://pypi.org/project/pyarrow-stubs/"
+}

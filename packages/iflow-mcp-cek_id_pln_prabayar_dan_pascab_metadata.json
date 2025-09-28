@@ -1,11 +1,11 @@
 {
   "name": "iflow-mcp-cek_id_pln_prabayar_dan_pascab",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Cek Data Pelanggan PLN",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iflow_mcp_cek_id_pln_prabayar_dan_pascab-0.1.8.tar.gz",
-  "download_time": "2025-09-28T02:26:12.699753",
+  "download_filename": "iflow_mcp_cek_id_pln_prabayar_dan_pascab-0.1.9.tar.gz",
+  "download_time": "2025-09-28T03:27:05.488484",
   "package_url": "https://pypi.org/project/iflow-mcp-cek_id_pln_prabayar_dan_pascab/"
 }

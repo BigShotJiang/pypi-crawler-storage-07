@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-advanced-filters",
+  "version": "0.1.0",
+  "summary": "A filter library for FastAPI with SQLAlchemy support.",
+  "author": "er5bus",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_advanced_filters-0.1.0.tar.gz",
+  "download_time": "2025-09-28T03:27:11.744028",
+  "package_url": "https://pypi.org/project/fastapi-advanced-filters/"
+}

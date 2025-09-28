@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-appwrite",
-  "version": "0.2.2",
+  "version": "0.2.5",
   "summary": "MCP (Model Context Protocol) server for Appwrite",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_server_appwrite-0.2.2.tar.gz",
-  "download_time": "2025-09-28T02:26:18.501823",
+  "download_filename": "mcp_server_appwrite-0.2.5.tar.gz",
+  "download_time": "2025-09-28T03:26:56.201517",
   "package_url": "https://pypi.org/project/mcp-server-appwrite/"
 }

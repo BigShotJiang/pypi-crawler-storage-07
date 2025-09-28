@@ -1,11 +1,11 @@
 {
   "name": "mcp-arduino",
-  "version": "2025.9.27.1",
+  "version": "2025.9.27.3",
   "summary": "FastMCP-powered Arduino CLI server with WireViz integration for circuit diagrams",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_arduino-2025.9.27.1.tar.gz",
-  "download_time": "2025-09-28T02:26:11.654563",
+  "download_filename": "mcp_arduino-2025.9.27.3.tar.gz",
+  "download_time": "2025-09-28T03:26:46.821613",
   "package_url": "https://pypi.org/project/mcp-arduino/"
 }

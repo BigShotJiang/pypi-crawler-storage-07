@@ -1,0 +1,11 @@
+{
+  "name": "gladi",
+  "version": "1.0.0",
+  "summary": "A simple dependency injection library for Python",
+  "author": "cheeze2000",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gladi-1.0.0.tar.gz",
+  "download_time": "2025-09-28T03:27:04.842724",
+  "package_url": "https://pypi.org/project/gladi/"
+}
