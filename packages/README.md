@@ -1,11 +1,26 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T23:33:39.401896
-- **Total Packages**: 74
-- **Total Size**: 1.4 MB
+- **Download Time**: 2025-09-28T23:48:25.000053
+- **Total Packages**: 75
+- **Total Size**: 8.44 MB
 
 ## Packages List
+- datahub-custom-transformers
+- Blinter
+- lunapi
+- claude-agent-sdk
+- ai-security-mcp
+- gguf-connector
+- pds-epitome
+- sportsball
+- authentik-client
+- uutel
+- 8bit-music-lib
+- pumaguard
+- nv-ingest
+- nv-ingest-client
+- nv-ingest-api
 - python-openagent
 - NASADEM
 - checkthat-ai
@@ -15,8 +30,6 @@
 - illumo-flow
 - elbowK
 - codemail
-- sportsball
-- authentik-client
 - pyspark-client
 - pyspark-connect
 - pkglink
@@ -47,7 +60,6 @@
 - larch
 - nevu-ui
 - mybox
-- uutel
 - pyenzyme
 - fastloom
 - wheel-getter
@@ -69,14 +81,3 @@
 - vsec-tls
 - novara
 - py-lite-edu
-- Blinter
-- mlrun
-- ifstate
-- intradev
-- async-kernel
-- dooservice-cli
-- qlever
-- sahi
-- prompture
-- sourcepp
-- sling
