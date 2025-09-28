@@ -1,0 +1,11 @@
+{
+  "name": "shexer",
+  "version": "2.7.0",
+  "summary": "Automatic schema extraction for RDF graphs",
+  "author": "Daniel Fernandez-Alvarez",
+  "license": null,
+  "home_page": "https://github.com/DaniFdezAlvarez/shexer",
+  "download_filename": "shexer-2.7.0.tar.gz",
+  "download_time": "2025-09-28T23:25:11.328304",
+  "package_url": "https://pypi.org/project/shexer/"
+}

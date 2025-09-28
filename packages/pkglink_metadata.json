@@ -1,0 +1,11 @@
+{
+  "name": "pkglink",
+  "version": "0.1.0",
+  "summary": "Create symlinks to python package directories",
+  "author": "hotdog-werx",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pkglink-0.1.0.tar.gz",
+  "download_time": "2025-09-28T23:25:10.207757",
+  "package_url": "https://pypi.org/project/pkglink/"
+}
