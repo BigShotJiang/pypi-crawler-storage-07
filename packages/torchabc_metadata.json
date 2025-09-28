@@ -1,11 +1,11 @@
 {
   "name": "torchabc",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "summary": "A simple abstract class for training and inference in PyTorch.",
   "author": "Emanuele Guidotti",
   "license": "MIT",
   "home_page": "https://github.com/eguidotti/torchabc",
-  "download_filename": "torchabc-0.6.1.tar.gz",
-  "download_time": "2025-09-28T17:08:21.762696",
+  "download_filename": "torchabc-0.6.2.tar.gz",
+  "download_time": "2025-09-28T17:47:49.358410",
   "package_url": "https://pypi.org/project/torchabc/"
 }

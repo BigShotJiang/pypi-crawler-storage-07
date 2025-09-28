@@ -1,11 +1,11 @@
 {
   "name": "midiviz",
-  "version": "1.2",
+  "version": "1.3",
   "summary": "An interactive MIDI visualization tool for Jupyter Notebooks.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "midiviz-1.2.tar.gz",
-  "download_time": "2025-09-28T17:25:36.790255",
+  "download_filename": "midiviz-1.3.tar.gz",
+  "download_time": "2025-09-28T17:47:22.225249",
   "package_url": "https://pypi.org/project/midiviz/"
 }

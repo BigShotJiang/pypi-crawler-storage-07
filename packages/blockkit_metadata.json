@@ -1,11 +1,11 @@
 {
   "name": "blockkit",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "summary": "A fast way to build Block Kit interfaces in Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "blockkit-2.1.1.tar.gz",
-  "download_time": "2025-09-28T17:32:48.838103",
+  "download_filename": "blockkit-2.1.2.tar.gz",
+  "download_time": "2025-09-28T17:47:18.471390",
   "package_url": "https://pypi.org/project/blockkit/"
 }
