@@ -1,0 +1,11 @@
+{
+  "name": "dataprep-ai",
+  "version": "0.1.1",
+  "summary": "One-line data cleaning for pandas/Polars with reports and a reversible patch.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "dataprep_ai-0.1.1.tar.gz",
+  "download_time": "2025-09-28T21:24:43.081215",
+  "package_url": "https://pypi.org/project/dataprep-ai/"
+}

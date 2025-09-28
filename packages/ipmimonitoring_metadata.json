@@ -1,0 +1,11 @@
+{
+  "name": "ipmimonitoring",
+  "version": "0.1.0",
+  "summary": "A python wrapper for libipmimonitoring from freeipmi",
+  "author": "Christer Weinigel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ipmimonitoring-0.1.0.tar.gz",
+  "download_time": "2025-09-28T21:24:38.513821",
+  "package_url": "https://pypi.org/project/ipmimonitoring/"
+}

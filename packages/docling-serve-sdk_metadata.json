@@ -1,0 +1,11 @@
+{
+  "name": "docling-serve-sdk",
+  "version": "1.2.1",
+  "summary": "A Python SDK for interacting with Docling Serve API using Pydantic models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docling_serve_sdk-1.2.1.tar.gz",
+  "download_time": "2025-09-28T21:24:48.835109",
+  "package_url": "https://pypi.org/project/docling-serve-sdk/"
+}

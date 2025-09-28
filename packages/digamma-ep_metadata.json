@@ -1,0 +1,11 @@
+{
+  "name": "digamma-ep",
+  "version": "0.1.0",
+  "summary": "Symbolic audit metrics for model divergence and integrity",
+  "author": "Cerene Rúbio",
+  "license": null,
+  "home_page": "https://github.com/Cerene-Salt/Digamma-Prime-Framework",
+  "download_filename": "digamma_ep-0.1.0.tar.gz",
+  "download_time": "2025-09-28T21:24:49.941785",
+  "package_url": "https://pypi.org/project/digamma-ep/"
+}
