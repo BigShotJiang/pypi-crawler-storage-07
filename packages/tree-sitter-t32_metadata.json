@@ -1,11 +1,11 @@
 {
   "name": "tree-sitter-t32",
-  "version": "6.0.4",
+  "version": "6.0.6",
   "summary": "Lauterbach TRACE32® script language grammar for Tree-sitter",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tree_sitter_t32-6.0.4.tar.gz",
-  "download_time": "2025-09-28T15:09:05.838945",
+  "download_filename": "tree_sitter_t32-6.0.6.tar.gz",
+  "download_time": "2025-09-28T15:25:33.742373",
   "package_url": "https://pypi.org/project/tree-sitter-t32/"
 }

@@ -1,18 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T15:09:51.121815
-- **Total Packages**: 81
-- **Total Size**: 7.32 MB
+- **Download Time**: 2025-09-28T15:26:17.004600
+- **Total Packages**: 80
+- **Total Size**: 9.18 MB
 
 ## Packages List
-- saintess
+- moteus-gui
+- moteus
 - authentik-client
+- foscat
+- byzh-ai
+- qforms
+- tree-sitter-t32
+- Mint-NM
+- replkit2
+- claude-mpm
+- detdevlib-models
+- gitme-cli
+- airweave-sdk
+- streamlit-aggrid
+- spiegeltools
+- mlua
+- package-is-debug
+- parse-pcap
+- e2D
+- fred-oss
+- hla-compass
+- llms-py
+- mathai
+- arithmetipy
+- hyperSIS
+- django-w-blog
+- abov3-ai
+- saintess
 - stratum-ai
 - cocotb-vivado
 - direct-formatting-pandas-ods-reader
-- tree-sitter-t32
-- gitme-cli
 - deltapv
 - osmose-presets
 - openapi-python-generator
@@ -33,7 +57,6 @@
 - programgarden
 - enthusiast-file-parsers
 - sycommon-python-lib
-- e2D
 - wyoming-microsoft-stt
 - biotime
 - robotframework-browser
@@ -63,27 +86,3 @@
 - zk-chat
 - mimimon
 - abstract-webtools
-- pythonic-fp
-- buddybet-i18n
-- energysystemmodels
-- nbcmdio
-- cbrapi
-- liana
-- port-ocean
-- py3Dmol
-- aibox-nlp
-- modelship
-- inferencesh
-- restructuredpython
-- sweetiepy
-- CrossRename
-- hat-gateway
-- leaninit
-- yta-numpy
-- rxn-rdf-converter
-- pyavwx-wrapper
-- faststream
-- lattica
-- kupiapi
-- langfuse
-- sa-tenders

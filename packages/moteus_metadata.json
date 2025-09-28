@@ -1,0 +1,11 @@
+{
+  "name": "moteus",
+  "version": "0.3.92",
+  "summary": "moteus brushless controller library and tools",
+  "author": "mjbots Robotic Systems",
+  "license": null,
+  "home_page": "https://github.com/mjbots/moteus",
+  "download_filename": "moteus-0.3.92.tar.gz",
+  "download_time": "2025-09-28T15:25:30.953442",
+  "package_url": "https://pypi.org/project/moteus/"
+}

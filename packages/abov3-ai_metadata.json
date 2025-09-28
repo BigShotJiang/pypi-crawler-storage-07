@@ -1,11 +1,11 @@
 {
   "name": "abov3-ai",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "Official Python SDK for ABOV3 AI - Genesis CodeForger Edition",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "abov3_ai-0.1.11.tar.gz",
-  "download_time": "2025-09-28T13:47:38.891376",
+  "download_filename": "abov3_ai-0.1.12.tar.gz",
+  "download_time": "2025-09-28T15:25:44.912598",
   "package_url": "https://pypi.org/project/abov3-ai/"
 }
