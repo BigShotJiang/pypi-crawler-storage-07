@@ -1,11 +1,11 @@
 {
   "name": "fastapi-healthz",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "A module to have a FastAPI HealthCheck for database, RabbitMQ server, Redis, MongoDB or external URI to validate their healths.",
   "author": "Matteo Cacciola",
   "license": "MIT",
   "home_page": "https://github.com/matteocacciola/fastapi_healthz",
-  "download_filename": "fastapi_healthz-1.2.2.tar.gz",
-  "download_time": "2025-09-28T15:09:09.384579",
+  "download_filename": "fastapi_healthz-1.2.3.tar.gz",
+  "download_time": "2025-09-28T15:47:57.629082",
   "package_url": "https://pypi.org/project/fastapi-healthz/"
 }
