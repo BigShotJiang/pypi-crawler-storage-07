@@ -1,20 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T03:49:59.272359
-- **Total Packages**: 78
-- **Total Size**: 7.81 MB
+- **Download Time**: 2025-09-28T04:13:05.234833
+- **Total Packages**: 77
+- **Total Size**: 5.91 MB
 
 ## Packages List
+- maven-proxy
+- authentik-client
+- pylitex
+- hyperSIS
+- brokle
+- lightwheel-sdk
+- odoo-addon-web-ir-actions-close-wizard-refresh-view
+- ubox-py-sdk
+- chromedriver-binary
+- neuralcache
+- lightrag-hku
+- mathai
+- aenet-gpr
+- ros2systemd
+- zenx
+- odoo-addon-stock-quant-package-dimension
+- tudata
+- keras-nightly
+- iflow-cli-sdk
+- svc-infra
 - cursus
 - ydl-podcast
 - huibiao-framework
-- hyperSIS
 - undockit
 - django-dynamic-workflows
 - fred-oss
 - hwc-chw-ndarray-conversion
-- mathai
 - em-app
 - zk-chat
 - jinzhupy
@@ -25,11 +43,8 @@
 - fastapi-simple-redis-cache
 - prompture
 - mvo-core
-- svc-infra
-- authentik-client
 - pyLiveKML
 - keras-rs-nightly
-- zenx
 - GANDLF
 - bayesianflow-for-chem
 - sass-embedded
@@ -68,19 +83,3 @@
 - Py-DOS-B1
 - mcp-server-appwrite
 - global-open-sdk-python
-- fastapi-mongo-base
-- univer-use
-- lifespring
-- z8ter
-- pyarrow-stubs
-- hyperquant
-- marketflow
-- MuffinTrack
-- naif-eop-high-prec
-- gladi
-- deepKernel
-- appmesh
-- hytest
-- sapiens-transformers
-- pokercraft-local
-- ansible-vars

@@ -1,0 +1,11 @@
+{
+  "name": "ros2systemd",
+  "version": "0.5.1",
+  "summary": "ROS2 command extension for managing launches and nodes as systemd services",
+  "author": "Jerry Lin",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ros2systemd-0.5.1-py3-none-any.whl",
+  "download_time": "2025-09-28T04:12:28.095119",
+  "package_url": "https://pypi.org/project/ros2systemd/"
+}
