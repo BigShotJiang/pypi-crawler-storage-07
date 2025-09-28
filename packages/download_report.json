@@ -1,14 +1,8 @@
 {
-  "download_time": "2025-09-28T05:39:36.064374",
-  "total_packages_downloaded": 73,
-  "total_size_mb": 7.83,
+  "download_time": "2025-09-28T05:48:16.410428",
+  "total_packages_downloaded": 72,
+  "total_size_mb": 0.25,
   "packages": [
-    "citation-date",
-    "voicegain-speech",
-    "prompture",
-    "authentik-client",
-    "lynecode",
-    "ut-eviq",
     "icol",
     "mplang-nightly",
     "pylay",
@@ -21,6 +15,7 @@
     "eigenpuls",
     "django-routines",
     "aasman",
+    "authentik-client",
     "dexcontrol",
     "claude-mpm",
     "libentry",
@@ -75,6 +70,10 @@
     "bottle-file-cache",
     "bit-counter",
     "recurvedata-lib",
-    "structured-logger-railway"
+    "structured-logger-railway",
+    "fastrpc-py",
+    "uv-dynamic-versioning",
+    "fastapi-simple-redis-cache",
+    "prosemark"
   ]
 }
