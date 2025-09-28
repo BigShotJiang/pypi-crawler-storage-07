@@ -1,0 +1,11 @@
+{
+  "name": "cliify",
+  "version": "0.3.6",
+  "summary": "Package for creating a CLI from classes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cliify-0.3.6.tar.gz",
+  "download_time": "2025-09-28T22:09:38.744787",
+  "package_url": "https://pypi.org/project/cliify/"
+}

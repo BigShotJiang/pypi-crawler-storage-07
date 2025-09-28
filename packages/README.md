@@ -1,13 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T21:48:15.795611
+- **Download Time**: 2025-09-28T22:10:21.389009
 - **Total Packages**: 81
-- **Total Size**: 19.03 MB
+- **Total Size**: 4.93 MB
 
 ## Packages List
-- mrtrix3-agent
+- prosemark
+- dooservice-cli
+- firegex
+- fgex
+- cliify
+- authentik-client
+- referrers
+- ohmyi3
+- VascoCal
+- qt4-doc-mcp-server
+- easier-openai
+- evo-data-converters-omf
+- metis-agent
+- midil-kit
+- graphflow
+- django-nativemojo
+- evo-data-converters-vtk
+- evo-data-converters-ubc
+- evo-data-converters-resqml
+- py-lite-edu
+- meross-iot
+- evo-data-converters-gocad
+- PyMultiHelper
+- Blinter
+- pyddm
+- polymo
+- teds
+- claude-agent-sdk
+- aind-codeocean-pipeline-monitor
+- evo-data-converters-common
+- evo-data-converters-duf
+- mermaid-parser-py
 - ubicoders-vrobots-msgs
+- mkdocs-include-markdown-plugin
+- ass
+- uvicore
+- unisegp
+- mrtrix3-agent
 - mitoomics-gpu
 - ai-security-mcp
 - amino.dorks.fix
@@ -21,8 +57,6 @@
 - pulse-lucide
 - irispie-ce
 - askOmi
-- VascoCal
-- authentik-client
 - qlever
 - vbrpytools
 - documark
@@ -52,38 +86,4 @@
 - lazyslide
 - openbrokerapi
 - py-license-auditor
-- midil-kit
 - docling-serve-sdk
-- scaledown
-- digamma-ep
-- pytest-allure-host
-- dazpycheck
-- architect-ai
-- ghmd
-- bluer-ugv
-- workflowforge
-- osmose-presets
-- beacon-api
-- ayikla
-- litecli
-- biblemate
-- pywr
-- jotsu-mcp
-- toisto
-- ezollama
-- get-unicode-multiline-input-with-editor
-- shareddata
-- gac
-- tencentcloud-sdk-python-waf
-- tencentcloud-sdk-python-tke
-- snowcli-tools
-- tencentcloud-sdk-python-teo
-- tencentcloud-sdk-python-rum
-- tencentcloud-sdk-python-redis
-- tencentcloud-sdk-python-monitor
-- tencentcloud-sdk-python-mongodb
-- tencentcloud-sdk-python-lke
-- eegdash
-- tencentcloud-sdk-python-ioa
-- tencentcloud-sdk-python-essbasic
-- tencentcloud-sdk-python-ess

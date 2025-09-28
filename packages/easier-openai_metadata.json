@@ -1,11 +1,11 @@
 {
   "name": "easier-openai",
-  "version": "0.3.1",
+  "version": "0.3.11",
   "summary": "Utilities for orchestrating OpenAI chat, tool calling, search, audio, and images from one helper package.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "easier_openai-0.3.1.tar.gz",
-  "download_time": "2025-09-28T19:47:52.965926",
+  "download_filename": "easier_openai-0.3.11.tar.gz",
+  "download_time": "2025-09-28T22:09:42.083957",
   "package_url": "https://pypi.org/project/easier-openai/"
 }

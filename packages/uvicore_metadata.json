@@ -1,0 +1,11 @@
+{
+  "name": "uvicore",
+  "version": "0.3.17",
+  "summary": "The Fullstack Async Web, API and CLI Python Framework",
+  "author": "Matthew Reschke",
+  "license": null,
+  "home_page": "https://github.com/uvicore/framework",
+  "download_filename": "uvicore-0.3.17.tar.gz",
+  "download_time": "2025-09-28T22:09:56.960098",
+  "package_url": "https://pypi.org/project/uvicore/"
+}

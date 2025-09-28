@@ -1,0 +1,11 @@
+{
+  "name": "pyddm",
+  "version": "0.9.0",
+  "summary": "Generalized drift diffusion modeling for Python",
+  "author": "Max Shinn, Norman Lam",
+  "license": "MIT",
+  "home_page": "https://github.com/mwshinn/PyDDM",
+  "download_filename": "pyddm-0.9.0.tar.gz",
+  "download_time": "2025-09-28T22:09:50.208942",
+  "package_url": "https://pypi.org/project/pyddm/"
+}

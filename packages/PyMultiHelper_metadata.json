@@ -1,0 +1,11 @@
+{
+  "name": "PyMultiHelper",
+  "version": "1.1.20",
+  "summary": "Several common helpers for Python coding",
+  "author": "Anderson",
+  "license": null,
+  "home_page": "https://github.com/anderbytes/PyMultiHelper",
+  "download_filename": "pymultihelper-1.1.20.tar.gz",
+  "download_time": "2025-09-28T22:09:49.044289",
+  "package_url": "https://pypi.org/project/PyMultiHelper/"
+}

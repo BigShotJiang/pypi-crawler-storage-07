@@ -1,0 +1,11 @@
+{
+  "name": "ohmyi3",
+  "version": "0.1.8",
+  "summary": "Dynamic i3 Configuration Manager",
+  "author": "Matthew Reschke",
+  "license": null,
+  "home_page": "https://github.com/ohmyi3/ohmyi3",
+  "download_filename": "ohmyi3-0.1.8.tar.gz",
+  "download_time": "2025-09-28T22:09:40.343676",
+  "package_url": "https://pypi.org/project/ohmyi3/"
+}

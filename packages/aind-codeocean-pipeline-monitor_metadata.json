@@ -1,0 +1,11 @@
+{
+  "name": "aind-codeocean-pipeline-monitor",
+  "version": "0.10.1",
+  "summary": "Package to define and run a Code Ocean Pipeline Monitor Job",
+  "author": "Allen Institute for Neural Dynamics",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aind_codeocean_pipeline_monitor-0.10.1.tar.gz",
+  "download_time": "2025-09-28T22:09:53.054258",
+  "package_url": "https://pypi.org/project/aind-codeocean-pipeline-monitor/"
+}
