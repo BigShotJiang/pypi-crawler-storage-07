@@ -1,21 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T06:39:42.692258
-- **Total Packages**: 82
-- **Total Size**: 21.42 MB
+- **Download Time**: 2025-09-28T06:51:24.471830
+- **Total Packages**: 84
+- **Total Size**: 2.21 MB
 
 ## Packages List
+- citation-utils
+- pyfwg
+- rcabench-platform
+- smartutils-py
+- pulumi-mongodbatlas
+- mail-pigeon
+- codex-client
+- xtlog
+- pylitex
+- eigenpuls
+- ai-edge-litert-sdk-mediatek-nightly
+- ai-edge-litert-sdk-qualcomm-nightly
+- authentik-client
+- ab-test-fixtures
+- dolze-templates
+- siglab-py
+- kxy-framework
 - baseline-checker
 - datamodel-code-generator
-- kxy-framework
 - citation-report
 - pywheels
 - frogml-cli
 - robhan-cdk-lib.aws-grafana
 - mikit-learn
 - robhan-cdk-lib.aws-aps
-- eigenpuls
 - notes-mcp
 - cheb3
 - pretix-cashfree
@@ -27,7 +42,6 @@
 - pixcompress-ruskaruma
 - CSVtoTableNameless
 - ntust-courses
-- authentik-client
 - pulumi-kafka
 - tongWnB
 - ab-database
@@ -76,15 +90,3 @@
 - cdp-ninja
 - deepKernel
 - pymosquitto
-- jupyter-openwebui
-- fashionstar-uart-sdk
-- pulumi-consul
-- mlua
-- pretix-homepage
-- mystmd
-- pulumi-confluentcloud
-- aasman
-- heysol-api-client
-- shell-lib
-- prompture
-- akshare
