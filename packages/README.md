@@ -1,11 +1,22 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-28T17:26:07.949469
-- **Total Packages**: 83
-- **Total Size**: 6.45 MB
+- **Download Time**: 2025-09-28T17:33:32.530133
+- **Total Packages**: 85
+- **Total Size**: 3.2 MB
 
 ## Packages List
+- unstar
+- blockkit
+- selective-json-parser
+- polarmints
+- gac
+- gammarers.aws-secure-log-bucket
+- chbe444umd
+- ohmyapi
+- laketower
+- llms-py
+- sportsball
 - intentkit
 - authentik-client
 - grooveshop-django-api
@@ -16,7 +27,6 @@
 - blacksheep
 - alibabacloud-ens20171110
 - alibabacloud-ehpcinstant20230701
-- blockkit
 - jotsu-mcp
 - installer-ml
 - windows-snake-game
@@ -43,7 +53,6 @@
 - frost-forge
 - audio-metatag
 - acb
-- sportsball
 - mongodb-odm
 - streamflow-postgresql
 - torchabc
@@ -67,7 +76,6 @@
 - memorecall
 - pypeertube
 - aiida-workgraph
-- selective-json-parser
 - my-datetime-library-manus
 - my-datetime-library
 - edit-distance
@@ -83,9 +91,3 @@
 - database-comparator
 - speedy-utils
 - oarepo-runtime
-- lukhed-sports
-- sapiopycommons
-- narvi
-- wukong-stack
-- mtcli-atr
-- hyrrokkin
