@@ -1,11 +1,11 @@
 {
   "name": "Mint-NM",
-  "version": "0.1.23",
+  "version": "0.1.24",
   "summary": "A Jupyter widgets for solving",
   "author": "Joel",
   "license": "CC-BY-4.0",
   "home_page": "https://github.com/mwelland/themintlab/Mint_NM",
-  "download_filename": "mint_nm-0.1.23.tar.gz",
-  "download_time": "2025-09-28T18:12:32.989495",
+  "download_filename": "mint_nm-0.1.24.tar.gz",
+  "download_time": "2025-09-28T18:35:35.729322",
   "package_url": "https://pypi.org/project/Mint-NM/"
 }

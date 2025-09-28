@@ -1,11 +1,11 @@
 {
   "name": "easyascii-py",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "A simple, zero-dependency library for creating ASCII art and console UIs.",
   "author": "Matttz",
   "license": null,
   "home_page": "https://github.com/Matt-The-Generico/easyascii",
-  "download_filename": "easyascii_py-1.0.2.tar.gz",
-  "download_time": "2025-09-28T18:12:37.819305",
+  "download_filename": "easyascii_py-1.0.3.tar.gz",
+  "download_time": "2025-09-28T18:35:30.013869",
   "package_url": "https://pypi.org/project/easyascii-py/"
 }

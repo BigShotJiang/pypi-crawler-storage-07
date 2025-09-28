@@ -1,0 +1,11 @@
+{
+  "name": "termtap",
+  "version": "0.10.0",
+  "summary": "Process-native tmux session manager with MCP support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "termtap-0.10.0.tar.gz",
+  "download_time": "2025-09-28T18:35:20.158783",
+  "package_url": "https://pypi.org/project/termtap/"
+}
