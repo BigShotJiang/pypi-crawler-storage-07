@@ -1,0 +1,11 @@
+{
+  "name": "agentium",
+  "version": "1.0.0",
+  "summary": "A comprehensive toolkit for AI agent development and workflow orchestration",
+  "author": "Sanjay N",
+  "license": null,
+  "home_page": "https://github.com/RNSsanjay/Agentium-Python-Library",
+  "download_filename": "agentium-1.0.0.tar.gz",
+  "download_time": "2025-09-29T06:18:05.384350",
+  "package_url": "https://pypi.org/project/agentium/"
+}
