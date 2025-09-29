@@ -1,11 +1,11 @@
 {
   "name": "django-codenerix-email",
-  "version": "4.0.31",
+  "version": "4.0.32",
   "summary": "Codenerix Email is a module that enables CODENERIX to set send emails in a general manner.",
   "author": "Juan Miguel Taboada Godoy <juanmi@juanmitaboada.com>, Juan Soler Ruiz <soleronline@gmail.com>",
   "license": "Apache License Version 2.0",
   "home_page": "https://github.com/codenerix/django-codenerix-email",
-  "download_filename": "django_codenerix_email-4.0.31.tar.gz",
-  "download_time": "2025-09-29T06:49:44.233982",
+  "download_filename": "django_codenerix_email-4.0.32.tar.gz",
+  "download_time": "2025-09-29T07:12:23.536389",
   "package_url": "https://pypi.org/project/django-codenerix-email/"
 }

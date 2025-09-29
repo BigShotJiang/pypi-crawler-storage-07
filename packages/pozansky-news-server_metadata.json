@@ -1,11 +1,11 @@
 {
   "name": "pozansky-news-server",
-  "version": "0.3.0",
-  "summary": "MCP server for news services with RSS feed support",
+  "version": "1.6.0",
+  "summary": "news-server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pozansky_news_server-0.3.0.tar.gz",
-  "download_time": "2025-09-28T14:08:29.734863",
+  "download_filename": "pozansky_news_server-1.6.0-py3-none-any.whl",
+  "download_time": "2025-09-29T07:12:09.695898",
   "package_url": "https://pypi.org/project/pozansky-news-server/"
 }

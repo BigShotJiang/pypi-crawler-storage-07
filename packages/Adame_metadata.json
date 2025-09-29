@@ -1,11 +1,11 @@
 {
   "name": "Adame",
-  "version": "1.2.59",
+  "version": "1.2.60",
   "summary": "Adame is a tool to manage docker-applications as part in a Linux-environment.",
   "author": "Marius Göcke",
   "license": null,
   "home_page": "https://github.com/anionDev/Adame",
-  "download_filename": "adame-1.2.59-py3-none-any.whl",
-  "download_time": "2025-09-28T12:17:31.019294",
+  "download_filename": "adame-1.2.60-py3-none-any.whl",
+  "download_time": "2025-09-29T07:12:29.167685",
   "package_url": "https://pypi.org/project/Adame/"
 }

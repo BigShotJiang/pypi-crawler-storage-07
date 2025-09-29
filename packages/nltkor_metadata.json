@@ -1,0 +1,11 @@
+{
+  "name": "nltkor",
+  "version": "1.2.24",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": "https://modi.changwon.ac.kr/air_cwnu/nlp_tool/nltk_ko.git",
+  "download_filename": "nltkor-1.2.24.tar.gz",
+  "download_time": "2025-09-29T07:12:14.811492",
+  "package_url": "https://pypi.org/project/nltkor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scm-python-deploy-ium",
+  "version": "0.1.0",
+  "summary": "An deploy ium plugin Python project to use cli manage it",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scm_python_deploy_ium-0.1.0.tar.gz",
+  "download_time": "2025-09-29T07:12:11.741202",
+  "package_url": "https://pypi.org/project/scm-python-deploy-ium/"
+}

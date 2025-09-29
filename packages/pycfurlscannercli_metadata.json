@@ -1,0 +1,11 @@
+{
+  "name": "pycfurlscannercli",
+  "version": "1.2",
+  "summary": "A simple Python script to interact with Cloudflare Radar URL scanner APIs from CLI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycfurlscannercli-1.2.tar.gz",
+  "download_time": "2025-09-29T07:12:14.298940",
+  "package_url": "https://pypi.org/project/pycfurlscannercli/"
+}

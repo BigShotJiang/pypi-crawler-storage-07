@@ -1,11 +1,11 @@
 {
   "name": "django-w-blog",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A reusable blog app powered by Python, Django, DRF, Wagtail CMS, TailwindCSS and DaisyUI.",
   "author": "Yousef Abu Shanab",
   "license": "MIT",
   "home_page": "https://github.com/youzarsiph/django-w-blog",
-  "download_filename": "django_w_blog-0.2.1.tar.gz",
-  "download_time": "2025-09-28T15:25:44.354979",
+  "download_filename": "django_w_blog-0.2.2.tar.gz",
+  "download_time": "2025-09-29T07:12:22.505093",
   "package_url": "https://pypi.org/project/django-w-blog/"
 }
