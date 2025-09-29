@@ -1,0 +1,11 @@
+{
+  "name": "pystorz",
+  "version": "0.5.1",
+  "summary": "Python package for the Storz object store framework.",
+  "author": "wazofski",
+  "license": null,
+  "home_page": "https://github.com/wazofski/pystorz",
+  "download_filename": "pystorz-0.5.1.tar.gz",
+  "download_time": "2025-09-29T17:11:36.001324",
+  "package_url": "https://pypi.org/project/pystorz/"
+}

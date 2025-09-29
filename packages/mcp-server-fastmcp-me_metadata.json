@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-fastmcp-me",
+  "version": "0.1.11",
+  "summary": "Twitter search tool for FastMCP using Tweepy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_fastmcp_me-0.1.11.tar.gz",
+  "download_time": "2025-09-29T17:11:39.338016",
+  "package_url": "https://pypi.org/project/mcp-server-fastmcp-me/"
+}

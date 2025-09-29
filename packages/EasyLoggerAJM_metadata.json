@@ -1,11 +1,11 @@
 {
   "name": "EasyLoggerAJM",
-  "version": "1.9.6",
+  "version": "1.9.6.1",
   "summary": "logger with already set up generalized file handlers",
   "author": "Amcsparron",
   "license": "MIT License",
   "home_page": "https://github.com/amcsparron2793-Water/EasyLoggerAJM",
-  "download_filename": "easyloggerajm-1.9.6.tar.gz",
-  "download_time": "2025-09-29T16:38:14.238309",
+  "download_filename": "easyloggerajm-1.9.6.1.tar.gz",
+  "download_time": "2025-09-29T17:10:48.749751",
   "package_url": "https://pypi.org/project/EasyLoggerAJM/"
 }

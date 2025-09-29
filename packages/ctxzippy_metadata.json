@@ -1,0 +1,11 @@
+{
+  "name": "ctxzippy",
+  "version": "0.1.0",
+  "summary": "A Python library for compacting large tool-call results in conversation histories",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ctxzippy-0.1.0.tar.gz",
+  "download_time": "2025-09-29T17:11:24.137450",
+  "package_url": "https://pypi.org/project/ctxzippy/"
+}
