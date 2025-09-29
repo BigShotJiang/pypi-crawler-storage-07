@@ -1,0 +1,11 @@
+{
+  "name": "veyra",
+  "version": "0.1.1",
+  "summary": "A modern programming language for web development and rapid prototyping",
+  "author": "Nishal",
+  "license": null,
+  "home_page": "https://github.com/nishal21/veyra",
+  "download_filename": "veyra-0.1.1.tar.gz",
+  "download_time": "2025-09-29T09:53:58.387341",
+  "package_url": "https://pypi.org/project/veyra/"
+}

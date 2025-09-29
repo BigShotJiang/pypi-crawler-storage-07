@@ -1,0 +1,11 @@
+{
+  "name": "kameleoon-client-python",
+  "version": "3.16.1",
+  "summary": "Kameleoon Client Python Software Development Kit.",
+  "author": "Kameleoon",
+  "license": "GPLv3",
+  "home_page": "https://developers.kameleoon.com/python-sdk.html",
+  "download_filename": "kameleoon-client-python-3.16.1.tar.gz",
+  "download_time": "2025-09-29T09:53:59.040607",
+  "package_url": "https://pypi.org/project/kameleoon-client-python/"
+}

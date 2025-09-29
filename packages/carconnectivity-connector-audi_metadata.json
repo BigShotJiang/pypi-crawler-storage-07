@@ -1,11 +1,11 @@
 {
   "name": "carconnectivity-connector-audi",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "CarConnectivity connector for Audi services - integrates with Till Steinbach's CarConnectivity framework",
   "author": "Achim Fischer based on work of Till Steinbach",
   "license": null,
   "home_page": null,
-  "download_filename": "carconnectivity_connector_audi-0.1.3.tar.gz",
-  "download_time": "2025-09-28T16:11:18.423550",
+  "download_filename": "carconnectivity_connector_audi-0.1.4.tar.gz",
+  "download_time": "2025-09-29T09:54:33.067053",
   "package_url": "https://pypi.org/project/carconnectivity-connector-audi/"
 }

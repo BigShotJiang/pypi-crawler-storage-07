@@ -1,0 +1,11 @@
+{
+  "name": "system-calls",
+  "version": "6.17.0",
+  "summary": "Python module to check for system call number/name andavailability",
+  "author": "Marcin Juszkiewicz",
+  "license": null,
+  "home_page": "https://github.com/hrw/syscalls-table",
+  "download_filename": "system_calls-6.17.0.tar.gz",
+  "download_time": "2025-09-29T09:53:57.240206",
+  "package_url": "https://pypi.org/project/system-calls/"
+}

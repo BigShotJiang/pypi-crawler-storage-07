@@ -1,0 +1,11 @@
+{
+  "name": "ga4-analytics-processor",
+  "version": "0.2.0",
+  "summary": "A Python library for processing Google Analytics 4 data",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/ga4-analytics-processor",
+  "download_filename": "ga4_analytics_processor-0.2.0.tar.gz",
+  "download_time": "2025-09-29T09:54:15.368578",
+  "package_url": "https://pypi.org/project/ga4-analytics-processor/"
+}
