@@ -1,0 +1,11 @@
+{
+  "name": "microforge",
+  "version": "2.0.1",
+  "summary": "AI-enhanced Python microservice platform with intelligent code generation",
+  "author": "Microforge Team",
+  "license": "MIT",
+  "home_page": "https://github.com/inviz-search/microforge-ai",
+  "download_filename": "microforge-2.0.1.tar.gz",
+  "download_time": "2025-09-29T20:29:03.231035",
+  "package_url": "https://pypi.org/project/microforge/"
+}

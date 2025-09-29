@@ -1,11 +1,11 @@
 {
   "name": "scalable-pypeline",
-  "version": "2.1.25",
+  "version": "2.1.26",
   "summary": "PypeLine - Python pipelines for the Real World",
   "author": "Bravos Power Corporation",
   "license": "Apache License 2.0",
   "home_page": "https://gitlab.com/bravos2/pypeline",
-  "download_filename": "scalable-pypeline-2.1.25.tar.gz",
-  "download_time": "2025-09-29T18:43:10.305206",
+  "download_filename": "scalable-pypeline-2.1.26.tar.gz",
+  "download_time": "2025-09-29T20:29:15.185496",
   "package_url": "https://pypi.org/project/scalable-pypeline/"
 }

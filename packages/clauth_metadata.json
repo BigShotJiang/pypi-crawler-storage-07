@@ -1,11 +1,11 @@
 {
   "name": "clauth",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Streamlined AWS Bedrock setup for Claude Code - automated SSO, model discovery, and environment configuration",
   "author": "Mahmood Khordoo",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "clauth-0.1.4.tar.gz",
-  "download_time": "2025-09-29T19:31:45.380596",
+  "download_filename": "clauth-0.1.5.tar.gz",
+  "download_time": "2025-09-29T20:29:11.049112",
   "package_url": "https://pypi.org/project/clauth/"
 }

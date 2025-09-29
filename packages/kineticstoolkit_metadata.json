@@ -1,0 +1,11 @@
+{
+  "name": "kineticstoolkit",
+  "version": "0.17.0",
+  "summary": "An Open-Source Python Package to Facilitate Research in Biomechanics.",
+  "author": "Félix Chénier",
+  "license": "Apache",
+  "home_page": "https://kineticstoolkit.uqam.ca",
+  "download_filename": "kineticstoolkit-0.17.0.tar.gz",
+  "download_time": "2025-09-29T20:29:13.639044",
+  "package_url": "https://pypi.org/project/kineticstoolkit/"
+}
