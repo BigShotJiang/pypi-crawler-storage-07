@@ -1,11 +1,11 @@
 {
   "name": "clinkey-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A command-line tool for generating strong passwords and secret keys.",
-  "author": "Clinkey",
+  "author": "Dimitri Gaggioli",
   "license": null,
   "home_page": null,
-  "download_filename": "clinkey_cli-1.0.0.tar.gz",
-  "download_time": "2025-09-27T21:47:44.371787",
+  "download_filename": "clinkey_cli-1.0.1.tar.gz",
+  "download_time": "2025-09-29T10:12:37.631000",
   "package_url": "https://pypi.org/project/clinkey-cli/"
 }

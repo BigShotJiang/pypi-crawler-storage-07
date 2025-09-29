@@ -1,11 +1,11 @@
 {
   "name": "graphrag_sdk",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "Enables graph-based RAG and integration with LLMs for advanced querying and knowledge graph creation.",
   "author": "FalkorDB",
   "license": "MIT",
   "home_page": "http://RAG-SDK.readthedocs.io",
-  "download_filename": "graphrag_sdk-0.8.0.tar.gz",
-  "download_time": "2025-09-29T09:53:57.751320",
+  "download_filename": "graphrag_sdk-0.8.1.tar.gz",
+  "download_time": "2025-09-29T10:13:09.423733",
   "package_url": "https://pypi.org/project/graphrag_sdk/"
 }

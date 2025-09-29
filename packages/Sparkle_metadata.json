@@ -1,0 +1,11 @@
+{
+  "name": "Sparkle",
+  "version": "0.9.5",
+  "summary": "Sparkle is a Programming by Optimisation (PbO)-based problem-solving platform designed to enable the widespread and effective use of PbO techniques for improving the state-of-the-art in solving a broad range of prominent AI problems, including SAT and AI Planning.",
+  "author": "Thijs Snelleman",
+  "license": null,
+  "home_page": "https://github.com/ADA-research/Sparkle",
+  "download_filename": "sparkle-0.9.5.tar.gz",
+  "download_time": "2025-09-29T10:12:22.452948",
+  "package_url": "https://pypi.org/project/Sparkle/"
+}

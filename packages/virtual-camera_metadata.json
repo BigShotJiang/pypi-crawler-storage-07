@@ -1,0 +1,11 @@
+{
+  "name": "virtual-camera",
+  "version": "1.0.3",
+  "summary": "Virtual Camera",
+  "author": "AlphaLFC",
+  "license": null,
+  "home_page": "https://github.com/AlphaLFC/virtual_camera",
+  "download_filename": "virtual_camera-1.0.3.tar.gz",
+  "download_time": "2025-09-29T10:13:01.579932",
+  "package_url": "https://pypi.org/project/virtual-camera/"
+}

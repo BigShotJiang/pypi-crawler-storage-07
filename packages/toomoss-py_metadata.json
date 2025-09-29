@@ -1,11 +1,11 @@
 {
   "name": "toomoss-py",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Python Wrapper for Toomoss USB",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "toomoss_py-0.1.1.tar.gz",
-  "download_time": "2025-09-29T05:47:59.919219",
+  "download_filename": "toomoss_py-0.1.2.tar.gz",
+  "download_time": "2025-09-29T10:13:07.879258",
   "package_url": "https://pypi.org/project/toomoss-py/"
 }

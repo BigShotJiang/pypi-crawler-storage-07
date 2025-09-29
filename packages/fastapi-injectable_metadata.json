@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-injectable",
+  "version": "1.4.0",
+  "summary": "Allow you to painlessly use dependency injection mechanism (`Depends`) of FastAPI outside the FastAPI routes",
+  "author": "Jasper Sui",
+  "license": "MIT",
+  "home_page": "https://github.com/JasperSui/fastapi-injectable",
+  "download_filename": "fastapi_injectable-1.4.0.tar.gz",
+  "download_time": "2025-09-29T10:12:21.918756",
+  "package_url": "https://pypi.org/project/fastapi-injectable/"
+}
