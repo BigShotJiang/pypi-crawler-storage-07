@@ -1,0 +1,11 @@
+{
+  "name": "dexmotion",
+  "version": "0.3.1",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dexmotion-0.3.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-09-29T23:47:31.978955",
+  "package_url": "https://pypi.org/project/dexmotion/"
+}

@@ -1,14 +1,41 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-29T23:34:27.168650
-- **Total Packages**: 82
-- **Total Size**: 2.94 MB
+- **Download Time**: 2025-09-29T23:48:09.393703
+- **Total Packages**: 78
+- **Total Size**: 12.82 MB
 
 ## Packages List
+- kuroboros
+- ros-cdk-fc3
+- flex-evals
+- airefinery-sdk
+- eth-ape
+- gensyn-genrl
+- ros-cdk-slb
+- dextop
+- aind-metadata-service-client
+- aind-metadata-service-async-client
+- prevectorchunks-web
+- whatsplay
+- ros-cdk-kafka
+- digamma-ep
+- flake8-only-english
+- syft-hub
+- dexmotion
+- ros-cdk-oos
+- prevectorchunks-core
+- graphiti-core
+- authentik-client
+- bigframes
+- ros-cdk-oss
+- genie-git
+- base-loom-server
+- nv-ingest
+- nv-ingest-client
+- nv-ingest-api
 - landingai-ade
 - ros-cdk-ens
-- flake8-no-english
 - ECOv002-granules
 - mcp-server-things
 - onql-client
@@ -23,7 +50,6 @@
 - tedit
 - agent-framework-lab
 - vhs
-- authentik-client
 - ros-cdk-acm
 - MAVez
 - arize
@@ -40,8 +66,8 @@
 - chembl-miner
 - mozo
 - spinachlangapi
+- pandas
 - vellum-workflow-server
-- kuroboros
 - ros-cdk-datahub
 - core-auth
 - aws-parallelcluster
@@ -58,33 +84,3 @@
 - RanaGPT
 - copyparty
 - rds-proxy-password-rotation
-- dbt-gizmosql
-- sharepointlib
-- ros-cdk-dms
-- dev-tools-eagle
-- sideload-obengine-dev-bin-68db1141d0ea881f408fb32e-p0
-- increase
-- couchbase
-- simplevfx
-- ros-cdk-dbs
-- vellum-ai
-- sideload-obengine-dev-bin-68db10f9d0ea881f408fb2e8-p0
-- flwr-nightly
-- SnoParallel
-- dbt-tests-adapter
-- cecil
-- sideload-obengine-dev-bin-68db106743b1c97be954bf36-p0
-- airbyte
-- ros-cdk-cloudsiem
-- aenet-gpr
-- pyghost
-- arcade-mcp-server
-- arcade-serve
-- arcade-core
-- arcade-mcp
-- arcade-tdk
-- astodojo
-- hyperate
-- agatha-protobuf
-- ros-cdk-paidatasetacc
-- promptrek

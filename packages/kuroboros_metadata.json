@@ -1,11 +1,11 @@
 {
   "name": "kuroboros",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A kubernetes operator framework",
   "author": "Juan Edwards",
   "license": null,
   "home_page": null,
-  "download_filename": "kuroboros-1.0.1.tar.gz",
-  "download_time": "2025-09-29T23:26:25.413781",
+  "download_filename": "kuroboros-1.0.2.tar.gz",
+  "download_time": "2025-09-29T23:47:23.170418",
   "package_url": "https://pypi.org/project/kuroboros/"
 }
