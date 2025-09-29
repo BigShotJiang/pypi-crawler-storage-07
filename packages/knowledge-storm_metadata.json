@@ -1,0 +1,11 @@
+{
+  "name": "knowledge-storm",
+  "version": "1.1.1",
+  "summary": "STORM: A language model-powered knowledge curation engine.",
+  "author": "Yijia Shao, Yucheng Jiang",
+  "license": "MIT License",
+  "home_page": "https://github.com/stanford-oval/storm",
+  "download_filename": "knowledge_storm-1.1.1.tar.gz",
+  "download_time": "2025-09-29T22:48:34.271736",
+  "package_url": "https://pypi.org/project/knowledge-storm/"
+}

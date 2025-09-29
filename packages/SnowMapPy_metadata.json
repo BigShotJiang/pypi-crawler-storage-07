@@ -1,0 +1,11 @@
+{
+  "name": "SnowMapPy",
+  "version": "1.0.4",
+  "summary": "A comprehensive Python package for processing MODIS NDSI data from local files and Google Earth Engine",
+  "author": "Haytam Elyoussfi",
+  "license": "MIT",
+  "home_page": "https://github.com/haytamelyo/SnowMapPy",
+  "download_filename": "snowmappy-1.0.4.tar.gz",
+  "download_time": "2025-09-29T22:48:27.514332",
+  "package_url": "https://pypi.org/project/SnowMapPy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "lumibot",
-  "version": "4.0.18",
+  "version": "4.0.19",
   "summary": "Backtesting and Trading Library, Made by Lumiwealth",
   "author": "Robert Grzesik",
   "license": "MIT",
   "home_page": "https://github.com/Lumiwealth/lumibot",
-  "download_filename": "lumibot-4.0.18.tar.gz",
-  "download_time": "2025-09-29T06:50:15.494154",
+  "download_filename": "lumibot-4.0.19.tar.gz",
+  "download_time": "2025-09-29T22:48:36.332093",
   "package_url": "https://pypi.org/project/lumibot/"
 }

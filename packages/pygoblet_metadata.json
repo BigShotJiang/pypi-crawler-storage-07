@@ -1,0 +1,11 @@
+{
+  "name": "pygoblet",
+  "version": "0.1.0",
+  "summary": "A Python Global Optimization Benchmarking Library for Evaluation and Testing (pyGOBLET).",
+  "author": "Byron Selvage",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pygoblet-0.1.0.tar.gz",
+  "download_time": "2025-09-29T22:48:24.381839",
+  "package_url": "https://pypi.org/project/pygoblet/"
+}
