@@ -1,0 +1,11 @@
+{
+  "name": "nidaqmx",
+  "version": "1.2.0",
+  "summary": "NI-DAQmx Python API",
+  "author": "NI",
+  "license": "MIT",
+  "home_page": "https://github.com/ni/nidaqmx-python",
+  "download_filename": "nidaqmx-1.2.0.tar.gz",
+  "download_time": "2025-09-29T22:26:49.854299",
+  "package_url": "https://pypi.org/project/nidaqmx/"
+}

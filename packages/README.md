@@ -1,11 +1,23 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-29T22:21:48.423388
-- **Total Packages**: 87
-- **Total Size**: 36.0 MB
+- **Download Time**: 2025-09-29T22:27:39.879689
+- **Total Packages**: 86
+- **Total Size**: 1.66 MB
 
 ## Packages List
+- ros-cdk-datalakeformation
+- scout-mcp-local
+- nidaqmx
+- effect-form-validators
+- authentik-client
+- fluid-labels
+- alt-text-llm
+- ros-cdk-elasticsearchserverless
+- indexify
+- sqlmesh
+- lt-tensor
+- vellum-workflow-server
 - aiq-platform-api
 - ros-cdk-cddc
 - v440
@@ -18,7 +30,6 @@
 - ros-cdk-paidswapi
 - utn-fra
 - pycontrails
-- lt-tensor
 - deadline-cloud-for-maya
 - maleo-middlewares
 - wipac-dev-tools
@@ -48,7 +59,6 @@
 - regula-documentreader-webclient
 - odoo14-addon-purchase-request
 - onesecondtrader
-- authentik-client
 - universal-pathlib
 - ros-cdk-vpc
 - tai-jaix
@@ -77,19 +87,8 @@
 - agatha-protobuf
 - llm-chat-term
 - timbal
-- sideload-obengine-dev-bin-68db009243b1c97be954b26b-p0
 - co-datascientist
-- sideload-obengine-dev-bin-68db008eae596e708f006b9f-p0
 - judgeval
 - geek-cafe-services
 - pulumi-gitlab
 - ros-cdk-threatdetection
-- byu_pytest_utils
-- cc-clients-python-lib
-- llama-index-llms-bedrock-converse
-- coq-tools
-- xnlinkfinder
-- cfbd
-- edhrec-mcp
-- cdxcore
-- pyqrackising
