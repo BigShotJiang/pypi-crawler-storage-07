@@ -1,11 +1,11 @@
 {
   "name": "appmesh",
-  "version": "1.6.7",
+  "version": "1.6.8",
   "summary": "Client SDK for App Mesh",
   "author": "laoshanxi",
   "license": "MIT",
   "home_page": "https://github.com/laoshanxi/app-mesh",
-  "download_filename": "appmesh-1.6.7-py3-none-any.whl",
-  "download_time": "2025-09-28T03:27:06.717392",
+  "download_filename": "appmesh-1.6.8-py3-none-any.whl",
+  "download_time": "2025-09-29T11:33:02.947323",
   "package_url": "https://pypi.org/project/appmesh/"
 }
