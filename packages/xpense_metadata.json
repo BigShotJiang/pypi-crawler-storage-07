@@ -1,11 +1,11 @@
 {
   "name": "xpense",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "A beautiful CLI expense and income tracker",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xpense-0.2.3.tar.gz",
-  "download_time": "2025-09-29T20:12:35.044163",
+  "download_filename": "xpense-0.2.4.tar.gz",
+  "download_time": "2025-09-29T21:09:53.096553",
   "package_url": "https://pypi.org/project/xpense/"
 }

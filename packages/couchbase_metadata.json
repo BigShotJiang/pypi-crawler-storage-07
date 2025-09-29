@@ -1,0 +1,11 @@
+{
+  "name": "couchbase",
+  "version": "4.4.1",
+  "summary": "Python Client for Couchbase",
+  "author": "Couchbase, Inc.",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/couchbase/couchbase-python-client",
+  "download_filename": "couchbase-4.4.1.tar.gz",
+  "download_time": "2025-09-29T21:09:28.285197",
+  "package_url": "https://pypi.org/project/couchbase/"
+}

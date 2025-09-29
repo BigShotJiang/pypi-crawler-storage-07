@@ -1,11 +1,11 @@
 {
   "name": "clud",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "summary": "Claude in a Docker Box",
   "author": null,
   "license": "BSD 3-Clause License",
   "home_page": null,
-  "download_filename": "clud-1.0.10-py3-none-any.whl",
-  "download_time": "2025-09-29T20:37:53.661645",
+  "download_filename": "clud-1.0.11-py3-none-any.whl",
+  "download_time": "2025-09-29T21:09:20.392004",
   "package_url": "https://pypi.org/project/clud/"
 }

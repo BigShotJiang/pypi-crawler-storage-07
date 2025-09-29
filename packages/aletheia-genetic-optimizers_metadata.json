@@ -1,0 +1,11 @@
+{
+  "name": "aletheia-genetic-optimizers",
+  "version": "2.2.1",
+  "summary": "Librería para soluciones de algoritmos genéticos de optimización",
+  "author": "Aletheia_corp",
+  "license": null,
+  "home_page": "https://github.com/aletheIA-Corp/aletheia_genetic_optimizers",
+  "download_filename": "aletheia_genetic_optimizers-2.2.1.tar.gz",
+  "download_time": "2025-09-29T21:09:54.140605",
+  "package_url": "https://pypi.org/project/aletheia-genetic-optimizers/"
+}

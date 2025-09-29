@@ -1,0 +1,11 @@
+{
+  "name": "dragonfly-iesve",
+  "version": "0.2.4",
+  "summary": "Dragonfly extension for export to IES-VE GEM file format",
+  "author": "Ladybug Tools",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/ladybug-tools/dragonfly-iesve",
+  "download_filename": "dragonfly_iesve-0.2.4.tar.gz",
+  "download_time": "2025-09-29T21:09:55.704838",
+  "package_url": "https://pypi.org/project/dragonfly-iesve/"
+}
