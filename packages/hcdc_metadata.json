@@ -1,0 +1,11 @@
+{
+  "name": "hcdc",
+  "version": "0.2.2",
+  "summary": "Detect unwanted characters in images inside the Open Telekom Cloud helpcenter",
+  "author": "Open Telekom Cloud",
+  "license": null,
+  "home_page": "https://open.telekom.cloud/",
+  "download_filename": "hcdc-0.2.2-py3-none-any.whl",
+  "download_time": "2025-09-29T11:27:01.393145",
+  "package_url": "https://pypi.org/project/hcdc/"
+}

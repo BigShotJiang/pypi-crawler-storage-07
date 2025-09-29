@@ -1,0 +1,11 @@
+{
+  "name": "djhtmx",
+  "version": "1.2.0",
+  "summary": "Interactive UI Components for Django using HTMX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "djhtmx-1.2.0.tar.gz",
+  "download_time": "2025-09-29T11:27:02.932274",
+  "package_url": "https://pypi.org/project/djhtmx/"
+}

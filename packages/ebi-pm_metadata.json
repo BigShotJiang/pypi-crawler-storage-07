@@ -1,0 +1,11 @@
+{
+  "name": "ebi-pm",
+  "version": "0.3.0",
+  "summary": "Ebi: a stochastic process mining utility",
+  "author": "Sander Leemans, Leonhard Mühlmeyer, Tian Li",
+  "license": null,
+  "home_page": "https://ebitools.org",
+  "download_filename": "ebi_pm-0.3.0.tar.gz",
+  "download_time": "2025-09-29T11:26:50.621085",
+  "package_url": "https://pypi.org/project/ebi-pm/"
+}

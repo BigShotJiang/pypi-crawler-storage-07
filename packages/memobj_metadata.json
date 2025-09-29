@@ -1,0 +1,11 @@
+{
+  "name": "memobj",
+  "version": "0.15.0",
+  "summary": "A library for defining objects in memory",
+  "author": "StarrFox",
+  "license": "MIT",
+  "home_page": "https://github.com/StarrFox/memobj",
+  "download_filename": "memobj-0.15.0.tar.gz",
+  "download_time": "2025-09-29T11:26:52.155356",
+  "package_url": "https://pypi.org/project/memobj/"
+}
