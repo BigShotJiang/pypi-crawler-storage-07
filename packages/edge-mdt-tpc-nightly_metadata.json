@@ -1,0 +1,11 @@
+{
+  "name": "edge-mdt-tpc-nightly",
+  "version": "1.2.0.20250929.15259",
+  "summary": "EdgeMDT TPC package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "edge_mdt_tpc_nightly-1.2.0.20250929.15259-py3-none-any.whl",
+  "download_time": "2025-09-29T02:21:01.558267",
+  "package_url": "https://pypi.org/project/edge-mdt-tpc-nightly/"
+}

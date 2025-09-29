@@ -1,0 +1,11 @@
+{
+  "name": "statmorph",
+  "version": "0.7.1",
+  "summary": "Non-parametric morphological diagnostics of galaxy images",
+  "author": "Vicente Rodriguez-Gomez",
+  "license": "BSD",
+  "home_page": "https://github.com/vrodgom/statmorph",
+  "download_filename": "statmorph-0.7.1.tar.gz",
+  "download_time": "2025-09-29T02:21:50.410381",
+  "package_url": "https://pypi.org/project/statmorph/"
+}

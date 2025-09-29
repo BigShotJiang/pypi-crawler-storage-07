@@ -1,0 +1,11 @@
+{
+  "name": "solar-apparent-time",
+  "version": "1.5.4",
+  "summary": "methods to translate Python datetime between solar apparent time and Coordinate Universal Time (UTC)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "solar_apparent_time-1.5.4.tar.gz",
+  "download_time": "2025-09-29T02:21:35.156803",
+  "package_url": "https://pypi.org/project/solar-apparent-time/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "beets-filetote",
+  "version": "1.1.0",
+  "summary": "A beets plugin to copy/moves non-music extra files, attachments, and artifacts during the import process.",
+  "author": "Gavin Tronset",
+  "license": "MIT",
+  "home_page": "https://github.com/gtronset/beets-filetote",
+  "download_filename": "beets_filetote-1.1.0.tar.gz",
+  "download_time": "2025-09-29T02:21:24.126479",
+  "package_url": "https://pypi.org/project/beets-filetote/"
+}
