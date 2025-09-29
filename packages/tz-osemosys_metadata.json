@@ -1,0 +1,11 @@
+{
+  "name": "tz-osemosys",
+  "version": "0.3.4",
+  "summary": "An OSeMOSYS implementation for the Future Energy Outlook by TransitionZero",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tz_osemosys-0.3.4.tar.gz",
+  "download_time": "2025-09-29T15:11:34.263606",
+  "package_url": "https://pypi.org/project/tz-osemosys/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cryptnoxpy",
+  "version": "2.5.5",
+  "summary": null,
+  "author": "Cryptnox SA",
+  "license": "LGPLv3+",
+  "home_page": "https://www.cryptnox.com/",
+  "download_filename": "cryptnoxpy-2.5.5.tar.gz",
+  "download_time": "2025-09-29T15:11:30.579696",
+  "package_url": "https://pypi.org/project/cryptnoxpy/"
+}

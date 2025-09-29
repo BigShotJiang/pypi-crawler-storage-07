@@ -1,11 +1,11 @@
 {
   "name": "the37lab-ampa-sdk",
-  "version": "0.1.1759156524",
+  "version": "0.1.1759157767",
   "summary": "Python SDK for the AMPA API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "the37lab_ampa_sdk-0.1.1759156524.tar.gz",
-  "download_time": "2025-09-29T14:49:01.259775",
+  "download_filename": "the37lab_ampa_sdk-0.1.1759157767.tar.gz",
+  "download_time": "2025-09-29T15:11:48.613695",
   "package_url": "https://pypi.org/project/the37lab-ampa-sdk/"
 }

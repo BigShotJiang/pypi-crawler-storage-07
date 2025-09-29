@@ -1,0 +1,11 @@
+{
+  "name": "torchsvm",
+  "version": "3.0.1",
+  "summary": "torchsvm, a PyTorch-based library that trains kernel SVMs and other large-margin classifiers ",
+  "author": "Yikai Zhang",
+  "license": "MIT",
+  "home_page": "https://github.com/YikaiZhang95/torchsvm",
+  "download_filename": "torchsvm-3.0.1.tar.gz",
+  "download_time": "2025-09-29T15:11:38.881444",
+  "package_url": "https://pypi.org/project/torchsvm/"
+}

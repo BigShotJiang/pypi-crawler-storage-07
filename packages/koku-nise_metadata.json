@@ -1,0 +1,11 @@
+{
+  "name": "koku-nise",
+  "version": "5.2.0",
+  "summary": "A tool for generating sample cost and usage data for testing purposes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "koku_nise-5.2.0.tar.gz",
+  "download_time": "2025-09-29T15:11:36.832033",
+  "package_url": "https://pypi.org/project/koku-nise/"
+}

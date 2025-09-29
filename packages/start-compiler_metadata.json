@@ -1,0 +1,11 @@
+{
+  "name": "start-compiler",
+  "version": "2.0.0.2",
+  "summary": "A package to compile the langauge START",
+  "author": "Joost Broekens; Jonne Goedhart",
+  "license": "Creative Commons CC BY-NC-SA 4.0",
+  "home_page": "https://github.com/jjgsherwood/start_compiler",
+  "download_filename": "start_compiler-2.0.0.2.tar.gz",
+  "download_time": "2025-09-29T15:11:15.168528",
+  "package_url": "https://pypi.org/project/start-compiler/"
+}

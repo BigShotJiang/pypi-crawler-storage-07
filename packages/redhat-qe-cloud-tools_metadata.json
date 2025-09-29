@@ -1,0 +1,11 @@
+{
+  "name": "redhat-qe-cloud-tools",
+  "version": "2.0.19",
+  "summary": "Python utilities to manage cloud services, such as AWS.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "redhat_qe_cloud_tools-2.0.19.tar.gz",
+  "download_time": "2025-09-29T15:11:47.069496",
+  "package_url": "https://pypi.org/project/redhat-qe-cloud-tools/"
+}

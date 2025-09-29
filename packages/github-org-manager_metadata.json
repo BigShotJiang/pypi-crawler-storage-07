@@ -1,0 +1,11 @@
+{
+  "name": "github-org-manager",
+  "version": "0.7.5",
+  "summary": "Manage a GitHub Organization, its teams, repository permissions, and more",
+  "author": "Max Mehl",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/OpenRailAssociation/github-org-manager",
+  "download_filename": "github_org_manager-0.7.5.tar.gz",
+  "download_time": "2025-09-29T15:11:43.998142",
+  "package_url": "https://pypi.org/project/github-org-manager/"
+}

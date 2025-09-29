@@ -1,0 +1,11 @@
+{
+  "name": "annuaire-entreprises-py",
+  "version": "0.1.0",
+  "summary": "Client Python pour l'API Recherche d'Entreprises (https://www.data.gouv.fr/dataservices/api-recherche-dentreprises/)",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "annuaire_entreprises_py-0.1.0.tar.gz",
+  "download_time": "2025-09-29T15:11:44.508985",
+  "package_url": "https://pypi.org/project/annuaire-entreprises-py/"
+}
