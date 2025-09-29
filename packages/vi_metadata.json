@@ -1,0 +1,11 @@
+{
+  "name": "vi",
+  "version": "0.9",
+  "summary": "Vector Interpreter - computational toolkit for biophysical design platforms",
+  "author": "lhr",
+  "license": "GPL-2.0",
+  "home_page": "https://github.com/lhrkkk/vi.git",
+  "download_filename": "vi-0.9.tar.gz",
+  "download_time": "2025-09-29T14:49:04.462508",
+  "package_url": "https://pypi.org/project/vi/"
+}

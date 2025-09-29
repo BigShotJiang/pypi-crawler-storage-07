@@ -1,0 +1,11 @@
+{
+  "name": "fed-rf-mk",
+  "version": "1.0.0",
+  "summary": "A federated Random Forest implementation",
+  "author": "Alexandre Cotorobai",
+  "license": null,
+  "home_page": "https://github.com/ieeta-pt/fed_rf",
+  "download_filename": "fed_rf_mk-1.0.0.tar.gz",
+  "download_time": "2025-09-29T14:49:20.557801",
+  "package_url": "https://pypi.org/project/fed-rf-mk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyqrackising",
-  "version": "6.1.1",
+  "version": "6.1.2",
   "summary": "Fast MAXCUT, TSP, and sampling heuristics from near-ideal transverse field Ising model (TFIM)",
   "author": "Dan Strano",
   "license": "LGPL-3.0-or-later",
   "home_page": "https://github.com/vm6502q/PyQrackIsing",
-  "download_filename": "pyqrackising-6.1.1.tar.gz",
-  "download_time": "2025-09-29T02:21:31.717007",
+  "download_filename": "pyqrackising-6.1.2.tar.gz",
+  "download_time": "2025-09-29T14:48:53.886554",
   "package_url": "https://pypi.org/project/pyqrackising/"
 }

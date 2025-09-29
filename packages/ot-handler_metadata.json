@@ -1,0 +1,11 @@
+{
+  "name": "ot-handler",
+  "version": "0.2.0",
+  "summary": "A comprehensive solution for automating liquid handling tasks on the Opentrons OT-2.",
+  "author": "Oskari Vinko",
+  "license": null,
+  "home_page": "https://github.com/BIIE-DeepIR/ot-handler",
+  "download_filename": "ot_handler-0.2.0.tar.gz",
+  "download_time": "2025-09-29T14:49:12.251615",
+  "package_url": "https://pypi.org/project/ot-handler/"
+}

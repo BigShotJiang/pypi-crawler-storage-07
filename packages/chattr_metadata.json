@@ -1,11 +1,11 @@
 {
   "name": "chattr",
-  "version": "0.0.35",
+  "version": "0.0.36",
   "summary": "App part of the Chatacter Backend",
   "author": "Mohamed Hisham Abdelzaher",
   "license": null,
   "home_page": null,
-  "download_filename": "chattr-0.0.35.tar.gz",
-  "download_time": "2025-09-29T03:16:52.331068",
+  "download_filename": "chattr-0.0.36.tar.gz",
+  "download_time": "2025-09-29T14:49:22.107007",
   "package_url": "https://pypi.org/project/chattr/"
 }

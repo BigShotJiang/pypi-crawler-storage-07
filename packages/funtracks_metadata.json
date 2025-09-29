@@ -1,0 +1,11 @@
+{
+  "name": "funtracks",
+  "version": "1.3.1",
+  "summary": "Cell tracking data model",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "funtracks-1.3.1.tar.gz",
+  "download_time": "2025-09-29T14:48:52.828487",
+  "package_url": "https://pypi.org/project/funtracks/"
+}

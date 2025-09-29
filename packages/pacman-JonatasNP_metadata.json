@@ -1,11 +1,11 @@
 {
   "name": "pacman-JonatasNP",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Um clone do PacMan com mudanças, feito em PyGame",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pacman_jonatasnp-1.0.0.tar.gz",
-  "download_time": "2025-09-29T14:37:47.469175",
+  "download_filename": "pacman_jonatasnp-1.0.1.tar.gz",
+  "download_time": "2025-09-29T14:48:44.424157",
   "package_url": "https://pypi.org/project/pacman-JonatasNP/"
 }
