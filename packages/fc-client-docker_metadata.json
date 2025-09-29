@@ -1,0 +1,11 @@
+{
+  "name": "fc-client-docker",
+  "version": "0.7.7",
+  "summary": null,
+  "author": "Larry Shen",
+  "license": "MIT",
+  "home_page": "https://fc.readthedocs.io/",
+  "download_filename": "fc-client-docker-0.7.7.tar.gz",
+  "download_time": "2025-09-29T13:46:26.697822",
+  "package_url": "https://pypi.org/project/fc-client-docker/"
+}

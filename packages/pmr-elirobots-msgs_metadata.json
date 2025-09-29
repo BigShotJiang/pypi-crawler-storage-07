@@ -1,11 +1,11 @@
 {
   "name": "pmr-elirobots-msgs",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": null,
   "author": "Felipe Gomes de Melo D'Elia",
   "license": null,
   "home_page": null,
-  "download_filename": "pmr_elirobots_msgs-0.0.1.tar.gz",
-  "download_time": "2025-09-29T12:21:10.208365",
+  "download_filename": "pmr_elirobots_msgs-0.0.3.tar.gz",
+  "download_time": "2025-09-29T13:46:14.514551",
   "package_url": "https://pypi.org/project/pmr-elirobots-msgs/"
 }

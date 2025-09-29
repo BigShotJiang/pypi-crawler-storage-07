@@ -1,0 +1,11 @@
+{
+  "name": "pyopencell",
+  "version": "0.4.10",
+  "summary": "Python wrapper for OpenCell (using REST API)",
+  "author": "Coopdevs",
+  "license": null,
+  "home_page": "https://gitlab.com/coopdevs/pyopencell",
+  "download_filename": "pyopencell-0.4.10.tar.gz",
+  "download_time": "2025-09-29T13:46:05.735346",
+  "package_url": "https://pypi.org/project/pyopencell/"
+}

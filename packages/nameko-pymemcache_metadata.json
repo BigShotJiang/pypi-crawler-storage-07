@@ -1,0 +1,11 @@
+{
+  "name": "nameko-pymemcache",
+  "version": "0.1.3",
+  "summary": "Memcached dependency for nameko services with consistent hashing",
+  "author": "andreasmyleus",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/andreasmyleus/nameko-pymemcache/",
+  "download_filename": "nameko_pymemcache-0.1.3.tar.gz",
+  "download_time": "2025-09-29T13:46:19.133376",
+  "package_url": "https://pypi.org/project/nameko-pymemcache/"
+}

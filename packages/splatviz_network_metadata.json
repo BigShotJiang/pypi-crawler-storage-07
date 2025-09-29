@@ -1,0 +1,11 @@
+{
+  "name": "splatviz_network",
+  "version": "0.0.3",
+  "summary": "Network connector for splatviz",
+  "author": "Florian Barthel",
+  "license": "MIT License",
+  "home_page": "https://github.com/Florian-Barthel/splatviz_network",
+  "download_filename": "splatviz_network-0.0.3-py3-none-any.whl",
+  "download_time": "2025-09-29T13:46:47.575345",
+  "package_url": "https://pypi.org/project/splatviz_network/"
+}

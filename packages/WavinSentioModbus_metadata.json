@@ -1,0 +1,11 @@
+{
+  "name": "WavinSentioModbus",
+  "version": "0.13.0",
+  "summary": "Python API for interfacing with Wavin CCU-208",
+  "author": "Wavin T&I",
+  "license": "MIT",
+  "home_page": "https://github.com/wavingroup/WavinSentioModbus",
+  "download_filename": "wavinsentiomodbus-0.13.0.tar.gz",
+  "download_time": "2025-09-29T13:46:28.997144",
+  "package_url": "https://pypi.org/project/WavinSentioModbus/"
+}
