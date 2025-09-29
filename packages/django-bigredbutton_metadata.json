@@ -1,0 +1,11 @@
+{
+  "name": "django-bigredbutton",
+  "version": "0.3.2",
+  "summary": "Django app that offers a big red button to sign out of all other user sessions",
+  "author": "blag",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_bigredbutton-0.3.2.tar.gz",
+  "download_time": "2025-09-29T05:11:50.523525",
+  "package_url": "https://pypi.org/project/django-bigredbutton/"
+}

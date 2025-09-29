@@ -1,0 +1,11 @@
+{
+  "name": "framework-translator",
+  "version": "1.0.0",
+  "summary": "CLI to translate code across frameworks using an OpenAI fine-tuned model.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "framework_translator-1.0.0.tar.gz",
+  "download_time": "2025-09-29T05:11:54.644115",
+  "package_url": "https://pypi.org/project/framework-translator/"
+}

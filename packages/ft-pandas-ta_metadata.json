@@ -1,0 +1,11 @@
+{
+  "name": "ft-pandas-ta",
+  "version": "0.3.16",
+  "summary": "An easy to use Python 3 Pandas Extension with 130+ Technical Analysis Indicators. Can be called from a Pandas DataFrame or standalone like TA-Lib. Correlation tested with TA-Lib.",
+  "author": "Kevin Johnson, the Freqtrade Team",
+  "license": "The MIT License (MIT)",
+  "home_page": "https://github.com/freqtrade/pandas-ta",
+  "download_filename": "ft_pandas_ta-0.3.16.tar.gz",
+  "download_time": "2025-09-29T05:11:47.908565",
+  "package_url": "https://pypi.org/project/ft-pandas-ta/"
+}
