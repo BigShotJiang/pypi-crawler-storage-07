@@ -1,25 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-29T07:30:43.637455
-- **Total Packages**: 83
-- **Total Size**: 38.25 MB
+- **Download Time**: 2025-09-29T07:40:39.237357
+- **Total Packages**: 78
+- **Total Size**: 30.32 MB
 
 ## Packages List
+- srpc
+- hiad
+- data-retrieval-monitor
+- fiddler-evals
+- nldcsc
+- ortpy
+- pyquafu
+- CVNN-Jamie
+- authentik-client
+- tkurses
+- subt-ai-tles
+- youtube-colab-proxy
+- maleo-schemas
+- tidy3d-mcp
+- codosdk
+- weiyuan-mcp-demo
+- tencent-wedata-feature-engineering
+- mosamatic2
+- agentsyun-coupon-mcp-server
+- plane-sdk
+- storey
+- cloudtools-sdk
+- pyokaertool
+- constants-and-tools
+- mkdocstrings-github
+- echoss-fileformat
+- docutranslate
 - paytechuz
 - aiomealie
 - liblaf-grapes
 - intugle
-- pyokaertool
-- authentik-client
 - tensorcontainer
 - reasoning-gym
-- CVNN-Jamie
 - shekar
-- cloudtools-sdk
 - uniscan
 - cafedb
-- agentsyun-coupon-mcp-server
 - ambient-package-update
 - shotgun-sh
 - prune-lib
@@ -38,7 +60,6 @@
 - p2p-copy
 - ttcbench
 - cleanote
-- mkdocstrings-github
 - playback-studio
 - django-freakyfunkyfonts
 - power-grid-model-io
@@ -48,7 +69,6 @@
 - cartographer3d-plugin
 - lohas-app-hotel-search-gzp-mcp-server
 - craterstats
-- codosdk
 - scruby
 - bizyengine
 - visionpluspython
@@ -56,7 +76,6 @@
 - okeanTweak
 - streamlit-nightly
 - kl-mindbox-shapes-33
-- tkurses
 - nt25
 - crawlee
 - gdsfactoryplus
@@ -65,27 +84,3 @@
 - graph-distributed-sampling
 - pozansky-news-server
 - jaf-py
-- jaywei-calculate-bmi-mcp
-- scm-python-deploy-ium
-- ebat
-- odoo-addon-contract-sale-invoicing
-- pycfurlscannercli
-- nltkor
-- pycrdfcli
-- fiddler-evals
-- doris-vector-search
-- django-w-docs
-- pytango-db
-- charlie-dots-ocr
-- unique_orchestrator
-- cognite-toolkit
-- django-w-careers
-- gdsfactory
-- chat-export
-- systemdlint
-- direct-formatting-pandas-ods-reader
-- pyalienvaultcli
-- django-w-blog
-- agenterprise
-- django-codenerix-email
-- pulumi-okta

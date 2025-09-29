@@ -1,0 +1,11 @@
+{
+  "name": "ortpy",
+  "version": "1.23b0",
+  "summary": "ONNX runtime python binding",
+  "author": "Feng Wang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ortpy-1.23b0-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-09-29T07:39:58.486012",
+  "package_url": "https://pypi.org/project/ortpy/"
+}
