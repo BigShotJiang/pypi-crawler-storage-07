@@ -1,0 +1,11 @@
+{
+  "name": "speedsense",
+  "version": "0.2.3",
+  "summary": "Automatic time complexity analysis with visualization for Python functions",
+  "author": "Anant Terkar",
+  "license": "MIT",
+  "home_page": "https://github.com/anantterkar/SpeedSense",
+  "download_filename": "speedsense-0.2.3.tar.gz",
+  "download_time": "2025-09-29T14:37:37.006352",
+  "package_url": "https://pypi.org/project/speedsense/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "foliantcontrib.dbdoc",
+  "version": "0.1.10",
+  "summary": "Database documentation generator",
+  "author": "Daniil Minukhin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "foliantcontrib_dbdoc-0.1.10.tar.gz",
+  "download_time": "2025-09-29T14:37:49.200707",
+  "package_url": "https://pypi.org/project/foliantcontrib.dbdoc/"
+}

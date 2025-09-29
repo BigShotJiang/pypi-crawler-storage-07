@@ -1,0 +1,11 @@
+{
+  "name": "graphene-django-query-optimizer",
+  "version": "0.10.15",
+  "summary": "Automatically optimize SQL queries in Graphene-Django schemas.",
+  "author": "Matti Lamppu",
+  "license": "MIT",
+  "home_page": "https://mrthearman.github.io/graphene-django-query-optimizer",
+  "download_filename": "graphene_django_query_optimizer-0.10.15.tar.gz",
+  "download_time": "2025-09-29T14:37:34.155669",
+  "package_url": "https://pypi.org/project/graphene-django-query-optimizer/"
+}

@@ -1,11 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-29T14:12:10.764984
+- **Download Time**: 2025-09-29T14:38:18.603784
 - **Total Packages**: 94
-- **Total Size**: 24.28 MB
+- **Total Size**: 25.44 MB
 
 ## Packages List
+- zizmor
+- frogml
+- pyrefly
+- cehrgpt
+- steamcom
+- x-mlps-pytorch
+- qnexus
+- mirmod
+- langchain
+- aer-gel-annotate
+- aiosafeconsumer
+- fastapi-router-viz
+- hypersphere-sampler
+- gptsh-cli
+- dc43-integrations
+- graphene-django-query-optimizer
+- konokenj.cdk-api-mcp-server
+- csu
+- djdownloader
+- sa-tenders
+- speedsense
+- Linux-API
+- mapentity
+- dc43-service-backends
+- cryptohftdata
+- agentex-sdk
+- liminity
+- dc43-service-clients
+- etcd-dynamic-config
+- chellow
+- dshellInterpreter
+- oarepo-theme
+- ssh-proto-types
+- osmose-presets
+- BrazilClimateFinance
+- Mint-NM
+- AOT-biomaps
+- django-components
+- pacman-JonatasNP
+- awesome-cheap-flights
+- python-lokalise-api
+- foliantcontrib.dbdoc
+- modal
 - das-cli
 - eodc-connect
 - mdbq
@@ -57,46 +100,3 @@
 - aws-cdk.aws-location-alpha
 - aws-cdk.aws-lambda-python-alpha
 - fastmcp-langchain-adaptor
-- aws-cdk.aws-lambda-go-alpha
-- aws-cdk.aws-kinesisanalytics-flink-alpha
-- aws-cdk.aws-ivs-alpha
-- aws-cdk.aws-iotevents-alpha
-- aws-cdk.aws-iotevents-actions-alpha
-- aws-cdk.aws-iot-alpha
-- aws-cdk.aws-iot-actions-alpha
-- aws-cdk.aws-glue-alpha
-- aws-cdk.aws-gamelift-alpha
-- aws-cdk.aws-elasticache-alpha
-- aws-cdk.aws-eks-v2-alpha
-- aws-cdk.aws-ec2-alpha
-- aws-cdk.aws-codestar-alpha
-- aws-cdk.aws-cloud9-alpha
-- foliantcontrib.escapecode
-- aws-cdk.aws-bedrock-alpha
-- aws-cdk.aws-apprunner-alpha
-- aws-cdk.aws-applicationsignals-alpha
-- aws-cdk.aws-amplify-alpha
-- aws-cdk.app-staging-synthesizer-alpha
-- pyanimecli
-- getstream
-- word-tower-game
-- nucleus-client
-- flo_ai
-- py-lite-edu
-- kessel-sdk
-- lunascope
-- mutation-core
-- fastapi-scaff
-- ebi-pm
-- bonsai-dataio
-- err-stackstorm
-- shellforgepy
-- cleanote
-- soil-sdk
-- zhlid
-- AOT-biomaps
-- crunch-convert
-- tensordict-nightly
-- naneos-devices
-- kfst-rs
-- navam

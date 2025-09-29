@@ -1,0 +1,11 @@
+{
+  "name": "Linux-API",
+  "version": "1.0.6",
+  "summary": "FastAPI-based Linux system monitoring and information server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "linux_api-1.0.6.tar.gz",
+  "download_time": "2025-09-29T14:37:37.582427",
+  "package_url": "https://pypi.org/project/Linux-API/"
+}

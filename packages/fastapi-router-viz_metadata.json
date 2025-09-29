@@ -1,11 +1,11 @@
 {
   "name": "fastapi-router-viz",
-  "version": "0.2.13",
+  "version": "0.2.14",
   "summary": "Visualize FastAPI application's routing tree and dependencies",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastapi_router_viz-0.2.13.tar.gz",
-  "download_time": "2025-09-29T10:13:06.813258",
+  "download_filename": "fastapi_router_viz-0.2.14.tar.gz",
+  "download_time": "2025-09-29T14:37:31.759051",
   "package_url": "https://pypi.org/project/fastapi-router-viz/"
 }
