@@ -1,11 +1,11 @@
 {
   "name": "aristaflowpy",
-  "version": "1.15.5",
+  "version": "1.15.6",
   "summary": "AristaFlow BPM",
   "author": null,
   "license": null,
   "home_page": "https://github.com/aristaflow/aristaflowpy",
-  "download_filename": "aristaflowpy-1.15.5.tar.gz",
-  "download_time": "2025-09-29T09:13:30.807353",
+  "download_filename": "aristaflowpy-1.15.6.tar.gz",
+  "download_time": "2025-09-29T20:37:55.231152",
   "package_url": "https://pypi.org/project/aristaflowpy/"
 }

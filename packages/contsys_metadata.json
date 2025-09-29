@@ -1,0 +1,11 @@
+{
+  "name": "contsys",
+  "version": "1.2.3",
+  "summary": "Python library simplifying system script management with handy functions like clearing the console, setting the window title, and detecting the operating system (Windows, Linux, macOS).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "contsys-1.2.3.tar.gz",
+  "download_time": "2025-09-29T20:38:03.433317",
+  "package_url": "https://pypi.org/project/contsys/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "backboard-sdk",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "summary": "Python SDK for the Backboard API - Build conversational AI applications with persistent memory and intelligent document processing",
   "author": "Backboard",
   "license": "MIT",
   "home_page": "https://github.com/backboard/backboard-python-sdk",
-  "download_filename": "backboard_sdk-1.3.2.tar.gz",
-  "download_time": "2025-09-29T20:29:03.742697",
+  "download_filename": "backboard_sdk-1.3.3.tar.gz",
+  "download_time": "2025-09-29T20:38:01.834826",
   "package_url": "https://pypi.org/project/backboard-sdk/"
 }

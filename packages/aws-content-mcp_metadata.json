@@ -1,11 +1,11 @@
 {
   "name": "aws-content-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "MCP server for retrieving and analyzing AWS content from aws.amazon.com",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aws_content_mcp-0.1.0.tar.gz",
-  "download_time": "2025-09-27T20:37:14.436563",
+  "download_filename": "aws_content_mcp-0.1.1.tar.gz",
+  "download_time": "2025-09-29T20:38:05.554703",
   "package_url": "https://pypi.org/project/aws-content-mcp/"
 }
