@@ -1,0 +1,11 @@
+{
+  "name": "Mock.GPIO",
+  "version": "0.2.0",
+  "summary": "Mock Library for RPi.GPIO",
+  "author": "Aananth K",
+  "license": null,
+  "home_page": "https://github.com/codenio/",
+  "download_filename": "mock_gpio-0.2.0.tar.gz",
+  "download_time": "2025-09-29T06:50:17.556850",
+  "package_url": "https://pypi.org/project/Mock.GPIO/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "superpdf-vl-utils",
+  "version": "0.1.12",
+  "summary": "Utilities for SuperPdf Vision-Language models",
+  "author": "Owen",
+  "license": null,
+  "home_page": "https://github.com/xxx/superai",
+  "download_filename": "superpdf_vl_utils-0.1.12-py3-none-manylinux2014_x86_64.whl",
+  "download_time": "2025-09-29T06:49:37.506532",
+  "package_url": "https://pypi.org/project/superpdf-vl-utils/"
+}

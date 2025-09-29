@@ -1,0 +1,11 @@
+{
+  "name": "mindstudio-probe",
+  "version": "8.2.1",
+  "summary": "Ascend Probe Utils",
+  "author": "Ascend Team",
+  "license": "Apache License 2.0",
+  "home_page": "https://gitcode.com/Ascend/mstt/tree/master/debug/accuracy_tools/msprobe",
+  "download_filename": "mindstudio_probe-8.2.1.tar.gz",
+  "download_time": "2025-09-29T06:49:48.414386",
+  "package_url": "https://pypi.org/project/mindstudio-probe/"
+}
