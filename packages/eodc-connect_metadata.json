@@ -1,11 +1,11 @@
 {
   "name": "eodc-connect",
-  "version": "0.0.10",
+  "version": "0.1.0",
   "summary": "Python library for authentication towards EODC services",
   "author": "Gerald Irsiegler",
   "license": null,
   "home_page": null,
-  "download_filename": "eodc_connect-0.0.10-py3-none-any.whl",
-  "download_time": "2025-09-29T16:38:26.635596",
+  "download_filename": "eodc_connect-0.1.0-py3-none-any.whl",
+  "download_time": "2025-09-29T16:50:31.692906",
   "package_url": "https://pypi.org/project/eodc-connect/"
 }

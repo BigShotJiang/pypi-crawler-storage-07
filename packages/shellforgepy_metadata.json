@@ -1,11 +1,11 @@
 {
   "name": "shellforgepy",
-  "version": "1.0.0",
-  "summary": "Add a short description here!",
+  "version": "2.1.0",
+  "summary": "Python tooling for backend-agnostic 3D modeling and fabrication",
   "author": "Markus Emmenegger",
   "license": "MIT",
-  "home_page": "https://github.com/pyscaffold/pyscaffold/",
-  "download_filename": "shellforgepy-1.0.0.tar.gz",
-  "download_time": "2025-09-29T14:12:05.455008",
+  "home_page": "https://github.com/m-emm/shellforgepy",
+  "download_filename": "shellforgepy-2.1.0.tar.gz",
+  "download_time": "2025-09-29T16:50:25.905964",
   "package_url": "https://pypi.org/project/shellforgepy/"
 }
