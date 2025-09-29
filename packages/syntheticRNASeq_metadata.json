@@ -1,11 +1,11 @@
 {
   "name": "syntheticRNASeq",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Generate synthetic RNA-Seq data by sampling a negative binomial distribution.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "syntheticrnaseq-1.0.1.tar.gz",
-  "download_time": "2025-09-29T18:56:07.671202",
+  "download_filename": "syntheticrnaseq-1.0.2.tar.gz",
+  "download_time": "2025-09-29T19:09:17.241577",
   "package_url": "https://pypi.org/project/syntheticRNASeq/"
 }

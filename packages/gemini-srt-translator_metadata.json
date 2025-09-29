@@ -1,0 +1,11 @@
+{
+  "name": "gemini-srt-translator",
+  "version": "2.1.5",
+  "summary": "A tool to translate subtitles using Google Generative AI",
+  "author": "Matheus Castro",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gemini_srt_translator-2.1.5.tar.gz",
+  "download_time": "2025-09-29T19:09:16.162902",
+  "package_url": "https://pypi.org/project/gemini-srt-translator/"
+}

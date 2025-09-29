@@ -1,22 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-29T18:56:51.292863
-- **Total Packages**: 81
-- **Total Size**: 19.72 MB
+- **Download Time**: 2025-09-29T19:09:39.922491
+- **Total Packages**: 80
+- **Total Size**: 19.26 MB
 
 ## Packages List
+- linux-api
+- investing-algorithm-framework
+- ros-cdk-mns
+- tractusx-sdk
+- pycfrl
+- authentik-client
+- scc-firewall-manager-sdk
+- ayikla
+- sideload-obengine-dev-bin-68dad88cd0ea881f408f7fe3-p0
+- batch-img
+- polymo
+- bioql
+- ros-cdk-adblake
+- NL2SQLEvaluator
+- neofin-toolbox
+- ros-cdk-flink
+- can-viewer-rs
+- sqlmesh
+- ascii-designer
+- autospice
+- dialectid
+- pypetkitapi
+- icrn
+- ros-cdk-ess
+- vector-vault
+- parajax
+- Scikit-longitudinal
+- ursa-ai
+- RanaGPT
+- intradev
+- arize-phoenix-client
+- sideload-obengine-dev-bin-68dad671ae596e708f0043ab-p0
+- ros-cdk-pvtz
+- pydbro
+- gemini-srt-translator
+- rxn-rdf-converter
+- syntheticRNASeq
+- pulumi-provider-boilerplate
+- brain-sdk
+- django-unfold-extra
+- lm-deluge
 - SnakeScan
 - lmitf
 - persian-telegram-bot-calendar
 - ros-cdk-selectdb
-- authentik-client
 - mutax
 - mrtrix3-agent
 - deriva
 - methodnetworkscan
-- investing-algorithm-framework
-- syntheticRNASeq
 - kmport
 - reflex
 - smartboiler
@@ -25,25 +63,20 @@
 - pratac
 - gr4vy
 - esphome
-- ayikla
 - etrip
 - nominal-api-protos
 - nominal-api
 - cloudtools-sdk
-- dc43-integrations
 - ros-cdk-adb
 - prelude-sdk
 - alfasim-sdk
 - nautobot-device-onboarding
-- sqlmesh
-- dc43-service-backends
 - gantt-tasks
 - prelude-cli-beta
 - cellcutter
 - pyThermoDB
 - prelude-sdk-beta
 - ncca-ngl
-- dc43-service-clients
 - voxelmap
 - ros-cdk-maxcompute
 - fsai-proto-specs
@@ -53,37 +86,3 @@
 - ptvulns
 - stigg-api-client-v2
 - terminator-py
-- cuti
-- ros-cdk-edsuser
-- sideload-obengine-dev-bin-68dad2f7ae596e708f0040a1-p0
-- fireworks-livekit
-- stigg-api-client
-- pulumi-xyz
-- bdbag
-- nubefact-python
-- h5io-browser
-- newsflash
-- sideload-obengine-dev-bin-68dad27743b1c97be95486d1-p0
-- pulumi-provider-boilerplate
-- anfispy
-- sagemaker
-- whenever
-- scalable-pypeline
-- penguiflow
-- odoo-addon-l10n-es-verifactu-oca
-- orb-billing
-- gfModParser
-- ros-cdk-mps
-- sprocket-systems.coda.sdk
-- ethyca-fides
-- djangocms-blog
-- sideload-obengine-dev-bin-68dad0d443b1c97be95484f5-p0
-- marimo-base
-- code-size-analyzer-client-python
-- biliup
-- ros-cdk-waf
-- shudaodao
-- recce-nightly
-- psr-factory
-- tsm-realtime
-- index

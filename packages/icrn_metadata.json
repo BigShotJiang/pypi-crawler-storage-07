@@ -1,0 +1,11 @@
+{
+  "name": "icrn",
+  "version": "0.0.1",
+  "summary": "Indexed Chemical Reaction Networks in a differentiable, tensor-based framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "icrn-0.0.1-py3-none-any.whl",
+  "download_time": "2025-09-29T19:09:09.647529",
+  "package_url": "https://pypi.org/project/icrn/"
+}
