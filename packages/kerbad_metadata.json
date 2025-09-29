@@ -1,0 +1,11 @@
+{
+  "name": "kerbad",
+  "version": "0.5.5",
+  "summary": "Kerberos manipulation library in pure Python",
+  "author": "Tamas Jos",
+  "license": null,
+  "home_page": "https://github.com/CravateRouge/kerbad",
+  "download_filename": "kerbad-0.5.5.tar.gz",
+  "download_time": "2025-09-29T08:55:39.202702",
+  "package_url": "https://pypi.org/project/kerbad/"
+}

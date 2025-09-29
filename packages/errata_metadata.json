@@ -1,0 +1,11 @@
+{
+  "name": "errata",
+  "version": "0.1.0",
+  "summary": "Introspecting python exceptions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "errata-0.1.0.tar.gz",
+  "download_time": "2025-09-29T08:55:45.925885",
+  "package_url": "https://pypi.org/project/errata/"
+}

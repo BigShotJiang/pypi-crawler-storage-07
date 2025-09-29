@@ -1,11 +1,11 @@
 {
   "name": "ttcbench",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Simple vLLM/OpenAI textgen benchmark with optional GPU telemetry",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ttcbench-0.1.0.tar.gz",
-  "download_time": "2025-09-29T07:30:14.688144",
+  "download_filename": "ttcbench-0.1.2.tar.gz",
+  "download_time": "2025-09-29T08:55:41.270891",
   "package_url": "https://pypi.org/project/ttcbench/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mibiremo",
+  "version": "0.2.0",
+  "summary": "Microbiome Bioremediation Reaction Module: a Python interface to PhreeqcRM library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mibiremo-0.2.0-py3-none-any.whl",
+  "download_time": "2025-09-29T08:55:45.413636",
+  "package_url": "https://pypi.org/project/mibiremo/"
+}

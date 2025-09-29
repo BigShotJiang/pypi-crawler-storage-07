@@ -1,0 +1,11 @@
+{
+  "name": "hx-ml-dl-tools",
+  "version": "1.0.0",
+  "summary": "Librería desarrollo de modelos de ML y DL",
+  "author": "Daniel Sarabia Torres aka Huexmaister",
+  "license": null,
+  "home_page": "https://github.com/Huexmaister/hx_ml_dl_tools",
+  "download_filename": "hx_ml_dl_tools-1.0.0.tar.gz",
+  "download_time": "2025-09-29T08:55:26.734313",
+  "package_url": "https://pypi.org/project/hx-ml-dl-tools/"
+}

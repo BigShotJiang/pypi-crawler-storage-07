@@ -1,12 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-29T08:44:02.563997
-- **Total Packages**: 95
-- **Total Size**: 31.34 MB
+- **Download Time**: 2025-09-29T08:56:12.988268
+- **Total Packages**: 90
+- **Total Size**: 32.52 MB
 
 ## Packages List
+- scc-firewall-manager-sdk
+- hx-ml-dl-tools
+- amazon-bedrock-haystack
+- odoo14-addon-ssi-hr-payroll
+- gempy-viewer
+- shisis-async
+- watermarklab
+- iflow-mcp-amazon_prime_top_titles_api_by
+- HexSS
+- tinybird
+- gitcomposer
+- nltkor
+- tencent-wedata-feature-engineering
+- navam
+- django-activity-audit
+- codosdk
 - arpakitlib
+- MeUtils
+- bloodyAD
+- seven-cloudapp-frame
+- ros-cdk-cxapi
+- xlfilldown
+- badldap
+- badauth
+- csghub-sdk
+- kerbad
+- locust
+- django-data-purger
+- flock-core
+- ttcbench
+- otree
+- markuplift
+- v8serialize
+- jder-fastapi
+- pyfwg
+- authentik-client
+- startup-control-mcp
+- mibiremo
+- errata
+- tfp-nightly
+- shotgun-sh
+- jyhelper
+- redis-namespace-client
+- mcp-use
 - camel-ai
 - locust-cloud
 - pulumi-cloudflare
@@ -22,11 +65,9 @@
 - anedya-dev-sdk
 - ml_eval_viz
 - idfm-qualite-de-service-calculateur
-- locust
 - iflow-mcp-google_news_yahoo_news
 - wink-sdk-user-settings
 - wink-sdk-travel-agent
-- navam
 - wink-sdk-reference
 - wink-sdk-ping
 - wink-sdk-notification
@@ -55,49 +96,3 @@
 - fparser
 - lupin-sw-ut-report
 - walide
-- py-license-auditor
-- tavily-mcp-server
-- kuzu
-- langbot-plugin
-- struqture-py
-- flock-core
-- annogen
-- bruce-li-tc
-- trip-pay-payment
-- authentik-client
-- aicodetools
-- document-merge-service
-- craterstats
-- lxmfy-translate-bot
-- GNServer
-- py-lite-edu
-- docling-core
-- cubing-algs
-- spx-sdk
-- bpusdk
-- gitcomposer
-- vsec-tls
-- hurodes
-- metabolights-utils
-- wikimedia-spicerack
-- revengai
-- hyundai-kia-connect-api
-- genesis-forge
-- simtoolsz
-- anesthetic
-- fancy-trainer
-- civic-transparency-cwe-types
-- atomicshop
-- optics-framework
-- nvfuser-cu126
-- django-w-careers
-- nvfuser-cu128
-- python-aidot
-- nvfuser-cu129
-- ckanext-selfinfo
-- tianxiadatong-qq-robot
-- schibsted-search-mpc
-- openshift-cluster-login
-- legit-api-client
-- mintzy
-- IservETLLib
