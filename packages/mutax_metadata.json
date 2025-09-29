@@ -1,0 +1,11 @@
+{
+  "name": "mutax",
+  "version": "0.4.0",
+  "summary": "Evolutionary optimization algorithms in JAX",
+  "author": "Gabriel S. Gerlero",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mutax-0.4.0.tar.gz",
+  "download_time": "2025-09-29T18:56:04.778713",
+  "package_url": "https://pypi.org/project/mutax/"
+}

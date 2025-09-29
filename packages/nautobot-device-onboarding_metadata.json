@@ -1,0 +1,11 @@
+{
+  "name": "nautobot-device-onboarding",
+  "version": "4.3.2",
+  "summary": "A app for Nautobot to easily onboard new devices.",
+  "author": "Network to Code, LLC",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nautobot_device_onboarding-4.3.2.tar.gz",
+  "download_time": "2025-09-29T18:56:18.250079",
+  "package_url": "https://pypi.org/project/nautobot-device-onboarding/"
+}

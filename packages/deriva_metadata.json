@@ -1,0 +1,11 @@
+{
+  "name": "deriva",
+  "version": "1.7.10",
+  "summary": "Python APIs and CLIs (Command-Line Interfaces) for the DERIVA platform.",
+  "author": "USC Information Sciences Institute, Informatics Systems Research Division",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/informatics-isi-edu/deriva-py",
+  "download_filename": "deriva-1.7.10.tar.gz",
+  "download_time": "2025-09-29T18:56:06.006536",
+  "package_url": "https://pypi.org/project/deriva/"
+}

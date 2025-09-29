@@ -1,0 +1,11 @@
+{
+  "name": "gantt-tasks",
+  "version": "0.1.0",
+  "summary": "Organização de tarefas por prioridade/sequência e geração de Gantt mensal",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gantt_tasks-0.1.0.tar.gz",
+  "download_time": "2025-09-29T18:56:20.013174",
+  "package_url": "https://pypi.org/project/gantt-tasks/"
+}

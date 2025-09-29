@@ -1,0 +1,11 @@
+{
+  "name": "pratac",
+  "version": "0.4.0",
+  "summary": "Python script designed to streamline dorm room cleaning assignments ",
+  "author": "Martin Lejko",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pratac-0.4.0.tar.gz",
+  "download_time": "2025-09-29T18:56:11.087359",
+  "package_url": "https://pypi.org/project/pratac/"
+}

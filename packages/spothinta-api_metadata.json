@@ -1,0 +1,11 @@
+{
+  "name": "spothinta-api",
+  "version": "0.7.2",
+  "summary": "Asynchronous Python client providing energy prices from spot-hinta.fi",
+  "author": "Sebastian Lövdahl",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spothinta_api-0.7.2.tar.gz",
+  "download_time": "2025-09-29T18:56:25.985249",
+  "package_url": "https://pypi.org/project/spothinta-api/"
+}

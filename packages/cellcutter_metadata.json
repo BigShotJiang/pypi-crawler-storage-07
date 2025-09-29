@@ -1,0 +1,11 @@
+{
+  "name": "cellcutter",
+  "version": "0.2.12",
+  "summary": "cellcutter is a Python module for creating thumbnail images of cells given a multi-channel TIFF image and segmentation mask",
+  "author": "Clemens Hug",
+  "license": "MIT",
+  "home_page": "https://github.com/labsyspharm/cellcutter",
+  "download_filename": "cellcutter-0.2.12.tar.gz",
+  "download_time": "2025-09-29T18:56:21.306064",
+  "package_url": "https://pypi.org/project/cellcutter/"
+}

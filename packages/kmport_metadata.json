@@ -1,0 +1,11 @@
+{
+  "name": "kmport",
+  "version": "2.2.33",
+  "summary": "Extended import function",
+  "author": "Kage Park",
+  "license": "MIT",
+  "home_page": "https://github.com/kagepark/Import",
+  "download_filename": "kmport-2.2.33.tar.gz",
+  "download_time": "2025-09-29T18:56:08.252918",
+  "package_url": "https://pypi.org/project/kmport/"
+}
