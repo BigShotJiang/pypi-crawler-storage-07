@@ -1,11 +1,11 @@
 {
   "name": "ptvulns",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": null,
   "author": "Penterep",
   "license": "GPLv3",
   "home_page": "https://www.penterep.com/",
-  "download_filename": "ptvulns-0.0.5.tar.gz",
-  "download_time": "2025-09-29T18:56:27.894564",
+  "download_filename": "ptvulns-0.0.6.tar.gz",
+  "download_time": "2025-09-29T23:10:28.519202",
   "package_url": "https://pypi.org/project/ptvulns/"
 }

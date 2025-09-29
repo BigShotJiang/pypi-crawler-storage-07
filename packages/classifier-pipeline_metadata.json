@@ -1,11 +1,11 @@
 {
   "name": "classifier-pipeline",
-  "version": "0.0.32",
+  "version": "0.0.33",
   "summary": "Classifier Pipeline",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "classifier_pipeline-0.0.32.tar.gz",
-  "download_time": "2025-09-29T03:49:51.265990",
+  "download_filename": "classifier_pipeline-0.0.33.tar.gz",
+  "download_time": "2025-09-29T23:10:27.924906",
   "package_url": "https://pypi.org/project/classifier-pipeline/"
 }
