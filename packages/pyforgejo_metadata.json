@@ -1,0 +1,11 @@
+{
+  "name": "pyforgejo",
+  "version": "2.0.5",
+  "summary": "A Python client library for accessing the Forgejo API",
+  "author": "harabat",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyforgejo-2.0.5.tar.gz",
+  "download_time": "2025-09-29T16:38:41.329266",
+  "package_url": "https://pypi.org/project/pyforgejo/"
+}

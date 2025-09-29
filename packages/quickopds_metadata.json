@@ -1,0 +1,11 @@
+{
+  "name": "quickopds",
+  "version": "0.1",
+  "summary": "Configuration-free script that statically creates an OPDS feed for a directory containing ebooks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quickopds-0.1.tar.gz",
+  "download_time": "2025-09-29T16:38:23.979280",
+  "package_url": "https://pypi.org/project/quickopds/"
+}
