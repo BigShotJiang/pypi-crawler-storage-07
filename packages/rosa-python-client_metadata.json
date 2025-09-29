@@ -1,0 +1,11 @@
+{
+  "name": "rosa-python-client",
+  "version": "2.0.16",
+  "summary": "Wrapper for rosa cli",
+  "author": "Meni Yakove",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rosa_python_client-2.0.16.tar.gz",
+  "download_time": "2025-09-29T15:50:13.106451",
+  "package_url": "https://pypi.org/project/rosa-python-client/"
+}

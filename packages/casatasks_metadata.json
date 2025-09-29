@@ -1,0 +1,11 @@
+{
+  "name": "casatasks",
+  "version": "6.7.2.42",
+  "summary": "the CASA tasks",
+  "author": "CASA development team",
+  "license": "GNU Library or Lesser General Public License (LGPL)",
+  "home_page": "https://open-bitbucket.nrao.edu/projects/CASA/repos/casatools/browse",
+  "download_filename": "casatasks-6.7.2.42-py3-none-any.whl",
+  "download_time": "2025-09-29T15:50:32.336512",
+  "package_url": "https://pypi.org/project/casatasks/"
+}

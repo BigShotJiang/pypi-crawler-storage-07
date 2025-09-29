@@ -1,0 +1,11 @@
+{
+  "name": "krummstab",
+  "version": "1.1.1",
+  "summary": "Efficiently give feedback on ADAM submissions at University of Basel",
+  "author": "Remo Christen",
+  "license": "GPL3+",
+  "home_page": "https://github.com/aibasel-teaching/krummstab",
+  "download_filename": "krummstab-1.1.1.tar.gz",
+  "download_time": "2025-09-29T15:50:28.857404",
+  "package_url": "https://pypi.org/project/krummstab/"
+}

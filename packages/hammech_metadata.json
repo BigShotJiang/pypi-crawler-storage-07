@@ -1,0 +1,11 @@
+{
+  "name": "hammech",
+  "version": "0.1.0",
+  "summary": "Hamiltonian-inspired phase space calculator for entropy-information flows",
+  "author": "rsx",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hammech-0.1.0.tar.gz",
+  "download_time": "2025-09-29T15:50:14.831433",
+  "package_url": "https://pypi.org/project/hammech/"
+}

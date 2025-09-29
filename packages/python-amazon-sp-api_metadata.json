@@ -1,11 +1,11 @@
 {
   "name": "python-amazon-sp-api",
-  "version": "1.9.49",
+  "version": "1.9.50",
   "summary": "Python wrapper for the Amazon Selling-Partner API",
   "author": "Michael",
   "license": "MIT",
   "home_page": "https://github.com/saleweaver/python-amazon-sp-api",
-  "download_filename": "python_amazon_sp_api-1.9.49.tar.gz",
-  "download_time": "2025-09-29T14:48:47.562945",
+  "download_filename": "python_amazon_sp_api-1.9.50.tar.gz",
+  "download_time": "2025-09-29T15:49:59.360034",
   "package_url": "https://pypi.org/project/python-amazon-sp-api/"
 }

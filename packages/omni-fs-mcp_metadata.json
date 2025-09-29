@@ -1,0 +1,11 @@
+{
+  "name": "omni-fs-mcp",
+  "version": "0.1.8",
+  "summary": "Omni-FS-MCP is an MCP server that supports managing multiple types of file systems, such as local FS, S3, R2, B2, WebDAV, and others, in one MCP server. It is built on top of OpenDAL.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "omni_fs_mcp-0.1.8.tar.gz",
+  "download_time": "2025-09-29T15:50:06.101054",
+  "package_url": "https://pypi.org/project/omni-fs-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-edi-webservice-oca",
+  "version": "18.0.1.0.1",
+  "summary": "Defines webservice integration from EDI Exchange records",
+  "author": "Dixmit, Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/edi-framework",
+  "download_filename": "odoo_addon_edi_webservice_oca-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-09-29T15:50:34.057996",
+  "package_url": "https://pypi.org/project/odoo-addon-edi-webservice-oca/"
+}
