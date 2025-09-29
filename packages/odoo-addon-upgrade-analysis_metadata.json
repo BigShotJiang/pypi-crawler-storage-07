@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-upgrade-analysis",
+  "version": "18.0.1.4.3",
+  "summary": "Performs a difference analysis between modules installed on two different Odoo instances",
+  "author": "Therp BV, Opener B.V., GRAP, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-tools",
+  "download_filename": "odoo_addon_upgrade_analysis-18.0.1.4.3-py3-none-any.whl",
+  "download_time": "2025-09-29T04:13:39.549256",
+  "package_url": "https://pypi.org/project/odoo-addon-upgrade-analysis/"
+}

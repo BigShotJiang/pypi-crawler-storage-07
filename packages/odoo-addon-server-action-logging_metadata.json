@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-server-action-logging",
+  "version": "17.0.1.0.0.8",
+  "summary": "Module that provides a logging mechanism for server actions",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/server-tools",
+  "download_filename": "odoo_addon_server_action_logging-17.0.1.0.0.8-py3-none-any.whl",
+  "download_time": "2025-09-29T04:13:38.515666",
+  "package_url": "https://pypi.org/project/odoo-addon-server-action-logging/"
+}

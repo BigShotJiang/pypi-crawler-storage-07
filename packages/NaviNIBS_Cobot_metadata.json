@@ -1,0 +1,11 @@
+{
+  "name": "NaviNIBS_Cobot",
+  "version": "0.1.6",
+  "summary": "NaviNIBS addon for Cobot control",
+  "author": "Christopher C. Cline",
+  "license": "LGPL-3.0-only",
+  "home_page": "https://github.com/PrecisionNeuroLab/NaviNIBS",
+  "download_filename": "navinibs_cobot-0.1.6.tar.gz",
+  "download_time": "2025-09-29T04:13:26.080554",
+  "package_url": "https://pypi.org/project/NaviNIBS_Cobot/"
+}
