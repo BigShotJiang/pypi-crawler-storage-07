@@ -1,11 +1,11 @@
 {
   "name": "process-improvement",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "summary": "A Python package for undersanding variation in business and manufacturing processes using process behavior charts.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "process_improvement-1.1.0.tar.gz",
-  "download_time": "2025-09-29T17:10:52.316173",
+  "download_filename": "process_improvement-1.1.2.tar.gz",
+  "download_time": "2025-09-29T18:16:08.258368",
   "package_url": "https://pypi.org/project/process-improvement/"
 }

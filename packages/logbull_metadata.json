@@ -1,11 +1,11 @@
 {
   "name": "logbull",
-  "version": "0.3.0",
+  "version": "0.5.0",
   "summary": "LogBull Python client library for sending logs to LogBull server",
   "author": "LogBull Team",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "logbull-0.3.0.tar.gz",
-  "download_time": "2025-09-29T16:38:21.067377",
+  "download_filename": "logbull-0.5.0.tar.gz",
+  "download_time": "2025-09-29T18:16:04.895159",
   "package_url": "https://pypi.org/project/logbull/"
 }

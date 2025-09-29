@@ -1,11 +1,11 @@
 {
   "name": "joblet-sdk-python",
-  "version": "0.1.0",
+  "version": "1.1.4",
   "summary": "Python SDK for Joblet - A distributed task execution system",
   "author": "Joblet Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "joblet_sdk_python-0.1.0.tar.gz",
-  "download_time": "2025-09-29T17:37:46.240453",
+  "download_filename": "joblet_sdk_python-1.1.4.tar.gz",
+  "download_time": "2025-09-29T18:16:17.841140",
   "package_url": "https://pypi.org/project/joblet-sdk-python/"
 }
