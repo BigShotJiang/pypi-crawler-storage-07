@@ -1,11 +1,11 @@
 {
   "name": "nt25",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Neo's Tools of Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nt25-1.0.1.tar.gz",
-  "download_time": "2025-09-26T13:01:45.046861",
+  "download_filename": "nt25-1.0.2.tar.gz",
+  "download_time": "2025-09-29T07:30:26.292541",
   "package_url": "https://pypi.org/project/nt25/"
 }

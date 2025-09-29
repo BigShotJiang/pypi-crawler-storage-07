@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-shift-attendance",
+  "version": "16.0.1.0.0.11",
+  "summary": "Volunteer Timetable Management",
+  "author": "Elouan Le Bars, Coop IT Easy SC, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/beescoop/Obeesdoo",
+  "download_filename": "odoo_addon_shift_attendance-16.0.1.0.0.11.tar.gz",
+  "download_time": "2025-09-29T07:30:10.300262",
+  "package_url": "https://pypi.org/project/odoo-addon-shift-attendance/"
+}

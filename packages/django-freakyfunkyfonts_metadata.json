@@ -1,11 +1,11 @@
 {
   "name": "django-freakyfunkyfonts",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Django middleware for when you want your fonts to get freaky.",
   "author": "Naitsabot",
   "license": null,
   "home_page": null,
-  "download_filename": "django_freakyfunkyfonts-1.0.3.tar.gz",
-  "download_time": "2025-09-28T21:08:57.951225",
+  "download_filename": "django_freakyfunkyfonts-1.0.4.tar.gz",
+  "download_time": "2025-09-29T07:30:16.879587",
   "package_url": "https://pypi.org/project/django-freakyfunkyfonts/"
 }

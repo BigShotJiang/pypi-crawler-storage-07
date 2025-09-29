@@ -1,0 +1,11 @@
+{
+  "name": "pyconverters-pyexcel",
+  "version": "0.5.33",
+  "summary": "Convert XLSX to 1-segment per row document",
+  "author": "Olivier Terrier",
+  "license": null,
+  "home_page": "https://github.com/oterrier/pyconverters_pyexcel/",
+  "download_filename": "pyconverters_pyexcel-0.5.33.tar.gz",
+  "download_time": "2025-09-29T07:30:13.028047",
+  "package_url": "https://pypi.org/project/pyconverters-pyexcel/"
+}

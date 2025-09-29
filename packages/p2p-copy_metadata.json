@@ -1,0 +1,11 @@
+{
+  "name": "p2p-copy",
+  "version": "0.1.0",
+  "summary": "P2P-style file transfer over WSS with chunk streaming.",
+  "author": "AfuLD",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "p2p_copy-0.1.0.tar.gz",
+  "download_time": "2025-09-29T07:30:14.133463",
+  "package_url": "https://pypi.org/project/p2p-copy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyKamipi",
+  "version": "3.0.0",
+  "summary": "A Python Library For Kamibot-Pi",
+  "author": "devdio",
+  "license": "GNU GPLv3",
+  "home_page": "http://www.moyalab.com",
+  "download_filename": "pykamipi-3.0.0-py3-none-any.whl",
+  "download_time": "2025-09-29T07:30:18.002919",
+  "package_url": "https://pypi.org/project/pyKamipi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iso18245_uz",
+  "version": "1.4.3",
+  "summary": "The ISO 18245 Merchant Category Codes database with descriptions translated from English to Russian and Uzbek",
+  "author": "Jerome Leclanche",
+  "license": "MIT",
+  "home_page": "https://github.com/aslon1213/python-iso18245",
+  "download_filename": "iso18245_uz-1.4.3.tar.gz",
+  "download_time": "2025-09-29T07:30:07.618002",
+  "package_url": "https://pypi.org/project/iso18245_uz/"
+}
