@@ -1,11 +1,11 @@
 {
   "name": "tianxiadatong-wx-robot",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "summary": "tianxiadatong_wx_robot SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tianxiadatong_wx_robot-0.0.4.tar.gz",
-  "download_time": "2025-09-28T13:16:49.795544",
+  "download_filename": "tianxiadatong_wx_robot-0.0.7.tar.gz",
+  "download_time": "2025-09-29T09:13:58.978243",
   "package_url": "https://pypi.org/project/tianxiadatong-wx-robot/"
 }

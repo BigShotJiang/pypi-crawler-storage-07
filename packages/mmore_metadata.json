@@ -1,0 +1,11 @@
+{
+  "name": "mmore",
+  "version": "1.1",
+  "summary": "mmore: Scalable multimodal document extraction pipeline for custom RAG integration.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mmore-1.1-py3-none-any.whl",
+  "download_time": "2025-09-29T09:13:32.353516",
+  "package_url": "https://pypi.org/project/mmore/"
+}

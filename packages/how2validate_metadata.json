@@ -1,0 +1,11 @@
+{
+  "name": "how2validate",
+  "version": "0.1.6",
+  "summary": "A CLI tool to validate secrets for different services.",
+  "author": "Vigneshkna",
+  "license": "MIT",
+  "home_page": "https://github.com/Blackplums/how2validate",
+  "download_filename": "how2validate-0.1.6.tar.gz",
+  "download_time": "2025-09-29T09:14:01.058582",
+  "package_url": "https://pypi.org/project/how2validate/"
+}
