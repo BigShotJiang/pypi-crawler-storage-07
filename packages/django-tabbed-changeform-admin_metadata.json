@@ -1,0 +1,11 @@
+{
+  "name": "django-tabbed-changeform-admin",
+  "version": "0.1.8",
+  "summary": "Group fieldsets or inlinegroups into tabs for django admin's changeform.",
+  "author": "rRR0VrFP",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_tabbed_changeform_admin-0.1.8.tar.gz",
+  "download_time": "2025-09-29T12:21:07.599289",
+  "package_url": "https://pypi.org/project/django-tabbed-changeform-admin/"
+}

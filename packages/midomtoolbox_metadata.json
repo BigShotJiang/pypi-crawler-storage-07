@@ -1,0 +1,11 @@
+{
+  "name": "midomtoolbox",
+  "version": "0.1.0",
+  "summary": "Shape, convert, summarize and analyse MIDOM deidentification Protocols",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "midomtoolbox-0.1.0.tar.gz",
+  "download_time": "2025-09-29T12:21:08.638844",
+  "package_url": "https://pypi.org/project/midomtoolbox/"
+}

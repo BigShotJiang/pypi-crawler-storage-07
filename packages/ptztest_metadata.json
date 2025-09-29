@@ -1,0 +1,11 @@
+{
+  "name": "ptztest",
+  "version": "0.0.1",
+  "summary": "A harmless dummy package created for testing downloads.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ptztest-0.0.1.tar.gz",
+  "download_time": "2025-09-29T12:21:15.936318",
+  "package_url": "https://pypi.org/project/ptztest/"
+}

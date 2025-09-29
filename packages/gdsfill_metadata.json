@@ -1,0 +1,11 @@
+{
+  "name": "gdsfill",
+  "version": "0.1.2",
+  "summary": "Open-source tool for inserting dummy metal fill into semiconductor layouts.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gdsfill-0.1.2.tar.gz",
+  "download_time": "2025-09-29T12:21:20.135465",
+  "package_url": "https://pypi.org/project/gdsfill/"
+}

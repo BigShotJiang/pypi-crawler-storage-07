@@ -1,0 +1,11 @@
+{
+  "name": "hatch-regex-commit",
+  "version": "0.0.4",
+  "summary": "Hatch plugin to create a commit and tag when bumping version",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hatch_regex_commit-0.0.4.tar.gz",
+  "download_time": "2025-09-29T12:21:13.331219",
+  "package_url": "https://pypi.org/project/hatch-regex-commit/"
+}

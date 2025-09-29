@@ -1,0 +1,11 @@
+{
+  "name": "za-id-number",
+  "version": "0.1.1",
+  "summary": "South African (RSA/ZA) Identity Number checking and validation library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "za_id_number-0.1.1.tar.gz",
+  "download_time": "2025-09-29T12:21:02.320725",
+  "package_url": "https://pypi.org/project/za-id-number/"
+}
