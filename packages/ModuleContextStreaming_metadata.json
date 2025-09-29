@@ -1,0 +1,11 @@
+{
+  "name": "ModuleContextStreaming",
+  "version": "0.0.2",
+  "summary": "A gRPC service for providing real-time, streamable context to LLMs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "modulecontextstreaming-0.0.2.tar.gz",
+  "download_time": "2025-09-29T17:30:00.671519",
+  "package_url": "https://pypi.org/project/ModuleContextStreaming/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ngs-pipeline-lib",
-  "version": "4.3.0",
+  "version": "4.6.0.0",
   "summary": "Common code used by every processes in Bio Pipelines",
   "author": "Vincent ROHOU",
   "license": null,
   "home_page": null,
-  "download_filename": "ngs_pipeline_lib-4.3.0.tar.gz",
-  "download_time": "2025-09-29T16:50:29.385208",
+  "download_filename": "ngs_pipeline_lib-4.6.0.0.tar.gz",
+  "download_time": "2025-09-29T17:29:52.254930",
   "package_url": "https://pypi.org/project/ngs-pipeline-lib/"
 }

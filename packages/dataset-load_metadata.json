@@ -1,0 +1,11 @@
+{
+  "name": "dataset-load",
+  "version": "0.1.0",
+  "summary": "Load dataset using API call and convert json to pandas",
+  "author": "Ananya",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dataset_load-0.1.0.tar.gz",
+  "download_time": "2025-09-29T17:30:01.833449",
+  "package_url": "https://pypi.org/project/dataset-load/"
+}

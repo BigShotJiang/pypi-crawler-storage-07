@@ -1,0 +1,11 @@
+{
+  "name": "antarys",
+  "version": "0.1.1",
+  "summary": "High-performance Python client for Antarys vector database",
+  "author": "Antarys",
+  "license": null,
+  "home_page": "https://github.com/antarys-ai/antarys-python/",
+  "download_filename": "antarys-0.1.1.tar.gz",
+  "download_time": "2025-09-29T17:29:42.911345",
+  "package_url": "https://pypi.org/project/antarys/"
+}
