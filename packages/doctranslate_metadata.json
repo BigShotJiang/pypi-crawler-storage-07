@@ -1,11 +1,11 @@
 {
   "name": "doctranslate",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "summary": "文件翻译工具",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "doctranslate-1.5.3.tar.gz",
-  "download_time": "2025-09-29T19:48:45.324927",
+  "download_filename": "doctranslate-1.5.4.tar.gz",
+  "download_time": "2025-09-29T21:26:36.422550",
   "package_url": "https://pypi.org/project/doctranslate/"
 }

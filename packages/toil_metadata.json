@@ -1,0 +1,11 @@
+{
+  "name": "toil",
+  "version": "9.1.1",
+  "summary": "Pipeline management software for clusters.",
+  "author": "Benedict Paten and the Toil community",
+  "license": "Apache License v2.0",
+  "home_page": "https://github.com/DataBiosphere/toil",
+  "download_filename": "toil-9.1.1.tar.gz",
+  "download_time": "2025-09-29T21:26:31.044585",
+  "package_url": "https://pypi.org/project/toil/"
+}
