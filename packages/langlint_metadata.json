@@ -1,0 +1,11 @@
+{
+  "name": "langlint",
+  "version": "0.1.0.dev0",
+  "summary": "A lightweight language linter",
+  "author": "LangLint Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langlint-0.1.0.dev0.tar.gz",
+  "download_time": "2025-09-29T05:32:15.138271",
+  "package_url": "https://pypi.org/project/langlint/"
+}

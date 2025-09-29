@@ -1,11 +1,11 @@
 {
   "name": "yta-numpy",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "summary": "Youtube Autonomous Numpy Helper Module.",
   "author": "danialcala94",
   "license": null,
   "home_page": null,
-  "download_filename": "yta_numpy-0.0.11.tar.gz",
-  "download_time": "2025-09-28T20:10:36.964750",
+  "download_filename": "yta_numpy-0.0.12.tar.gz",
+  "download_time": "2025-09-29T05:32:14.563382",
   "package_url": "https://pypi.org/project/yta-numpy/"
 }

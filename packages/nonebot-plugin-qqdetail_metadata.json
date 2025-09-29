@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-qqdetail",
+  "version": "2.0.0",
+  "summary": "让机器人查询QQ详细信息 (使用OneBot API)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot_plugin_qqdetail-2.0.0.tar.gz",
+  "download_time": "2025-09-29T05:32:27.562523",
+  "package_url": "https://pypi.org/project/nonebot-plugin-qqdetail/"
+}

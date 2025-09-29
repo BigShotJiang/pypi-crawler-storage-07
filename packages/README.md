@@ -1,15 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-29T05:12:28.212328
-- **Total Packages**: 92
-- **Total Size**: 15.47 MB
+- **Download Time**: 2025-09-29T05:33:07.229767
+- **Total Packages**: 91
+- **Total Size**: 10.47 MB
 
 ## Packages List
+- yta-numpy
+- langlint
+- crawlee
+- new-server
+- typed-linq-collections
+- syndesi
+- fred-oss
+- doris-vector-search
+- stigg-api-client-v2
+- authentik-client
+- clwe
+- stigg-sidecar-sdk
+- yta-video-masking
+- stigg-api-client
+- koda-validate
+- multimetric
+- lt-tensor
+- benchmark-runner
+- scm-python-edu
+- iranetf
+- machineconfig
+- FaaSr-py
+- nonebot-plugin-qqdetail
+- tablestore-openmemory-mcp
+- pptagent
+- devstack-cli
+- z-zytome
+- tomling
+- whale-tda
+- crawlo
+- pulumi-akamai
+- keywordsai-sdk
 - TyphonBreaker
 - batchcal
 - my-cloud-devops-consulting
-- authentik-client
 - dynamicdns
 - gocheck
 - dicompare
@@ -18,15 +49,12 @@
 - florestmessangerapi
 - mcp-server-aliyun-observability
 - navam
-- machineconfig
 - ft-pandas-ta
 - moto-ext
-- z-zytome
 - yta-video-base
 - syft-client
 - django-bigredbutton
 - scm-python-host
-- pptagent
 - medvision-segmentation
 - soildb
 - d2-sdk
@@ -69,32 +97,3 @@
 - livekit-plugins-fireworksai
 - livekit-plugins-fal
 - livekit-plugins-elevenlabs
-- livekit-plugins-deepgram
-- livekit-plugins-clova
-- livekit-plugins-cartesia
-- livekit-plugins-bithuman
-- livekit-plugins-bey
-- livekit-plugins-baseten
-- livekit-plugins-azure
-- livekit-plugins-aws
-- livekit-plugins-assemblyai
-- livekit-plugins-anthropic
-- livekit-plugins-anam
-- livekit-agents
-- clinicedc
-- pgcopylib
-- iamdata
-- uniscan
-- FaaSr-py
-- prevectorchunks
-- yta-project-editor
-- chatterer
-- nexaai
-- yta-video-editor
-- ncatbot
-- llmakits
-- MemoLib
-- lxmfy-js8call-bot
-- olyptik
-- bosa-connectors-binary
-- pypdftotext

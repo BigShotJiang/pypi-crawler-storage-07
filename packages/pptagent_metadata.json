@@ -1,11 +1,11 @@
 {
   "name": "pptagent",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "PPTAgent, a tool for utilizing LLMs to generate PowerPoint presentations from documents.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pptagent-0.2.6.tar.gz",
-  "download_time": "2025-09-29T05:11:51.558904",
+  "download_filename": "pptagent-0.2.7.tar.gz",
+  "download_time": "2025-09-29T05:32:28.759057",
   "package_url": "https://pypi.org/project/pptagent/"
 }

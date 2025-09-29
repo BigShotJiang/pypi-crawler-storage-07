@@ -1,11 +1,11 @@
 {
   "name": "FaaSr-py",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "faasr_py-0.1.10.tar.gz",
-  "download_time": "2025-09-29T04:50:36.323430",
+  "download_filename": "faasr_py-0.1.11.tar.gz",
+  "download_time": "2025-09-29T05:32:26.872277",
   "package_url": "https://pypi.org/project/FaaSr-py/"
 }
