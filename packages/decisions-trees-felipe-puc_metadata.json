@@ -1,0 +1,11 @@
+{
+  "name": "decisions-trees-felipe-puc",
+  "version": "0.1.0",
+  "summary": "Implementação e comparação de algoritmos de árvore de decisão (ID3, C4.5, CART) no dataset do Titanic.",
+  "author": "Felipe Silva Faria",
+  "license": null,
+  "home_page": "https://github.com/felipefaaria/IA",
+  "download_filename": "decisions_trees_felipe_puc-0.1.0.tar.gz",
+  "download_time": "2025-09-29T00:48:04.057785",
+  "package_url": "https://pypi.org/project/decisions-trees-felipe-puc/"
+}

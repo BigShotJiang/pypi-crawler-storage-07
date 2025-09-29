@@ -1,0 +1,11 @@
+{
+  "name": "prevectorchunks",
+  "version": "0.1.2",
+  "summary": "A Python module that allows to convert a document into chunks to be inserted into pinecone vector database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "prevectorchunks-0.1.2-py3-none-any.whl",
+  "download_time": "2025-09-29T00:47:50.753549",
+  "package_url": "https://pypi.org/project/prevectorchunks/"
+}

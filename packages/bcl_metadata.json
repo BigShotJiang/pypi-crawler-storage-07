@@ -1,0 +1,11 @@
+{
+  "name": "bcl",
+  "version": "3.0.0",
+  "summary": "Python library that provides a simple interface for symmetric (i.e., secret-key) and asymmetric (i.e., public-key) encryption/decryption primitives.",
+  "author": "Nth Party",
+  "license": "MIT",
+  "home_page": "https://github.com/nthparty/bcl",
+  "download_filename": "bcl-3.0.0.tar.gz",
+  "download_time": "2025-09-29T00:47:49.578359",
+  "package_url": "https://pypi.org/project/bcl/"
+}

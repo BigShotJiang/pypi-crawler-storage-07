@@ -1,0 +1,11 @@
+{
+  "name": "VNP21A1D-002",
+  "version": "1.2.1",
+  "summary": "VIIRS/NPP Land Surface Temperature/Emissivity Daily L3 Global 1 km SIN Grid Day Search and Download Utility",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vnp21a1d_002-1.2.1.tar.gz",
+  "download_time": "2025-09-29T00:48:05.237747",
+  "package_url": "https://pypi.org/project/VNP21A1D-002/"
+}

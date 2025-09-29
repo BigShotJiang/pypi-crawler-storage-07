@@ -1,11 +1,11 @@
 {
   "name": "SoullessAi-Dem",
-  "version": "1.0.4",
-  "summary": "Библиотека для генерации демотиваторов",
-  "author": "ceylon",
+  "version": "1.0.9",
+  "summary": "Библиотека для создания демотиваторов",
+  "author": "ceylon1cy",
   "license": null,
   "home_page": null,
-  "download_filename": "SoullessAi-Dem-1.0.4.tar.gz",
-  "download_time": "2025-09-28T23:33:01.866699",
+  "download_filename": "SoullessAi-Dem-1.0.9.tar.gz",
+  "download_time": "2025-09-29T00:47:28.406145",
   "package_url": "https://pypi.org/project/SoullessAi-Dem/"
 }
