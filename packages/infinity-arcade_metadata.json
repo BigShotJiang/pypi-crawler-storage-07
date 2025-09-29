@@ -1,0 +1,11 @@
+{
+  "name": "infinity-arcade",
+  "version": "0.2.0",
+  "summary": "AI-powered game generator and arcade using Lemonade Server",
+  "author": "Lemonade SDK",
+  "license": null,
+  "home_page": null,
+  "download_filename": "infinity_arcade-0.2.0.tar.gz",
+  "download_time": "2025-09-29T20:48:06.359085",
+  "package_url": "https://pypi.org/project/infinity-arcade/"
+}

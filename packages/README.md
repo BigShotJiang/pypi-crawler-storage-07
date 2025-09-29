@@ -1,11 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-29T20:38:40.921481
-- **Total Packages**: 85
-- **Total Size**: 7.22 MB
+- **Download Time**: 2025-09-29T20:48:48.780781
+- **Total Packages**: 90
+- **Total Size**: 8.59 MB
 
 ## Packages List
+- django-tree
+- planqk-quantum
+- plugantic
+- ddns-updater-ext
+- ros-cdk-bastionhost
+- ni.measurementlink.sessionmanagement.v1.client
+- geek-cafe-services
+- pds-data-upload-manager
+- ros-cdk-polardb
+- genai-prices
+- kubectl-py
+- infinity-arcade
+- intvert
+- resolution-aware-transformer
+- rmonico.tabular
+- basis-splines
+- cuda-pathfinder
+- cloudera-airflow-provider
+- streamable
+- integrate-ai
+- databricks-langchain
+- dragonfly-display
+- tap-clinicaltrials
+- getstream
+- cutflow-compare
+- flopy
+- tccli-intl-en
 - clud
 - bridge-events
 - tessdb-api
@@ -35,7 +62,6 @@
 - horizen-fastapi-template
 - SiEPIC
 - contextgraph
-- microforge
 - scoutsdk
 - minibanana
 - ros-cdk-clickhouse
@@ -55,7 +81,6 @@
 - yxf
 - autospice
 - kineticstoolkit
-- ddns-updater-ext
 - abcattrs
 - scalable-pypeline
 - heyfastq
@@ -71,23 +96,3 @@
 - timesketch-cli-client
 - PYield
 - ros-cdk-sae
-- claude-code-sdk
-- timesketch-api-client
-- log_to_db
-- python-lsp-ruff
-- langflow-nightly
-- logzai-otlp
-- climax-rfglab
-- lusid-sdk
-- django-tree
-- lfx-nightly
-- dataforge-sdk
-- djangorestframework-stubs
-- lumipy
-- fontdownloader
-- ssh-proto-types
-- pulse-mantine
-- pywbem
-- pulse-framework
-- mc-postgres-db
-- opsrampcli
