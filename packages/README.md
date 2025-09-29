@@ -1,19 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-29T10:36:59.281239
-- **Total Packages**: 84
-- **Total Size**: 27.19 MB
+- **Download Time**: 2025-09-29T10:50:23.356962
+- **Total Packages**: 83
+- **Total Size**: 19.72 MB
 
 ## Packages List
+- osidb-bindings
+- alibabacloud-cloudauth-intl20220809
+- fastapi-radar
+- wgpu
+- SoullessAi-Dem
+- jaf-py
+- konduktor-nightly
+- signnow-mcp-server
+- shinkuro
+- starstack
+- trainy-policy-nightly
+- yookassa
+- cognite-toolkit
+- msci.sdk
+- energysystemmodels
+- authentik-client
+- numba
+- codegen-cli
+- letta-nightly
+- nvenn2
+- optimum-rbln
+- aiohomematic
+- e2b-fastmcp-server
+- waldur-api-client
+- MedImageInsights
+- tortreinador
+- OptimaLab35
+- amvka
+- extrator-xml-fiscal
+- shotgun-sh
+- gllm-inference-binary
+- ais-dagger-agents-config
+- vsec-tls
+- ironBars
+- Google-Analytic-Process
+- skilleter-thingy
+- xiaohongshu-ecommerce
 - python-osw-validation
 - fms-acceleration
 - fms-acceleration-moe
-- starstack
 - airweave-sdk
 - vertex-batch
 - neuro-config-client
-- OptimaLab35
 - pydrght
 - designer-dna
 - charlie-dots-ocr
@@ -23,13 +58,11 @@
 - mosaic-gui
 - appium-python-client-shadowstep
 - airthings-ble
-- shotgun-sh
 - ucdp-sv
 - ucdp
 - machineconfig
 - hibiz-any-llm
 - todoforai-edge-cli
-- authentik-client
 - mmar-mapi
 - eodc-faas-openeo
 - ngstrefftz
@@ -37,7 +70,6 @@
 - retracesoftware-functional
 - pkg-deploy
 - retracesoftware-stream
-- skilleter-thingy
 - lybic
 - newsmlg2
 - liblaf-cherries
@@ -57,36 +89,3 @@
 - dnv-bladed-models
 - fers-calculations
 - langchain-hana
-- prelude-python-sdk
-- ai-edge-torch-nightly
-- ai-course
-- llmakits
-- pylammpsmpi
-- arthur-client
-- agentics-py
-- retracesoftware-proxy
-- ldc-xac
-- pathfinder2e-stats
-- fastapi-injectable
-- Sparkle
-- wandelbots-api-client
-- talisman-interfaces
-- bitquery-corecast-proto
-- collect-homework
-- nvidia-nat-llama-index
-- nbcmdio
-- nvidia-nat-s3
-- nvidia-nat
-- PySide6-ElaWidgetTools
-- nvidia-nat-all
-- PyQt6-ElaWidgetTools
-- nvidia-nat-weave
-- PyQt5-ElaWidgetTools
-- nvidia-nat-adk
-- nvidia-nat-mem0ai
-- grid-api
-- nvidia-nat-zep-cloud
-- nvidia-nat-mcp
-- nvidia-nat-phoenix
-- beautifulsoup4
-- enpt

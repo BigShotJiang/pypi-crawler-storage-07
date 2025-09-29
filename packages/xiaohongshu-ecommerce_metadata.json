@@ -1,0 +1,11 @@
+{
+  "name": "xiaohongshu-ecommerce",
+  "version": "0.1.0",
+  "summary": "Python SDK for Xiaohongshu (Little Red Book) ecommerce API with automatic token management",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xiaohongshu_ecommerce-0.1.0.tar.gz",
+  "download_time": "2025-09-29T10:49:58.414257",
+  "package_url": "https://pypi.org/project/xiaohongshu-ecommerce/"
+}

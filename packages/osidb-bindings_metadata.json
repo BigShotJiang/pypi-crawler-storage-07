@@ -1,0 +1,11 @@
+{
+  "name": "osidb-bindings",
+  "version": "4.16.0",
+  "summary": "Python bindings for accessing OSIDB API",
+  "author": "Jakub Frejlach, Red Hat Product Security",
+  "license": null,
+  "home_page": "https://github.com/RedHatProductSecurity/osidb-bindings",
+  "download_filename": "osidb_bindings-4.16.0.tar.gz",
+  "download_time": "2025-09-29T10:49:39.214123",
+  "package_url": "https://pypi.org/project/osidb-bindings/"
+}
