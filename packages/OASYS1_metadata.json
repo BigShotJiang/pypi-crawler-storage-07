@@ -1,0 +1,11 @@
+{
+  "name": "OASYS1",
+  "version": "1.2.148",
+  "summary": "OrAnge SYnchrotron Suite",
+  "author": "Luca Rebuffi, Manuel Sanchez del Rio and Bioinformatics Laboratory, FRI UL",
+  "license": "GPLv3",
+  "home_page": "https://github.com/oasys-kit/OASYS1",
+  "download_filename": "OASYS1-1.2.148.tar.gz",
+  "download_time": "2025-09-29T19:31:59.101260",
+  "package_url": "https://pypi.org/project/OASYS1/"
+}
