@@ -1,11 +1,11 @@
 {
   "name": "bpreveal",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "summary": "BPReveal is a suite of tools for deep learning on genomics data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bpreveal-5.2.1-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
-  "download_time": "2025-09-29T17:37:56.166834",
+  "download_filename": "bpreveal-5.2.2-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2025-09-29T21:33:04.231735",
   "package_url": "https://pypi.org/project/bpreveal/"
 }
