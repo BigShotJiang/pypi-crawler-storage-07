@@ -1,11 +1,11 @@
 {
   "name": "ai-model-adapter",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "一个简化的AI模型适配器，专注于消息收发和图片生成功能",
   "author": "洛小山",
   "license": "MIT",
   "home_page": "https://github.com/itshen/ai_adapter",
-  "download_filename": "ai_model_adapter-1.0.4.tar.gz",
-  "download_time": "2025-09-29T18:15:58.732960",
+  "download_filename": "ai_model_adapter-1.0.5.tar.gz",
+  "download_time": "2025-09-29T18:43:32.570199",
   "package_url": "https://pypi.org/project/ai-model-adapter/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "code-size-analyzer-client-python",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "summary": "FastAPI",
-  "author": "OpenAPI Generator community",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "code_size_analyzer_client_python-1.1.1.tar.gz",
-  "download_time": "2025-09-29T16:50:18.972380",
+  "download_filename": "code_size_analyzer_client_python-1.2.0.tar.gz",
+  "download_time": "2025-09-29T18:43:16.810918",
   "package_url": "https://pypi.org/project/code-size-analyzer-client-python/"
 }

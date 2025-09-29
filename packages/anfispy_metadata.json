@@ -1,11 +1,11 @@
 {
   "name": "anfispy",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "summary": null,
   "author": "Matheus Zaia Monteiro",
   "license": null,
   "home_page": "https://github.com/mZaiam/ANFISpy",
-  "download_filename": "anfispy-1.1.4.tar.gz",
-  "download_time": "2025-09-27T19:32:52.689374",
+  "download_filename": "anfispy-1.1.5.tar.gz",
+  "download_time": "2025-09-29T18:43:07.572093",
   "package_url": "https://pypi.org/project/anfispy/"
 }

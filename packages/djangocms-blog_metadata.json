@@ -1,0 +1,11 @@
+{
+  "name": "djangocms-blog",
+  "version": "2.0.8",
+  "summary": "The blog application for django CMS",
+  "author": "Iacopo Spalletti",
+  "license": "BSD",
+  "home_page": "https://github.com/nephila/djangocms-blog",
+  "download_filename": "djangocms_blog-2.0.8.tar.gz",
+  "download_time": "2025-09-29T18:43:15.202108",
+  "package_url": "https://pypi.org/project/djangocms-blog/"
+}

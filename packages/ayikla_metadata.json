@@ -1,11 +1,11 @@
 {
   "name": "ayikla",
-  "version": "1.1.6",
-  "summary": "Türkçe metinlerden isim, telefon ve tarih/saat ayıklayan kütüphane.",
+  "version": "1.1.10",
+  "summary": "Türkçe metinlerden isim, telefon, tarih/saat ve lokasyon/adres blokları ayıklayan kütüphane.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ayikla-1.1.6.tar.gz",
-  "download_time": "2025-09-28T21:08:36.977854",
+  "download_filename": "ayikla-1.1.10.tar.gz",
+  "download_time": "2025-09-29T18:43:10.846696",
   "package_url": "https://pypi.org/project/ayikla/"
 }

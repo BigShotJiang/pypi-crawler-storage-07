@@ -1,0 +1,11 @@
+{
+  "name": "webauthn",
+  "version": "2.7.0",
+  "summary": "Pythonic WebAuthn",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "webauthn-2.7.0.tar.gz",
+  "download_time": "2025-09-29T18:43:39.844953",
+  "package_url": "https://pypi.org/project/webauthn/"
+}
