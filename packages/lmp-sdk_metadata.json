@@ -1,11 +1,11 @@
 {
   "name": "lmp-sdk",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "An awesome SDK for weather data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lmp_sdk-0.2.1.tar.gz",
-  "download_time": "2025-09-28T02:26:32.981067",
+  "download_filename": "lmp_sdk-0.3.0.tar.gz",
+  "download_time": "2025-09-29T07:47:43.611991",
   "package_url": "https://pypi.org/project/lmp-sdk/"
 }

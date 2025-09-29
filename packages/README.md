@@ -1,11 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-29T07:40:39.237357
-- **Total Packages**: 78
-- **Total Size**: 30.32 MB
+- **Download Time**: 2025-09-29T07:48:25.967974
+- **Total Packages**: 83
+- **Total Size**: 9.07 MB
 
 ## Packages List
+- hippo-db
+- agentsyun-coupon-mcp-server
+- localstack-core
+- scxpand
+- lmp-sdk
+- BPfold
+- scxpand-cuda
+- phis-build
+- ortpy-lib
+- qwak-core
+- maleo-database
+- youtube-indirici-atilla
+- dqm-ml-pipeline
+- dqm-ml-core
+- flask-file-routes
+- seven-cloudapp-frame
+- codemie-mcp-datasources
+- codemie-mcp-assistants
+- codosdk
+- jsql
+- yahi
+- maleo-infra
+- dqm-ml-images
+- optima35
+- CVNN-Jamie
+- rte-sonar-reports
+- wmill-pg
+- wmill
+- fit-plugin-cli
+- windmill-api
+- orq-ai-sdk
+- ml3-platform-sdk
+- codemie-sdk-python
+- AOT-biomaps
 - srpc
 - hiad
 - data-retrieval-monitor
@@ -13,18 +47,14 @@
 - nldcsc
 - ortpy
 - pyquafu
-- CVNN-Jamie
 - authentik-client
 - tkurses
 - subt-ai-tles
-- youtube-colab-proxy
 - maleo-schemas
 - tidy3d-mcp
-- codosdk
 - weiyuan-mcp-demo
 - tencent-wedata-feature-engineering
 - mosamatic2
-- agentsyun-coupon-mcp-server
 - plane-sdk
 - storey
 - cloudtools-sdk
@@ -59,28 +89,3 @@
 - PyAccessModifier
 - p2p-copy
 - ttcbench
-- cleanote
-- playback-studio
-- django-freakyfunkyfonts
-- power-grid-model-io
-- pyKamipi
-- meyigi-scripts
-- tritonparse
-- cartographer3d-plugin
-- lohas-app-hotel-search-gzp-mcp-server
-- craterstats
-- scruby
-- bizyengine
-- visionpluspython
-- datalibro-backend
-- okeanTweak
-- streamlit-nightly
-- kl-mindbox-shapes-33
-- nt25
-- crawlee
-- gdsfactoryplus
-- tf-models-nightly
-- vcdvcd
-- graph-distributed-sampling
-- pozansky-news-server
-- jaf-py

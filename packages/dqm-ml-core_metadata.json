@@ -1,0 +1,11 @@
+{
+  "name": "dqm-ml-core",
+  "version": "0.0.2",
+  "summary": "Python library designed provide core dqml metrics without huge dependencies, as well as common API shared by metrics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dqm_ml_core-0.0.2.tar.gz",
+  "download_time": "2025-09-29T07:47:48.243974",
+  "package_url": "https://pypi.org/project/dqm-ml-core/"
+}

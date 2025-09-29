@@ -1,0 +1,11 @@
+{
+  "name": "optima35",
+  "version": "1.1.4",
+  "summary": "optima35 is a package to modify images, using pillow and piexif.",
+  "author": "Mr. Finchum",
+  "license": null,
+  "home_page": null,
+  "download_filename": "optima35-1.1.4.tar.gz",
+  "download_time": "2025-09-29T07:47:54.401843",
+  "package_url": "https://pypi.org/project/optima35/"
+}
