@@ -1,11 +1,11 @@
 {
   "name": "halal-image-downloader",
-  "version": "2025.9.29",
+  "version": "2025.9.29.1",
   "summary": "A command-line tool for fast and reliable image downloading from supported sources.",
   "author": "Asdmir786",
   "license": null,
   "home_page": null,
-  "download_filename": "halal_image_downloader-2025.9.29.tar.gz",
-  "download_time": "2025-09-29T04:13:31.781955",
+  "download_filename": "halal_image_downloader-2025.9.29.1.tar.gz",
+  "download_time": "2025-09-29T04:35:18.605795",
   "package_url": "https://pypi.org/project/halal-image-downloader/"
 }

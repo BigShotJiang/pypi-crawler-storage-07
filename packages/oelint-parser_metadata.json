@@ -1,11 +1,11 @@
 {
   "name": "oelint-parser",
-  "version": "8.5.0",
+  "version": "8.5.1",
   "summary": "Alternative parser for bitbake recipe",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oelint_parser-8.5.0.tar.gz",
-  "download_time": "2025-09-28T12:17:35.128655",
+  "download_filename": "oelint_parser-8.5.1.tar.gz",
+  "download_time": "2025-09-29T04:35:13.911213",
   "package_url": "https://pypi.org/project/oelint-parser/"
 }

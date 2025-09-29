@@ -1,11 +1,11 @@
 {
   "name": "mrtrix3-agent",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "MRtrix3 AI Agent",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mrtrix3_agent-1.0.7.tar.gz",
-  "download_time": "2025-09-29T04:13:14.110298",
+  "download_filename": "mrtrix3_agent-1.0.8.tar.gz",
+  "download_time": "2025-09-29T04:35:14.954525",
   "package_url": "https://pypi.org/project/mrtrix3-agent/"
 }

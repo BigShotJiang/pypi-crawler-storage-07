@@ -1,11 +1,11 @@
 {
   "name": "lifespring",
-  "version": "0.0.0.1",
+  "version": "0.0.0.2",
   "summary": "A personal account keeper.",
   "author": "parkcai",
   "license": null,
   "home_page": "https://github.com/parkcai/lifespring",
-  "download_filename": "lifespring-0.0.0.1.tar.gz",
-  "download_time": "2025-09-28T03:26:58.795006",
+  "download_filename": "lifespring-0.0.0.2.tar.gz",
+  "download_time": "2025-09-29T04:35:20.193348",
   "package_url": "https://pypi.org/project/lifespring/"
 }

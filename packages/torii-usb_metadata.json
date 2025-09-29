@@ -1,0 +1,11 @@
+{
+  "name": "torii-usb",
+  "version": "0.8.1",
+  "summary": "Torii HDL framework for FPGA-based USB solutions",
+  "author": "Katherine Temkin",
+  "license": "BSD-3-Clause",
+  "home_page": "https://torii-usb.shmdn.link/",
+  "download_filename": "torii_usb-0.8.1.tar.gz",
+  "download_time": "2025-09-29T04:35:10.190620",
+  "package_url": "https://pypi.org/project/torii-usb/"
+}
