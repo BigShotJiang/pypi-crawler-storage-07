@@ -1,0 +1,11 @@
+{
+  "name": "walide",
+  "version": "0.1.0",
+  "summary": "A differential evolution optimization toolbox",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "walide-0.1.0.tar.gz",
+  "download_time": "2025-09-29T03:49:41.099551",
+  "package_url": "https://pypi.org/project/walide/"
+}
