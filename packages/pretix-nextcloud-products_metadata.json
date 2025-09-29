@@ -1,0 +1,11 @@
+{
+  "name": "pretix-nextcloud-products",
+  "version": "1.0.1",
+  "summary": "Instead of ticket downloads, create share links for Nextcloud",
+  "author": null,
+  "license": "Apache",
+  "home_page": null,
+  "download_filename": "pretix_nextcloud_products-1.0.1.tar.gz",
+  "download_time": "2025-09-29T20:12:19.028462",
+  "package_url": "https://pypi.org/project/pretix-nextcloud-products/"
+}

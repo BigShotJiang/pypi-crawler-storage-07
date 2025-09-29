@@ -1,11 +1,11 @@
 {
   "name": "bioql",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Quantum Computing Framework for Bioinformatics - API Key Authentication Required",
   "author": "BioQL Development Team",
-  "license": null,
+  "license": "MIT",
   "home_page": "https://github.com/yourusername/bioql",
-  "download_filename": "bioql-1.0.2.tar.gz",
-  "download_time": "2025-09-29T19:09:03.579637",
+  "download_filename": "bioql-1.0.3.tar.gz",
+  "download_time": "2025-09-29T20:12:18.516316",
   "package_url": "https://pypi.org/project/bioql/"
 }

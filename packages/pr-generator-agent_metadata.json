@@ -1,0 +1,11 @@
+{
+  "name": "pr-generator-agent",
+  "version": "1.5.0",
+  "summary": "AI-powered Pull Request Description Generator",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pr_generator_agent-1.5.0.tar.gz",
+  "download_time": "2025-09-29T20:12:24.721316",
+  "package_url": "https://pypi.org/project/pr-generator-agent/"
+}

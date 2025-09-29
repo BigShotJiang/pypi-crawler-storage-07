@@ -1,0 +1,11 @@
+{
+  "name": "spatial-grouping-attention",
+  "version": "2025.9.29.1947",
+  "summary": "PyTorch Implementation of Spatial Grouping Attention Layer",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "spatial_grouping_attention-2025.9.29.1947.tar.gz",
+  "download_time": "2025-09-29T20:12:34.019255",
+  "package_url": "https://pypi.org/project/spatial-grouping-attention/"
+}

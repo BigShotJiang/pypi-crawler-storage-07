@@ -1,0 +1,11 @@
+{
+  "name": "contextgraph",
+  "version": "0.1.1",
+  "summary": "A powerful graph database with Cypher query support and advanced visualization capabilities",
+  "author": "Shailesh Jannu",
+  "license": null,
+  "home_page": "https://github.com/shaileshj2803/contextgraph",
+  "download_filename": "contextgraph-0.1.1.tar.gz",
+  "download_time": "2025-09-29T20:12:01.429661",
+  "package_url": "https://pypi.org/project/contextgraph/"
+}

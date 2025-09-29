@@ -1,0 +1,11 @@
+{
+  "name": "wattslab-atlas",
+  "version": "1.2.0",
+  "summary": "Python SDK for Atlas API - A research cartography platform",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wattslab_atlas-1.2.0.tar.gz",
+  "download_time": "2025-09-29T20:12:28.347030",
+  "package_url": "https://pypi.org/project/wattslab-atlas/"
+}
