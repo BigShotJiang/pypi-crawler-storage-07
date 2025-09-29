@@ -1,0 +1,11 @@
+{
+  "name": "pysmhi",
+  "version": "1.1.0",
+  "summary": "Retrieve open data from SMHI api.",
+  "author": "G Johansson",
+  "license": "MIT",
+  "home_page": "https://github.com/gjohansson-ST/pysmhi",
+  "download_filename": "pysmhi-1.1.0.tar.gz",
+  "download_time": "2025-09-29T19:48:48.401703",
+  "package_url": "https://pypi.org/project/pysmhi/"
+}

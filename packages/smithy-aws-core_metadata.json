@@ -1,0 +1,11 @@
+{
+  "name": "smithy-aws-core",
+  "version": "0.1.0",
+  "summary": "Core Smithy components for AWS services and protocols.",
+  "author": "Amazon Web Services",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "smithy_aws_core-0.1.0.tar.gz",
+  "download_time": "2025-09-29T19:48:33.350955",
+  "package_url": "https://pypi.org/project/smithy-aws-core/"
+}
