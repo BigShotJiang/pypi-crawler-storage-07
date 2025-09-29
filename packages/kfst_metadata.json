@@ -1,0 +1,11 @@
+{
+  "name": "kfst",
+  "version": "4.2.3",
+  "summary": "A pure-python when needed, transparently natively accelerated if available, finite state transducer library",
+  "author": "Iikka Hauhio, Théo Salmenkivi-Friberg",
+  "license": "GNU LGPLv3 or later",
+  "home_page": "https://github.com/fergusq/fst-python",
+  "download_filename": "kfst-4.2.3.tar.gz",
+  "download_time": "2025-09-29T13:51:37.986555",
+  "package_url": "https://pypi.org/project/kfst/"
+}

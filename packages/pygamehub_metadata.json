@@ -1,0 +1,11 @@
+{
+  "name": "pygamehub",
+  "version": "1.0.0",
+  "summary": "coleção de minigames clássicos em pygame",
+  "author": "Jonas Emmanuel, José Kauan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygamehub-1.0.0.tar.gz",
+  "download_time": "2025-09-29T13:51:44.713410",
+  "package_url": "https://pypi.org/project/pygamehub/"
+}

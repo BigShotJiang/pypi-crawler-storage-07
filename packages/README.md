@@ -1,17 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-29T13:47:00.111987
-- **Total Packages**: 96
-- **Total Size**: 46.04 MB
+- **Download Time**: 2025-09-29T13:52:28.133498
+- **Total Packages**: 98
+- **Total Size**: 15.02 MB
 
 ## Packages List
+- kfst
+- smartrun
+- remoulade
+- linux-api-server
+- readgrid
+- qwak-core
+- odoo-addon-stock-picking-group-by-partner-by-carrier
+- parabellum
+- mpt-extension-sdk
+- AOT-biomaps
+- eodc-faas-openeo
+- agentlys
+- evasif
+- pygamehub
+- x-transformers
+- cleanote
+- mmar-ptag
+- anaconda-auth
+- pingmapper
+- fmfactlabel
+- Blinter
+- retrack
+- watermarker-tool
+- csu
 - SuperGemini
 - click-odoo-contrib
 - authentik-client
 - modal
 - odoo-addon-sale-invoice-blocking
 - pytrilogy
+- python-lokalise-api
 - nucliadb-admin-assets
 - pyopencell
 - insyt-secure
@@ -79,26 +104,3 @@
 - odoo14-addon-sale-manual-delivery
 - pydivkit
 - tangogql
-- donnes-des-sous-theo
-- odoo-addon-sale-order-line-date
-- fers-calculations
-- splatviz_network
-- stashapp-tools
-- gptsh-cli
-- ezoff
-- nbcmdio
-- mybox
-- dbt-depp
-- sa-tenders
-- inatinqperf
-- donnes-des-sous-nawel
-- SoullessAi-Dem
-- cartographer3d-plugin
-- boxmot
-- ap-donnes-des-sous
-- retrack
-- retracesoftware-utils
-- architect-ai
-- ai-ebash
-- asyncpusher
-- cloudbeds-pms-v1-3
