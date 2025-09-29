@@ -1,0 +1,11 @@
+{
+  "name": "fms-acceleration",
+  "version": "0.6.3",
+  "summary": "FMS Acceleration Plugin Framework",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fms_acceleration-0.6.3-py3-none-any.whl",
+  "download_time": "2025-09-29T10:36:13.986537",
+  "package_url": "https://pypi.org/project/fms-acceleration/"
+}

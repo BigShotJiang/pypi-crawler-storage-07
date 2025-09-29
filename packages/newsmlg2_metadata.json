@@ -1,0 +1,11 @@
+{
+  "name": "newsmlg2",
+  "version": "1.0",
+  "summary": "Python implementation of the NewsML-G2 standard (https://iptc.org/standards/newsml-g2/)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "newsmlg2-1.0.tar.gz",
+  "download_time": "2025-09-29T10:36:31.951622",
+  "package_url": "https://pypi.org/project/newsmlg2/"
+}

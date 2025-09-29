@@ -1,11 +1,11 @@
 {
   "name": "charlie-dots-ocr",
-  "version": "0.0.5",
-  "summary": "0.0.5 remove flash-attn. dots.ocr: Multilingual Document Layout Parsing in one Vision-Language Model",
+  "version": "0.0.6",
+  "summary": "0.0.6 remove accelerate. dots.ocr: Multilingual Document Layout Parsing in one Vision-Language Model",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/rednote-hilab/dots.ocr",
-  "download_filename": "charlie_dots_ocr-0.0.5.tar.gz",
-  "download_time": "2025-09-29T09:54:17.091395",
+  "download_filename": "charlie_dots_ocr-0.0.6.tar.gz",
+  "download_time": "2025-09-29T10:36:19.391929",
   "package_url": "https://pypi.org/project/charlie-dots-ocr/"
 }
