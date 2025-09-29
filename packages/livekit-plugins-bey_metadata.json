@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-bey",
+  "version": "1.2.12",
+  "summary": "Agent Framework plugin for services from Beyond Presence",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_bey-1.2.12.tar.gz",
+  "download_time": "2025-09-29T04:50:29.700096",
+  "package_url": "https://pypi.org/project/livekit-plugins-bey/"
+}

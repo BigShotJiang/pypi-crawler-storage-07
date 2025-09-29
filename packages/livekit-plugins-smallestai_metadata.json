@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-smallestai",
+  "version": "1.2.12",
+  "summary": "Agent Framework plugin for speech synthesis with the Smallest AI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_smallestai-1.2.12.tar.gz",
+  "download_time": "2025-09-29T04:50:13.484340",
+  "package_url": "https://pypi.org/project/livekit-plugins-smallestai/"
+}
