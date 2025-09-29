@@ -1,0 +1,11 @@
+{
+  "name": "abyz",
+  "version": "1.0.0",
+  "summary": "Programming language which only uses alphabetical characters",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "abyz-1.0.0.tar.gz",
+  "download_time": "2025-09-29T17:37:39.954431",
+  "package_url": "https://pypi.org/project/abyz/"
+}

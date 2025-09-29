@@ -1,0 +1,11 @@
+{
+  "name": "vaal",
+  "version": "1.8.1",
+  "summary": "DeepView VAAL for Python",
+  "author": "Au-Zone Technologies",
+  "license": "PROPRIETARY",
+  "home_page": "https://embeddedml.com",
+  "download_filename": "vaal-1.8.1-py3-none-any.whl",
+  "download_time": "2025-09-29T17:37:35.039476",
+  "package_url": "https://pypi.org/project/vaal/"
+}

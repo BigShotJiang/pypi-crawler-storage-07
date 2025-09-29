@@ -1,11 +1,11 @@
 {
   "name": "traducir",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "module for translating text",
   "author": "montoyamoraga",
   "license": "MIT",
   "home_page": "https://github.com/montoyamoraga/traducirpy",
-  "download_filename": "traducir-0.0.2.tar.gz",
-  "download_time": "2025-09-29T17:29:45.816762",
+  "download_filename": "traducir-0.0.3.tar.gz",
+  "download_time": "2025-09-29T17:37:45.204332",
   "package_url": "https://pypi.org/project/traducir/"
 }

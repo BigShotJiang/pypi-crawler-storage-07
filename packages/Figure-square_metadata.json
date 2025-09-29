@@ -1,11 +1,11 @@
 {
   "name": "Figure-square",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Решение задачи №2 в вакансии.",
   "author": "zteewt",
   "license": null,
   "home_page": "https://github.com/zteewt/MindBox/",
-  "download_filename": "figure_square-0.0.2.tar.gz",
-  "download_time": "2025-09-29T17:30:15.295535",
+  "download_filename": "figure_square-0.0.3.tar.gz",
+  "download_time": "2025-09-29T17:37:36.598672",
   "package_url": "https://pypi.org/project/Figure-square/"
 }
