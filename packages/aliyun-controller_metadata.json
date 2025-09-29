@@ -1,0 +1,11 @@
+{
+  "name": "aliyun-controller",
+  "version": "0.1.2",
+  "summary": "A command-line tool for managing Alibaba Cloud services including billing queries and DNS management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aliyun_controller-0.1.2.tar.gz",
+  "download_time": "2025-09-29T03:16:39.933236",
+  "package_url": "https://pypi.org/project/aliyun-controller/"
+}

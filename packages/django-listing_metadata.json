@@ -1,11 +1,11 @@
 {
   "name": "django-listing",
-  "version": "0.10.49",
+  "version": "0.10.50",
   "summary": "Library for creating HTML listing / table / data grid",
   "author": "Eric Lapouyade",
   "license": "GPLv3+",
   "home_page": "https://github.com/elapouya/django-listing",
-  "download_filename": "django_listing-0.10.49.tar.gz",
-  "download_time": "2025-09-28T12:17:31.537838",
+  "download_filename": "django_listing-0.10.50.tar.gz",
+  "download_time": "2025-09-29T03:16:41.509636",
   "package_url": "https://pypi.org/project/django-listing/"
 }

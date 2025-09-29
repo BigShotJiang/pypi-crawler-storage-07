@@ -1,11 +1,11 @@
 {
   "name": "scrollart",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Scroll art is moving ASCII art produced by stdout text printed from a loop, \"animated\" as the text scrolls up the terminal.",
   "author": "Al Sweigart",
   "license": null,
   "home_page": null,
-  "download_filename": "scrollart-0.2.0.tar.gz",
-  "download_time": "2025-09-28T23:10:23.712517",
+  "download_filename": "scrollart-0.2.1.tar.gz",
+  "download_time": "2025-09-29T03:16:46.170159",
   "package_url": "https://pypi.org/project/scrollart/"
 }

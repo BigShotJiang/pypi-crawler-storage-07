@@ -1,0 +1,11 @@
+{
+  "name": "ltbams",
+  "version": "1.0.16",
+  "summary": "Python software for scheduling modeling and co-simulation with dynamics.",
+  "author": "Jinning Wang",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/CURENT/ams",
+  "download_filename": "ltbams-1.0.16.tar.gz",
+  "download_time": "2025-09-29T03:16:40.477882",
+  "package_url": "https://pypi.org/project/ltbams/"
+}

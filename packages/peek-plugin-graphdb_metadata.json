@@ -1,11 +1,11 @@
 {
   "name": "peek-plugin-graphdb",
-  "version": "5.1.5",
+  "version": "5.1.6",
   "summary": "Peek Plugin GraphDB - storage for a graph model with vertices and edges",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "peek-plugin-graphdb-5.1.5.tar.gz",
-  "download_time": "2025-09-28T11:22:30.938841",
+  "download_filename": "peek-plugin-graphdb-5.1.6.tar.gz",
+  "download_time": "2025-09-29T03:16:49.759443",
   "package_url": "https://pypi.org/project/peek-plugin-graphdb/"
 }
