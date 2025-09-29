@@ -1,11 +1,11 @@
 {
   "name": "neurozip",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Dimensionality Reduction for Brain Imaging Data",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "neurozip-0.1.0.tar.gz",
-  "download_time": "2025-09-29T09:13:42.226023",
+  "download_filename": "neurozip-0.1.1.tar.gz",
+  "download_time": "2025-09-29T09:35:03.038501",
   "package_url": "https://pypi.org/project/neurozip/"
 }

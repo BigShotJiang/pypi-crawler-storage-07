@@ -1,11 +1,11 @@
 {
   "name": "PyAccessModifier",
-  "version": "0.4.0.1",
+  "version": "0.4.1",
   "summary": "Python Kotlin Acess Modifier",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyaccessmodifier-0.4.0.1.tar.gz",
-  "download_time": "2025-09-29T07:30:13.592140",
+  "download_filename": "pyaccessmodifier-0.4.1.tar.gz",
+  "download_time": "2025-09-29T09:34:53.056623",
   "package_url": "https://pypi.org/project/PyAccessModifier/"
 }

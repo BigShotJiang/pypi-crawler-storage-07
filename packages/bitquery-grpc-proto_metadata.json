@@ -1,0 +1,11 @@
+{
+  "name": "bitquery-grpc-proto",
+  "version": "1.0.0",
+  "summary": "gRPC protobuf definitions and generated Python code for Bitquery CoreCast Solana gRPC",
+  "author": "Divyasshree",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/grpc-python-example",
+  "download_filename": "bitquery_grpc_proto-1.0.0.tar.gz",
+  "download_time": "2025-09-29T09:34:25.169739",
+  "package_url": "https://pypi.org/project/bitquery-grpc-proto/"
+}

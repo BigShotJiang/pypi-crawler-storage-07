@@ -1,11 +1,11 @@
 {
   "name": "numworks_env",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Port of the NumWorks python environment for PC",
   "author": "spxnso",
   "license": null,
   "home_page": null,
-  "download_filename": "numworks_env-0.1.0.tar.gz",
-  "download_time": "2025-09-28T10:10:18.221207",
+  "download_filename": "numworks_env-0.1.1.tar.gz",
+  "download_time": "2025-09-29T09:34:50.973571",
   "package_url": "https://pypi.org/project/numworks_env/"
 }

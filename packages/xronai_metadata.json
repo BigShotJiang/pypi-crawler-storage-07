@@ -1,11 +1,11 @@
 {
   "name": "xronai",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "summary": "XronAI: The Python SDK for building powerful, agentic AI chatbots.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xronai-0.1.4.tar.gz",
-  "download_time": "2025-09-29T08:43:14.524339",
+  "download_filename": "xronai-0.2.0.tar.gz",
+  "download_time": "2025-09-29T09:34:37.320480",
   "package_url": "https://pypi.org/project/xronai/"
 }

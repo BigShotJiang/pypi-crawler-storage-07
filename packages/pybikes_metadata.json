@@ -1,0 +1,11 @@
+{
+  "name": "pybikes",
+  "version": "1.0.7",
+  "summary": "A python library for scraping bike sharing data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybikes-1.0.7.tar.gz",
+  "download_time": "2025-09-29T09:34:35.751585",
+  "package_url": "https://pypi.org/project/pybikes/"
+}

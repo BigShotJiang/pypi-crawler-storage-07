@@ -1,0 +1,11 @@
+{
+  "name": "aipscan",
+  "version": "0.9.0a2",
+  "summary": "A reporting system for Archivematica using data from AIPs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aipscan-0.9.0a2.tar.gz",
+  "download_time": "2025-09-29T09:35:07.730080",
+  "package_url": "https://pypi.org/project/aipscan/"
+}
