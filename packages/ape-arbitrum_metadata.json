@@ -1,0 +1,11 @@
+{
+  "name": "ape-arbitrum",
+  "version": "0.8.4",
+  "summary": "ape-arbitrum: Ape Ecosystem Plugin for Arbitrum",
+  "author": "ApeWorX Ltd.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ApeWorX/ape-arbitrum",
+  "download_filename": "ape_arbitrum-0.8.4.tar.gz",
+  "download_time": "2025-09-29T22:21:28.109858",
+  "package_url": "https://pypi.org/project/ape-arbitrum/"
+}

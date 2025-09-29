@@ -1,0 +1,11 @@
+{
+  "name": "qctrl-mkdocs-theme",
+  "version": "1.0.3",
+  "summary": "Q-CTRL MkDocs Theme",
+  "author": "Q-CTRL",
+  "license": null,
+  "home_page": "https://q-ctrl.com",
+  "download_filename": "qctrl_mkdocs_theme-1.0.3.tar.gz",
+  "download_time": "2025-09-29T22:20:59.770911",
+  "package_url": "https://pypi.org/project/qctrl-mkdocs-theme/"
+}

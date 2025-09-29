@@ -1,11 +1,11 @@
 {
   "name": "catalax",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "A JAX-based framework for (neural) ODE modelling in biocatalysis.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "catalax-0.5.0.tar.gz",
-  "download_time": "2025-09-28T23:10:05.910341",
+  "download_filename": "catalax-0.5.1.tar.gz",
+  "download_time": "2025-09-29T22:21:35.703983",
   "package_url": "https://pypi.org/project/catalax/"
 }

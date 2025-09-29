@@ -1,11 +1,11 @@
 {
   "name": "wipac-dev-tools",
-  "version": "1.17.2",
+  "version": "1.17.3",
   "summary": "Common, basic, and reusable development tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wipac_dev_tools-1.17.2.tar.gz",
-  "download_time": "2025-09-29T21:48:17.843577",
+  "download_filename": "wipac_dev_tools-1.17.3.tar.gz",
+  "download_time": "2025-09-29T22:21:05.554409",
   "package_url": "https://pypi.org/project/wipac-dev-tools/"
 }

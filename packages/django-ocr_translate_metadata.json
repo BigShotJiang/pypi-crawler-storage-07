@@ -1,0 +1,11 @@
+{
+  "name": "django-ocr_translate",
+  "version": "0.7.3",
+  "summary": "Django app for OCR and translation",
+  "author": "Davide Grassano",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_ocr_translate-0.7.3.tar.gz",
+  "download_time": "2025-09-29T22:21:12.591373",
+  "package_url": "https://pypi.org/project/django-ocr_translate/"
+}

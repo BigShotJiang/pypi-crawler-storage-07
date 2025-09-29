@@ -1,11 +1,11 @@
 {
   "name": "pycountant",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Python package for accountants.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pycountant-0.2.0.tar.gz",
-  "download_time": "2025-09-29T15:31:19.428824",
+  "download_filename": "pycountant-0.2.1.tar.gz",
+  "download_time": "2025-09-29T22:21:18.321031",
   "package_url": "https://pypi.org/project/pycountant/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "microcosm-client",
+  "version": "0.1.0",
+  "summary": "Async Microcosm API client wrapper",
+  "author": "kamo.moe",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "microcosm_client-0.1.0.tar.gz",
+  "download_time": "2025-09-29T22:20:57.363781",
+  "package_url": "https://pypi.org/project/microcosm-client/"
+}

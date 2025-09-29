@@ -1,11 +1,11 @@
 {
   "name": "sideload",
-  "version": "1.1.0",
+  "version": "1.3.0",
   "summary": "Download large files via PyPI packages",
   "author": "Sygmei",
   "license": null,
   "home_page": null,
-  "download_filename": "sideload-1.1.0-py3-none-any.whl",
-  "download_time": "2025-09-29T21:48:18.866390",
+  "download_filename": "sideload-1.3.0-py3-none-any.whl",
+  "download_time": "2025-09-29T22:21:32.188663",
   "package_url": "https://pypi.org/project/sideload/"
 }

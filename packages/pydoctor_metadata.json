@@ -1,0 +1,11 @@
+{
+  "name": "pydoctor",
+  "version": "25.10.1",
+  "summary": "API doc generator.",
+  "author": "Michael Hudson-Doyle",
+  "license": "MIT/X11",
+  "home_page": "https://github.com/twisted/pydoctor",
+  "download_filename": "pydoctor-25.10.1.tar.gz",
+  "download_time": "2025-09-29T22:21:24.066655",
+  "package_url": "https://pypi.org/project/pydoctor/"
+}
