@@ -1,11 +1,11 @@
 {
   "name": "omniopt2",
-  "version": "8603",
+  "version": "8610",
   "summary": "Automatic highly parallelized hyperparameter optimizer based on Ax/Botorch",
   "author": "Norman Koch",
   "license": null,
   "home_page": "https://scads.ai/transfer-2/verfuegbare-software-dienste-en/omniopt/",
-  "download_filename": "omniopt2-8603.tar.gz",
-  "download_time": "2025-09-29T04:35:19.672708",
+  "download_filename": "omniopt2-8610.tar.gz",
+  "download_time": "2025-09-29T14:11:25.571069",
   "package_url": "https://pypi.org/project/omniopt2/"
 }

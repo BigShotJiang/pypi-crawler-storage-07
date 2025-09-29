@@ -1,11 +1,11 @@
 {
   "name": "MangledDlt",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Local Databricks Development Bridge - Intercept Spark operations for local Unity Catalog access",
   "author": "MangledDLT Team",
   "license": "MIT",
   "home_page": "https://github.com/mangledlt/mangledlt",
-  "download_filename": "mangleddlt-0.1.1.tar.gz",
-  "download_time": "2025-09-29T00:47:26.631852",
+  "download_filename": "mangleddlt-0.1.2.tar.gz",
+  "download_time": "2025-09-29T14:11:31.824245",
   "package_url": "https://pypi.org/project/MangledDlt/"
 }

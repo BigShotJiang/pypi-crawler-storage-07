@@ -1,0 +1,11 @@
+{
+  "name": "kfst-rs",
+  "version": "0.2.5",
+  "summary": "The accelerated companion library to kfst",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kfst_rs-0.2.5-cp311-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2025-09-29T14:12:09.742412",
+  "package_url": "https://pypi.org/project/kfst-rs/"
+}

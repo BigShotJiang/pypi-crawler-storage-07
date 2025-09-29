@@ -1,0 +1,11 @@
+{
+  "name": "foliantcontrib.escapecode",
+  "version": "1.0.9",
+  "summary": "Preprocessor for Foliant to escape/unescape raw content.",
+  "author": "Artemy Lomov",
+  "license": "MIT",
+  "home_page": "https://github.com/foliant-docs/foliantcontrib.escapecode",
+  "download_filename": "foliantcontrib_escapecode-1.0.9.tar.gz",
+  "download_time": "2025-09-29T14:11:55.479428",
+  "package_url": "https://pypi.org/project/foliantcontrib.escapecode/"
+}

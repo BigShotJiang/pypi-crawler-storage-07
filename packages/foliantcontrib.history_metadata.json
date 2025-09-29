@@ -1,0 +1,11 @@
+{
+  "name": "foliantcontrib.history",
+  "version": "1.0.10",
+  "summary": "Preprocessor for Foliant for generating history of releases.",
+  "author": "Artemy Lomov",
+  "license": "MIT",
+  "home_page": "https://github.com/foliant-docs/foliantcontrib.history",
+  "download_filename": "foliantcontrib_history-1.0.10.tar.gz",
+  "download_time": "2025-09-29T14:11:36.530565",
+  "package_url": "https://pypi.org/project/foliantcontrib.history/"
+}
