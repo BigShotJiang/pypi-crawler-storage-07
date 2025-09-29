@@ -1,0 +1,11 @@
+{
+  "name": "fdb5lib",
+  "version": "5.17.5",
+  "summary": "\"fdb5lib\"",
+  "author": "file: AUTHORS",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fdb5lib-5.17.5-cp310-cp310-macosx_13_0_arm64.whl",
+  "download_time": "2025-09-29T08:16:17.869843",
+  "package_url": "https://pypi.org/project/fdb5lib/"
+}

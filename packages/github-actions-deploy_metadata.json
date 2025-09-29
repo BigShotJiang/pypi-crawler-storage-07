@@ -1,0 +1,11 @@
+{
+  "name": "github-actions-deploy",
+  "version": "0.1.0",
+  "summary": "GitHub Actions deployment automation with VPC-SC support and PR commenting",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "github_actions_deploy-0.1.0.tar.gz",
+  "download_time": "2025-09-29T08:16:42.389297",
+  "package_url": "https://pypi.org/project/github-actions-deploy/"
+}

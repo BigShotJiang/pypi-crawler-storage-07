@@ -1,0 +1,11 @@
+{
+  "name": "RsCma",
+  "version": "4.0.22",
+  "summary": "CMA180 Radio Tester Driver Remote-control module",
+  "author": "Rohde & Schwarz GmbH & Co. KG",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rscma-4.0.22.tar.gz",
+  "download_time": "2025-09-29T08:16:22.778383",
+  "package_url": "https://pypi.org/project/RsCma/"
+}

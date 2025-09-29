@@ -1,0 +1,11 @@
+{
+  "name": "msfabricpysdkcore",
+  "version": "0.2.9",
+  "summary": "A Python SDK for Microsoft Fabric",
+  "author": "Andreas Rederer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "msfabricpysdkcore-0.2.9.tar.gz",
+  "download_time": "2025-09-29T08:16:34.478421",
+  "package_url": "https://pypi.org/project/msfabricpysdkcore/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "semanticanalyser-py",
+  "version": "0.1.7",
+  "summary": "A Python binding for the Semantic Analyser service maintained by BODC",
+  "author": "Ahmad Mahmoud (CNR internship)",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "semanticanalyser_py-0.1.7.tar.gz",
+  "download_time": "2025-09-29T08:16:47.130521",
+  "package_url": "https://pypi.org/project/semanticanalyser-py/"
+}
