@@ -1,0 +1,11 @@
+{
+  "name": "esgvoc",
+  "version": "1.1.3",
+  "summary": "python library and CLI to interact with WCRP CVs",
+  "author": null,
+  "license": "CECILL-2.1",
+  "home_page": null,
+  "download_filename": "esgvoc-1.1.3.tar.gz",
+  "download_time": "2025-09-29T13:04:32.838562",
+  "package_url": "https://pypi.org/project/esgvoc/"
+}

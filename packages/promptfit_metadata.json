@@ -1,0 +1,11 @@
+{
+  "name": "promptfit",
+  "version": "0.5.0",
+  "summary": "Multi-provider LLM prompt optimization toolkit: compress prompts by 50-80% while preserving quality. Supports Cohere, Gemini with automatic failover. Perfect for RAG, API cost reduction, and production GenAI workflows.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "promptfit-0.5.0.tar.gz",
+  "download_time": "2025-09-29T13:04:59.097117",
+  "package_url": "https://pypi.org/project/promptfit/"
+}

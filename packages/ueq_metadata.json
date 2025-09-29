@@ -1,0 +1,11 @@
+{
+  "name": "ueq",
+  "version": "1.0.1",
+  "summary": "Uncertainty Everywhere (UEQ) - Phoenix Edition: A unified Python library for Uncertainty Quantification with production-ready features",
+  "author": "Kiplangat Korir",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ueq-1.0.1.tar.gz",
+  "download_time": "2025-09-29T13:05:06.787682",
+  "package_url": "https://pypi.org/project/ueq/"
+}

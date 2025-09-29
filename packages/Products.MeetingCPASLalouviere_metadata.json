@@ -1,0 +1,11 @@
+{
+  "name": "Products.MeetingCPASLalouviere",
+  "version": "4.2.1",
+  "summary": "PloneMeeting profile for CPAS of La Louviere.",
+  "author": "Olivier Delaere",
+  "license": "GPL",
+  "home_page": "http://www.imio.be/produits/gestion-des-deliberations",
+  "download_filename": "Products.MeetingCPASLalouviere-4.2.1.tar.gz",
+  "download_time": "2025-09-29T13:04:32.292243",
+  "package_url": "https://pypi.org/project/Products.MeetingCPASLalouviere/"
+}

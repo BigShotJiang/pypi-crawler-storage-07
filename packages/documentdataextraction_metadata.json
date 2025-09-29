@@ -1,11 +1,11 @@
 {
   "name": "documentdataextraction",
-  "version": "0.0.148",
+  "version": "0.0.149",
   "summary": "Added a filter to the Customer Lookup based on the login site_code.",
   "author": "Proteus Technology PVT. LTD.",
   "license": null,
   "home_page": null,
-  "download_filename": "documentdataextraction-0.0.148-py3-none-any.whl",
-  "download_time": "2025-09-29T11:26:55.256518",
+  "download_filename": "documentdataextraction-0.0.149-py3-none-any.whl",
+  "download_time": "2025-09-29T13:05:04.723345",
   "package_url": "https://pypi.org/project/documentdataextraction/"
 }

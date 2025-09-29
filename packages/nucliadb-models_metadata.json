@@ -1,11 +1,11 @@
 {
   "name": "nucliadb-models",
-  "version": "6.8.1.post5005",
+  "version": "6.9.0.post5008",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nucliadb_models-6.8.1.post5005-py3-none-any.whl",
-  "download_time": "2025-09-29T11:27:07.494731",
+  "download_filename": "nucliadb_models-6.9.0.post5008-py3-none-any.whl",
+  "download_time": "2025-09-29T13:04:27.608404",
   "package_url": "https://pypi.org/project/nucliadb-models/"
 }

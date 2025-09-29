@@ -1,0 +1,11 @@
+{
+  "name": "mutalyzer-hgvs-parser",
+  "version": "0.3.9",
+  "summary": "Mutalyzer HGVS variant description parser.",
+  "author": "Mihai Lefter",
+  "license": "MIT",
+  "home_page": "https://github.com/mutalyzer/hgvs-parser",
+  "download_filename": "mutalyzer_hgvs_parser-0.3.9.tar.gz",
+  "download_time": "2025-09-29T13:04:54.467784",
+  "package_url": "https://pypi.org/project/mutalyzer-hgvs-parser/"
+}

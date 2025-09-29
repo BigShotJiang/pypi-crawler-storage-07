@@ -1,0 +1,11 @@
+{
+  "name": "openclsim",
+  "version": "1.6.3",
+  "summary": "The OpenCLSim package aims to facilitate rule based planning of cyclic activities and in depth comparison of different system concepts.",
+  "author": "\"Mark van Koningsveld\",",
+  "license": "MIT",
+  "home_page": "https://github.com/TUDelft-CITG/openclsim",
+  "download_filename": "openclsim-1.6.3.tar.gz",
+  "download_time": "2025-09-29T13:05:07.311889",
+  "package_url": "https://pypi.org/project/openclsim/"
+}
