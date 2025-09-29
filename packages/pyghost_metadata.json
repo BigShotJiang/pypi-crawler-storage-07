@@ -1,0 +1,11 @@
+{
+  "name": "pyghost",
+  "version": "1.0.0",
+  "summary": "A modern, comprehensive Python wrapper for Ghost Admin API with full CRUD support",
+  "author": "PyGhost Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/your-username/pyghost",
+  "download_filename": "pyghost-1.0.0.tar.gz",
+  "download_time": "2025-09-29T23:26:46.335322",
+  "package_url": "https://pypi.org/project/pyghost/"
+}

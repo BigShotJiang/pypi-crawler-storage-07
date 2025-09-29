@@ -1,0 +1,11 @@
+{
+  "name": "mayaku",
+  "version": "0.1.0",
+  "summary": "A Python library named mayaku",
+  "author": "Emrah NAZIF",
+  "license": "MIT",
+  "home_page": "https://github.com/datamarkin/mayaku",
+  "download_filename": "mayaku-0.1.0.tar.gz",
+  "download_time": "2025-09-29T23:26:33.068541",
+  "package_url": "https://pypi.org/project/mayaku/"
+}

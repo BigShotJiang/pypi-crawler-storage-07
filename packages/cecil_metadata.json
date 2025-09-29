@@ -1,11 +1,11 @@
 {
   "name": "cecil",
-  "version": "0.0.23",
+  "version": "0.0.24",
   "summary": "Python SDK for Cecil Earth",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cecil-0.0.23.tar.gz",
-  "download_time": "2025-09-29T04:13:16.217885",
+  "download_filename": "cecil-0.0.24.tar.gz",
+  "download_time": "2025-09-29T23:26:43.461843",
   "package_url": "https://pypi.org/project/cecil/"
 }
