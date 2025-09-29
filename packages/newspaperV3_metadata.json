@@ -1,0 +1,11 @@
+{
+  "name": "newspaperV3",
+  "version": "0.3.2",
+  "summary": "Advanced news extraction, article parsing, and content analysis.",
+  "author": "Lucas Ou-Yang",
+  "license": "MIT",
+  "home_page": "https://github.com/salah55s/newspaperV3",
+  "download_filename": "newspaperv3-0.3.2.tar.gz",
+  "download_time": "2025-09-29T11:09:57.760365",
+  "package_url": "https://pypi.org/project/newspaperV3/"
+}

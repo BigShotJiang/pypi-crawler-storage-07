@@ -1,11 +1,11 @@
 {
   "name": "naijalingo-asr",
-  "version": "0.1.1",
+  "version": "0.1.0.post1",
   "summary": "Automatic Speech Recognition (ASR) SDK for Nigerian languages Yoruba, Igbo, Hausa, and Nigerian-accented English using CTranslate2-converted Whisper models",
   "author": "NaijaLingo",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "naijalingo_asr-0.1.1.tar.gz",
-  "download_time": "2025-09-29T09:54:40.812238",
+  "download_filename": "naijalingo_asr-0.1.0.post1.tar.gz",
+  "download_time": "2025-09-29T11:09:54.663023",
   "package_url": "https://pypi.org/project/naijalingo-asr/"
 }

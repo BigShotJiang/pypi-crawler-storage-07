@@ -1,0 +1,11 @@
+{
+  "name": "pytest-copie",
+  "version": "0.3.1",
+  "summary": "The pytest plugin for your copier templates 📒",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytest_copie-0.3.1.tar.gz",
+  "download_time": "2025-09-29T11:09:27.203873",
+  "package_url": "https://pypi.org/project/pytest-copie/"
+}

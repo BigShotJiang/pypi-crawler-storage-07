@@ -1,11 +1,11 @@
 {
   "name": "dcs-sdk",
-  "version": "1.5.6",
+  "version": "1.5.7",
   "summary": "SDK for DataChecks",
   "author": "Waterdip Labs",
   "license": null,
   "home_page": null,
-  "download_filename": "dcs_sdk-1.5.6.tar.gz",
-  "download_time": "2025-09-26T10:31:54.409802",
+  "download_filename": "dcs_sdk-1.5.7.tar.gz",
+  "download_time": "2025-09-29T11:09:52.091087",
   "package_url": "https://pypi.org/project/dcs-sdk/"
 }
