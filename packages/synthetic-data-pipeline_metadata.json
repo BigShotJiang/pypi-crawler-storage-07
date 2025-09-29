@@ -1,11 +1,11 @@
 {
   "name": "synthetic-data-pipeline",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "AI-powered synthetic data generation pipeline with web search and topic extraction",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "synthetic_data_pipeline-0.1.7.tar.gz",
-  "download_time": "2025-09-29T22:21:11.426834",
+  "download_filename": "synthetic_data_pipeline-0.1.8.tar.gz",
+  "download_time": "2025-09-29T22:34:07.887746",
   "package_url": "https://pypi.org/project/synthetic-data-pipeline/"
 }

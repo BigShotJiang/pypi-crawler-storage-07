@@ -1,11 +1,11 @@
 {
   "name": "youtube-indirici-atilla",
-  "version": "29.9.2025.3",
+  "version": "29.9.2025.4.1",
   "summary": "Komut satırından YouTube videolarını MP4 olarak indirmek için basit ama güçlü bir Python paketi.",
   "author": "Atilla, Python Kod Asistanı (Gemini)",
   "license": null,
   "home_page": null,
-  "download_filename": "youtube_indirici_atilla-29.9.2025.3.tar.gz",
-  "download_time": "2025-09-29T20:29:07.435097",
+  "download_filename": "youtube_indirici_atilla-29.9.2025.4.1.tar.gz",
+  "download_time": "2025-09-29T22:34:01.666749",
   "package_url": "https://pypi.org/project/youtube-indirici-atilla/"
 }
