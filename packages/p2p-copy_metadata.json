@@ -1,11 +1,11 @@
 {
   "name": "p2p-copy",
-  "version": "0.1.0",
-  "summary": "P2P-style file transfer over WSS with chunk streaming.",
+  "version": "0.1.1",
+  "summary": "Python library and command-line tool for transferring files and directories over a WebSocket relay server",
   "author": "AfuLD",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "p2p_copy-0.1.0.tar.gz",
-  "download_time": "2025-09-29T07:30:14.133463",
+  "download_filename": "p2p_copy-0.1.1.tar.gz",
+  "download_time": "2025-09-29T08:43:15.562902",
   "package_url": "https://pypi.org/project/p2p-copy/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "vsec-tls",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "summary": "A precision-engineered TLS/HTTP client for replicating authentic browser fingerprints",
   "author": "Ferrum Legis Compliance",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "vsec_tls-0.6.1.tar.gz",
-  "download_time": "2025-09-28T22:47:38.884856",
+  "download_filename": "vsec_tls-0.6.2.tar.gz",
+  "download_time": "2025-09-29T08:43:49.138408",
   "package_url": "https://pypi.org/project/vsec-tls/"
 }

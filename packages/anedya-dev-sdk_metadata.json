@@ -1,0 +1,11 @@
+{
+  "name": "anedya-dev-sdk",
+  "version": "0.1.10",
+  "summary": "Anedya python based SDK for IoT devices. This SDK streamlines connectivity with Anedya platform. As this SDK is in Beta release, future versions may have breaking changes.",
+  "author": "Anedya Systems",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/anedyaio/anedya-dev-sdk-python",
+  "download_filename": "anedya_dev_sdk-0.1.10.tar.gz",
+  "download_time": "2025-09-29T08:43:18.738087",
+  "package_url": "https://pypi.org/project/anedya-dev-sdk/"
+}

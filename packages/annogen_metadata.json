@@ -1,0 +1,11 @@
+{
+  "name": "annogen",
+  "version": "3.411",
+  "summary": "Annotator Generator, an examples-driven generator of fast text annotators for language learning aids etc",
+  "author": "Silas S. Brown",
+  "license": "Apache 2",
+  "home_page": "http://ssb22.user.srcf.net/adjuster/annogen.html",
+  "download_filename": "annogen-3.411.tar.gz",
+  "download_time": "2025-09-29T08:43:40.691772",
+  "package_url": "https://pypi.org/project/annogen/"
+}

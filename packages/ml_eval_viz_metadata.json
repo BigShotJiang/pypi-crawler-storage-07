@@ -1,0 +1,11 @@
+{
+  "name": "ml_eval_viz",
+  "version": "0.2.0",
+  "summary": "A custom python package for Machine Learning model evaluation and visualization.",
+  "author": "Vaibhav Kiran Ghaisas",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ml_eval_viz-0.2.0.tar.gz",
+  "download_time": "2025-09-29T08:43:19.257788",
+  "package_url": "https://pypi.org/project/ml_eval_viz/"
+}
