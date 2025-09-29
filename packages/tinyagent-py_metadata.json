@@ -1,0 +1,11 @@
+{
+  "name": "tinyagent-py",
+  "version": "0.1.20",
+  "summary": "🛠️ Build your own AI coding assistant with any model you want. Revolutionary agent framework with secure sandboxed execution, parallel subagents, and freedom to choose any LLM provider - OpenAI, Anthropic, Ollama, or 100+ others.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tinyagent_py-0.1.20.tar.gz",
+  "download_time": "2025-09-29T15:31:54.650880",
+  "package_url": "https://pypi.org/project/tinyagent-py/"
+}

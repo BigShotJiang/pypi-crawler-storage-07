@@ -1,0 +1,11 @@
+{
+  "name": "ckcc-protocol",
+  "version": "1.5.0",
+  "summary": "Communicate with your Coldcard using Python",
+  "author": "Coinkite Inc.",
+  "license": null,
+  "home_page": "https://github.com/Coldcard/ckcc-protocol",
+  "download_filename": "ckcc-protocol-1.5.0.tar.gz",
+  "download_time": "2025-09-29T15:31:53.026535",
+  "package_url": "https://pypi.org/project/ckcc-protocol/"
+}

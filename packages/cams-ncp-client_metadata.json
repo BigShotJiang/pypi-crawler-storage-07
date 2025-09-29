@@ -1,0 +1,11 @@
+{
+  "name": "cams-ncp-client",
+  "version": "0.5.6",
+  "summary": "Python Client for the CAMS NCP API.",
+  "author": "Roeland Maes",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cams_ncp_client-0.5.6.tar.gz",
+  "download_time": "2025-09-29T15:31:48.597087",
+  "package_url": "https://pypi.org/project/cams-ncp-client/"
+}

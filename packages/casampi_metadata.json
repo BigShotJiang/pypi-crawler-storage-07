@@ -1,0 +1,11 @@
+{
+  "name": "casampi",
+  "version": "0.5.9",
+  "summary": "the CASA MPI framework",
+  "author": "CASA development team",
+  "license": "GNU Library or Lesser General Public License (LGPL)",
+  "home_page": "https://open-bitbucket.nrao.edu/projects/CASA/repos/casampi/browse",
+  "download_filename": "casampi-0.5.9-py3-none-any.whl",
+  "download_time": "2025-09-29T15:31:17.161380",
+  "package_url": "https://pypi.org/project/casampi/"
+}

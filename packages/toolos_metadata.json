@@ -1,11 +1,11 @@
 {
   "name": "toolos",
-  "version": "2.4.3",
+  "version": "2.4.5",
   "summary": "A very Usefull API-Framework for All-Type Python Projects",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "toolos-2.4.3.tar.gz",
-  "download_time": "2025-09-29T15:11:21.340757",
+  "download_filename": "toolos-2.4.5.tar.gz",
+  "download_time": "2025-09-29T15:31:40.228420",
   "package_url": "https://pypi.org/project/toolos/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "spottyr-edge-runtime",
+  "version": "0.1.6",
+  "summary": "A Python package for running Spottyr workflow on edge devices.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spottyr_edge_runtime-0.1.6.tar.gz",
+  "download_time": "2025-09-29T15:31:50.233818",
+  "package_url": "https://pypi.org/project/spottyr-edge-runtime/"
+}

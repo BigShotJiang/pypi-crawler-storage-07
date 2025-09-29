@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-iml",
+  "version": "0.25.2",
+  "summary": "IML (Imandra Modeling Language) grammar for tree-sitter",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tree_sitter_iml-0.25.2.tar.gz",
+  "download_time": "2025-09-29T15:31:22.911156",
+  "package_url": "https://pypi.org/project/tree-sitter-iml/"
+}
