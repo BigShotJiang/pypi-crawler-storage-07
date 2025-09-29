@@ -1,0 +1,11 @@
+{
+  "name": "bids-mosaic",
+  "version": "0.0.1",
+  "summary": "A BIDS tool for creating PDFs containing slices of nifti images",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bids_mosaic-0.0.1.tar.gz",
+  "download_time": "2025-09-29T21:48:29.217334",
+  "package_url": "https://pypi.org/project/bids-mosaic/"
+}

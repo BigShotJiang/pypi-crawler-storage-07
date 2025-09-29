@@ -1,11 +1,11 @@
 {
   "name": "fireworks-livekit",
-  "version": "1.1.14",
+  "version": "1.1.15",
   "summary": "Fireworks AI Livekit Plugin",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fireworks_livekit-1.1.14.tar.gz",
-  "download_time": "2025-09-29T18:56:31.558618",
+  "download_filename": "fireworks_livekit-1.1.15.tar.gz",
+  "download_time": "2025-09-29T21:48:11.629756",
   "package_url": "https://pypi.org/project/fireworks-livekit/"
 }

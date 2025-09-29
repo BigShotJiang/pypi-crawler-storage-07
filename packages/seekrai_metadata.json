@@ -1,0 +1,11 @@
+{
+  "name": "seekrai",
+  "version": "0.5.17",
+  "summary": "Python client for SeekrAI",
+  "author": "SeekrFlow",
+  "license": "Apache-2.0",
+  "home_page": "https://gitlab.cb.ntent.com/ml/seekr-py",
+  "download_filename": "seekrai-0.5.17.tar.gz",
+  "download_time": "2025-09-29T21:48:32.542125",
+  "package_url": "https://pypi.org/project/seekrai/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lbt-grasshopper",
+  "version": "1.9.12",
+  "summary": "Collection of all Ladybug Tools plugins for Grasshopper",
+  "author": "Ladybug Tools",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/ladybug-tools/lbt-grasshopper",
+  "download_filename": "lbt_grasshopper-1.9.12.tar.gz",
+  "download_time": "2025-09-29T21:48:27.159938",
+  "package_url": "https://pypi.org/project/lbt-grasshopper/"
+}
