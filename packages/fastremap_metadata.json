@@ -1,0 +1,11 @@
+{
+  "name": "fastremap",
+  "version": "1.17.7",
+  "summary": "Remap, mask, renumber, unique, and in-place transposition of 3D labeled images. Point cloud too.",
+  "author": "William Silversmith",
+  "license": null,
+  "home_page": "https://github.com/seung-lab/fastremap/",
+  "download_filename": "fastremap-1.17.7.tar.gz",
+  "download_time": "2025-09-29T23:33:46.468355",
+  "package_url": "https://pypi.org/project/fastremap/"
+}
