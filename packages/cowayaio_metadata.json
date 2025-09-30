@@ -1,0 +1,11 @@
+{
+  "name": "cowayaio",
+  "version": "0.2.3.1",
+  "summary": "A asynchronous python library for Coway Air Purifiers",
+  "author": "Robert Drinovac",
+  "license": null,
+  "home_page": "https://github.com/RobertD502/cowayaio",
+  "download_filename": "cowayaio-0.2.3.1.tar.gz",
+  "download_time": "2025-09-30T21:48:32.811310",
+  "package_url": "https://pypi.org/project/cowayaio/"
+}

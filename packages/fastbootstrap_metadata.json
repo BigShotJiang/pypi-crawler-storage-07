@@ -1,11 +1,11 @@
 {
   "name": "fastbootstrap",
-  "version": "1.8.1",
+  "version": "1.8.2",
   "summary": "Fast Python implementation of statistical bootstrap",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastbootstrap-1.8.1.tar.gz",
-  "download_time": "2025-09-30T17:48:52.284002",
+  "download_filename": "fastbootstrap-1.8.2.tar.gz",
+  "download_time": "2025-09-30T21:48:41.057427",
   "package_url": "https://pypi.org/project/fastbootstrap/"
 }

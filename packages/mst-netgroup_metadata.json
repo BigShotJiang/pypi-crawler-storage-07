@@ -1,0 +1,11 @@
+{
+  "name": "mst-netgroup",
+  "version": "1.2.0",
+  "summary": "A collection of utilities to interact with netgroups.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mst_netgroup-1.2.0-py3-none-any.whl",
+  "download_time": "2025-09-30T21:48:35.388184",
+  "package_url": "https://pypi.org/project/mst-netgroup/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "agatha-protobuf",
-  "version": "1.0.41",
+  "version": "1.0.42",
   "summary": "Protobuf files for Agatha project",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agatha_protobuf-1.0.41.tar.gz",
-  "download_time": "2025-09-30T16:39:15.701402",
+  "download_filename": "agatha_protobuf-1.0.42.tar.gz",
+  "download_time": "2025-09-30T21:48:27.106629",
   "package_url": "https://pypi.org/project/agatha-protobuf/"
 }

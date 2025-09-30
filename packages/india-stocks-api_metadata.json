@@ -1,0 +1,11 @@
+{
+  "name": "india-stocks-api",
+  "version": "1.0.0",
+  "summary": "A unified API for Indian stock market brokers",
+  "author": "Apurv Salunke",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "india_stocks_api-1.0.0.tar.gz",
+  "download_time": "2025-09-30T21:48:43.113476",
+  "package_url": "https://pypi.org/project/india-stocks-api/"
+}

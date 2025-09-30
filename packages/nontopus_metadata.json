@@ -1,11 +1,11 @@
 {
   "name": "nontopus",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "nontopus test library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nontopus-0.1.1.tar.gz",
-  "download_time": "2025-09-30T03:39:43.475252",
+  "download_filename": "nontopus-0.1.2.tar.gz",
+  "download_time": "2025-09-30T21:48:41.569224",
   "package_url": "https://pypi.org/project/nontopus/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "MonsterLab",
-  "version": "1.2.8",
+  "version": "2.0.0",
   "summary": "Monster Generator",
   "author": "Robert Sharp",
   "license": "Free for non-commercial use",
   "home_page": "https://github.com/BrokenShell/MonsterLab",
-  "download_filename": "MonsterLab-1.2.8.tar.gz",
-  "download_time": "2025-09-30T21:10:37.341337",
+  "download_filename": "monsterlab-2.0.0.tar.gz",
+  "download_time": "2025-09-30T21:48:27.623583",
   "package_url": "https://pypi.org/project/MonsterLab/"
 }
