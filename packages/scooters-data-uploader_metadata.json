@@ -1,0 +1,11 @@
+{
+  "name": "scooters-data-uploader",
+  "version": "1.1.0",
+  "summary": "Upload educational sample data to PostgreSQL database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scooters_data_uploader-1.1.0.tar.gz",
+  "download_time": "2025-09-30T23:10:48.021546",
+  "package_url": "https://pypi.org/project/scooters-data-uploader/"
+}

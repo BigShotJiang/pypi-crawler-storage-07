@@ -1,11 +1,11 @@
 {
   "name": "coval",
-  "version": "2.0.27",
+  "version": "2.0.30",
   "summary": "Intelligent code generation, execution, and repair system with iterative Docker deployments",
   "author": "Tom Sapletta",
   "license": null,
   "home_page": "https://github.com/tom-sapletta-com/coval",
-  "download_filename": "coval-2.0.27.tar.gz",
-  "download_time": "2025-09-30T22:30:37.999732",
+  "download_filename": "coval-2.0.30.tar.gz",
+  "download_time": "2025-09-30T23:10:48.554591",
   "package_url": "https://pypi.org/project/coval/"
 }

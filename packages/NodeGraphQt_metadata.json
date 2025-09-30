@@ -1,0 +1,11 @@
+{
+  "name": "NodeGraphQt",
+  "version": "0.6.43",
+  "summary": "Node graph framework written in PySide2 that can be re-implemented.",
+  "author": "Johnny Chan",
+  "license": "MIT License",
+  "home_page": "https://github.com/jchanvfx/NodeGraphQt",
+  "download_filename": "nodegraphqt-0.6.43.tar.gz",
+  "download_time": "2025-09-30T23:10:51.869876",
+  "package_url": "https://pypi.org/project/NodeGraphQt/"
+}

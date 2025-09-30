@@ -1,11 +1,11 @@
 {
   "name": "typst-pagemaker",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Structured document-to-page layout system for Typst with explicit positioning and professional typography",
   "author": "Project",
   "license": null,
   "home_page": null,
-  "download_filename": "typst_pagemaker-0.1.9.tar.gz",
-  "download_time": "2025-09-29T21:33:06.798876",
+  "download_filename": "typst_pagemaker-0.1.10.tar.gz",
+  "download_time": "2025-09-30T23:10:56.629917",
   "package_url": "https://pypi.org/project/typst-pagemaker/"
 }

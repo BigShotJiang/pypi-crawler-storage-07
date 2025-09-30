@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-br-validator",
+  "version": "0.8.1",
+  "summary": "Uma biblioteca python com modelos de validação para os principais documentos brasileiros",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantic_br_validator-0.8.1.tar.gz",
+  "download_time": "2025-09-30T23:10:57.690141",
+  "package_url": "https://pypi.org/project/pydantic-br-validator/"
+}

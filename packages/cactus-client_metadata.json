@@ -1,11 +1,11 @@
 {
   "name": "cactus-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Tools for evaluating a CSIP Aus server implementation via a virtual client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cactus_client-0.0.1.tar.gz",
-  "download_time": "2025-09-30T22:48:23.363867",
+  "download_filename": "cactus_client-0.0.2.tar.gz",
+  "download_time": "2025-09-30T23:11:00.823991",
   "package_url": "https://pypi.org/project/cactus-client/"
 }
