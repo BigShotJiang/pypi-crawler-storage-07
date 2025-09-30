@@ -1,11 +1,11 @@
 {
   "name": "binance-Alan",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "获取bitcoin,eth等一天内分钟级别的价格在binance.us",
   "author": "Alan",
   "license": null,
   "home_page": "https://github.com/AlanZeng-Coder/binance-Alan",
-  "download_filename": "binance_alan-0.0.1.tar.gz",
-  "download_time": "2025-09-30T05:48:11.374943",
+  "download_filename": "binance_alan-0.0.2.tar.gz",
+  "download_time": "2025-09-30T16:14:52.130636",
   "package_url": "https://pypi.org/project/binance-Alan/"
 }

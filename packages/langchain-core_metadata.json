@@ -1,0 +1,11 @@
+{
+  "name": "langchain-core",
+  "version": "0.3.76",
+  "summary": "Building applications with LLMs through composability",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_core-0.3.76.tar.gz",
+  "download_time": "2025-09-30T16:15:16.861612",
+  "package_url": "https://pypi.org/project/langchain-core/"
+}

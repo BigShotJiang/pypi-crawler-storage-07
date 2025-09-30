@@ -1,11 +1,11 @@
 {
   "name": "diagram-ai-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Professional AI-powered architecture diagram generator with MCP server support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "diagram_ai_generator-1.0.0.tar.gz",
-  "download_time": "2025-09-30T15:13:20.577196",
+  "download_filename": "diagram_ai_generator-1.0.1.tar.gz",
+  "download_time": "2025-09-30T16:14:54.751707",
   "package_url": "https://pypi.org/project/diagram-ai-generator/"
 }

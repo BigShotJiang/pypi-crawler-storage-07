@@ -1,0 +1,11 @@
+{
+  "name": "guilded.py",
+  "version": "1.13.3",
+  "summary": "An API wrapper in Python for Guilded's bot API",
+  "author": "shay (shayypy)",
+  "license": "MIT",
+  "home_page": "https://github.com/shayypy/guilded.py",
+  "download_filename": "guilded.py-1.13.3.tar.gz",
+  "download_time": "2025-09-30T16:14:36.241544",
+  "package_url": "https://pypi.org/project/guilded.py/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "autonomize-connector-sdk",
+  "version": "0.3.0",
+  "summary": "Industry-leading API integration with JSON-based registration and proven Azure OpenAI support",
+  "author": "Autonomize AI",
+  "license": "MIT",
+  "home_page": "https://github.com/autonomize-ai/autonomize-connectors",
+  "download_filename": "autonomize_connector_sdk-0.3.0.tar.gz",
+  "download_time": "2025-09-30T16:15:04.416323",
+  "package_url": "https://pypi.org/project/autonomize-connector-sdk/"
+}

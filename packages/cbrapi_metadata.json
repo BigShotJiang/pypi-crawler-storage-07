@@ -1,11 +1,11 @@
 {
   "name": "cbrapi",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Python interface for Central Bank of Russia (CBR) API",
   "author": "AAARRRT",
   "license": null,
   "home_page": null,
-  "download_filename": "cbrapi-0.1.1.tar.gz",
-  "download_time": "2025-09-28T14:26:23.033821",
+  "download_filename": "cbrapi-0.1.2.tar.gz",
+  "download_time": "2025-09-30T16:15:21.695637",
   "package_url": "https://pypi.org/project/cbrapi/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "kineticstoolkit-extensions",
+  "version": "0.17.0",
+  "summary": "Extensions and unstable development modules for Kinetics Toolkit.",
+  "author": "Félix Chénier",
+  "license": "Apache",
+  "home_page": "https://kineticstoolkit.uqam.ca",
+  "download_filename": "kineticstoolkit_extensions-0.17.0.tar.gz",
+  "download_time": "2025-09-30T16:14:42.290886",
+  "package_url": "https://pypi.org/project/kineticstoolkit-extensions/"
+}
