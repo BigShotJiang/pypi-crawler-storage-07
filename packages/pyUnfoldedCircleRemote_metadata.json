@@ -1,0 +1,11 @@
+{
+  "name": "pyUnfoldedCircleRemote",
+  "version": "0.15.2",
+  "summary": "A python library to interact with the Unfolded Circle Remote",
+  "author": "Jack Powell",
+  "license": "MIT",
+  "home_page": "https://github.com/jackjpowell/py-unfolded-circle",
+  "download_filename": "pyunfoldedcircleremote-0.15.2.tar.gz",
+  "download_time": "2025-09-30T21:27:46.622957",
+  "package_url": "https://pypi.org/project/pyUnfoldedCircleRemote/"
+}

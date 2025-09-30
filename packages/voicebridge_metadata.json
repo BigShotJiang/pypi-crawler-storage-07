@@ -1,0 +1,11 @@
+{
+  "name": "voicebridge",
+  "version": "0.0.1",
+  "summary": "Comprehensive bidirectional voice-text CLI tool with Whisper and VibeVoice",
+  "author": "Patrick",
+  "license": null,
+  "home_page": null,
+  "download_filename": "voicebridge-0.0.1.tar.gz",
+  "download_time": "2025-09-30T21:27:51.922203",
+  "package_url": "https://pypi.org/project/voicebridge/"
+}

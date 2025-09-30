@@ -1,0 +1,11 @@
+{
+  "name": "django-macaddress",
+  "version": "1.9.0",
+  "summary": "MAC address model and form fields for Django apps.",
+  "author": "Ryan Nowakowski",
+  "license": "BSD",
+  "home_page": "http://github.com/tubaman/django-macaddress",
+  "download_filename": "django_macaddress-1.9.0.tar.gz",
+  "download_time": "2025-09-30T21:27:46.102676",
+  "package_url": "https://pypi.org/project/django-macaddress/"
+}

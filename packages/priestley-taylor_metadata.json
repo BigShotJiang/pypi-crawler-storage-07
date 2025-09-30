@@ -1,11 +1,11 @@
 {
   "name": "priestley-taylor",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "summary": "Priestley-Taylor Evapotranspiration Utilities in Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "priestley_taylor-1.1.0.tar.gz",
-  "download_time": "2025-09-30T21:10:34.225271",
+  "download_filename": "priestley_taylor-1.1.2.tar.gz",
+  "download_time": "2025-09-30T21:27:32.348618",
   "package_url": "https://pypi.org/project/priestley-taylor/"
 }
