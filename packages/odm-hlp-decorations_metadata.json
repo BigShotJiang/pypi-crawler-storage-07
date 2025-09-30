@@ -1,0 +1,11 @@
+{
+  "name": "odm-hlp-decorations",
+  "version": "1.0.0",
+  "summary": "Decorators for ETL functions with logging and error handling",
+  "author": "Marc Monteys",
+  "license": null,
+  "home_page": "https://github.com/your-username/odm-hlp-decorations",
+  "download_filename": "odm_hlp_decorations-1.0.0.tar.gz",
+  "download_time": "2025-09-30T15:13:17.244679",
+  "package_url": "https://pypi.org/project/odm-hlp-decorations/"
+}

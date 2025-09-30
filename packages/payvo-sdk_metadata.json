@@ -1,0 +1,11 @@
+{
+  "name": "payvo-sdk",
+  "version": "0.0.4",
+  "summary": "Python SDK для работы с Payvo API",
+  "author": "erruqie",
+  "license": null,
+  "home_page": "https://github.com/erruqie/payvo_sdk",
+  "download_filename": "payvo_sdk-0.0.4.tar.gz",
+  "download_time": "2025-09-30T15:13:06.187428",
+  "package_url": "https://pypi.org/project/payvo-sdk/"
+}

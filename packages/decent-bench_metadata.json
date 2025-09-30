@@ -1,11 +1,11 @@
 {
   "name": "decent-bench",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A benchmarking framework for decentralized optimization",
-  "author": null,
+  "author": "Elias Ram, Nicola Bastianello",
   "license": null,
   "home_page": null,
-  "download_filename": "decent_bench-0.1.0.tar.gz",
-  "download_time": "2025-09-30T13:52:40.166860",
+  "download_filename": "decent_bench-0.1.1.tar.gz",
+  "download_time": "2025-09-30T15:13:17.892838",
   "package_url": "https://pypi.org/project/decent-bench/"
 }

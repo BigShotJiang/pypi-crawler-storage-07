@@ -1,11 +1,11 @@
 {
   "name": "fta",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "summary": null,
   "author": "Voidful",
   "license": null,
   "home_page": "https://github.com/voidful/FTA",
-  "download_filename": "fta-0.0.13.tar.gz",
-  "download_time": "2025-09-30T09:12:50.038411",
+  "download_filename": "fta-0.0.14.tar.gz",
+  "download_time": "2025-09-30T15:13:46.212890",
   "package_url": "https://pypi.org/project/fta/"
 }

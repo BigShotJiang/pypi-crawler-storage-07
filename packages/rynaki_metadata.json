@@ -1,11 +1,11 @@
 {
   "name": "rynaki",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "a python api wrapper for akinator's guesssing game api.",
-  "author": "mineogo/ryn",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rynaki-0.1.1.tar.gz",
-  "download_time": "2025-09-27T19:32:55.867270",
+  "download_filename": "rynaki-0.1.2.tar.gz",
+  "download_time": "2025-09-30T15:13:16.630639",
   "package_url": "https://pypi.org/project/rynaki/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "altan",
+  "version": "0.2.2",
+  "summary": "Python SDK for Altan API - Integration and Database operations with PostgREST-style interface",
+  "author": "Altan",
+  "license": null,
+  "home_page": "https://github.com/altan/altan-sdk",
+  "download_filename": "altan-0.2.2-py3-none-any.whl",
+  "download_time": "2025-09-30T15:13:08.521076",
+  "package_url": "https://pypi.org/project/altan/"
+}

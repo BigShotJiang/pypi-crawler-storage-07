@@ -1,11 +1,11 @@
 {
   "name": "tacozip",
-  "version": "0.9.9",
+  "version": "0.9.10",
   "summary": "TACO ZIP: ZIP64 archive with TACO Header for fast metadata access",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tacozip-0.9.9.tar.gz",
-  "download_time": "2025-09-29T17:29:57.112429",
+  "download_filename": "tacozip-0.9.10.tar.gz",
+  "download_time": "2025-09-30T15:13:57.868153",
   "package_url": "https://pypi.org/project/tacozip/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "causationentropy",
+  "version": "1.0.0",
+  "summary": "Causal network discovery using optimal causation entropy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "causationentropy-1.0.0.tar.gz",
+  "download_time": "2025-09-30T15:13:30.319577",
+  "package_url": "https://pypi.org/project/causationentropy/"
+}

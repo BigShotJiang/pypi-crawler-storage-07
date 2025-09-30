@@ -1,11 +1,11 @@
 {
   "name": "SnakeScan",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "summary": "Module SnakeScan",
   "author": "Den*Ram",
   "license": null,
   "home_page": null,
-  "download_filename": "snakescan-1.2.8.tar.gz",
-  "download_time": "2025-09-29T19:09:19.882732",
+  "download_filename": "snakescan-1.2.9.tar.gz",
+  "download_time": "2025-09-30T15:13:11.943203",
   "package_url": "https://pypi.org/project/SnakeScan/"
 }

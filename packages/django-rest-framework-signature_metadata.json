@@ -1,0 +1,11 @@
+{
+  "name": "django-rest-framework-signature",
+  "version": "4.0.3.dev1",
+  "summary": "Django Rest Framework Signature Authentication",
+  "author": "Skyler Cain",
+  "license": null,
+  "home_page": "https://github.com/Skylude/django-rest-framework-signature",
+  "download_filename": "django-rest-framework-signature-4.0.3.dev1.tar.gz",
+  "download_time": "2025-09-30T15:13:50.521459",
+  "package_url": "https://pypi.org/project/django-rest-framework-signature/"
+}

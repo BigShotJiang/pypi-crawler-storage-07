@@ -1,0 +1,11 @@
+{
+  "name": "zyra-tool",
+  "version": "1.0.8",
+  "summary": "zyra: A version control system that is built from scratch in python",
+  "author": "Karthik Rishinarada",
+  "license": null,
+  "home_page": "https://github.com/karthik11135/zyra",
+  "download_filename": "zyra-tool-1.0.8.tar.gz",
+  "download_time": "2025-09-30T15:13:04.913077",
+  "package_url": "https://pypi.org/project/zyra-tool/"
+}
