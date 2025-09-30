@@ -1,0 +1,11 @@
+{
+  "name": "pi-heif",
+  "version": "1.1.1",
+  "summary": "Python interface for libheif library",
+  "author": "Alexander Piskun",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/bigcat88/pillow_heif",
+  "download_filename": "pi_heif-1.1.1-cp310-cp310-macosx_10_15_x86_64.whl",
+  "download_time": "2025-09-30T16:54:41.419367",
+  "package_url": "https://pypi.org/project/pi-heif/"
+}

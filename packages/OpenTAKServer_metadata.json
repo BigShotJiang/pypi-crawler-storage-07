@@ -1,11 +1,11 @@
 {
   "name": "OpenTAKServer",
-  "version": "1.5.11",
+  "version": "1.5.12",
   "summary": "A server for ATAK, WinTAK, and iTAK",
   "author": "OpenTAKServer",
   "license": "GPL-3.0-or-later",
   "home_page": "https://github.com/brian7704/OpenTAKServer",
-  "download_filename": "opentakserver-1.5.11.tar.gz",
-  "download_time": "2025-09-30T02:13:18.355247",
+  "download_filename": "opentakserver-1.5.12.tar.gz",
+  "download_time": "2025-09-30T16:54:42.585196",
   "package_url": "https://pypi.org/project/OpenTAKServer/"
 }

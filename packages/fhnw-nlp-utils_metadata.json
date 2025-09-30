@@ -1,0 +1,11 @@
+{
+  "name": "fhnw-nlp-utils",
+  "version": "0.11.0",
+  "summary": "Utilities for NLP courses taught at FHNW.",
+  "author": "Fabian",
+  "license": "MIT",
+  "home_page": "http://github.com/markif/fhnw-nlp-utils",
+  "download_filename": "fhnw_nlp_utils-0.11.0-py3-none-any.whl",
+  "download_time": "2025-09-30T16:54:42.006255",
+  "package_url": "https://pypi.org/project/fhnw-nlp-utils/"
+}

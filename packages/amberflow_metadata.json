@@ -1,0 +1,11 @@
+{
+  "name": "amberflow",
+  "version": "0.3.7",
+  "summary": "Python workflow to run Free Energy calculations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "amberflow-0.3.7-py3-none-any.whl",
+  "download_time": "2025-09-30T16:54:45.502840",
+  "package_url": "https://pypi.org/project/amberflow/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "theprometheus",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "summary": "PSF Photometry Software",
   "author": "David Nidever",
   "license": "MIT",
   "home_page": "https://github.com/dnidever/prometheus",
-  "download_filename": "theprometheus-1.0.23.tar.gz",
-  "download_time": "2025-09-29T22:34:02.728242",
+  "download_filename": "theprometheus-1.0.24.tar.gz",
+  "download_time": "2025-09-30T16:54:43.779107",
   "package_url": "https://pypi.org/project/theprometheus/"
 }

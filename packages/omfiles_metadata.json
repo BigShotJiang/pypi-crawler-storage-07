@@ -1,11 +1,11 @@
 {
   "name": "omfiles",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "summary": "Python bindings for the Open-Meteo file format",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "omfiles-0.1.1.tar.gz",
-  "download_time": "2025-09-29T17:11:04.645881",
+  "download_filename": "omfiles-1.0.0.tar.gz",
+  "download_time": "2025-09-30T16:54:50.751418",
   "package_url": "https://pypi.org/project/omfiles/"
 }
