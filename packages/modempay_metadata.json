@@ -1,11 +1,11 @@
 {
   "name": "modempay",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A Python SDK for integrating with the Modem Pay payment gateway, enabling seamless payment processing and financial services in your applications.",
   "author": "Caleb Okpara",
   "license": null,
   "home_page": "https://modempay.com",
-  "download_filename": "modempay-1.0.3.tar.gz",
-  "download_time": "2025-09-30T20:33:23.478181",
+  "download_filename": "modempay-1.0.4.tar.gz",
+  "download_time": "2025-09-30T21:35:01.837109",
   "package_url": "https://pypi.org/project/modempay/"
 }

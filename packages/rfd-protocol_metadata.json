@@ -1,11 +1,11 @@
 {
   "name": "rfd-protocol",
-  "version": "5.5.0",
+  "version": "5.5.1",
   "summary": "Reality-First Development Protocol - Prevents AI hallucination and ensures spec-driven development",
   "author": "RFD Protocol Team",
   "license": "MIT",
   "home_page": "https://github.com/rfd-protocol/rfd",
-  "download_filename": "rfd_protocol-5.5.0.tar.gz",
-  "download_time": "2025-09-30T17:12:17.168383",
+  "download_filename": "rfd_protocol-5.5.1.tar.gz",
+  "download_time": "2025-09-30T21:35:00.705419",
   "package_url": "https://pypi.org/project/rfd-protocol/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "steer-core",
+  "version": "0.1.19",
+  "summary": "Modelling energy storage from cell to site - STEER OpenCell Design",
+  "author": "Nicholas Siemons",
+  "license": null,
+  "home_page": "https://github.com/nicholas9182/steer-core/",
+  "download_filename": "steer_core-0.1.19.tar.gz",
+  "download_time": "2025-09-30T21:34:56.151540",
+  "package_url": "https://pypi.org/project/steer-core/"
+}
