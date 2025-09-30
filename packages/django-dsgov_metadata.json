@@ -1,0 +1,11 @@
+{
+  "name": "django-dsgov",
+  "version": "0.2",
+  "summary": "Um App Django app para dispobilizar o Design System gov.br para projeto django.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_dsgov-0.2.tar.gz",
+  "download_time": "2025-09-30T19:24:42.144925",
+  "package_url": "https://pypi.org/project/django-dsgov/"
+}

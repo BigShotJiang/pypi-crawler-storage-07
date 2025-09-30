@@ -1,0 +1,11 @@
+{
+  "name": "alfalfa-client",
+  "version": "1.0.0",
+  "summary": "A standalone client for the NREL Alfalfa application",
+  "author": "Kyle Benne",
+  "license": "LICENSE.txt",
+  "home_page": null,
+  "download_filename": "alfalfa_client-1.0.0.tar.gz",
+  "download_time": "2025-09-30T19:24:37.843349",
+  "package_url": "https://pypi.org/project/alfalfa-client/"
+}

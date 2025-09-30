@@ -1,0 +1,11 @@
+{
+  "name": "cdsapi",
+  "version": "0.7.7",
+  "summary": "Climate Data Store API",
+  "author": "ECMWF",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/ecmwf/cdsapi",
+  "download_filename": "cdsapi-0.7.7.tar.gz",
+  "download_time": "2025-09-30T19:24:43.744103",
+  "package_url": "https://pypi.org/project/cdsapi/"
+}

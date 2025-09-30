@@ -1,11 +1,11 @@
 {
   "name": "taskAutom",
-  "version": "8.4.1",
+  "version": "8.4.3",
   "summary": "A simple task automation tool",
   "author": "Lucas Aimaretto",
   "license": "BSD 3-clause",
   "home_page": "https://github.com/laimaretto/taskAutom",
-  "download_filename": "taskautom-8.4.1.tar.gz",
-  "download_time": "2025-09-30T19:09:21.375662",
+  "download_filename": "taskautom-8.4.3.tar.gz",
+  "download_time": "2025-09-30T19:24:35.755200",
   "package_url": "https://pypi.org/project/taskAutom/"
 }
