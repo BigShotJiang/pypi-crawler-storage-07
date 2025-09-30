@@ -1,0 +1,11 @@
+{
+  "name": "biobatchnet",
+  "version": "0.1.8",
+  "summary": "A VAE framework for batch effect correction in biological data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "biobatchnet-0.1.8.tar.gz",
+  "download_time": "2025-09-30T05:12:31.337587",
+  "package_url": "https://pypi.org/project/biobatchnet/"
+}
