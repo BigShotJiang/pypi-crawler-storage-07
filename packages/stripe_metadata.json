@@ -1,0 +1,11 @@
+{
+  "name": "stripe",
+  "version": "13.0.0",
+  "summary": "Python bindings for the Stripe API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stripe-13.0.0.tar.gz",
+  "download_time": "2025-09-30T23:27:15.467815",
+  "package_url": "https://pypi.org/project/stripe/"
+}

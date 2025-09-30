@@ -1,0 +1,11 @@
+{
+  "name": "cbbd",
+  "version": "1.20.2",
+  "summary": "College Basketball Data API",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/CFBD/cbbd-python",
+  "download_filename": "cbbd-1.20.2.tar.gz",
+  "download_time": "2025-09-30T23:27:03.044694",
+  "package_url": "https://pypi.org/project/cbbd/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "toolplot",
+  "version": "0.3.6",
+  "summary": "toolplot is a alternative API to plotting backends",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "toolplot-0.3.6.tar.gz",
+  "download_time": "2025-09-30T23:27:10.274623",
+  "package_url": "https://pypi.org/project/toolplot/"
+}

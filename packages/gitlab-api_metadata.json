@@ -1,0 +1,11 @@
+{
+  "name": "gitlab-api",
+  "version": "25.9.6",
+  "summary": "GitLab API Python Wrapper",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gitlab_api-25.9.6.tar.gz",
+  "download_time": "2025-09-30T23:27:05.110482",
+  "package_url": "https://pypi.org/project/gitlab-api/"
+}
