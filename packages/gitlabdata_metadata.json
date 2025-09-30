@@ -1,0 +1,11 @@
+{
+  "name": "gitlabdata",
+  "version": "0.3.40",
+  "summary": "GitLab Data Utils",
+  "author": "GitLab Data Team",
+  "license": null,
+  "home_page": "https://gitlab.com/gitlab-data/gitlab-data-utils",
+  "download_filename": "gitlabdata-0.3.40.tar.gz",
+  "download_time": "2025-09-30T14:12:26.291238",
+  "package_url": "https://pypi.org/project/gitlabdata/"
+}

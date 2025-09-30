@@ -1,0 +1,11 @@
+{
+  "name": "rfp-betterment-analyzer",
+  "version": "1.0.0",
+  "summary": "A tool to evaluate proposal content and identify betterments for U.S. Government RFP responses",
+  "author": "RFP Analysis Team",
+  "license": null,
+  "home_page": "https://github.com/rfpanalysis/rfp-betterment-analyzer",
+  "download_filename": "rfp_betterment_analyzer-1.0.0.tar.gz",
+  "download_time": "2025-09-30T14:12:05.288664",
+  "package_url": "https://pypi.org/project/rfp-betterment-analyzer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hqitc",
+  "version": "0.1.1",
+  "summary": "Hybrid Quantum-Inspired Transform Codec - A novel image compression algorithm combining quantum-inspired encoding, attention mechanisms, and adaptive DCT transforms",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hqitc-0.1.1.tar.gz",
+  "download_time": "2025-09-30T14:12:19.074125",
+  "package_url": "https://pypi.org/project/hqitc/"
+}
