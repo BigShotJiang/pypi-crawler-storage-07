@@ -1,11 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-30T08:43:55.531444
-- **Total Packages**: 87
-- **Total Size**: 45.92 MB
+- **Download Time**: 2025-09-30T08:56:38.183231
+- **Total Packages**: 86
+- **Total Size**: 13.48 MB
 
 ## Packages List
+- Blinter
+- spark-rapids-user-tools
+- authentik-client
+- tfp-nightly
+- param-lsp
+- janito
 - sv2svg
 - fastgraphFPMS
 - iflow-mcp-cek_nomor_rekening_bank_indone
@@ -40,7 +46,6 @@
 - sekoia-automation-sdk
 - escape-rucio-policy-package
 - csv-ical
-- param-lsp
 - django-unfold
 - arkindex-base-worker
 - psrdada-cpp-utils
@@ -51,7 +56,6 @@
 - codegen-cli
 - tdrpa.tdworker
 - codosdk
-- authentik-client
 - sc-utility
 - pyweclapp
 - unbabelizer
@@ -88,8 +92,3 @@
 - emailverifysdk
 - scruby
 - ayikla
-- zenx
-- microbootstrap
-- gfa_ml
-- nadag-innmelding-python-client
-- jupyterpack

@@ -1,8 +1,14 @@
 {
-  "download_time": "2025-09-30T08:43:55.531444",
-  "total_packages_downloaded": 87,
-  "total_size_mb": 45.92,
+  "download_time": "2025-09-30T08:56:38.183231",
+  "total_packages_downloaded": 86,
+  "total_size_mb": 13.48,
   "packages": [
+    "Blinter",
+    "spark-rapids-user-tools",
+    "authentik-client",
+    "tfp-nightly",
+    "param-lsp",
+    "janito",
     "sv2svg",
     "fastgraphFPMS",
     "iflow-mcp-cek_nomor_rekening_bank_indone",
@@ -37,7 +43,6 @@
     "sekoia-automation-sdk",
     "escape-rucio-policy-package",
     "csv-ical",
-    "param-lsp",
     "django-unfold",
     "arkindex-base-worker",
     "psrdada-cpp-utils",
@@ -48,7 +53,6 @@
     "codegen-cli",
     "tdrpa.tdworker",
     "codosdk",
-    "authentik-client",
     "sc-utility",
     "pyweclapp",
     "unbabelizer",
@@ -84,11 +88,6 @@
     "python-aresti",
     "emailverifysdk",
     "scruby",
-    "ayikla",
-    "zenx",
-    "microbootstrap",
-    "gfa_ml",
-    "nadag-innmelding-python-client",
-    "jupyterpack"
+    "ayikla"
   ]
 }
