@@ -1,11 +1,11 @@
 {
   "name": "clarifai-grpc",
-  "version": "11.8.5",
+  "version": "11.8.6",
   "summary": "Clarifai gRPC API Client",
   "author": "Clarifai",
   "license": "Apache 2.0",
   "home_page": "https://github.com/Clarifai/clarifai-python-grpc",
-  "download_filename": "clarifai_grpc-11.8.5.tar.gz",
-  "download_time": "2025-09-29T21:09:44.133160",
+  "download_filename": "clarifai_grpc-11.8.6.tar.gz",
+  "download_time": "2025-09-30T09:48:50.830267",
   "package_url": "https://pypi.org/project/clarifai-grpc/"
 }

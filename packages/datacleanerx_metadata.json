@@ -1,11 +1,11 @@
 {
   "name": "datacleanerx",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Automated dataset cleaner for machine learning",
   "author": "Satyam Singh",
   "license": null,
   "home_page": "https://github.com/SatyamSingh8306/datacleanerx",
-  "download_filename": "datacleanerx-0.2.0.tar.gz",
-  "download_time": "2025-09-30T09:32:02.131975",
+  "download_filename": "datacleanerx-0.2.1.tar.gz",
+  "download_time": "2025-09-30T09:49:13.074053",
   "package_url": "https://pypi.org/project/datacleanerx/"
 }

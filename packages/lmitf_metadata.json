@@ -1,11 +1,11 @@
 {
   "name": "lmitf",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "Large Model Interface - A flexible interface for interacting with large language models and vision models.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lmitf-0.1.14-py3-none-any.whl",
-  "download_time": "2025-09-30T08:16:33.241133",
+  "download_filename": "lmitf-0.1.15-py3-none-any.whl",
+  "download_time": "2025-09-30T09:49:22.967762",
   "package_url": "https://pypi.org/project/lmitf/"
 }

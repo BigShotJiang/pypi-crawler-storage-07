@@ -1,0 +1,11 @@
+{
+  "name": "genialntools",
+  "version": "1.0.0",
+  "summary": "A simple library for speed control in Python.",
+  "author": "NEFOR",
+  "license": null,
+  "home_page": "https://github.com/nefoceo/genialtools",
+  "download_filename": "genialntools-1.0.0.tar.gz",
+  "download_time": "2025-09-30T09:48:50.247782",
+  "package_url": "https://pypi.org/project/genialntools/"
+}

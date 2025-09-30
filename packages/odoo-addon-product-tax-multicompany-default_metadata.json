@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-product-tax-multicompany-default",
+  "version": "18.0.1.0.0.3",
+  "summary": "Product Tax Multi Company Default",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/multi-company",
+  "download_filename": "odoo_addon_product_tax_multicompany_default-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-09-30T09:48:40.835695",
+  "package_url": "https://pypi.org/project/odoo-addon-product-tax-multicompany-default/"
+}
