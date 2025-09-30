@@ -1,0 +1,11 @@
+{
+  "name": "profinder",
+  "version": "0.2.4",
+  "summary": "Functions to find profiles in ocean pressure data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "profinder-0.2.4.tar.gz",
+  "download_time": "2025-09-30T16:38:56.062303",
+  "package_url": "https://pypi.org/project/profinder/"
+}

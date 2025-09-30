@@ -1,0 +1,11 @@
+{
+  "name": "odm-hlp-oracle",
+  "version": "1.0.0",
+  "summary": "Oracle database helper functions and utilities for ETL operations",
+  "author": "Marc Monteys",
+  "license": null,
+  "home_page": "https://github.com/your-username/odm-hlp-oracle",
+  "download_filename": "odm_hlp_oracle-1.0.0.tar.gz",
+  "download_time": "2025-09-30T16:39:33.277195",
+  "package_url": "https://pypi.org/project/odm-hlp-oracle/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "meross-iot",
-  "version": "0.4.10.2",
+  "version": "0.4.10.3",
   "summary": "A simple library to deal with Meross devices. At the moment MSS110, MSS210, MSS310, MSS310H smart plugs and the MSS425E power strip. Other meross device might work out of the box with limited functionality. Give it a try and, in case of problems, let the developer know by opening an issue on Github.",
   "author": "Alberto Geniola",
   "license": "MIT",
   "home_page": "https://github.com/albertogeniola/MerossIot",
-  "download_filename": "meross_iot-0.4.10.2.tar.gz",
-  "download_time": "2025-09-28T22:09:47.888441",
+  "download_filename": "meross_iot-0.4.10.3.tar.gz",
+  "download_time": "2025-09-30T16:39:02.992357",
   "package_url": "https://pypi.org/project/meross-iot/"
 }

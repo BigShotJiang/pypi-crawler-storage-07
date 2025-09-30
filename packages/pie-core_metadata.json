@@ -1,0 +1,11 @@
+{
+  "name": "pie-core",
+  "version": "0.3.1",
+  "summary": "Core modules of PyTorch-IE",
+  "author": "Arne Binder",
+  "license": "MIT",
+  "home_page": "https://github.com/arnebinder/pie-core",
+  "download_filename": "pie_core-0.3.1.tar.gz",
+  "download_time": "2025-09-30T16:39:06.258420",
+  "package_url": "https://pypi.org/project/pie-core/"
+}

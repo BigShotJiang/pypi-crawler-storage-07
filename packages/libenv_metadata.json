@@ -1,0 +1,11 @@
+{
+  "name": "libenv",
+  "version": "1.2.0",
+  "summary": "Declare an Environment",
+  "author": "David M. Rogers",
+  "license": "BSD-3-Clause",
+  "home_page": "https://gitlab.com/frobnitzem/libenv",
+  "download_filename": "libenv-1.2.0.tar.gz",
+  "download_time": "2025-09-30T16:38:58.934955",
+  "package_url": "https://pypi.org/project/libenv/"
+}
