@@ -1,0 +1,11 @@
+{
+  "name": "marker-pdf",
+  "version": "1.10.1",
+  "summary": "Convert documents to markdown with high speed and accuracy.",
+  "author": "Vik Paruchuri",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/VikParuchuri/marker",
+  "download_filename": "marker_pdf-1.10.1.tar.gz",
+  "download_time": "2025-09-30T15:49:06.769444",
+  "package_url": "https://pypi.org/project/marker-pdf/"
+}

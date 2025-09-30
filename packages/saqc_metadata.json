@@ -1,0 +1,11 @@
+{
+  "name": "saqc",
+  "version": "2.7.0.post2",
+  "summary": "A timeseries data quality control and processing tool/framework",
+  "author": "David Schaefer, Bert Palm, Peter Luenenschloss",
+  "license": null,
+  "home_page": "https://git.ufz.de/rdm-software/saqc",
+  "download_filename": "saqc-2.7.0.post2.tar.gz",
+  "download_time": "2025-09-30T15:49:10.944903",
+  "package_url": "https://pypi.org/project/saqc/"
+}
