@@ -1,0 +1,11 @@
+{
+  "name": "wowool-sdk",
+  "version": "3.5.6",
+  "summary": "Wowool SDK",
+  "author": "Wowool",
+  "license": null,
+  "home_page": "https://www.wowool.com/",
+  "download_filename": "wowool_sdk-3.5.6-py3-none-any.whl",
+  "download_time": "2025-09-30T22:48:17.413258",
+  "package_url": "https://pypi.org/project/wowool-sdk/"
+}

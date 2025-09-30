@@ -1,0 +1,11 @@
+{
+  "name": "diffpy.morph",
+  "version": "0.2.0",
+  "summary": "Python package for manipulating and comparing PDF profiles",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "diffpy_morph-0.2.0.tar.gz",
+  "download_time": "2025-09-30T22:48:09.301751",
+  "package_url": "https://pypi.org/project/diffpy.morph/"
+}

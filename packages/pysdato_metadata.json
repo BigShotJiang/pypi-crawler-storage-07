@@ -1,0 +1,11 @@
+{
+  "name": "pysdato",
+  "version": "0.0.14",
+  "summary": "Simple JSON file storage for Python dataclasses, msgspec structs and pydantic models, thread and multiprocess safe",
+  "author": "Stas Davydov",
+  "license": "MIT",
+  "home_page": "https://github.com/stasdavydov/pys",
+  "download_filename": "pysdato-0.0.14.tar.gz",
+  "download_time": "2025-09-30T22:48:18.475663",
+  "package_url": "https://pypi.org/project/pysdato/"
+}

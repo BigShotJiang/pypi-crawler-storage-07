@@ -1,11 +1,11 @@
 {
   "name": "morphsync",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A package for managing multilayer morphology data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "morphsync-0.1.0-py3-none-any.whl",
-  "download_time": "2025-09-30T22:11:07.055373",
+  "download_filename": "morphsync-0.1.2-py3-none-any.whl",
+  "download_time": "2025-09-30T22:48:02.308710",
   "package_url": "https://pypi.org/project/morphsync/"
 }
