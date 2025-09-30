@@ -1,0 +1,11 @@
+{
+  "name": "gcal_notifier",
+  "version": "1.1.7",
+  "summary": "A simple and lightweight GoogleCalendar notifier for Linux",
+  "author": "Thales Nunes",
+  "license": "MIT",
+  "home_page": "https://github.com/thalesnunes/gcal_notifier",
+  "download_filename": "gcal_notifier-1.1.7.tar.gz",
+  "download_time": "2025-09-30T18:15:42.960686",
+  "package_url": "https://pypi.org/project/gcal_notifier/"
+}

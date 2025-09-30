@@ -1,11 +1,11 @@
 {
   "name": "henosis-cli",
-  "version": "0.4.2",
-  "summary": "Henosis CLI — fast, multi-provider streaming chat with improved UX (rich TUI by default, streamlined prompts, approvals, and tools). This release includes updated token reporting.",
+  "version": "0.5.1",
+  "summary": "henosis-cli — interactive CLI for the Henosis multi-provider streaming chat backend, with optional local tools.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "henosis_cli-0.4.2.tar.gz",
-  "download_time": "2025-09-30T05:12:13.985735",
+  "download_filename": "henosis_cli-0.5.1.tar.gz",
+  "download_time": "2025-09-30T18:16:24.504010",
   "package_url": "https://pypi.org/project/henosis-cli/"
 }

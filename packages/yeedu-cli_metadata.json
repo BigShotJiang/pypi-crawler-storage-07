@@ -1,0 +1,11 @@
+{
+  "name": "yeedu-cli",
+  "version": "4.12.2",
+  "summary": "Universal Command Line Interface for Yeedu.",
+  "author": "Yeedu",
+  "license": "All Rights Reserved",
+  "home_page": "https://yeedu.io",
+  "download_filename": "yeedu_cli-4.12.2.tar.gz",
+  "download_time": "2025-09-30T18:15:49.813522",
+  "package_url": "https://pypi.org/project/yeedu-cli/"
+}

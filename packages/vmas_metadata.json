@@ -1,0 +1,11 @@
+{
+  "name": "vmas",
+  "version": "1.5.1",
+  "summary": "Vectorized Multi-Agent Simulator",
+  "author": "Matteo Bettini",
+  "license": "GPLv3",
+  "home_page": "https://github.com/proroklab/VectorizedMultiAgentSimulator",
+  "download_filename": "vmas-1.5.1.tar.gz",
+  "download_time": "2025-09-30T18:16:22.429657",
+  "package_url": "https://pypi.org/project/vmas/"
+}
