@@ -1,0 +1,11 @@
+{
+  "name": "codet",
+  "version": "1.0.6",
+  "summary": "A cross-platform command-line tool for file processing and Git repository analysis with support for commit history tracking, code hotspot detection, and customizable filtering options",
+  "author": "clemente0620",
+  "license": null,
+  "home_page": "https://github.com/clemente0731/codet",
+  "download_filename": "codet-1.0.6.tar.gz",
+  "download_time": "2025-09-30T05:32:27.655517",
+  "package_url": "https://pypi.org/project/codet/"
+}

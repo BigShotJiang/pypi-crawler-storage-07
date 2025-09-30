@@ -1,11 +1,11 @@
 {
   "name": "jira-confluence-mcp",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "summary": "jira-confluence-mcp is a Model Context Protocol (MCP) server that provides a standardized way for AI models to access and interact with resources from Jira and Confluence.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jira_confluence_mcp-0.5.4.tar.gz",
-  "download_time": "2025-09-30T04:50:03.767859",
+  "download_filename": "jira_confluence_mcp-0.5.5.tar.gz",
+  "download_time": "2025-09-30T05:32:31.168341",
   "package_url": "https://pypi.org/project/jira-confluence-mcp/"
 }
