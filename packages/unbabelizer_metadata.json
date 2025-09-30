@@ -1,11 +1,11 @@
 {
   "name": "unbabelizer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A CLI tool to translate gettext .po files.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "unbabelizer-1.0.1.tar.gz",
-  "download_time": "2025-09-30T08:43:34.668469",
+  "download_filename": "unbabelizer-1.0.2.tar.gz",
+  "download_time": "2025-09-30T11:48:25.012813",
   "package_url": "https://pypi.org/project/unbabelizer/"
 }

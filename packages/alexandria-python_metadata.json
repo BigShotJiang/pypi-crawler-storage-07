@@ -1,0 +1,11 @@
+{
+  "name": "alexandria-python",
+  "version": "2.0.1",
+  "summary": "a software for Bayesian vector autoregressions and other Bayesian time-series applications",
+  "author": "Romain Legrand",
+  "license": "Other/Proprietary License",
+  "home_page": null,
+  "download_filename": "alexandria_python-2.0.1.tar.gz",
+  "download_time": "2025-09-30T11:48:16.904052",
+  "package_url": "https://pypi.org/project/alexandria-python/"
+}

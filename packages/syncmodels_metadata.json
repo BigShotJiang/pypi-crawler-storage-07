@@ -1,11 +1,11 @@
 {
   "name": "syncmodels",
-  "version": "0.1.343",
+  "version": "0.1.344",
   "summary": "Synchronizable Models",
   "author": "Asterio Gonzalez",
   "license": "MIT license",
   "home_page": "https://github.com/asterio.gonzalez/syncmodels",
-  "download_filename": "syncmodels-0.1.343-py2.py3-none-any.whl",
-  "download_time": "2025-09-30T11:10:40.512516",
+  "download_filename": "syncmodels-0.1.344-py2.py3-none-any.whl",
+  "download_time": "2025-09-30T11:48:38.294332",
   "package_url": "https://pypi.org/project/syncmodels/"
 }

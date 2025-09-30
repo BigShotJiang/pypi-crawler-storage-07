@@ -1,0 +1,11 @@
+{
+  "name": "cie-restore",
+  "version": "0.6.0",
+  "summary": null,
+  "author": "Carmen Bianca BAKKER",
+  "license": "AGPL-3.0-or-later",
+  "home_page": "https://gitlab.com/coopiteasy/cie-restore",
+  "download_filename": "cie_restore-0.6.0.tar.gz",
+  "download_time": "2025-09-30T11:48:26.620898",
+  "package_url": "https://pypi.org/project/cie-restore/"
+}

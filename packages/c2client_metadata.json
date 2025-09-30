@@ -1,0 +1,11 @@
+{
+  "name": "c2client",
+  "version": "0.25",
+  "summary": "CROC Cloud Platform - API Client",
+  "author": "CROC Cloud Team",
+  "license": "GPL3",
+  "home_page": "https://github.com/c2devel/c2-client",
+  "download_filename": "c2client-0.25.tar.gz",
+  "download_time": "2025-09-30T11:48:28.237797",
+  "package_url": "https://pypi.org/project/c2client/"
+}

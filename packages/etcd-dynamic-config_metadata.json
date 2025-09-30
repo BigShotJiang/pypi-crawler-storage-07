@@ -1,11 +1,11 @@
 {
   "name": "etcd-dynamic-config",
-  "version": "0.2.1",
+  "version": "0.1.1",
   "summary": "A Python library for managing etcd-based configurations with caching and real-time updates",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "etcd_dynamic_config-0.2.1.tar.gz",
-  "download_time": "2025-09-29T14:48:50.746386",
+  "download_filename": "etcd_dynamic_config-0.1.1.tar.gz",
+  "download_time": "2025-09-30T11:48:02.197321",
   "package_url": "https://pypi.org/project/etcd-dynamic-config/"
 }
