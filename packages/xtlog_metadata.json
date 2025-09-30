@@ -1,11 +1,11 @@
 {
   "name": "xtlog",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "基于 loguru 的高性能日志库",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xtlog-0.1.5.tar.gz",
-  "download_time": "2025-09-30T07:13:16.789366",
+  "download_filename": "xtlog-0.1.6.tar.gz",
+  "download_time": "2025-09-30T08:16:18.600190",
   "package_url": "https://pypi.org/project/xtlog/"
 }

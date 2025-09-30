@@ -1,0 +1,11 @@
+{
+  "name": "pynqmetadata",
+  "version": "0.1.9",
+  "summary": "Extensible, Modular, Metadata layer for PYNQ projects",
+  "author": "Pynq",
+  "license": "BSD 3-Clause",
+  "home_page": "http://github.com/Xilinx/PYNQ-Metadata",
+  "download_filename": "pynqmetadata-0.1.9.tar.gz",
+  "download_time": "2025-09-30T08:16:19.630073",
+  "package_url": "https://pypi.org/project/pynqmetadata/"
+}

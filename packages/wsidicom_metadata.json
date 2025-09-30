@@ -1,11 +1,11 @@
 {
   "name": "wsidicom",
-  "version": "0.28.0",
+  "version": "0.28.1",
   "summary": "Tools for handling DICOM based whole scan images",
   "author": "Erik O Gabrielsson",
   "license": "Apache-2.0",
   "home_page": "https://github.com/imi-bigpicture/wsidicom",
-  "download_filename": "wsidicom-0.28.0.tar.gz",
-  "download_time": "2025-09-29T18:43:33.596954",
+  "download_filename": "wsidicom-0.28.1.tar.gz",
+  "download_time": "2025-09-30T08:16:41.195943",
   "package_url": "https://pypi.org/project/wsidicom/"
 }

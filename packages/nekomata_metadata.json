@@ -1,0 +1,11 @@
+{
+  "name": "nekomata",
+  "version": "1.1.0",
+  "summary": "Package to extract, visualize, convert and study interactions from database into executable activity flow based model",
+  "author": "Marco Ruscone",
+  "license": "GNU General Public License Version 3",
+  "home_page": null,
+  "download_filename": "nekomata-1.1.0.tar.gz",
+  "download_time": "2025-09-30T08:16:55.329640",
+  "package_url": "https://pypi.org/project/nekomata/"
+}

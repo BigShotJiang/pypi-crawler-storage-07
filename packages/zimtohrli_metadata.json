@@ -1,0 +1,11 @@
+{
+  "name": "zimtohrli",
+  "version": "0.2.1.post1",
+  "summary": "Psychoacoustic perceptual metric that quantifies the human observable difference in two audio signals in the proximity of just-noticeable-differences",
+  "author": "Martin Bruse, Jyrki Alakuijala",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zimtohrli-0.2.1.post1.tar.gz",
+  "download_time": "2025-09-30T08:16:22.276852",
+  "package_url": "https://pypi.org/project/zimtohrli/"
+}

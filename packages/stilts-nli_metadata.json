@@ -1,0 +1,11 @@
+{
+  "name": "stilts-nli",
+  "version": "0.0.7",
+  "summary": "A natural Language Interface to STILTS.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stilts_nli-0.0.7.tar.gz",
+  "download_time": "2025-09-30T08:16:51.111063",
+  "package_url": "https://pypi.org/project/stilts-nli/"
+}
