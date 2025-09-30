@@ -1,0 +1,11 @@
+{
+  "name": "mfdev-scraper",
+  "version": "0.1.6",
+  "summary": "A lightweight Python SDK for web scraping, data cleaning, and CSV/Excel export.",
+  "author": "Miguel Fernandez",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mfdev_scraper-0.1.6.tar.gz",
+  "download_time": "2025-09-30T03:40:04.559836",
+  "package_url": "https://pypi.org/project/mfdev-scraper/"
+}

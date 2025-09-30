@@ -1,0 +1,11 @@
+{
+  "name": "atlassian-jwt-auth",
+  "version": "21.0.0",
+  "summary": "Python implementation of the Atlassian Service to Service Authentication specification.",
+  "author": "Atlassian",
+  "license": "MIT",
+  "home_page": "https://github.com/atlassian/asap-authentication-python",
+  "download_filename": "atlassian_jwt_auth-21.0.0.tar.gz",
+  "download_time": "2025-09-30T03:40:02.979308",
+  "package_url": "https://pypi.org/project/atlassian-jwt-auth/"
+}

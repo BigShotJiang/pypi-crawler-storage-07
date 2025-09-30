@@ -1,0 +1,11 @@
+{
+  "name": "aplicacion-ventas-mbracho",
+  "version": "0.1.0",
+  "summary": "Paquete para ventas, precios, impuestos y descuentos",
+  "author": "Miguel Angel Bracho Faria",
+  "license": null,
+  "home_page": "https://github.com/curso_python_camara/aplicacionventas",
+  "download_filename": "aplicacion_ventas_mbracho-0.1.0.tar.gz",
+  "download_time": "2025-09-30T03:40:09.914235",
+  "package_url": "https://pypi.org/project/aplicacion-ventas-mbracho/"
+}

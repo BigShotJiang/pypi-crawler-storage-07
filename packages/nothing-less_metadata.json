@@ -1,0 +1,11 @@
+{
+  "name": "nothing-less",
+  "version": "0.1.11",
+  "summary": "A TUI paging application with enhanced support for tabular data and real-time streaming",
+  "author": "Matt Pryor",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nothing_less-0.1.11.tar.gz",
+  "download_time": "2025-09-30T03:40:16.747177",
+  "package_url": "https://pypi.org/project/nothing-less/"
+}
