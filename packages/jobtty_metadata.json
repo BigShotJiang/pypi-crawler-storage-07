@@ -1,11 +1,11 @@
 {
   "name": "jobtty",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "🚀 Terminal Job Board - Find your next role from the command line",
   "author": "Croscom Software",
   "license": null,
   "home_page": "https://github.com/croscomsoftware/jobtty",
-  "download_filename": "jobtty-0.3.0.tar.gz",
-  "download_time": "2025-09-30T20:33:46.342132",
+  "download_filename": "jobtty-0.3.1.tar.gz",
+  "download_time": "2025-09-30T22:10:57.837747",
   "package_url": "https://pypi.org/project/jobtty/"
 }

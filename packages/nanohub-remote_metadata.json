@@ -1,0 +1,11 @@
+{
+  "name": "nanohub-remote",
+  "version": "0.1.4",
+  "summary": "A set of tools to run nanohub web apis",
+  "author": "Project Jupyter contributor",
+  "license": "BSD License",
+  "home_page": "https://github.com/denphi/nanohub-remote",
+  "download_filename": "nanohub_remote-0.1.4-py3-none-any.whl",
+  "download_time": "2025-09-30T22:10:58.366210",
+  "package_url": "https://pypi.org/project/nanohub-remote/"
+}

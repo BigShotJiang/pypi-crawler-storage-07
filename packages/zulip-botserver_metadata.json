@@ -1,0 +1,11 @@
+{
+  "name": "zulip-botserver",
+  "version": "0.9.1",
+  "summary": "Zulip's Flask server for running bots",
+  "author": "Zulip Open Source Project",
+  "license": null,
+  "home_page": "https://www.zulip.org/",
+  "download_filename": "zulip_botserver-0.9.1.tar.gz",
+  "download_time": "2025-09-30T22:10:49.086505",
+  "package_url": "https://pypi.org/project/zulip-botserver/"
+}
