@@ -1,0 +1,11 @@
+{
+  "name": "nestedarchive",
+  "version": "0.3.1",
+  "summary": "Seamless reading of nested archives",
+  "author": "Omer Tuchfeld",
+  "license": "MIT",
+  "home_page": "https://github.com/omertuc/nestedarchive",
+  "download_filename": "nestedarchive-0.3.1.tar.gz",
+  "download_time": "2025-09-30T13:39:55.061298",
+  "package_url": "https://pypi.org/project/nestedarchive/"
+}

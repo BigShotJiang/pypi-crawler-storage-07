@@ -1,0 +1,11 @@
+{
+  "name": "tkr-pytket-worker",
+  "version": "0.1.4",
+  "summary": "A tierkreis worker for pytket.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tkr_pytket_worker-0.1.4.tar.gz",
+  "download_time": "2025-09-30T13:39:44.845527",
+  "package_url": "https://pypi.org/project/tkr-pytket-worker/"
+}

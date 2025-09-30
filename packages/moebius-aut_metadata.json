@@ -1,0 +1,11 @@
+{
+  "name": "moebius-aut",
+  "version": "2",
+  "summary": "Computing Moebius automorphisms of surfaces",
+  "author": "Niels Lubbes",
+  "license": "MIT",
+  "home_page": "http://github.com/niels-lubbes/moebius_aut",
+  "download_filename": "moebius_aut-2.tar.gz",
+  "download_time": "2025-09-30T13:39:58.219200",
+  "package_url": "https://pypi.org/project/moebius-aut/"
+}
