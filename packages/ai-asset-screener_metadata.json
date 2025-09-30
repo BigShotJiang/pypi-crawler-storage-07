@@ -1,0 +1,11 @@
+{
+  "name": "ai-asset-screener",
+  "version": "0.1.1",
+  "summary": "CLI screener for US stocks based on LLM + financial metrics (P/FCF, EV/EBITDA, SOTP, float/EV)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_asset_screener-0.1.1.tar.gz",
+  "download_time": "2025-09-30T10:50:20.842747",
+  "package_url": "https://pypi.org/project/ai-asset-screener/"
+}

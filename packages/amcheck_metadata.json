@@ -1,0 +1,11 @@
+{
+  "name": "amcheck",
+  "version": "1.0.2",
+  "summary": "amcheck is the program (and a library) to check, based on the symmetry arguments, whether a given material is an altermagnet.",
+  "author": "Andriy Smolyanyuk",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "amcheck-1.0.2.tar.gz",
+  "download_time": "2025-09-30T10:49:44.615312",
+  "package_url": "https://pypi.org/project/amcheck/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ens-normalize",
+  "version": "3.0.10",
+  "summary": "Ethereum Name Service (ENS) Name Normalizer",
+  "author": "Jakub Karbowski",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ens_normalize-3.0.10.tar.gz",
+  "download_time": "2025-09-30T10:50:13.463890",
+  "package_url": "https://pypi.org/project/ens-normalize/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "briertools",
+  "version": "0.0.3",
+  "summary": "Mixture of Thresholds based Consequentialist Binary Classifier Evaluation",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "briertools-0.0.3.tar.gz",
+  "download_time": "2025-09-30T10:50:09.295949",
+  "package_url": "https://pypi.org/project/briertools/"
+}

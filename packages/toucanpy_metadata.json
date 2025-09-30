@@ -1,11 +1,11 @@
 {
   "name": "toucanpy",
-  "version": "0.0.dev1",
+  "version": "0.0.dev2",
   "summary": "Toucan is a tool to track support of the latest versions of applications by your forensic tools.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "toucanpy-0.0.dev1-py3-none-any.whl",
-  "download_time": "2025-09-30T09:32:06.396009",
+  "download_filename": "toucanpy-0.0.dev2-py3-none-any.whl",
+  "download_time": "2025-09-30T10:50:14.584023",
   "package_url": "https://pypi.org/project/toucanpy/"
 }

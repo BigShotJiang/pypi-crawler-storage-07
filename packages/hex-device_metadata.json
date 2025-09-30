@@ -1,11 +1,11 @@
 {
   "name": "hex-device",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "summary": "A Python library for controlling HexDevice robots and devices",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hex_device-1.1.2.tar.gz",
-  "download_time": "2025-09-28T09:47:39.172577",
+  "download_filename": "hex_device-1.1.3.tar.gz",
+  "download_time": "2025-09-30T10:50:26.084637",
   "package_url": "https://pypi.org/project/hex-device/"
 }

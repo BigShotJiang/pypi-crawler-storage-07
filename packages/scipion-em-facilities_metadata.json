@@ -1,0 +1,11 @@
+{
+  "name": "scipion-em-facilities",
+  "version": "3.3.0",
+  "summary": "Plugin to use Scipion in facilities",
+  "author": null,
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "scipion_em_facilities-3.3.0.tar.gz",
+  "download_time": "2025-09-30T10:49:53.194557",
+  "package_url": "https://pypi.org/project/scipion-em-facilities/"
+}

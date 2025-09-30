@@ -1,0 +1,11 @@
+{
+  "name": "psa-car-controller",
+  "version": "3.5.7",
+  "summary": "This is a python program to control a psa car with connected_car v4 api.",
+  "author": "Florian Bezannier",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/flobz/psa_car_controller",
+  "download_filename": "psa_car_controller-3.5.7.tar.gz",
+  "download_time": "2025-09-30T10:50:26.606829",
+  "package_url": "https://pypi.org/project/psa-car-controller/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "COCO-to-YOLO",
+  "version": "1.2.0",
+  "summary": "Simple command line tool to convert COCO datasets to ultralytics YOLO format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "coco_to_yolo-1.2.0.tar.gz",
+  "download_time": "2025-09-30T10:49:51.634316",
+  "package_url": "https://pypi.org/project/COCO-to-YOLO/"
+}
