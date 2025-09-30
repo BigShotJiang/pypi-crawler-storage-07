@@ -1,0 +1,11 @@
+{
+  "name": "onnxslim",
+  "version": "0.1.70",
+  "summary": "OnnxSlim: A Toolkit to Help Optimize Onnx Model",
+  "author": "inisis",
+  "license": "MIT",
+  "home_page": "https://github.com/inisis/OnnxSlim",
+  "download_filename": "onnxslim-0.1.70.tar.gz",
+  "download_time": "2025-09-30T03:06:37.567282",
+  "package_url": "https://pypi.org/project/onnxslim/"
+}
