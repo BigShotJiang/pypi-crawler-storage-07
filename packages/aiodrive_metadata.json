@@ -1,0 +1,11 @@
+{
+  "name": "aiodrive",
+  "version": "2.1",
+  "summary": "Collection of utilities for working with asynchronous Python code",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiodrive-2.1-py3-none-any.whl",
+  "download_time": "2025-09-30T17:41:02.330612",
+  "package_url": "https://pypi.org/project/aiodrive/"
+}

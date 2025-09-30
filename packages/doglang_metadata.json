@@ -1,0 +1,11 @@
+{
+  "name": "doglang",
+  "version": "1.0.0a0",
+  "summary": "A dog-themed programming language interpreter",
+  "author": "Pallav Rai",
+  "license": null,
+  "home_page": "https://github.com/Pallavrai/doglang",
+  "download_filename": "doglang-1.0.0a0.tar.gz",
+  "download_time": "2025-09-30T17:41:14.286493",
+  "package_url": "https://pypi.org/project/doglang/"
+}
