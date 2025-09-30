@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-source-cart",
+  "version": "0.3.33",
+  "summary": "Source implementation for Cart.",
+  "author": "Airbyte",
+  "license": "MIT",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_source_cart-0.3.33.tar.gz",
+  "download_time": "2025-09-30T22:30:36.969423",
+  "package_url": "https://pypi.org/project/airbyte-source-cart/"
+}

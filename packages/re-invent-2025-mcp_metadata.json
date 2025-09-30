@@ -1,0 +1,11 @@
+{
+  "name": "re-invent-2025-mcp",
+  "version": "1.0.1",
+  "summary": "MCP server for AWS re:Invent 2025 session catalog with 1,843 sessions and 13 search tools",
+  "author": "AWS",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "re_invent_2025_mcp-1.0.1.tar.gz",
+  "download_time": "2025-09-30T22:30:31.631851",
+  "package_url": "https://pypi.org/project/re-invent-2025-mcp/"
+}

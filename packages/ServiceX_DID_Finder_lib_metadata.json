@@ -1,0 +1,11 @@
+{
+  "name": "ServiceX_DID_Finder_lib",
+  "version": "3.1.1",
+  "summary": "ServiceX DID Library Routines",
+  "author": "Gordon Watts",
+  "license": null,
+  "home_page": null,
+  "download_filename": "servicex_did_finder_lib-3.1.1.tar.gz",
+  "download_time": "2025-09-30T22:30:39.564294",
+  "package_url": "https://pypi.org/project/ServiceX_DID_Finder_lib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "confopt",
+  "version": "2.0.1",
+  "summary": "Conformal hyperparameter optimization tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "confopt-2.0.1.tar.gz",
+  "download_time": "2025-09-30T22:30:27.978148",
+  "package_url": "https://pypi.org/project/confopt/"
+}

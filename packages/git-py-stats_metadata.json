@@ -1,0 +1,11 @@
+{
+  "name": "git-py-stats",
+  "version": "0.2.0",
+  "summary": "A Python Implementation of git-quick-stats",
+  "author": "Tom Ice",
+  "license": "MIT",
+  "home_page": "https://github.com/git-quick-stats/git-py-stats",
+  "download_filename": "git_py_stats-0.2.0.tar.gz",
+  "download_time": "2025-09-30T22:30:29.536029",
+  "package_url": "https://pypi.org/project/git-py-stats/"
+}

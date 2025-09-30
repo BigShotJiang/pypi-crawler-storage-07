@@ -1,0 +1,11 @@
+{
+  "name": "streamdaq",
+  "version": "0.2.1",
+  "summary": "Plug-and-play real-time quality monitoring for data streams!",
+  "author": "Apostolos Giannoulidis",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "streamdaq-0.2.1.tar.gz",
+  "download_time": "2025-09-30T22:30:22.162832",
+  "package_url": "https://pypi.org/project/streamdaq/"
+}

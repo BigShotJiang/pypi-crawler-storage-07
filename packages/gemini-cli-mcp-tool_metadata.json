@@ -1,11 +1,11 @@
 {
   "name": "gemini-cli-mcp-tool",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "MCP server that wraps Gemini CLI for token-efficient AI operations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gemini_cli_mcp_tool-0.1.1.tar.gz",
-  "download_time": "2025-09-30T21:10:43.015524",
+  "download_filename": "gemini_cli_mcp_tool-0.2.0.tar.gz",
+  "download_time": "2025-09-30T22:30:32.687981",
   "package_url": "https://pypi.org/project/gemini-cli-mcp-tool/"
 }
