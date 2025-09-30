@@ -1,11 +1,11 @@
 {
   "name": "escape-rucio-policy-package",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Rucio policy package for the ESCAPE collaboration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "escape_rucio_policy_package-0.2.1.tar.gz",
-  "download_time": "2025-09-29T07:12:25.592497",
+  "download_filename": "escape_rucio_policy_package-0.2.2.tar.gz",
+  "download_time": "2025-09-30T08:43:26.244635",
   "package_url": "https://pypi.org/project/escape-rucio-policy-package/"
 }

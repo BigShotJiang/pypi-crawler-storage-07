@@ -1,0 +1,11 @@
+{
+  "name": "zipcodestack",
+  "version": "0.1.1",
+  "summary": "Official Python client for zipcodestack.com API",
+  "author": "Zipcodestack",
+  "license": "MIT",
+  "home_page": "https://zipcodestack.com/docs/",
+  "download_filename": "zipcodestack-0.1.1.tar.gz",
+  "download_time": "2025-09-30T08:43:49.885531",
+  "package_url": "https://pypi.org/project/zipcodestack/"
+}

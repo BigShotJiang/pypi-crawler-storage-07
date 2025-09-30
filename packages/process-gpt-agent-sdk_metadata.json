@@ -1,11 +1,11 @@
 {
   "name": "process-gpt-agent-sdk",
-  "version": "0.3.20",
+  "version": "0.4.0",
   "summary": "Supabase 기반 이벤트/작업 폴링으로 A2A AgentExecutor를 실행하는 SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "process_gpt_agent_sdk-0.3.20.tar.gz",
-  "download_time": "2025-09-27T15:09:41.487054",
+  "download_filename": "process_gpt_agent_sdk-0.4.0.tar.gz",
+  "download_time": "2025-09-30T08:43:50.404226",
   "package_url": "https://pypi.org/project/process-gpt-agent-sdk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "awesome-audit-log-django",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "summary": "Per-model audit logs to TABLENAME_log with entry-point capture (HTTP/management/shell/celery)",
   "author": "AmooAti",
   "license": "MIT",
   "home_page": "https://github.com/AmooAti/awesome-audit-log-django",
-  "download_filename": "awesome_audit_log_django-0.3.0.tar.gz",
-  "download_time": "2025-09-29T14:49:17.454069",
+  "download_filename": "awesome_audit_log_django-1.0.0.tar.gz",
+  "download_time": "2025-09-30T08:43:11.580976",
   "package_url": "https://pypi.org/project/awesome-audit-log-django/"
 }

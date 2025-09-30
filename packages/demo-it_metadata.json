@@ -1,11 +1,11 @@
 {
   "name": "demo-it",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Some widgets to start developping advanced functionalities in Orange Data Mining.",
   "author": "Orange community",
   "license": null,
   "home_page": null,
-  "download_filename": "demo_it-0.0.1.tar.gz",
-  "download_time": "2025-09-30T07:48:34.074595",
+  "download_filename": "demo_it-0.0.2.tar.gz",
+  "download_time": "2025-09-30T08:43:45.163480",
   "package_url": "https://pypi.org/project/demo-it/"
 }

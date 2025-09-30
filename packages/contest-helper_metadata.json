@@ -1,11 +1,11 @@
 {
   "name": "contest-helper",
-  "version": "0.5.7",
+  "version": "0.5.9",
   "summary": "A flexible framework for generating randomized test cases with input/output validation, designed for competitive programming and algorithmic testing.",
   "author": "Kirill cSKA Slezin",
   "license": null,
   "home_page": "https://github.com/kirillcskaslezin/contest-helper",
-  "download_filename": "contest_helper-0.5.7.tar.gz",
-  "download_time": "2025-09-30T07:12:43.851483",
+  "download_filename": "contest_helper-0.5.9.tar.gz",
+  "download_time": "2025-09-30T08:43:15.254405",
   "package_url": "https://pypi.org/project/contest-helper/"
 }
