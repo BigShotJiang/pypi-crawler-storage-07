@@ -1,11 +1,11 @@
 {
   "name": "wowool-sdk-cpp",
-  "version": "3.5.0",
+  "version": "3.5.2",
   "summary": "Wowool NLP Toolkit",
   "author": "Wowool",
   "license": null,
   "home_page": null,
-  "download_filename": "wowool_sdk_cpp-3.5.0.tar.gz",
-  "download_time": "2025-09-29T15:11:32.122886",
+  "download_filename": "wowool_sdk_cpp-3.5.2.tar.gz",
+  "download_time": "2025-09-30T12:21:51.458360",
   "package_url": "https://pypi.org/project/wowool-sdk-cpp/"
 }

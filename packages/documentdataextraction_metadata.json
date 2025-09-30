@@ -1,11 +1,11 @@
 {
   "name": "documentdataextraction",
-  "version": "0.0.149",
-  "summary": "Added a filter to the Customer Lookup based on the login site_code.",
+  "version": "0.0.150",
+  "summary": "Resloved issue of trace due to an invalid quantity value returned by OpenAI in the generate line example function.",
   "author": "Proteus Technology PVT. LTD.",
   "license": null,
   "home_page": null,
-  "download_filename": "documentdataextraction-0.0.149-py3-none-any.whl",
-  "download_time": "2025-09-29T13:05:04.723345",
+  "download_filename": "documentdataextraction-0.0.150-py3-none-any.whl",
+  "download_time": "2025-09-30T12:22:07.246355",
   "package_url": "https://pypi.org/project/documentdataextraction/"
 }

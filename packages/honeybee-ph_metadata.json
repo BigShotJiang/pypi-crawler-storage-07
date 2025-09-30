@@ -1,0 +1,11 @@
+{
+  "name": "honeybee-ph",
+  "version": "1.30.11",
+  "summary": "Plugin for Honeybee to enable Passive House modeling.",
+  "author": "PH-Tools",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/PH-Tools/honeybee_ph",
+  "download_filename": "honeybee_ph-1.30.11.tar.gz",
+  "download_time": "2025-09-30T12:21:53.326507",
+  "package_url": "https://pypi.org/project/honeybee-ph/"
+}

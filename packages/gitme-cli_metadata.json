@@ -1,11 +1,11 @@
 {
   "name": "gitme-cli",
-  "version": "0.7.2",
+  "version": "0.8.3",
   "summary": "Git actions simplified",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gitme_cli-0.7.2.tar.gz",
-  "download_time": "2025-09-28T15:33:04.661383",
+  "download_filename": "gitme_cli-0.8.3.tar.gz",
+  "download_time": "2025-09-30T12:22:10.175391",
   "package_url": "https://pypi.org/project/gitme-cli/"
 }

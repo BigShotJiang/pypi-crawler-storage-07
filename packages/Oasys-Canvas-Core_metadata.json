@@ -1,0 +1,11 @@
+{
+  "name": "Oasys-Canvas-Core",
+  "version": "1.0.10",
+  "summary": "Core component of Oasys Canvas",
+  "author": "Bioinformatics Laboratory, FRI UL",
+  "license": "GPLv3",
+  "home_page": "http://orange.biolab.si/",
+  "download_filename": "Oasys-Canvas-Core-1.0.10.tar.gz",
+  "download_time": "2025-09-30T12:22:03.785546",
+  "package_url": "https://pypi.org/project/Oasys-Canvas-Core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "excel2moodle",
+  "version": "0.6.5",
+  "summary": "A package for converting questions from a spreadsheet, to valid moodle-xml",
+  "author": "Jakob Bosse",
+  "license": null,
+  "home_page": null,
+  "download_filename": "excel2moodle-0.6.5.tar.gz",
+  "download_time": "2025-09-30T12:21:31.233622",
+  "package_url": "https://pypi.org/project/excel2moodle/"
+}

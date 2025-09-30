@@ -1,0 +1,11 @@
+{
+  "name": "kobo",
+  "version": "0.41.0",
+  "summary": "A pile of python modules used by Red Hat release engineering to build their tools",
+  "author": "Red Hat, Inc.",
+  "license": "LGPLv2.1",
+  "home_page": "https://github.com/release-engineering/kobo/",
+  "download_filename": "kobo-0.41.0.tar.gz",
+  "download_time": "2025-09-30T12:22:06.090237",
+  "package_url": "https://pypi.org/project/kobo/"
+}
