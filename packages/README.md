@@ -1,15 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-30T07:40:37.733184
-- **Total Packages**: 90
-- **Total Size**: 1.65 MB
+- **Download Time**: 2025-09-30T07:49:08.296120
+- **Total Packages**: 82
+- **Total Size**: 17.59 MB
 
 ## Packages List
+- writer
+- datamarket
+- stac-fastapi-opensearch
+- stac-fastapi-elasticsearch
+- sfeos-helpers
+- ayikla
+- ibmmq
+- stac-fastapi-core
+- crypticorn
+- morphic
+- agenticx
+- hypernegative
+- yhs-menu
+- im
+- caerp-celery
+- gdd-package
+- efootprint
+- localstack-core
+- kraken-llm
+- demo-it
+- gerermesaffaires-events
+- ccdcoe
+- napari-mcp
+- eodc-faas-openeo
+- acryl-datahub
+- raga-canvas-cli
+- merobox
+- bizydraft
+- acryl-datahub-actions
+- Canaille
+- neosqlite
+- acryl-datahub-airflow-plugin
+- shotgun-sh
+- fta
+- acryl-datahub-dagster-plugin
+- xcofdk
+- alita-sdk
+- acryl-datahub-gx-plugin
+- prefect-datahub
 - authentik-client
 - abs-schema-core
 - livekit-plugins-external-turn-detector
-- hypernegative
 - xgo-blockly
 - pulumi-oci
 - sphinxcontrib-plot
@@ -17,10 +55,8 @@
 - bridge-events
 - cantools
 - table-categorization-agent
-- gdd-package
 - chess-som
 - bfg-crawl
-- ayikla
 - aikido-zen
 - param-lsp
 - gfa_ml
@@ -46,53 +82,9 @@
 - samudra-ai
 - durable-mcp
 - iflow-mcp-finance_news
-- eodc-faas-openeo
 - Indium-ND
 - vicalerts
 - biomedical-data-generator
 - pymoskito
 - koava
 - maleo-middlewares
-- py-pde
-- pulumi-vsphere
-- fast-backend-builder
-- gemini-actions-lab-cli
-- pulumi-tls
-- comfy-cli
-- rebase-dashboard
-- tenzir-test
-- prometrix
-- apify-client
-- maleo-google
-- symetrie-hexapod
-- plato-spw
-- plato-hdf5
-- plato-fits
-- lakeshore-tempcontrol
-- keithley-tempcontrol
-- cgse-tools
-- cgse-gui
-- cgse-core
-- cgse-coordinates
-- maleo-metadata
-- cgse-common
-- pulumi-venafi
-- cgse
-- abstract-webtools
-- giint-llm-intelligence
-- tritonparse
-- maleo-infra
-- jollyjack
-- maleo-database
-- pycaption
-- DLMS-SPODES
-- pulumi-snowflake
-- pyCARM
-- fount-eda
-- gpustack-runtime
-- pulumi-tailscale
-- pulumi-spotinst
-- contest-helper
-- typed-settings
-- maleo-schemas
-- pulumi-xyz

@@ -1,0 +1,11 @@
+{
+  "name": "im",
+  "version": "1.19.1",
+  "summary": "IM is a tool to manage virtual infrastructures on Cloud deployments",
+  "author": null,
+  "license": "GPL version 3, http://www.gnu.org/licenses/gpl-3.0.txt",
+  "home_page": null,
+  "download_filename": "im-1.19.1.tar.gz",
+  "download_time": "2025-09-30T07:48:30.312264",
+  "package_url": "https://pypi.org/project/im/"
+}
