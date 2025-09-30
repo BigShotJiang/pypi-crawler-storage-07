@@ -1,0 +1,11 @@
+{
+  "name": "climada",
+  "version": "6.1.0",
+  "summary": "Framework for climate risk assessment and adaptation option appraisal",
+  "author": null,
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "climada-6.1.0-py3-none-any.whl",
+  "download_time": "2025-09-30T10:13:11.320509",
+  "package_url": "https://pypi.org/project/climada/"
+}

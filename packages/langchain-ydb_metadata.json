@@ -1,0 +1,11 @@
+{
+  "name": "langchain-ydb",
+  "version": "0.0.8",
+  "summary": "An integration package connecting YDB and LangChain",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_ydb-0.0.8.tar.gz",
+  "download_time": "2025-09-30T10:12:44.765761",
+  "package_url": "https://pypi.org/project/langchain-ydb/"
+}

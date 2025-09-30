@@ -1,11 +1,11 @@
 {
   "name": "dcoraid",
-  "version": "0.18.1",
+  "version": "0.18.2",
   "summary": "GUI/CLI for managing data on DCOR",
   "author": "Paul Müller",
   "license": null,
   "home_page": null,
-  "download_filename": "dcoraid-0.18.1.tar.gz",
-  "download_time": "2025-09-30T09:12:40.846766",
+  "download_filename": "dcoraid-0.18.2.tar.gz",
+  "download_time": "2025-09-30T10:13:08.102258",
   "package_url": "https://pypi.org/project/dcoraid/"
 }

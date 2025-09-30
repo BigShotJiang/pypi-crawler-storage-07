@@ -1,0 +1,11 @@
+{
+  "name": "pyimage-scaler",
+  "version": "1.1.2",
+  "summary": "A Python package to resize images (JPEG, PNG, BMP, GIF)",
+  "author": "codingmaster24",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyimage_scaler-1.1.2.tar.gz",
+  "download_time": "2025-09-30T10:12:45.278464",
+  "package_url": "https://pypi.org/project/pyimage-scaler/"
+}

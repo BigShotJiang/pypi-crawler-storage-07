@@ -1,0 +1,11 @@
+{
+  "name": "arkrelay",
+  "version": "0.1.1",
+  "summary": "Python SDK for ArkRelay Gateway (sessions, ceremony, assets, and Nostr utilities)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "arkrelay-0.1.1.tar.gz",
+  "download_time": "2025-09-30T10:13:09.189247",
+  "package_url": "https://pypi.org/project/arkrelay/"
+}

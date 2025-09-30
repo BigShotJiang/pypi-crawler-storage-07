@@ -1,0 +1,11 @@
+{
+  "name": "chinese-days",
+  "version": "0.0.1",
+  "summary": "Python版本的中国节假日、调班日、工作日查询库",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chinese_days-0.0.1.tar.gz",
+  "download_time": "2025-09-30T10:12:34.825405",
+  "package_url": "https://pypi.org/project/chinese-days/"
+}

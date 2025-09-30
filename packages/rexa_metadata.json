@@ -1,0 +1,11 @@
+{
+  "name": "rexa",
+  "version": "1.0.3",
+  "summary": "A powerful regex and NLP utility library for text validation, extraction, conversion, formatting, and pattern generation.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rexa-1.0.3.tar.gz",
+  "download_time": "2025-09-30T10:12:32.691459",
+  "package_url": "https://pypi.org/project/rexa/"
+}

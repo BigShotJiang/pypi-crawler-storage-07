@@ -1,0 +1,11 @@
+{
+  "name": "munet",
+  "version": "0.16.0",
+  "summary": "A package to facilitate network simulations",
+  "author": null,
+  "license": "GPL-2.0-or-later",
+  "home_page": null,
+  "download_filename": "munet-0.16.0.tar.gz",
+  "download_time": "2025-09-30T10:12:42.666322",
+  "package_url": "https://pypi.org/project/munet/"
+}

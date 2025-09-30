@@ -1,0 +1,11 @@
+{
+  "name": "qing-client",
+  "version": "0.1.17",
+  "summary": "Python client for audit logging services",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qing_client-0.1.17.tar.gz",
+  "download_time": "2025-09-30T10:12:25.878863",
+  "package_url": "https://pypi.org/project/qing-client/"
+}
