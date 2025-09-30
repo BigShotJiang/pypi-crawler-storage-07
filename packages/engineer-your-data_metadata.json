@@ -1,11 +1,11 @@
 {
   "name": "engineer-your-data",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "MCP server for data engineering and business intelligence operations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "engineer_your_data-0.1.1.tar.gz",
-  "download_time": "2025-09-30T08:43:48.849045",
+  "download_filename": "engineer_your_data-0.1.2.tar.gz",
+  "download_time": "2025-09-30T15:39:59.690598",
   "package_url": "https://pypi.org/project/engineer-your-data/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pulse-mantine",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Add your description here",
   "author": "Erwin Kuhn",
   "license": null,
   "home_page": null,
-  "download_filename": "pulse_mantine-0.1.4.tar.gz",
-  "download_time": "2025-09-30T15:29:40.804259",
+  "download_filename": "pulse_mantine-0.1.6.tar.gz",
+  "download_time": "2025-09-30T15:40:08.689528",
   "package_url": "https://pypi.org/project/pulse-mantine/"
 }

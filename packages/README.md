@@ -1,29 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-30T15:30:19.411706
-- **Total Packages**: 79
-- **Total Size**: 33.69 MB
+- **Download Time**: 2025-09-30T15:40:39.770648
+- **Total Packages**: 76
+- **Total Size**: 2.79 MB
 
 ## Packages List
+- rxfoundry.clients.swifty_api
+- rxfoundry.clients.swifty_oauth_api
+- polymo
+- engineer-your-data
+- truss
+- acryl-datahub-cloud
+- vt-err-hndlr
+- stealthimpysdk
+- yahi
+- genomehubs
+- altan
+- ai-blog-app
+- opsrampcli
+- authentik-client
+- svg.py
+- pymimir-rgnn
+- xsptools
+- chbe444umd
+- ddns-updater-ext
+- pulse-mantine
+- shiftedstorage
+- error-helper
+- bn-byneuron
+- evolib
+- africastalking
+- fancylog
+- deepwiki-to-md
+- reyworm
+- reydb
+- django-dynamic-workflows
+- petal-app-manager
+- llama-stack-provider-ragas
+- git-deployer
+- cnoe-agent-utils
+- folder2md4llms
+- axiom-py
+- svc-infra
+- pudupy
+- slink-pyortal
 - solace-agent-mesh
 - raito
 - filter-stub-application
 - PureCloudPlatformClientV2
-- altan
 - polars-genson
 - mouc
 - kg-gen
-- pulse-mantine
 - pulse-framework
 - payvo-sdk
 - mdbq
 - rynaki
-- opsrampcli
 - lance-namespace-urllib3-client
 - tkurses
 - lance-namespace
-- authentik-client
 - codemodder
 - edx-submissions
 - xsuite
@@ -37,7 +72,6 @@
 - TyphonBreaker
 - weathergrabber
 - mcp-agent
-- ddns-updater-ext
 - scc-firewall-manager-sdk
 - crossmark-jotform-api
 - rtdi-kafkaavro
@@ -48,40 +82,3 @@
 - deploy-time-build
 - dots-infrastructure
 - django-qr-toolkit-core
-- truss
-- ionoscloud-cert-manager
-- gnuplotlib
-- svc-infra
-- xbooster
-- numpysane
-- bn-byneuron
-- pltr-cli
-- rxfoundry.clients.swifty_api
-- rxfoundry.clients.swifty_oauth_api
-- contextgem
-- pumaguard
-- tenzir-platform
-- lilya
-- arthur-client
-- pyconvexity
-- jax-pyjit
-- torrent-search-mcp
-- zyra-tool
-- bits-auth
-- django-dynamic-workflows
-- total-perspective-vortex
-- spec2epsilon
-- daytona_sdk
-- SnakeScan
-- daytona
-- filter-faceblur
-- daytona_api_client
-- daytona_api_client_async
-- openinference-instrumentation-pydantic-ai
-- openinference-instrumentation-haystack
-- odm-hlp-decorations
-- decent-bench
-- beeai-framework
-- data-repo-client
-- sdg-hub
-- diagram-ai-generator
