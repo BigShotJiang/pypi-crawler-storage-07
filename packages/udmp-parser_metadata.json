@@ -1,0 +1,11 @@
+{
+  "name": "udmp-parser",
+  "version": "0.7.0",
+  "summary": "A Cross-Platform C++ parser library for Windows user minidumps.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "udmp_parser-0.7.0-cp310-cp310-macosx_10_15_x86_64.whl",
+  "download_time": "2025-09-30T14:50:01.115079",
+  "package_url": "https://pypi.org/project/udmp-parser/"
+}
