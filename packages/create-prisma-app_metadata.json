@@ -1,0 +1,11 @@
+{
+  "name": "create-prisma-app",
+  "version": "0.6.0",
+  "summary": "A CLI tool to bootstrap Express + Prisma projects with PostgreSQL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "create_prisma_app-0.6.0.tar.gz",
+  "download_time": "2025-09-30T14:31:50.699042",
+  "package_url": "https://pypi.org/project/create-prisma-app/"
+}

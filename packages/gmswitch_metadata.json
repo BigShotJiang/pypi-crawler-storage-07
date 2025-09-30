@@ -1,11 +1,11 @@
 {
   "name": "gmswitch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A library that performs Godsil-McKay switching on graphs.",
   "author": "Ahmet Erdem",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gmswitch-1.0.0.tar.gz",
-  "download_time": "2025-09-30T13:52:53.574369",
+  "download_filename": "gmswitch-1.0.1.tar.gz",
+  "download_time": "2025-09-30T14:31:58.893954",
   "package_url": "https://pypi.org/project/gmswitch/"
 }

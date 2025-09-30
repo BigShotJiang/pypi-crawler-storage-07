@@ -1,0 +1,11 @@
+{
+  "name": "tfa-me-ha-local",
+  "version": "1.0.0",
+  "summary": "Python client for TFA.me weather stations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tfa_me_ha_local-1.0.0.tar.gz",
+  "download_time": "2025-09-30T14:32:18.832346",
+  "package_url": "https://pypi.org/project/tfa-me-ha-local/"
+}

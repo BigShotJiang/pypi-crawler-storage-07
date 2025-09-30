@@ -1,0 +1,11 @@
+{
+  "name": "playlab-api",
+  "version": "0.1.4",
+  "summary": "A Python client for the Playlab API",
+  "author": "Teaghan",
+  "license": null,
+  "home_page": "https://github.com/teaghan/playlab-python",
+  "download_filename": "playlab_api-0.1.4.tar.gz",
+  "download_time": "2025-09-30T14:32:23.593151",
+  "package_url": "https://pypi.org/project/playlab-api/"
+}

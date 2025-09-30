@@ -1,11 +1,11 @@
 {
   "name": "ub-grader",
-  "version": "0.2.2",
+  "version": "0.3.1",
   "summary": "Librería para auto-corrección local de prácticas con reporte cifrado y firmado",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ub_grader-0.2.2.tar.gz",
-  "download_time": "2025-09-28T11:08:32.426734",
+  "download_filename": "ub_grader-0.3.1.tar.gz",
+  "download_time": "2025-09-30T14:31:53.368311",
   "package_url": "https://pypi.org/project/ub-grader/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "strath",
+  "version": "1.0.4",
+  "summary": "This library helps ensuring that a file path is of type str or pathlib.Path.",
+  "author": "Guyllaume Rousseau",
+  "license": "MIT",
+  "home_page": "https://github.com/GRV96/strath",
+  "download_filename": "strath-1.0.4.tar.gz",
+  "download_time": "2025-09-30T14:31:55.615527",
+  "package_url": "https://pypi.org/project/strath/"
+}
