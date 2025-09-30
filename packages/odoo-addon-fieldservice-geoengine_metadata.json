@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-fieldservice-geoengine",
+  "version": "17.0.1.2.0.2",
+  "summary": "Display Field Service locations on a map with Open Street Map",
+  "author": "Open Source Integrators, Odoo Community Association (OCA), Pytech SRL",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/field-service",
+  "download_filename": "odoo_addon_fieldservice_geoengine-17.0.1.2.0.2-py3-none-any.whl",
+  "download_time": "2025-09-30T11:35:05.436907",
+  "package_url": "https://pypi.org/project/odoo-addon-fieldservice-geoengine/"
+}

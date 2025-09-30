@@ -1,0 +1,11 @@
+{
+  "name": "labelformat",
+  "version": "0.1.8",
+  "summary": "A tool for converting computer vision label formats.",
+  "author": "Lightly.ai",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "labelformat-0.1.8.tar.gz",
+  "download_time": "2025-09-30T11:35:08.717578",
+  "package_url": "https://pypi.org/project/labelformat/"
+}

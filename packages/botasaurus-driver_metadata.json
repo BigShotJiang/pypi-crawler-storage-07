@@ -1,0 +1,11 @@
+{
+  "name": "botasaurus-driver",
+  "version": "4.0.92",
+  "summary": "Super Fast, Super Anti-Detect, and Super Intuitive Web Driver",
+  "author": "Chetan",
+  "license": "MIT",
+  "home_page": "https://github.com/omkarcloud/botasaurus-driver",
+  "download_filename": "botasaurus_driver-4.0.92.tar.gz",
+  "download_time": "2025-09-30T11:34:58.684344",
+  "package_url": "https://pypi.org/project/botasaurus-driver/"
+}
