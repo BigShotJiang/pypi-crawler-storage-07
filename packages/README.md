@@ -1,11 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-30T17:12:20.565892
-- **Total Packages**: 89
-- **Total Size**: 35.84 MB
+- **Download Time**: 2025-09-30T17:30:38.966199
+- **Total Packages**: 88
+- **Total Size**: 4.06 MB
 
 ## Packages List
+- gpp-client
+- immunopipe
+- pixelflux
+- jobtty
+- evolib
+- finsim
+- ansys-api-geometry
+- isotropic
+- cirq-core
+- cirq-web
+- mcp-jupyter
+- cirq-ionq
+- cirq-google
+- cirq-aqt
+- cirq
+- subdivision-smoothing
+- cirq-pasqal
+- DLICV
+- langchain-anthropic
+- vibe-binary
+- imgen-cli
+- istari-digital-client
+- qolab
+- langchain-openai
+- codesum
 - mxcubecore
 - xync-client
 - snakemake-interface-common
@@ -38,7 +63,6 @@
 - thehive4py
 - Mimo-1B
 - macrocosmos-mcp
-- vibe-binary
 - lib-clockifybot
 - pytest-pyramid
 - dualxda
@@ -46,7 +70,6 @@
 - fountain-life-service-clients
 - anemoi-plugins-ecmwf-inference
 - djangocms-xliff
-- jobtty
 - hdf5storage
 - biliup
 - ibm-watsonx-data-integration
@@ -56,7 +79,6 @@
 - maven-proxy
 - d1snakegame
 - aind-metadata-extractor
-- imgen-cli
 - brisket
 - amati
 - unique_toolkit
@@ -72,26 +94,3 @@
 - iap-messenger
 - truss
 - django-jacc
-- cscan
-- glean-api-client
-- footsbviz
-- fastapi-sdk
-- pycti
-- mathai
-- agenta
-- durable-mcp
-- uniovi-simur-wearablepermed-utils
-- waveassist
-- cp-core
-- synqly
-- iden3math
-- krules-framework
-- xiaozhi-sdk
-- gladiaio-sdk
-- moondream-station
-- rfd-protocol
-- gammarers.aws-codeconnections-host-custom-resource
-- st2-auth-backend-flat-file
-- qnexus
-- ferrmion
-- pyrogram-client
