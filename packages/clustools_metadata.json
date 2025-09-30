@@ -1,0 +1,11 @@
+{
+  "name": "clustools",
+  "version": "0.3.1",
+  "summary": "A lightweight Python package providing essential clustering utilities for clustering workflows.",
+  "author": "Pablo Solís-Fernández",
+  "license": null,
+  "home_page": null,
+  "download_filename": "clustools-0.3.1.tar.gz",
+  "download_time": "2025-09-30T00:46:49.384816",
+  "package_url": "https://pypi.org/project/clustools/"
+}

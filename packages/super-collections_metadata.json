@@ -1,11 +1,11 @@
 {
   "name": "super-collections",
-  "version": "0.6.0",
+  "version": "0.6.2",
   "summary": "file: README.md",
   "author": "Laurent Franceschetti",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "super_collections-0.6.0.tar.gz",
-  "download_time": "2025-09-28T02:26:28.125312",
+  "download_filename": "super_collections-0.6.2.tar.gz",
+  "download_time": "2025-09-30T00:46:45.612073",
   "package_url": "https://pypi.org/project/super-collections/"
 }
