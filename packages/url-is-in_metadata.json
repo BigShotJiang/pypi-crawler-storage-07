@@ -1,0 +1,11 @@
+{
+  "name": "url-is-in",
+  "version": "0.1.0",
+  "summary": "A Python package for efficiently checking if a URL is part of large whitelist or blacklist of URLs and domain names.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "url_is_in-0.1.0.tar.gz",
+  "download_time": "2025-09-30T18:52:53.693074",
+  "package_url": "https://pypi.org/project/url-is-in/"
+}

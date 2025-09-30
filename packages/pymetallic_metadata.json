@@ -1,11 +1,11 @@
 {
   "name": "pymetallic",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Python bindings for Apple Metal using swift-cffi",
   "author": "Sean D. True",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pymetallic-0.2.2.tar.gz",
-  "download_time": "2025-09-30T18:40:50.278977",
+  "download_filename": "pymetallic-0.2.3-py3-none-any.whl",
+  "download_time": "2025-09-30T18:52:54.718862",
   "package_url": "https://pypi.org/project/pymetallic/"
 }

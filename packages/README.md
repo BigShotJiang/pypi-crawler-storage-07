@@ -1,17 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-30T18:41:25.794982
-- **Total Packages**: 87
-- **Total Size**: 29.69 MB
+- **Download Time**: 2025-09-30T18:53:23.370072
+- **Total Packages**: 84
+- **Total Size**: 6.16 MB
 
 ## Packages List
+- ut-cli
+- libsms
+- pysyringe
+- bandwidth-sdk
+- lila-framework
+- formalmath
+- mite-extras
+- vector-vault
+- etcd-dynamic-config
+- yousign3
+- sportsball
+- babylab
+- py-cosci
+- metriq-gym
+- uvicorn-hmr
+- ipuppy-notebooks
+- sakuragasaki46-suou
+- mcp-proxy-adapter
+- mite-schema
+- suou
+- bioql
+- hat-drivers
+- tcrgeometry
+- nominal-api-protos
+- nominal-api
+- almanack
+- nexgenomics
+- kaqing
+- url-is-in
+- terra-scientific-pipelines-service-api-client
+- pymetallic
+- svc-infra
+- awsui
+- authentik-client
+- funcsim
+- cdklabs.genai-idp-bedrock-llm-processor
+- ares-datamodel
+- MaxBridge
+- dymos
+- repoconf
+- jax-pyjit
 - qualibrate-config
 - dynakw
 - hyperbolic-optics
-- MaxBridge
 - pypi-upload-demo
-- tcrgeometry
 - prefix-free-sorted-cowlist-set
 - gpuq
 - numexpr
@@ -27,16 +66,13 @@
 - minecode-pipelines
 - carbonic
 - braindecode
-- svc-infra
 - finlab
 - terrapyn
 - programasweights
-- pymetallic
 - flexsea
 - clinicedc
 - q2db
 - weathergrabber
-- authentik-client
 - slack-bolt
 - vital
 - ultralytics
@@ -54,42 +90,3 @@
 - airbyte-source-s3
 - python-msilib
 - edhrec-mcp
-- azulero
-- pyMillion
-- mlserve-sdk
-- robotsuite
-- pydelfini
-- pulumiverse-acme
-- mcp-neo4j-data-modeling
-- mcp-neo4j-aura-manager
-- jmstate
-- penguiflow
-- airbyte-source-azure-table
-- methodaws
-- methodwebscan
-- methodosintscan
-- quant-greeks-cli
-- robinhood-client
-- ipyida
-- pyvex
-- cle
-- claripy
-- archinfo
-- angr-management
-- angr
-- foundationallm-agent-plugins
-- unidecode-pyo3
-- starhtml
-- dreamtools-dreamgeeker
-- airbyte-source-sftp-bulk
-- methodnetworkscan
-- veris-cli
-- prescient-ibex
-- Blinter
-- gcal_notifier
-- deepmd-kit-cu11
-- deepmd-kit
-- arthur-client
-- tycho.nexus
-- calsipro
-- ipars

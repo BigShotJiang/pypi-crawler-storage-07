@@ -1,0 +1,11 @@
+{
+  "name": "py-cosci",
+  "version": "0.1.2",
+  "summary": "Python SDK for Google's Co-Scientist Discovery Engine",
+  "author": "Co-Scientist Team",
+  "license": "MIT",
+  "home_page": "https://github.com/arunpshankar/cosci.git",
+  "download_filename": "py_cosci-0.1.2.tar.gz",
+  "download_time": "2025-09-30T18:52:45.414412",
+  "package_url": "https://pypi.org/project/py-cosci/"
+}

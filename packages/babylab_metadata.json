@@ -1,11 +1,11 @@
 {
   "name": "babylab",
-  "version": "0.6.6",
+  "version": "0.6.7",
   "summary": "A GUI for the SJD Babylab REDCap database",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "babylab-0.6.6.tar.gz",
-  "download_time": "2025-09-29T09:34:25.699956",
+  "download_filename": "babylab-0.6.7.tar.gz",
+  "download_time": "2025-09-30T18:52:44.393878",
   "package_url": "https://pypi.org/project/babylab/"
 }

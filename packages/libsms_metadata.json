@@ -1,0 +1,11 @@
+{
+  "name": "libsms",
+  "version": "0.2.9",
+  "summary": "Interacting with the Simulating Microbial Systems (SMS Atlantis) API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "libsms-0.2.9.tar.gz",
+  "download_time": "2025-09-30T18:52:39.218908",
+  "package_url": "https://pypi.org/project/libsms/"
+}
