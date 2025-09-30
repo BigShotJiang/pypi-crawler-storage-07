@@ -1,0 +1,11 @@
+{
+  "name": "cutword-lite",
+  "version": "0.2.0",
+  "summary": "Just Cut Word Faster",
+  "author": "basicv8vc",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/basicv8vc/cutword-lite",
+  "download_filename": "cutword_lite-0.2.0.tar.gz",
+  "download_time": "2025-09-30T04:34:59.437410",
+  "package_url": "https://pypi.org/project/cutword-lite/"
+}

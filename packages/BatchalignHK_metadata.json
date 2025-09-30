@@ -1,11 +1,11 @@
 {
   "name": "BatchalignHK",
-  "version": "0.7.22.post7",
+  "version": "0.7.22.post8",
   "summary": "Python Speech Language Sample Analysis",
   "author": "Brian MacWhinney, Houjun Liu",
   "license": null,
   "home_page": null,
-  "download_filename": "batchalignhk-0.7.22.post7.tar.gz",
-  "download_time": "2025-09-28T18:12:39.386584",
+  "download_filename": "batchalignhk-0.7.22.post8.tar.gz",
+  "download_time": "2025-09-30T04:34:46.808683",
   "package_url": "https://pypi.org/project/BatchalignHK/"
 }

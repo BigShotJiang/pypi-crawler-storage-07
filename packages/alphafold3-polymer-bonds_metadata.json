@@ -1,0 +1,11 @@
+{
+  "name": "alphafold3-polymer-bonds",
+  "version": "0.3",
+  "summary": "Support for covalent bonds between/within polymer chains (protein, DNA, RNA) in AlphaFold3",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "alphafold3_polymer_bonds-0.3.tar.gz",
+  "download_time": "2025-09-30T04:35:03.626992",
+  "package_url": "https://pypi.org/project/alphafold3-polymer-bonds/"
+}

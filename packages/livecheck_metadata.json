@@ -1,0 +1,11 @@
+{
+  "name": "livecheck",
+  "version": "0.1.3",
+  "summary": "Tool to update ebuilds.",
+  "author": "Andrew Udvare",
+  "license": "MIT",
+  "home_page": "https://tatsh.github.io/livecheck/",
+  "download_filename": "livecheck-0.1.3.tar.gz",
+  "download_time": "2025-09-30T04:34:53.560676",
+  "package_url": "https://pypi.org/project/livecheck/"
+}
