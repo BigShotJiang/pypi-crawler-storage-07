@@ -1,11 +1,11 @@
 {
   "name": "pysp-xcw",
-  "version": "7.4.0",
+  "version": "7.4.1",
   "summary": "Various classic and modern signal analysis and processing algorithms are implemented.",
   "author": "Xiong Chengwen",
   "license": null,
   "home_page": "https://github.com/xcw1129/PySP",
-  "download_filename": "pysp_xcw-7.4.0.tar.gz",
-  "download_time": "2025-09-30T08:43:21.554576",
+  "download_filename": "pysp_xcw-7.4.1.tar.gz",
+  "download_time": "2025-09-30T09:12:29.707750",
   "package_url": "https://pypi.org/project/pysp-xcw/"
 }

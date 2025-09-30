@@ -1,0 +1,11 @@
+{
+  "name": "autofuse",
+  "version": "0.1.0",
+  "summary": "A minimal Python package that prints Hello World",
+  "author": "graph-infra-community",
+  "license": null,
+  "home_page": "https://gitcode.com/cann/graph-infra",
+  "download_filename": "autofuse-0.1.0.tar.gz",
+  "download_time": "2025-09-30T09:12:51.597556",
+  "package_url": "https://pypi.org/project/autofuse/"
+}

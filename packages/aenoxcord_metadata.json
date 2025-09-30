@@ -1,0 +1,11 @@
+{
+  "name": "aenoxcord",
+  "version": "0.0.1",
+  "summary": "An easy-to-use extension for Discord.py and Pycord",
+  "author": "Aenoxic",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aenoxcord-0.0.1.tar.gz",
+  "download_time": "2025-09-30T09:12:43.995762",
+  "package_url": "https://pypi.org/project/aenoxcord/"
+}

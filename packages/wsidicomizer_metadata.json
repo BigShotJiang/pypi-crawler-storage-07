@@ -1,11 +1,11 @@
 {
   "name": "wsidicomizer",
-  "version": "0.23.0",
+  "version": "0.23.1",
   "summary": "Tool for reading WSI files from proprietary formats and optionally convert them to to DICOM",
   "author": "Erik O Gabrielsson",
   "license": "Apache-2.0",
   "home_page": "https://github.com/imi-bigpicture/wsidicomizer",
-  "download_filename": "wsidicomizer-0.23.0.tar.gz",
-  "download_time": "2025-09-29T19:48:18.187024",
+  "download_filename": "wsidicomizer-0.23.1.tar.gz",
+  "download_time": "2025-09-30T09:12:56.299690",
   "package_url": "https://pypi.org/project/wsidicomizer/"
 }

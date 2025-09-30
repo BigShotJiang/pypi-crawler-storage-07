@@ -1,0 +1,11 @@
+{
+  "name": "gist-cli",
+  "version": "0.1.0",
+  "summary": "GitHub Gist cli without github, only gist.",
+  "author": null,
+  "license": "Apache-2.0 license",
+  "home_page": null,
+  "download_filename": "gist_cli-0.1.0.tar.gz",
+  "download_time": "2025-09-30T09:12:24.887328",
+  "package_url": "https://pypi.org/project/gist-cli/"
+}
