@@ -1,0 +1,11 @@
+{
+  "name": "cmap-tool",
+  "version": "1.0",
+  "summary": "C-MAP: Cleavage Motif Analysis Pipeline",
+  "author": "Philipp Caspar Hendel",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cmap_tool-1.0.tar.gz",
+  "download_time": "2025-09-30T20:33:44.540272",
+  "package_url": "https://pypi.org/project/cmap-tool/"
+}

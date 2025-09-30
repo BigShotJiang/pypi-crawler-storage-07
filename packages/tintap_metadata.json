@@ -1,0 +1,11 @@
+{
+  "name": "tintap",
+  "version": "0.1.1",
+  "summary": "AI audio detection and attribution Python SDK for tintap platform",
+  "author": "tintap",
+  "license": "MIT",
+  "home_page": "https://github.com/tintap/tintap-python",
+  "download_filename": "tintap-0.1.1.tar.gz",
+  "download_time": "2025-09-30T20:33:36.985092",
+  "package_url": "https://pypi.org/project/tintap/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ptyrad",
+  "version": "0.1.0b12",
+  "summary": "PtyRAD: Ptychographic Reconstruction with Automatic Differentiation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ptyrad-0.1.0b12.tar.gz",
+  "download_time": "2025-09-30T20:33:20.269619",
+  "package_url": "https://pypi.org/project/ptyrad/"
+}
