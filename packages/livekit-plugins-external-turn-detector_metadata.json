@@ -1,11 +1,11 @@
 {
   "name": "livekit-plugins-external-turn-detector",
-  "version": "1.2.10",
+  "version": "1.2.13",
   "summary": "End of utterance detection for LiveKit Agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "livekit_plugins_external_turn_detector-1.2.10.tar.gz",
-  "download_time": "2025-09-30T05:32:34.706106",
+  "download_filename": "livekit_plugins_external_turn_detector-1.2.13.tar.gz",
+  "download_time": "2025-09-30T07:39:50.833343",
   "package_url": "https://pypi.org/project/livekit-plugins-external-turn-detector/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "chess-som",
-  "version": "0.4",
+  "version": "0.5",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chess_som-0.4.tar.gz",
-  "download_time": "2025-09-30T07:13:03.394336",
+  "download_filename": "chess_som-0.5.tar.gz",
+  "download_time": "2025-09-30T07:39:56.865524",
   "package_url": "https://pypi.org/project/chess-som/"
 }
