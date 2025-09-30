@@ -1,0 +1,11 @@
+{
+  "name": "ferromic",
+  "version": "0.1.2",
+  "summary": "Rust-accelerated population genetics toolkit with ergonomic Python bindings",
+  "author": "SauersML",
+  "license": null,
+  "home_page": "https://github.com/SauersML/ferromic",
+  "download_filename": "ferromic-0.1.2.tar.gz",
+  "download_time": "2025-09-30T02:12:59.063078",
+  "package_url": "https://pypi.org/project/ferromic/"
+}

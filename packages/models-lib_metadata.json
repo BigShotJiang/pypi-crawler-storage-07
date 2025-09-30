@@ -1,11 +1,11 @@
 {
   "name": "models-lib",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Reusable SQLAlchemy models for Flask apps",
   "author": "dulguun",
   "license": null,
   "home_page": null,
-  "download_filename": "models_lib-0.1.0.tar.gz",
-  "download_time": "2025-09-29T09:34:37.838963",
+  "download_filename": "models_lib-0.1.2.tar.gz",
+  "download_time": "2025-09-30T02:13:08.796332",
   "package_url": "https://pypi.org/project/models-lib/"
 }

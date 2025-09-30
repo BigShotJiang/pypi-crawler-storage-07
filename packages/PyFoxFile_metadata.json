@@ -1,11 +1,11 @@
 {
   "name": "PyFoxFile",
-  "version": "0.21.4",
+  "version": "0.22.4",
   "summary": "A tar like file format name foxfile.",
   "author": "Kazuki Przyborowski",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/GameMaker2k/PyFoxFile",
-  "download_filename": "pyfoxfile-0.21.4.tar.gz",
-  "download_time": "2025-09-26T23:47:18.107592",
+  "download_filename": "pyfoxfile-0.22.4.tar.gz",
+  "download_time": "2025-09-30T02:13:14.658197",
   "package_url": "https://pypi.org/project/PyFoxFile/"
 }

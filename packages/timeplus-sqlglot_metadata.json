@@ -1,0 +1,11 @@
+{
+  "name": "timeplus-sqlglot",
+  "version": "0.1.0",
+  "summary": "An easily customizable SQL parser and transpiler with Timeplus streaming SQL dialect support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "timeplus_sqlglot-0.1.0.tar.gz",
+  "download_time": "2025-09-30T02:13:01.287635",
+  "package_url": "https://pypi.org/project/timeplus-sqlglot/"
+}

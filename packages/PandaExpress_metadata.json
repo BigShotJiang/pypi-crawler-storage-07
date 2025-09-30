@@ -1,0 +1,11 @@
+{
+  "name": "PandaExpress",
+  "version": "0.1.0",
+  "summary": "Catch errors with a verbose, talkative python pandas.",
+  "author": "NDNnerd",
+  "license": "GNU-3.0",
+  "home_page": "https://github.com/pypa/sampleproject",
+  "download_filename": "pandaexpress-0.1.0-py3-none-any.whl",
+  "download_time": "2025-09-30T02:12:57.948296",
+  "package_url": "https://pypi.org/project/PandaExpress/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "web-performance-monitor",
+  "version": "1.2.3",
+  "summary": "基于pyinstrument的Flask应用性能监控和告警工具",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "web_performance_monitor-1.2.3.tar.gz",
+  "download_time": "2025-09-30T02:13:01.825796",
+  "package_url": "https://pypi.org/project/web-performance-monitor/"
+}
