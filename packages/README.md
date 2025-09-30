@@ -1,32 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-30T22:30:57.380917
-- **Total Packages**: 76
-- **Total Size**: 16.77 MB
+- **Download Time**: 2025-09-30T22:41:00.361656
+- **Total Packages**: 81
+- **Total Size**: 0.49 MB
 
 ## Packages List
-- jsonstat-validator
-- lambda-middleware
-- youtube-short-search-package
-- weathergrabber
-- jvp-flash-attention
-- datasette-preact
-- baml-cc
-- openmeteo-sdk
-- authentik-client
-- genboostgpu
-- streamdaq
-- agent-starter-pack
-- music-drummer
-- Data-Generation-Agents
-- ASCII-Menus
-- yamling
-- ap2test
-- svc-infra
-- pyasic-rs
-- grypereport
-- confopt
 - datasette-jsonschema-forms
 - sportsball
 - git-py-stats
@@ -36,6 +15,7 @@
 - re-invent-2025-mcp
 - nomadicml
 - gemini-cli-mcp-tool
+- weathergrabber
 - nominal
 - ctfbridge
 - hatariTools
@@ -55,7 +35,9 @@
 - quant-greeks-cli
 - mcanvil
 - inspectr
+- authentik-client
 - rosamllib
+- music-drummer
 - AquaSEBS
 - cogames
 - trustgraph-vertexai
@@ -82,3 +64,26 @@
 - pydantic-tfl-api
 - mouc
 - tako-sdk
+- ez-wsi-dicomweb
+- instabase-aihub
+- jobtty
+- nanohub-remote
+- projectdavid
+- kensho-kfinance
+- evo-sdk
+- pressoir
+- mcli-framework
+- evo-objects
+- pyairahome
+- anzar
+- build-the-bot
+- awslabs.aws-pricing-mcp-server
+- lumnisai
+- rda-python-dbms
+- awslabs.ecs-mcp-server
+- tacozip
+- morphsync
+- machineconfig
+- tmsgpack
+- marshmallow-recipe
+- agatha-protobuf
