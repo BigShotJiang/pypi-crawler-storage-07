@@ -1,0 +1,11 @@
+{
+  "name": "metaflow-checkpoint",
+  "version": "0.2.8",
+  "summary": "An EXPERIMENTAL checkpoint decorator for Metaflow",
+  "author": "Valay Dave",
+  "license": null,
+  "home_page": null,
+  "download_filename": "metaflow_checkpoint-0.2.8.tar.gz",
+  "download_time": "2025-09-30T06:16:55.957250",
+  "package_url": "https://pypi.org/project/metaflow-checkpoint/"
+}

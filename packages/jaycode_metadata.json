@@ -1,11 +1,11 @@
 {
   "name": "jaycode",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Jay library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jaycode-0.1.2.tar.gz",
-  "download_time": "2025-09-30T02:13:11.452862",
+  "download_filename": "jaycode-0.1.3.tar.gz",
+  "download_time": "2025-09-30T06:17:02.673277",
   "package_url": "https://pypi.org/project/jaycode/"
 }

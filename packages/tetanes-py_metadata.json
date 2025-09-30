@@ -1,0 +1,11 @@
+{
+  "name": "tetanes-py",
+  "version": "0.1.9",
+  "summary": "TetaNES-Py - Python bindings for the TetaNES NES emulator with Gymnasium support",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://lukeworks.tech/tetanes",
+  "download_filename": "tetanes_py-0.1.9-cp38-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2025-09-30T06:17:05.686219",
+  "package_url": "https://pypi.org/project/tetanes-py/"
+}
