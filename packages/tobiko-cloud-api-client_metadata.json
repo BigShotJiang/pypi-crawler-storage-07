@@ -1,11 +1,11 @@
 {
   "name": "tobiko-cloud-api-client",
-  "version": "202540.3.0",
+  "version": "202540.4.0",
   "summary": null,
   "author": "TobikoData Inc.",
   "license": null,
   "home_page": null,
-  "download_filename": "tobiko_cloud_api_client-202540.3.0.tar.gz",
-  "download_time": "2025-09-29T21:26:24.312211",
+  "download_filename": "tobiko_cloud_api_client-202540.4.0.tar.gz",
+  "download_time": "2025-09-30T15:29:48.263491",
   "package_url": "https://pypi.org/project/tobiko-cloud-api-client/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tkurses",
-  "version": "0.2.9",
-  "summary": "Tkinter-like themed UI framework for curses... New aditions to 0.2.9: bug fixes",
+  "version": "0.2.10",
+  "summary": "Tkinter-like themed UI framework for curses... New aditions to 0.2.10: bug fixes and updates to README.md file",
   "author": "Freeboardtortoise",
   "license": null,
   "home_page": "https://not-aplicable.com",
-  "download_filename": "tkurses-0.2.9.tar.gz",
-  "download_time": "2025-09-30T15:13:06.791013",
+  "download_filename": "tkurses-0.2.10.tar.gz",
+  "download_time": "2025-09-30T15:29:44.453263",
   "package_url": "https://pypi.org/project/tkurses/"
 }

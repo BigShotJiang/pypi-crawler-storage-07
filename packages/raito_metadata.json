@@ -1,0 +1,11 @@
+{
+  "name": "raito",
+  "version": "1.3.6",
+  "summary": "REPL, hot-reload, keyboards, pagination, and internal dev tools — all in one. That's Raito.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "raito-1.3.6.tar.gz",
+  "download_time": "2025-09-30T15:29:37.042689",
+  "package_url": "https://pypi.org/project/raito/"
+}

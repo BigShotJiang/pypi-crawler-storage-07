@@ -1,0 +1,11 @@
+{
+  "name": "numpysane",
+  "version": "0.42",
+  "summary": "more-reasonable core functionality for numpy",
+  "author": "Dima Kogan",
+  "license": "LGPL",
+  "home_page": "http://github.com/dkogan/numpysane",
+  "download_filename": "numpysane-0.42.tar.gz",
+  "download_time": "2025-09-30T15:30:02.900752",
+  "package_url": "https://pypi.org/project/numpysane/"
+}
