@@ -1,0 +1,11 @@
+{
+  "name": "vitalDSP",
+  "version": "0.1.5",
+  "summary": "A comprehensive toolkit for Digital Signal Processing in healthcare applications.",
+  "author": "van-koha",
+  "license": "MIT",
+  "home_page": "https://github.com/Oucru-Innovations/vital-DSP",
+  "download_filename": "vitalDSP-0.1.5.tar.gz",
+  "download_time": "2025-09-30T05:47:57.860244",
+  "package_url": "https://pypi.org/project/vitalDSP/"
+}

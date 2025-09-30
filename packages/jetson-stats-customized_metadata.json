@@ -1,0 +1,11 @@
+{
+  "name": "jetson-stats-customized",
+  "version": "4.2.7.7",
+  "summary": "Interactive system-monitor and process viewer for all NVIDIA Jetson [Orin, Xavier, Nano, TX] series",
+  "author": "Enhar Örmeci",
+  "license": "AGPL-3.0",
+  "home_page": "https://rnext.it/jetson_stats",
+  "download_filename": "jetson_stats_customized-4.2.7.7.tar.gz",
+  "download_time": "2025-09-30T05:48:11.893688",
+  "package_url": "https://pypi.org/project/jetson-stats-customized/"
+}

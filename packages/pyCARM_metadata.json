@@ -1,0 +1,11 @@
+{
+  "name": "pyCARM",
+  "version": "1.0.2",
+  "summary": "pyCARM: Cellular Automata for Aircraft Arrival Modelling",
+  "author": "The Hong Kong University of Science",
+  "license": null,
+  "home_page": "https://github.com/IkeoluwaSta/pyCARM",
+  "download_filename": "pycarm-1.0.2.tar.gz",
+  "download_time": "2025-09-30T05:48:12.412193",
+  "package_url": "https://pypi.org/project/pyCARM/"
+}

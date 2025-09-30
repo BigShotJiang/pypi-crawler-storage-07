@@ -1,0 +1,11 @@
+{
+  "name": "xarray",
+  "version": "2025.9.1",
+  "summary": "N-D labeled arrays and datasets in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xarray-2025.9.1.tar.gz",
+  "download_time": "2025-09-30T05:48:14.495635",
+  "package_url": "https://pypi.org/project/xarray/"
+}

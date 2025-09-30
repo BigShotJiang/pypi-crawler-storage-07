@@ -1,0 +1,11 @@
+{
+  "name": "quantrs2-core-extension",
+  "version": "0.1.0b2",
+  "summary": "Python bindings for QuantRS2-Core quantum computing framework",
+  "author": "QuantRS2 Contributors",
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "quantrs2_core_extension-0.1.0b2.tar.gz",
+  "download_time": "2025-09-30T05:48:16.049487",
+  "package_url": "https://pypi.org/project/quantrs2-core-extension/"
+}
