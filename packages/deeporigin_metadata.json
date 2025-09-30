@@ -1,11 +1,11 @@
 {
   "name": "deeporigin",
-  "version": "3.34.3",
+  "version": "3.34.4",
   "summary": "Deep Origin Python client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "deeporigin-3.34.3.tar.gz",
-  "download_time": "2025-09-30T17:11:43.435170",
+  "download_filename": "deeporigin-3.34.4.tar.gz",
+  "download_time": "2025-09-30T19:09:20.314799",
   "package_url": "https://pypi.org/project/deeporigin/"
 }

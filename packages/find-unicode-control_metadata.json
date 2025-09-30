@@ -1,0 +1,11 @@
+{
+  "name": "find-unicode-control",
+  "version": "0.1",
+  "summary": "Script to find Unicode control characters",
+  "author": "Siddhesh Poyarekar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "find_unicode_control-0.1.tar.gz",
+  "download_time": "2025-09-30T19:09:18.200275",
+  "package_url": "https://pypi.org/project/find-unicode-control/"
+}

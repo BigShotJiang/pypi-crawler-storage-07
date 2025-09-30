@@ -1,11 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-30T18:53:23.370072
-- **Total Packages**: 84
-- **Total Size**: 6.16 MB
+- **Download Time**: 2025-09-30T19:10:00.471673
+- **Total Packages**: 83
+- **Total Size**: 24.53 MB
 
 ## Packages List
+- aif-workflow-helper
+- breez-sdk-spark
+- ckzg
+- authentik-client
+- find-unicode-control
+- nanomqtt
+- dakora
+- qualibrate-runner
+- deeporigin
+- altamus-pymavlink
+- taskAutom
+- miney
+- pandas-plots
+- ironflock
+- powl
+- answerrocket-client
+- vcp-cli
+- transformerlab
+- anaconda-cli-base
+- IHopesProperties
+- hto
+- InfoTracker
+- ctf-dl
+- qualibrate-core
+- bioql
+- deptools
+- sinapsis-huggingface-hub
+- sinapsis-huggingface
+- lm-deluge
+- ut-com
+- lodoo
+- Mimo-1B
+- allotropy
+- fast-backend-builder
+- awsebcli
+- reinforced-lib
+- multi-storage-client
+- pyontoenv
+- conson-xp
+- mapflow
+- jax-pyjit
+- gdsfactoryplus
+- annotated-dict
+- codesum
+- cdk-image-pipeline
+- feature-engineering-rs
+- graphiti-core
 - ut-cli
 - libsms
 - pysyringe
@@ -26,7 +73,6 @@
 - mcp-proxy-adapter
 - mite-schema
 - suou
-- bioql
 - hat-drivers
 - tcrgeometry
 - nominal-api-protos
@@ -39,54 +85,7 @@
 - pymetallic
 - svc-infra
 - awsui
-- authentik-client
 - funcsim
 - cdklabs.genai-idp-bedrock-llm-processor
 - ares-datamodel
 - MaxBridge
-- dymos
-- repoconf
-- jax-pyjit
-- qualibrate-config
-- dynakw
-- hyperbolic-optics
-- pypi-upload-demo
-- prefix-free-sorted-cowlist-set
-- gpuq
-- numexpr
-- typos
-- omninumpy
-- gmswitch
-- henosis-cli
-- biliup
-- civics-cdf-validator
-- icsneopy
-- winmica
-- contextgraph
-- minecode-pipelines
-- carbonic
-- braindecode
-- finlab
-- terrapyn
-- programasweights
-- flexsea
-- clinicedc
-- q2db
-- weathergrabber
-- slack-bolt
-- vital
-- ultralytics
-- bluecore-models
-- snake-game-package-dio
-- recce-nightly
-- tnreason
-- entityidentity
-- minigun-soren-n
-- qlue-ls
-- promptix
-- obsidianki
-- fred-oss
-- slack-sdk
-- airbyte-source-s3
-- python-msilib
-- edhrec-mcp

@@ -1,11 +1,11 @@
 {
   "name": "dakora",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A Python library for managing and rendering prompt templates with type-safe inputs, versioning, and optional logging",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dakora-1.0.0.tar.gz",
-  "download_time": "2025-09-29T15:11:11.534102",
+  "download_filename": "dakora-1.0.1.tar.gz",
+  "download_time": "2025-09-30T19:09:19.272007",
   "package_url": "https://pypi.org/project/dakora/"
 }

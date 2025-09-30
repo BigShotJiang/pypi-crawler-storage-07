@@ -1,11 +1,11 @@
 {
   "name": "bioql",
-  "version": "3.0.0",
+  "version": "3.0.2",
   "summary": "Quantum Computing for Bioinformatics - 164 BILLION Natural Language Patterns! True English Programming for Quantum. API Key Required for Billing & Authentication.",
   "author": "BioQL Development Team - SpectrixRD",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/bioql",
-  "download_filename": "bioql-3.0.0.tar.gz",
-  "download_time": "2025-09-30T18:52:49.547519",
+  "download_filename": "bioql-3.0.2.tar.gz",
+  "download_time": "2025-09-30T19:09:28.753172",
   "package_url": "https://pypi.org/project/bioql/"
 }

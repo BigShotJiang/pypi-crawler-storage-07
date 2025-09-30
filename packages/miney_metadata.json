@@ -1,0 +1,11 @@
+{
+  "name": "miney",
+  "version": "0.5.8",
+  "summary": "The python interface to Luanti",
+  "author": "Robert Lieback",
+  "license": null,
+  "home_page": "https://github.com/miney-py/miney",
+  "download_filename": "miney-0.5.8.tar.gz",
+  "download_time": "2025-09-30T19:09:21.917448",
+  "package_url": "https://pypi.org/project/miney/"
+}

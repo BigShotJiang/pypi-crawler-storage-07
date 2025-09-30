@@ -1,0 +1,11 @@
+{
+  "name": "nanomqtt",
+  "version": "0.1.0",
+  "summary": "A lightweight wrapper around Paho MQTT client",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nanomqtt-0.1.0.tar.gz",
+  "download_time": "2025-09-30T19:09:18.728376",
+  "package_url": "https://pypi.org/project/nanomqtt/"
+}
