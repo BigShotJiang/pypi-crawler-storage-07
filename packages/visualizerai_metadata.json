@@ -1,0 +1,11 @@
+{
+  "name": "visualizerai",
+  "version": "0.2.0",
+  "summary": "VisualizerAI: natural language to plots with pandas, matplotlib, and Ollama LLM.",
+  "author": "VisualizerAI authors",
+  "license": "MIT",
+  "home_page": "https://github.com/Saurabh-Zarekar/visualizerai",
+  "download_filename": "visualizerai-0.2.0.tar.gz",
+  "download_time": "2025-09-30T19:49:05.079159",
+  "package_url": "https://pypi.org/project/visualizerai/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PaWpD",
+  "version": "1.0.1",
+  "summary": "PaWpD is a package for creating discord bots. PaWpD is a minimal client made for performance and low latencies.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pawpd-1.0.1.tar.gz",
+  "download_time": "2025-09-30T19:48:30.820894",
+  "package_url": "https://pypi.org/project/PaWpD/"
+}
