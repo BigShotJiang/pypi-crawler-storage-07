@@ -1,11 +1,11 @@
 {
   "name": "gam7",
-  "version": "7.23.0",
+  "version": "7.23.2",
   "summary": "CLI tool to manage Google Workspace",
   "author": null,
   "license": "Apache License (2.0)",
   "home_page": null,
-  "download_filename": "gam7-7.23.0.tar.gz",
-  "download_time": "2025-09-29T20:37:59.150333",
+  "download_filename": "gam7-7.23.2.tar.gz",
+  "download_time": "2025-09-30T03:52:33.992568",
   "package_url": "https://pypi.org/project/gam7/"
 }

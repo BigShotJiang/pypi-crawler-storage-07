@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-sale-partner-order-template",
-  "version": "17.0.1.0.0.3",
+  "version": "17.0.1.0.0.4",
   "summary": "Order template in partner",
   "author": "Binhex, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/sale-workflow",
-  "download_filename": "odoo_addon_sale_partner_order_template-17.0.1.0.0.3-py3-none-any.whl",
-  "download_time": "2025-09-29T03:49:17.267314",
+  "download_filename": "odoo_addon_sale_partner_order_template-17.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-09-30T03:52:45.535096",
   "package_url": "https://pypi.org/project/odoo-addon-sale-partner-order-template/"
 }

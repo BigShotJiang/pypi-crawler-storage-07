@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-base-import-security-group",
+  "version": "18.0.1.0.0.4",
+  "summary": "Group-based permissions for importing CSV files",
+  "author": "Odoo Community Association (OCA), Alejandro Santana <alejandrosantana@anubia.es>, Onestein",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-ux",
+  "download_filename": "odoo_addon_base_import_security_group-18.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-09-30T03:52:36.667930",
+  "package_url": "https://pypi.org/project/odoo-addon-base-import-security-group/"
+}
