@@ -1,0 +1,11 @@
+{
+  "name": "diffused-cli",
+  "version": "0.1.0",
+  "summary": "A vulnerability scan diffing command-line tool for container images and SBOMs",
+  "author": "Willian Rampazzo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "diffused_cli-0.1.0.tar.gz",
+  "download_time": "2025-09-30T17:11:35.893883",
+  "package_url": "https://pypi.org/project/diffused-cli/"
+}

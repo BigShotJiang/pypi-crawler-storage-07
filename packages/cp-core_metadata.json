@@ -1,0 +1,11 @@
+{
+  "name": "cp-core",
+  "version": "0.3.6",
+  "summary": "cathodic protection core problem",
+  "author": null,
+  "license": "not open",
+  "home_page": null,
+  "download_filename": "cp_core-0.3.6.tar.gz",
+  "download_time": "2025-09-30T17:12:13.052391",
+  "package_url": "https://pypi.org/project/cp-core/"
+}

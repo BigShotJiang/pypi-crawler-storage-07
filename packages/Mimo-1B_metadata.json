@@ -1,0 +1,11 @@
+{
+  "name": "Mimo-1B",
+  "version": "0.1.0",
+  "summary": "This project provides the necessary scripts and instructions to fine-tune the `deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B` model using QLoRA on a macOS system with limited RAM (~8GB), convert it to the GGUF format, and make it ready for use with Ollama and LM Studio.",
+  "author": "ABDESSEMED Mohamed Redha",
+  "license": null,
+  "home_page": "https://github.com/yourusername/your-repo",
+  "download_filename": "Mimo-1B-0.1.0.tar.gz",
+  "download_time": "2025-09-30T17:11:45.165837",
+  "package_url": "https://pypi.org/project/Mimo-1B/"
+}

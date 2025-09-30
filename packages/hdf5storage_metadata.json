@@ -1,0 +1,11 @@
+{
+  "name": "hdf5storage",
+  "version": "0.2.2",
+  "summary": "Utilities to read/write Python types to/from HDF5 files, including MATLAB v7.3 MAT files.",
+  "author": "Freja Nordsiek",
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "hdf5storage-0.2.2.tar.gz",
+  "download_time": "2025-09-30T17:11:51.910314",
+  "package_url": "https://pypi.org/project/hdf5storage/"
+}

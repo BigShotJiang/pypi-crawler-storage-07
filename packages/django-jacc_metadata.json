@@ -1,0 +1,11 @@
+{
+  "name": "django-jacc",
+  "version": "3.11.17",
+  "summary": "Simple double entry accounting system (debits/credits) for Django projects.",
+  "author": "Jani Kajala",
+  "license": "MIT licence, see LICENCE.txt",
+  "home_page": "https://github.com/kajala/django-jacc",
+  "download_filename": "django_jacc-3.11.17.tar.gz",
+  "download_time": "2025-09-30T17:12:06.689890",
+  "package_url": "https://pypi.org/project/django-jacc/"
+}

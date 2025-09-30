@@ -1,0 +1,11 @@
+{
+  "name": "waveassist",
+  "version": "0.2.0",
+  "summary": "WaveAssist Python SDK for storing and retrieving structured data",
+  "author": "WaveAssist",
+  "license": null,
+  "home_page": "https://github.com/waveassist/waveassist",
+  "download_filename": "waveassist-0.2.0.tar.gz",
+  "download_time": "2025-09-30T17:12:12.477396",
+  "package_url": "https://pypi.org/project/waveassist/"
+}

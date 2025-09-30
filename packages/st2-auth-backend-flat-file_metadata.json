@@ -1,11 +1,11 @@
 {
   "name": "st2-auth-backend-flat-file",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "StackStorm authentication backend which reads credentials from a htpasswd compatible file on disk.",
   "author": "StackStorm, Inc.",
   "license": "Apache License (2.0)",
   "home_page": "https://github.com/StackStorm/st2-auth-backend-flat-file",
-  "download_filename": "st2_auth_backend_flat_file-0.4.0-py3-none-any.whl",
-  "download_time": "2025-09-29T23:26:17.280584",
+  "download_filename": "st2-auth-backend-flat-file-0.4.1.tar.gz",
+  "download_time": "2025-09-30T17:12:18.324125",
   "package_url": "https://pypi.org/project/st2-auth-backend-flat-file/"
 }
