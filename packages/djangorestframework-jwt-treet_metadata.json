@@ -1,0 +1,11 @@
+{
+  "name": "djangorestframework-jwt-treet",
+  "version": "1.15.0",
+  "summary": "JSON Web Token Authentication support for Django REST Framework",
+  "author": "José Padilla",
+  "license": null,
+  "home_page": null,
+  "download_filename": "djangorestframework_jwt_treet-1.15.0.tar.gz",
+  "download_time": "2025-09-30T06:48:48.653352",
+  "package_url": "https://pypi.org/project/djangorestframework-jwt-treet/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rusthonian",
+  "version": "0.1.0",
+  "summary": "High-performance Python bindings for Rust crates",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "Rusthonian-0.1.0.tar.gz",
+  "download_time": "2025-09-30T06:48:42.947940",
+  "package_url": "https://pypi.org/project/rusthonian/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aer-gel-annotate",
-  "version": "0.1.9",
+  "version": "0.2.1",
   "summary": "GUI + pipeline for gel well detection, ladder reading, and PCR band annotation.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aer_gel_annotate-0.1.9.tar.gz",
-  "download_time": "2025-09-29T14:37:30.607797",
+  "download_filename": "aer_gel_annotate-0.2.1.tar.gz",
+  "download_time": "2025-09-30T06:48:34.134033",
   "package_url": "https://pypi.org/project/aer-gel-annotate/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "uapg",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "OPC UA PostgreSQL History Storage Backend",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uapg-0.1.3.tar.gz",
-  "download_time": "2025-09-29T08:16:28.058592",
+  "download_filename": "uapg-0.1.4.tar.gz",
+  "download_time": "2025-09-30T06:48:50.764307",
   "package_url": "https://pypi.org/project/uapg/"
 }

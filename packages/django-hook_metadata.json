@@ -1,0 +1,11 @@
+{
+  "name": "django-hook",
+  "version": "1.0.0",
+  "summary": "A powerful and flexible hook system for Django applications",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_hook-1.0.0.tar.gz",
+  "download_time": "2025-09-30T06:48:36.379496",
+  "package_url": "https://pypi.org/project/django-hook/"
+}

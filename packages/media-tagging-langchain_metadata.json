@@ -1,0 +1,11 @@
+{
+  "name": "media-tagging-langchain",
+  "version": "0.1.0",
+  "summary": "Langchain plugin for media-tagging library",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "media_tagging_langchain-0.1.0.tar.gz",
+  "download_time": "2025-09-30T06:49:04.788340",
+  "package_url": "https://pypi.org/project/media-tagging-langchain/"
+}

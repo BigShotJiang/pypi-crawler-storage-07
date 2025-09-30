@@ -1,11 +1,11 @@
 {
   "name": "ironBars",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "A lightweight Python utility library providing handy functions for efficient data handling, CSV management, and Google Sheets integration.",
   "author": null,
-  "license": "MIT",
+  "license": "LICENSE",
   "home_page": null,
-  "download_filename": "ironbars-0.2.0.tar.gz",
-  "download_time": "2025-09-29T13:04:42.593261",
+  "download_filename": "ironbars-0.2.2.tar.gz",
+  "download_time": "2025-09-30T06:48:47.083925",
   "package_url": "https://pypi.org/project/ironBars/"
 }
