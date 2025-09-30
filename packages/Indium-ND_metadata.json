@@ -1,11 +1,11 @@
 {
   "name": "Indium-ND",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Utility package with file operations and ASCII headings",
   "author": "Sayon",
   "license": null,
   "home_page": null,
-  "download_filename": "indium_nd-0.2.0.tar.gz",
-  "download_time": "2025-09-30T06:48:35.848283",
+  "download_filename": "indium_nd-0.2.1.tar.gz",
+  "download_time": "2025-09-30T07:12:51.379949",
   "package_url": "https://pypi.org/project/Indium-ND/"
 }

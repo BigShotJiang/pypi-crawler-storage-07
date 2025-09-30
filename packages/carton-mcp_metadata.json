@@ -1,0 +1,11 @@
+{
+  "name": "carton-mcp",
+  "version": "0.1.37",
+  "summary": "CartOn - Cartographic knowledge graph mapping for concept networks",
+  "author": "HEAVEN System",
+  "license": null,
+  "home_page": null,
+  "download_filename": "carton_mcp-0.1.37.tar.gz",
+  "download_time": "2025-09-30T07:13:21.145286",
+  "package_url": "https://pypi.org/project/carton-mcp/"
+}

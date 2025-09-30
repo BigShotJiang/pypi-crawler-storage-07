@@ -1,0 +1,11 @@
+{
+  "name": "fta",
+  "version": "0.0.8",
+  "summary": null,
+  "author": "Voidful",
+  "license": "Apache",
+  "home_page": "https://github.com/voidful/FTA",
+  "download_filename": "fta-0.0.8.tar.gz",
+  "download_time": "2025-09-30T07:12:56.264872",
+  "package_url": "https://pypi.org/project/fta/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "Odooly",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "summary": "Versatile tool for browsing Odoo / OpenERP data",
   "author": "Florent Xicluna",
   "license": "BSD-3-Clause",
   "home_page": "http://odooly.readthedocs.org/",
-  "download_filename": "odooly-2.3.0.tar.gz",
-  "download_time": "2025-09-29T06:49:43.703169",
+  "download_filename": "odooly-2.3.1.tar.gz",
+  "download_time": "2025-09-30T07:12:57.898984",
   "package_url": "https://pypi.org/project/Odooly/"
 }
