@@ -1,8 +1,10 @@
 {
-  "download_time": "2025-09-30T10:13:11.821646",
-  "total_packages_downloaded": 91,
-  "total_size_mb": 42.45,
+  "download_time": "2025-09-30T10:36:13.741656",
+  "total_packages_downloaded": 92,
+  "total_size_mb": 2.73,
   "packages": [
+    "pepperize.projen-awscdk-app-ts",
+    "aikido-zen",
     "candlesdk",
     "boris-cli",
     "beacon-api",
@@ -92,7 +94,6 @@
     "gpas",
     "arkrelay",
     "ansys-openapi-common",
-    "psaiops",
-    "climada"
+    "psaiops"
   ]
 }

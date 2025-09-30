@@ -1,11 +1,11 @@
 {
   "name": "robotframework-ghareports",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "summary": "Simple github action summary report for robotframework",
   "author": null,
   "license": "GPLV3",
   "home_page": null,
-  "download_filename": "robotframework_ghareports-0.8.2.tar.gz",
-  "download_time": "2025-09-30T10:12:22.439048",
+  "download_filename": "robotframework_ghareports-0.8.3.tar.gz",
+  "download_time": "2025-09-30T10:35:22.982575",
   "package_url": "https://pypi.org/project/robotframework-ghareports/"
 }
