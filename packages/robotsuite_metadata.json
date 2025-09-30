@@ -1,0 +1,11 @@
+{
+  "name": "robotsuite",
+  "version": "3.0.0",
+  "summary": "Robot Framework test suite for Python unittest framework",
+  "author": null,
+  "license": "GPL-2.0-only",
+  "home_page": null,
+  "download_filename": "robotsuite-3.0.0.tar.gz",
+  "download_time": "2025-09-30T18:41:05.711235",
+  "package_url": "https://pypi.org/project/robotsuite/"
+}

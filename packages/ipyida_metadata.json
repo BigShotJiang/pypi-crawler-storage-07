@@ -1,0 +1,11 @@
+{
+  "name": "ipyida",
+  "version": "2.3",
+  "summary": "IDA plugin to embed the IPython console inside IDA",
+  "author": "Marc-Etienne M.Léveillé",
+  "license": "BSD",
+  "home_page": "https://www.github.com/eset/ipyida",
+  "download_filename": "ipyida-2.3.tar.gz",
+  "download_time": "2025-09-30T18:41:13.199701",
+  "package_url": "https://pypi.org/project/ipyida/"
+}

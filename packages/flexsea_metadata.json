@@ -1,0 +1,11 @@
+{
+  "name": "flexsea",
+  "version": "12.2.3",
+  "summary": null,
+  "author": "Jared",
+  "license": "MIT",
+  "home_page": "https://github.com/DephyInc/Actuator-Package",
+  "download_filename": "flexsea-12.2.3.tar.gz",
+  "download_time": "2025-09-30T18:40:50.819525",
+  "package_url": "https://pypi.org/project/flexsea/"
+}

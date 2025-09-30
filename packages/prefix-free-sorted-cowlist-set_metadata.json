@@ -1,0 +1,11 @@
+{
+  "name": "prefix-free-sorted-cowlist-set",
+  "version": "0.1.0a1",
+  "summary": "A Python implementation of a prefix-free, sorted set of COWList, backed by a trie data structure for efficient prefix checking and maintenance of sorted order.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "prefix_free_sorted_cowlist_set-0.1.0a1.tar.gz",
+  "download_time": "2025-09-30T18:40:39.496693",
+  "package_url": "https://pypi.org/project/prefix-free-sorted-cowlist-set/"
+}

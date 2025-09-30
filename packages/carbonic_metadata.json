@@ -1,11 +1,11 @@
 {
   "name": "carbonic",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A modern Python datetime library with fluent API and immutable design",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "carbonic-1.0.1.tar.gz",
-  "download_time": "2025-09-28T09:09:28.523336",
+  "download_filename": "carbonic-1.0.2.tar.gz",
+  "download_time": "2025-09-30T18:40:46.904295",
   "package_url": "https://pypi.org/project/carbonic/"
 }

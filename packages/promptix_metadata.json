@@ -1,0 +1,11 @@
+{
+  "name": "promptix",
+  "version": "0.2.0",
+  "summary": "Professional prompt management with Git-native version control, dynamic templating, and visual Studio UI for production LLM applications",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "promptix-0.2.0.tar.gz",
+  "download_time": "2025-09-30T18:41:00.288286",
+  "package_url": "https://pypi.org/project/promptix/"
+}

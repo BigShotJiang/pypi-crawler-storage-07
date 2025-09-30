@@ -1,11 +1,11 @@
 {
   "name": "quant-greeks-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A CLI tool to calculate Black-Scholes Greeks for options pricing.",
   "author": "Patience Fuglo",
   "license": null,
   "home_page": null,
-  "download_filename": "quant_greeks_cli-1.0.0.tar.gz",
-  "download_time": "2025-09-30T18:15:55.058037",
+  "download_filename": "quant_greeks_cli-1.0.1.tar.gz",
+  "download_time": "2025-09-30T18:41:12.154425",
   "package_url": "https://pypi.org/project/quant-greeks-cli/"
 }
