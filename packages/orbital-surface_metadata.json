@@ -1,0 +1,11 @@
+{
+  "name": "orbital-surface",
+  "version": "4",
+  "summary": "Python library for constructing and visualizing curves on surfaces",
+  "author": "Niels Lubbes",
+  "license": "MIT",
+  "home_page": "http://github.com/niels-lubbes/orbital",
+  "download_filename": "orbital-surface-4.tar.gz",
+  "download_time": "2025-09-30T13:52:36.473712",
+  "package_url": "https://pypi.org/project/orbital-surface/"
+}

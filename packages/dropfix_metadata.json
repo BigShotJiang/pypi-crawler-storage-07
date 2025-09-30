@@ -1,0 +1,11 @@
+{
+  "name": "dropfix",
+  "version": "0.2.0",
+  "summary": "dropfix helps you configure Dropbox to ignore specific development directories (`.venv`, `.conda`, `node_modules`) that don't need to be synced across machines.",
+  "author": "Shane Holloman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dropfix-0.2.0.tar.gz",
+  "download_time": "2025-09-30T13:52:50.237449",
+  "package_url": "https://pypi.org/project/dropfix/"
+}
