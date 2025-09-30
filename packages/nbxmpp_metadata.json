@@ -1,0 +1,11 @@
+{
+  "name": "nbxmpp",
+  "version": "6.3.1",
+  "summary": "XMPP Library",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "nbxmpp-6.3.1.tar.gz",
+  "download_time": "2025-09-30T21:10:50.269070",
+  "package_url": "https://pypi.org/project/nbxmpp/"
+}

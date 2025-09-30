@@ -1,11 +1,11 @@
 {
   "name": "apache-airflow-providers-fastetl",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "FastETL custom package Apache Airflow provider.",
   "author": "Time de Dados CGINF",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/gestaogovbr/FastETL",
-  "download_filename": "apache_airflow_providers_fastetl-0.2.4.tar.gz",
-  "download_time": "2025-09-30T20:12:33.453414",
+  "download_filename": "apache_airflow_providers_fastetl-0.2.5.tar.gz",
+  "download_time": "2025-09-30T21:10:56.476968",
   "package_url": "https://pypi.org/project/apache-airflow-providers-fastetl/"
 }

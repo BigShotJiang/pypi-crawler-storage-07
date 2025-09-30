@@ -1,11 +1,11 @@
 {
   "name": "docker-website-backup",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "docker_website_backup-2.0.2.tar.gz",
-  "download_time": "2025-09-30T20:12:43.499014",
+  "download_filename": "docker_website_backup-2.0.3.tar.gz",
+  "download_time": "2025-09-30T21:10:36.313350",
   "package_url": "https://pypi.org/project/docker-website-backup/"
 }

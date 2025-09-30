@@ -1,11 +1,11 @@
 {
   "name": "roman-cuts",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": null,
   "author": "Jorge Martinez-Palomera",
   "license": null,
   "home_page": null,
-  "download_filename": "roman_cuts-0.3.0.tar.gz",
-  "download_time": "2025-09-29T15:31:55.194291",
+  "download_filename": "roman_cuts-0.3.1.tar.gz",
+  "download_time": "2025-09-30T21:10:31.002914",
   "package_url": "https://pypi.org/project/roman-cuts/"
 }

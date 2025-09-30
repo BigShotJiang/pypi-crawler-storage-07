@@ -1,11 +1,11 @@
 {
   "name": "mbari-pbp",
-  "version": "1.8.0",
+  "version": "1.8.1",
   "summary": "PyPAM based Processing",
   "author": "Carlos Rueda",
   "license": "Apache-2.0",
   "home_page": "https://docs.mbari.org/pbp/",
-  "download_filename": "mbari_pbp-1.8.0.tar.gz",
-  "download_time": "2025-09-30T19:24:23.947067",
+  "download_filename": "mbari_pbp-1.8.1.tar.gz",
+  "download_time": "2025-09-30T21:11:11.003409",
   "package_url": "https://pypi.org/project/mbari-pbp/"
 }

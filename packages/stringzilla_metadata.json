@@ -1,0 +1,11 @@
+{
+  "name": "stringzilla",
+  "version": "4.0.15",
+  "summary": "Search, hash, sort, and process strings faster via SWAR and SIMD",
+  "author": "Ash Vardanian",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ashvardanian/StringZilla",
+  "download_filename": "stringzilla-4.0.15.tar.gz",
+  "download_time": "2025-09-30T21:10:57.581207",
+  "package_url": "https://pypi.org/project/stringzilla/"
+}

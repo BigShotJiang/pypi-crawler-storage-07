@@ -1,0 +1,11 @@
+{
+  "name": "topohub",
+  "version": "1.5",
+  "summary": "Repository of reference Gabriel graph, Internet Topology Zoo, SNDlib, CAIDA and synthetic backbone topologies for networking research",
+  "author": "Piotr Jurkiewicz",
+  "license": "MIT",
+  "home_page": "https://github.com/piotrjurkiewicz/topohub",
+  "download_filename": "topohub-1.5.tar.gz",
+  "download_time": "2025-09-30T21:10:31.569203",
+  "package_url": "https://pypi.org/project/topohub/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "foxclient",
+  "version": "5.3.0",
+  "summary": "Fox API",
+  "author": "OpenAPI Generator Community",
+  "license": "NoLicense",
+  "home_page": "https://github.com/GIT_USER_ID/GIT_REPO_ID",
+  "download_filename": "foxclient-5.3.0.tar.gz",
+  "download_time": "2025-09-30T21:10:47.180456",
+  "package_url": "https://pypi.org/project/foxclient/"
+}

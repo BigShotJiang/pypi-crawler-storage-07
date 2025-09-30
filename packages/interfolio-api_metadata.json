@@ -1,0 +1,11 @@
+{
+  "name": "interfolio-api",
+  "version": "0.93",
+  "summary": "A Python client for Interfolio",
+  "author": "Rice University Office of the Vice Provost of Academic Affairs",
+  "license": null,
+  "home_page": "https://github.com/Rice-University-Academic-Affairs/Interfolio-API",
+  "download_filename": "interfolio_api-0.93.tar.gz",
+  "download_time": "2025-09-30T21:10:58.101116",
+  "package_url": "https://pypi.org/project/interfolio-api/"
+}

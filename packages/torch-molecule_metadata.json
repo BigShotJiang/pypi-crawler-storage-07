@@ -1,0 +1,11 @@
+{
+  "name": "torch-molecule",
+  "version": "0.1.5",
+  "summary": "Deep learning packages for molecular discovery with a simple sklearn-style interface",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "torch_molecule-0.1.5.tar.gz",
+  "download_time": "2025-09-30T21:10:41.988537",
+  "package_url": "https://pypi.org/project/torch-molecule/"
+}
