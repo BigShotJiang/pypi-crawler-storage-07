@@ -1,11 +1,11 @@
 {
   "name": "ghcp",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "Copy a folder or file from GitHub without cloning (CLI)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ghcp-0.1.0.tar.gz",
-  "download_time": "2025-09-30T10:50:08.774832",
+  "download_filename": "ghcp-0.1.3.tar.gz",
+  "download_time": "2025-09-30T11:10:28.398921",
   "package_url": "https://pypi.org/project/ghcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "request-session",
+  "version": "0.16.4",
+  "summary": "Python HTTP requests on steroids",
+  "author": "Kiwi.com platform team",
+  "license": null,
+  "home_page": "https://github.com/kiwicom/request-session",
+  "download_filename": "request_session-0.16.4.tar.gz",
+  "download_time": "2025-09-30T11:10:35.671930",
+  "package_url": "https://pypi.org/project/request-session/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-epics-db",
+  "version": "0.2.0",
+  "summary": "tree-sitter grammar for EPICS' database and database definition files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tree_sitter_epics_db-0.2.0.tar.gz",
+  "download_time": "2025-09-30T11:10:32.556470",
+  "package_url": "https://pypi.org/project/tree-sitter-epics-db/"
+}

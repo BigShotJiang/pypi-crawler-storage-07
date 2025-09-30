@@ -1,0 +1,11 @@
+{
+  "name": "riskoptimix",
+  "version": "0.1.0",
+  "summary": "A simple Python toolkit for algorithmic trading",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "riskoptimix-0.1.0.tar.gz",
+  "download_time": "2025-09-30T11:10:36.193524",
+  "package_url": "https://pypi.org/project/riskoptimix/"
+}

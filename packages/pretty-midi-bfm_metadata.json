@@ -1,0 +1,11 @@
+{
+  "name": "pretty-midi-bfm",
+  "version": "0.2.10.post1",
+  "summary": "PrettyMIDI with Bots for Music patches",
+  "author": "Colin Raffel (original author), Lars Monstad (fork maintainer)",
+  "license": "MIT",
+  "home_page": "https://github.com/craffel/pretty-midi",
+  "download_filename": "pretty-midi-bfm-0.2.10.post1.tar.gz",
+  "download_time": "2025-09-30T11:10:46.284262",
+  "package_url": "https://pypi.org/project/pretty-midi-bfm/"
+}
