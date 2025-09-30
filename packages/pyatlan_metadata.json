@@ -1,0 +1,11 @@
+{
+  "name": "pyatlan",
+  "version": "8.2.1",
+  "summary": "Atlan Python Client",
+  "author": null,
+  "license": "Apache LICENSE 2.0",
+  "home_page": null,
+  "download_filename": "pyatlan-8.2.1.tar.gz",
+  "download_time": "2025-09-30T09:32:32.424902",
+  "package_url": "https://pypi.org/project/pyatlan/"
+}

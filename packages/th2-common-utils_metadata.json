@@ -1,0 +1,11 @@
+{
+  "name": "th2-common-utils",
+  "version": "2.2.0",
+  "summary": "Python library with useful functions for developers and QA needs",
+  "author": "TH2-devs",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/th2-net/th2-common-utils-py",
+  "download_filename": "th2_common_utils-2.2.0.tar.gz",
+  "download_time": "2025-09-30T09:32:41.642338",
+  "package_url": "https://pypi.org/project/th2-common-utils/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "deepKernel",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "summary": "A simple example package",
   "author": "pz",
   "license": null,
   "home_page": "https://www.pzeda.com/CN",
-  "download_filename": "deepkernel-0.0.10.tar.gz",
-  "download_time": "2025-09-29T09:13:40.129027",
+  "download_filename": "deepkernel-0.0.11.tar.gz",
+  "download_time": "2025-09-30T09:32:35.305091",
   "package_url": "https://pypi.org/project/deepKernel/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "api_helper_saurabh",
+  "version": "2025.0.1.0",
+  "summary": "A package for converting api calls to pandas dataframe",
+  "author": "Saurabh Sabharwal",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "api_helper_saurabh-2025.0.1.0.tar.gz",
+  "download_time": "2025-09-30T09:32:35.886540",
+  "package_url": "https://pypi.org/project/api_helper_saurabh/"
+}

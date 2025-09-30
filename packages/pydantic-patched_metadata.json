@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-patched",
+  "version": "2.11.9",
+  "summary": "Data validation using Python type hints",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantic_patched-2.11.9.tar.gz",
+  "download_time": "2025-09-30T09:32:03.921948",
+  "package_url": "https://pypi.org/project/pydantic-patched/"
+}

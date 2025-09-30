@@ -1,0 +1,11 @@
+{
+  "name": "pycinema",
+  "version": "3.2.0",
+  "summary": "Cinema scientific toolset.",
+  "author": "David H. Rogers",
+  "license": null,
+  "home_page": "https://github.com/cinemascience/pycinema",
+  "download_filename": "pycinema-3.2.0.tar.gz",
+  "download_time": "2025-09-30T09:32:40.493840",
+  "package_url": "https://pypi.org/project/pycinema/"
+}

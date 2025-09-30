@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mgmtsystem-quality",
+  "version": "18.0.1.0.1",
+  "summary": "Manage your quality management system",
+  "author": "Savoir-faire Linux, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/management-system",
+  "download_filename": "odoo_addon_mgmtsystem_quality-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-09-30T09:32:14.072107",
+  "package_url": "https://pypi.org/project/odoo-addon-mgmtsystem-quality/"
+}
