@@ -1,11 +1,11 @@
 {
   "name": "contextgraph",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "A powerful graph database with Cypher query support and advanced visualization capabilities",
   "author": "Shailesh Jannu",
   "license": "MIT",
   "home_page": "https://github.com/shaileshj2803/contextgraph",
-  "download_filename": "contextgraph-0.3.0.tar.gz",
-  "download_time": "2025-09-30T18:40:45.744287",
+  "download_filename": "contextgraph-0.3.1.tar.gz",
+  "download_time": "2025-09-30T20:49:09.736055",
   "package_url": "https://pypi.org/project/contextgraph/"
 }
