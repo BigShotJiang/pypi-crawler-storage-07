@@ -1,0 +1,11 @@
+{
+  "name": "pdok-geopackage-validator",
+  "version": "0.14.2",
+  "summary": "Validate Geopackage files according to PDOK requirements and recommendations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pdok_geopackage_validator-0.14.2.tar.gz",
+  "download_time": "2025-09-30T11:26:08.557000",
+  "package_url": "https://pypi.org/project/pdok-geopackage-validator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pymdfu",
+  "version": "2.7.0.12",
+  "summary": "Microchip Device Firmware Update Tools",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pymdfu-2.7.0.12-py3-none-any.whl",
+  "download_time": "2025-09-30T11:26:09.075344",
+  "package_url": "https://pypi.org/project/pymdfu/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hiten",
+  "version": "0.5.1",
+  "summary": "HITEN - Computational Toolkit for the Circular Restricted Three-Body Problem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hiten-0.5.1.tar.gz",
+  "download_time": "2025-09-30T11:26:14.294511",
+  "package_url": "https://pypi.org/project/hiten/"
+}

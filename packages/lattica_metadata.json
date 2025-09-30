@@ -1,11 +1,11 @@
 {
   "name": "lattica",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A unified Python SDK for P2P networking with integrated DHT and NAT capabilities",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lattica-1.0.0-cp311-cp311-macosx_11_0_arm64.whl",
-  "download_time": "2025-09-28T14:26:31.430093",
+  "download_filename": "lattica-1.0.1-cp311-cp311-macosx_10_12_x86_64.whl",
+  "download_time": "2025-09-30T11:26:22.545291",
   "package_url": "https://pypi.org/project/lattica/"
 }
