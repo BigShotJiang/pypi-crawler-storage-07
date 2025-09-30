@@ -1,11 +1,11 @@
 {
   "name": "altamus-pymavlink",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "summary": "Altamus Python MAVLink code",
   "author": null,
   "license": "LGPLv3",
   "home_page": "https://github.com/altamusinc/altamus_pymavlink",
-  "download_filename": "altamus_pymavlink-1.1.2.tar.gz",
-  "download_time": "2025-09-30T19:09:20.857679",
+  "download_filename": "altamus_pymavlink-1.1.3.tar.gz",
+  "download_time": "2025-09-30T20:12:55.081598",
   "package_url": "https://pypi.org/project/altamus-pymavlink/"
 }

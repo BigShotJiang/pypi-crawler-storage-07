@@ -1,0 +1,11 @@
+{
+  "name": "cinchdb",
+  "version": "0.1.23",
+  "summary": "A Git-like SQLite database management system with branching and multi-tenancy",
+  "author": "Russell Romney",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cinchdb-0.1.23.tar.gz",
+  "download_time": "2025-09-30T20:12:52.965791",
+  "package_url": "https://pypi.org/project/cinchdb/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "t-nextgen",
-  "version": "0.5.6",
+  "version": "0.5.7",
   "summary": "A Python library providing seamless methods to interact with NextGen application, enabling automation and integration for enhanced workflow efficiency",
   "author": "Thoughtful",
   "license": null,
   "home_page": "https://www.thoughtful.ai/",
-  "download_filename": "t_nextgen-0.5.6.tar.gz",
-  "download_time": "2025-09-30T19:24:35.234822",
+  "download_filename": "t_nextgen-0.5.7.tar.gz",
+  "download_time": "2025-09-30T20:12:49.281304",
   "package_url": "https://pypi.org/project/t-nextgen/"
 }

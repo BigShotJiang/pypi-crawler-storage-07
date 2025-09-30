@@ -1,11 +1,11 @@
 {
   "name": "formalmath",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A modular formal mathematics systems library, including Metamath",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "formalmath-0.1.2.tar.gz",
-  "download_time": "2025-09-30T18:52:41.284016",
+  "download_filename": "formalmath-0.1.3.tar.gz",
+  "download_time": "2025-09-30T20:12:31.860216",
   "package_url": "https://pypi.org/project/formalmath/"
 }
