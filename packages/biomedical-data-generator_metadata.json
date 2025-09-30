@@ -1,0 +1,11 @@
+{
+  "name": "biomedical-data-generator",
+  "version": "0.1.3",
+  "summary": "Generate synthetic data for data science, machine learning, and statistics.",
+  "author": "Sigrun May",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "biomedical_data_generator-0.1.3.tar.gz",
+  "download_time": "2025-09-30T07:30:44.519044",
+  "package_url": "https://pypi.org/project/biomedical-data-generator/"
+}

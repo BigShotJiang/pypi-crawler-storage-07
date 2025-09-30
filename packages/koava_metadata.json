@@ -1,11 +1,11 @@
 {
   "name": "koava",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "KoalaVault model converter tool for producers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "koava-0.0.7-py3-none-macosx_10_12_x86_64.whl",
-  "download_time": "2025-09-30T03:07:04.997314",
+  "download_filename": "koava-0.0.8-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2025-09-30T07:30:46.081178",
   "package_url": "https://pypi.org/project/koava/"
 }

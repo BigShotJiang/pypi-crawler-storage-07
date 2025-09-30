@@ -1,0 +1,11 @@
+{
+  "name": "comfy-cli",
+  "version": "1.5.2",
+  "summary": "A CLI tool for installing and using ComfyUI.",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "comfy_cli-1.5.2.tar.gz",
+  "download_time": "2025-09-30T07:30:49.678871",
+  "package_url": "https://pypi.org/project/comfy-cli/"
+}

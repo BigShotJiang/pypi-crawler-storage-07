@@ -1,11 +1,11 @@
 {
   "name": "pthelma",
-  "version": "2.5.0",
+  "version": "2.5.2",
   "summary": "Utilities for hydrological and meteorological time series processing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pthelma-2.5.0.tar.gz",
-  "download_time": "2025-09-27T19:46:51.072704",
+  "download_filename": "pthelma-2.5.2.tar.gz",
+  "download_time": "2025-09-30T07:30:30.618771",
   "package_url": "https://pypi.org/project/pthelma/"
 }

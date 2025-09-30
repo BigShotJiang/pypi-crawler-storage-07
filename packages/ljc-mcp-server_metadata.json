@@ -1,11 +1,11 @@
 {
   "name": "ljc-mcp-server",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ljc_mcp_server-0.1.1.tar.gz",
-  "download_time": "2025-09-30T05:47:56.269614",
+  "download_filename": "ljc_mcp_server-0.1.2.tar.gz",
+  "download_time": "2025-09-30T07:30:33.222951",
   "package_url": "https://pypi.org/project/ljc-mcp-server/"
 }

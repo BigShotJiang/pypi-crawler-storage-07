@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp-finance_news",
+  "version": "0.2.0",
+  "summary": "Get finance news and stock news with keyword search functionality.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_finance_news-0.2.0.tar.gz",
+  "download_time": "2025-09-30T07:30:41.960454",
+  "package_url": "https://pypi.org/project/iflow-mcp-finance_news/"
+}

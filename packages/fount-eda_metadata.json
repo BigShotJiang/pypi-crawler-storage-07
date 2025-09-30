@@ -1,0 +1,11 @@
+{
+  "name": "fount-eda",
+  "version": "0.1.4",
+  "summary": "EDA tool for Fount",
+  "author": "Bibek Sahu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fount_eda-0.1.4.tar.gz",
+  "download_time": "2025-09-30T07:31:05.086757",
+  "package_url": "https://pypi.org/project/fount-eda/"
+}

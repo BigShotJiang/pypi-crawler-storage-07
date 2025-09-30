@@ -1,0 +1,11 @@
+{
+  "name": "pycaption",
+  "version": "2.2.19",
+  "summary": "Closed caption converter",
+  "author": "Joe Norton",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycaption-2.2.19.tar.gz",
+  "download_time": "2025-09-30T07:31:03.033504",
+  "package_url": "https://pypi.org/project/pycaption/"
+}
