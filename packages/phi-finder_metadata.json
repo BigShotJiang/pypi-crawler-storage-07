@@ -1,0 +1,11 @@
+{
+  "name": "phi-finder",
+  "version": "0.1.7",
+  "summary": "Collection of tools to check uploaded scans and records for identifiable data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "phi_finder-0.1.7.tar.gz",
+  "download_time": "2025-10-01T05:12:13.441655",
+  "package_url": "https://pypi.org/project/phi-finder/"
+}

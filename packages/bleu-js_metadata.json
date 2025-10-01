@@ -1,0 +1,11 @@
+{
+  "name": "bleu-js",
+  "version": "1.2.0",
+  "summary": "A state-of-the-art quantum-enhanced vision system with advanced AI capabilities",
+  "author": "Bleujs Team",
+  "license": null,
+  "home_page": "https://github.com/HelloblueAI/Bleu.js",
+  "download_filename": "bleu_js-1.2.0.tar.gz",
+  "download_time": "2025-10-01T05:12:15.483954",
+  "package_url": "https://pypi.org/project/bleu-js/"
+}

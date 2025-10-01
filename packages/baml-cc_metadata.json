@@ -1,11 +1,11 @@
 {
   "name": "baml-cc",
-  "version": "0.209.0.7",
+  "version": "0.209.0.9",
   "summary": "BAML Claude Code Provider - Advanced Claude Code integration for BAML",
   "author": "ViperJuice <your-email@example.com>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/ViperJuice/baml-cc",
-  "download_filename": "baml_cc-0.209.0.7-py3-none-manylinux_2_5_x86_64.manylinux1_x86_64.whl",
-  "download_time": "2025-10-01T03:32:24.859002",
+  "download_filename": "baml_cc-0.209.0.9-py3-none-manylinux_2_5_x86_64.manylinux1_x86_64.whl",
+  "download_time": "2025-10-01T05:12:13.952213",
   "package_url": "https://pypi.org/project/baml-cc/"
 }

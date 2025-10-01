@@ -1,0 +1,11 @@
+{
+  "name": "StoryForge",
+  "version": "0.0.4",
+  "summary": "A TUI app that generates short stories and AI images from prompts using a language model.",
+  "author": "wom",
+  "license": null,
+  "home_page": null,
+  "download_filename": "storyforge-0.0.4.tar.gz",
+  "download_time": "2025-10-01T05:12:07.753480",
+  "package_url": "https://pypi.org/project/StoryForge/"
+}

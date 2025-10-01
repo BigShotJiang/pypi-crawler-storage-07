@@ -1,0 +1,11 @@
+{
+  "name": "labelu",
+  "version": "1.3.1",
+  "summary": null,
+  "author": "shenguanlin",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/opendatalab/labelU",
+  "download_filename": "labelu-1.3.1.tar.gz",
+  "download_time": "2025-10-01T05:12:16.020555",
+  "package_url": "https://pypi.org/project/labelu/"
+}

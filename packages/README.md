@@ -1,11 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-01T04:51:22.458179
-- **Total Packages**: 91
-- **Total Size**: 10.96 MB
+- **Download Time**: 2025-10-01T05:12:47.506689
+- **Total Packages**: 90
+- **Total Size**: 5.9 MB
 
 ## Packages List
+- dataguild-snowflake-connector
+- async-llms
+- quantmini
+- beans-logging
+- authentik-client
+- modusa
+- fans
+- synodal
+- mrgrain.cdk-esbuild
+- upgrade-py-direct-reqs
+- skeptofox
+- pytest-homeassistant-custom-component
+- konigle
+- panparsex
+- meltano-tap-circle-ci
+- StoryForge
+- cyberdrop-dl-fix
+- sleipnirgroup-jormungandr
+- lhs-global-service-fastapi
+- edtrace
+- stock-mcp-server
+- mapmatcher
+- rushlib
+- compact-rienet
+- mknodes
+- aorta-sirius-dev
+- phi-finder
+- baml-cc
+- civitai-model-downloader
+- bleu-js
+- labelu
+- tombi
+- pentest-header-analyzer
+- fast-channels
 - caesar-data
 - optype
 - azulero
@@ -62,38 +96,3 @@
 - livekit-plugins-azure
 - livekit-plugins-aws
 - livekit-plugins-assemblyai
-- livekit-plugins-anthropic
-- livekit-plugins-anam
-- livekit-agents
-- geolysis
-- lance-namespace-urllib3-client
-- lance-namespace
-- authentik-client
-- pysaten
-- mapmatcher
-- backend.ai-test
-- backend.ai-storage-proxy
-- backend.ai-plugin
-- backend.ai-manager
-- backend.ai-logging
-- backend.ai-kernel-helper
-- backend.ai-kernel
-- backend.ai-install
-- backend.ai-common
-- backend.ai-client
-- backend.ai-cli
-- backend.ai-appproxy-worker
-- backend.ai-appproxy-coordinator
-- backend.ai-appproxy-common
-- backend.ai-account-manager
-- backend.ai-accelerator-mock
-- backend.ai-accelerator-cuda-open
-- httpayer
-- lhs-global-service-fastapi
-- spaceone-core
-- tinker
-- pythagoras
-- django-markdown-renderer
-- compact-rienet
-- nvidia-dali-nightly-cuda120
-- chembl-miner

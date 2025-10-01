@@ -1,11 +1,11 @@
 {
   "name": "fans",
-  "version": "0.0.64",
+  "version": "0.0.65",
   "summary": "fans656's python library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fans-0.0.64.tar.gz",
-  "download_time": "2025-09-28T14:08:16.177708",
+  "download_filename": "fans-0.0.65.tar.gz",
+  "download_time": "2025-10-01T05:12:03.113009",
   "package_url": "https://pypi.org/project/fans/"
 }
