@@ -1,11 +1,11 @@
 {
   "name": "gamengine2d",
-  "version": "1.0.9",
+  "version": "2.0.0",
   "summary": "A Unity-like 2D engine in Python using pygame",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gamengine2d-1.0.9.tar.gz",
-  "download_time": "2025-09-30T08:43:48.330443",
+  "download_filename": "gamengine2d-2.0.0.tar.gz",
+  "download_time": "2025-10-01T11:34:52.115020",
   "package_url": "https://pypi.org/project/gamengine2d/"
 }

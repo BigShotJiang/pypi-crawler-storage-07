@@ -1,11 +1,11 @@
 {
   "name": "binarytrees-nv",
-  "version": "0.1.4",
+  "version": "0.1.0",
   "summary": "Package providing recursive and iterative binary tree generators.",
   "author": "Anton Sibilev",
   "license": null,
   "home_page": null,
-  "download_filename": "binarytrees_nv-0.1.4.tar.gz",
-  "download_time": "2025-10-01T11:27:05.625128",
+  "download_filename": "binarytrees_nv-0.1.0.tar.gz",
+  "download_time": "2025-10-01T11:35:10.901542",
   "package_url": "https://pypi.org/project/binarytrees-nv/"
 }
