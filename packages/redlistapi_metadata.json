@@ -1,0 +1,11 @@
+{
+  "name": "redlistapi",
+  "version": "0.1.2",
+  "summary": "A Python client for the IUCN Red List API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "redlistapi-0.1.2.tar.gz",
+  "download_time": "2025-10-01T21:10:43.729089",
+  "package_url": "https://pypi.org/project/redlistapi/"
+}

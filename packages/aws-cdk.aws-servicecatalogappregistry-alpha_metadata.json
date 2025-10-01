@@ -1,11 +1,11 @@
 {
   "name": "aws-cdk.aws-servicecatalogappregistry-alpha",
-  "version": "2.218.0a0",
+  "version": "2.219.0a0",
   "summary": "The CDK Construct Library for AWS::ServiceCatalogAppRegistry",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/aws/aws-cdk",
-  "download_filename": "aws_cdk_aws_servicecatalogappregistry_alpha-2.218.0a0.tar.gz",
-  "download_time": "2025-09-29T14:11:40.228700",
+  "download_filename": "aws_cdk_aws_servicecatalogappregistry_alpha-2.219.0a0.tar.gz",
+  "download_time": "2025-10-01T21:11:32.921478",
   "package_url": "https://pypi.org/project/aws-cdk.aws-servicecatalogappregistry-alpha/"
 }

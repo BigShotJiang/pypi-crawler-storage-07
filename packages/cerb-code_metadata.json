@@ -1,11 +1,11 @@
 {
   "name": "cerb-code",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Terminal UI for managing multiple Claude sessions with tmux",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cerb_code-0.1.6.tar.gz",
-  "download_time": "2025-09-30T17:30:12.611952",
+  "download_filename": "cerb_code-0.1.7.tar.gz",
+  "download_time": "2025-10-01T21:11:20.753159",
   "package_url": "https://pypi.org/project/cerb-code/"
 }

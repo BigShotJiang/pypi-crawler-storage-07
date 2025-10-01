@@ -1,0 +1,11 @@
+{
+  "name": "portable-python",
+  "version": "1.10.2",
+  "summary": "Portable python binaries",
+  "author": "Zoran Simic",
+  "license": "MIT",
+  "home_page": "https://github.com/codrsquad/portable-python",
+  "download_filename": "portable_python-1.10.2.tar.gz",
+  "download_time": "2025-10-01T21:11:06.500742",
+  "package_url": "https://pypi.org/project/portable-python/"
+}
