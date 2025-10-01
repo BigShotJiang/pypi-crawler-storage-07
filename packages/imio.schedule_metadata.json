@@ -1,0 +1,11 @@
+{
+  "name": "imio.schedule",
+  "version": "3.0.1",
+  "summary": "Schedule for imio products",
+  "author": "Simon Delcourt",
+  "license": "GPL version 2",
+  "home_page": "https://pypi.python.org/pypi/imio.schedule",
+  "download_filename": "imio.schedule-3.0.1.tar.gz",
+  "download_time": "2025-10-01T07:30:29.380688",
+  "package_url": "https://pypi.org/project/imio.schedule/"
+}

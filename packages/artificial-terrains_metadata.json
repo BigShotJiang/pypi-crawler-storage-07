@@ -1,0 +1,11 @@
+{
+  "name": "artificial-terrains",
+  "version": "0.1.0",
+  "summary": "Modular, extensible terrain generation library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "artificial_terrains-0.1.0.tar.gz",
+  "download_time": "2025-10-01T07:30:26.823025",
+  "package_url": "https://pypi.org/project/artificial-terrains/"
+}

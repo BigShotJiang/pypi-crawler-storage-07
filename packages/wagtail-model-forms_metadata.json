@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-model-forms",
+  "version": "0.8.8",
+  "summary": "The Wagtail Form Builder functionalities available for your models/snippets.",
+  "author": "R. Moorman <rob@vicktor.nl>",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wagtail_model_forms-0.8.8.tar.gz",
+  "download_time": "2025-10-01T07:30:16.308233",
+  "package_url": "https://pypi.org/project/wagtail-model-forms/"
+}

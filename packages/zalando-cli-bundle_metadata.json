@@ -1,0 +1,11 @@
+{
+  "name": "zalando-cli-bundle",
+  "version": "24.19.2",
+  "summary": "CLI bundle for Zalando developers",
+  "author": "Henning Jacobs",
+  "license": null,
+  "home_page": "https://github.com/zalando-build/zalando-cli-bundle",
+  "download_filename": "zalando_cli_bundle-24.19.2.tar.gz",
+  "download_time": "2025-10-01T07:30:24.708240",
+  "package_url": "https://pypi.org/project/zalando-cli-bundle/"
+}
