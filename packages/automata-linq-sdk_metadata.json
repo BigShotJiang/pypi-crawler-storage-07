@@ -1,11 +1,11 @@
 {
   "name": "automata-linq-sdk",
-  "version": "1.12.0",
+  "version": "1.12.1",
   "summary": null,
   "author": "Automata",
-  "license": "Apache-2.0",
+  "license": null,
   "home_page": null,
-  "download_filename": "automata_linq_sdk-1.12.0.tar.gz",
-  "download_time": "2025-10-01T07:48:55.082497",
+  "download_filename": "automata_linq_sdk-1.12.1.tar.gz",
+  "download_time": "2025-10-01T08:16:51.556973",
   "package_url": "https://pypi.org/project/automata-linq-sdk/"
 }

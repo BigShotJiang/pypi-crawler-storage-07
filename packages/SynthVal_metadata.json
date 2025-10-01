@@ -1,0 +1,11 @@
+{
+  "name": "SynthVal",
+  "version": "0.2.3a0",
+  "summary": "Package designed to validate the quality of synthetically generated data, with a focus on medical images like chest x-rays and mammographies, by providing tools for feature extraction and similarity metric calculations to compare original and synthetic datasets.",
+  "author": "Dario Guidotti, Laura Pandolfo, Luca Pulina",
+  "license": "GNU General Public License with Commons Clause License Condition v1.0",
+  "home_page": "https://github.com/AIMet-Lab/SynthVal",
+  "download_filename": "synthval-0.2.3a0.tar.gz",
+  "download_time": "2025-10-01T08:16:43.419481",
+  "package_url": "https://pypi.org/project/SynthVal/"
+}

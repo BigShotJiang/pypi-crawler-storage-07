@@ -1,0 +1,11 @@
+{
+  "name": "sythonlab-amadeus-enterprise",
+  "version": "1.0.1",
+  "summary": "A Python library for integration with Amadeus Enterprise Service.",
+  "author": "José Angel Alvarez Abraira",
+  "license": null,
+  "home_page": "https://github.com/sythonlab/SythonLab-Amadeus-Enterprise",
+  "download_filename": "sythonlab_amadeus_enterprise-1.0.1.tar.gz",
+  "download_time": "2025-10-01T08:16:38.477407",
+  "package_url": "https://pypi.org/project/sythonlab-amadeus-enterprise/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "neo4j",
-  "version": "6.0.0",
+  "version": "6.0.1",
   "summary": "Neo4j Bolt driver for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "neo4j-6.0.0.tar.gz",
-  "download_time": "2025-09-30T11:26:11.167715",
+  "download_filename": "neo4j-6.0.1.tar.gz",
+  "download_time": "2025-10-01T08:16:39.022046",
   "package_url": "https://pypi.org/project/neo4j/"
 }
