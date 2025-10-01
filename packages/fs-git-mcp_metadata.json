@@ -1,0 +1,11 @@
+{
+  "name": "fs-git-mcp",
+  "version": "0.1.0",
+  "summary": "MCP Git-enforced filesystem with direct and staged modes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fs_git_mcp-0.1.0.tar.gz",
+  "download_time": "2025-10-01T20:14:09.565516",
+  "package_url": "https://pypi.org/project/fs-git-mcp/"
+}

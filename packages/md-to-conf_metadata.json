@@ -1,0 +1,11 @@
+{
+  "name": "md-to-conf",
+  "version": "1.0.10",
+  "summary": "Markdown to Confluence Cloud Publisher",
+  "author": "Matt Gerega",
+  "license": null,
+  "home_page": "https://github.com/spydersoft-consulting/md_to_conf",
+  "download_filename": "md_to_conf-1.0.10-py3-none-any.whl",
+  "download_time": "2025-10-01T20:14:18.404401",
+  "package_url": "https://pypi.org/project/md-to-conf/"
+}

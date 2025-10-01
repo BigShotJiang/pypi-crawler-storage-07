@@ -1,0 +1,11 @@
+{
+  "name": "sagemaker-studio-dataengineering-extensions",
+  "version": "1.2.10",
+  "summary": "A python Package to enhance experience of SageMaker Unified Studio",
+  "author": "Amazon Web Services",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sagemaker_studio_dataengineering_extensions-1.2.10.tar.gz",
+  "download_time": "2025-10-01T20:13:59.792882",
+  "package_url": "https://pypi.org/project/sagemaker-studio-dataengineering-extensions/"
+}
