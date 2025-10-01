@@ -1,0 +1,11 @@
+{
+  "name": "fan-manager",
+  "version": "0.6.4",
+  "summary": "Manager your Dell PowerEdge Fan Speed with this handy tool and MCP Server!",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fan_manager-0.6.4.tar.gz",
+  "download_time": "2025-10-01T00:54:15.565499",
+  "package_url": "https://pypi.org/project/fan-manager/"
+}

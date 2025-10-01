@@ -1,11 +1,11 @@
 {
   "name": "turboapi",
-  "version": "0.3.11",
+  "version": "0.3.12",
   "summary": "Revolutionary Python web framework with FastAPI syntax and 5-10x performance (Python 3.13+ free-threading required)",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/justrach/turboAPI",
-  "download_filename": "turboapi-0.3.11.tar.gz",
-  "download_time": "2025-09-30T17:30:11.491051",
+  "download_filename": "turboapi-0.3.12.tar.gz",
+  "download_time": "2025-10-01T00:54:31.357780",
   "package_url": "https://pypi.org/project/turboapi/"
 }

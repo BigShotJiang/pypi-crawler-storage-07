@@ -1,11 +1,11 @@
 {
   "name": "fragment-py2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A Python library for interacting with Fragment platform (Telegram usernames, stars, premium, TON wallets)",
   "author": "kompromizzdev",
   "license": "MIT",
   "home_page": "https://github.com/illussioon/fragment-py",
-  "download_filename": "fragment_py2-0.0.1.tar.gz",
-  "download_time": "2025-09-30T09:32:28.932737",
+  "download_filename": "fragment_py2-0.0.2.tar.gz",
+  "download_time": "2025-10-01T00:54:28.607341",
   "package_url": "https://pypi.org/project/fragment-py2/"
 }
