@@ -1,0 +1,11 @@
+{
+  "name": "jaxl-python",
+  "version": "0.0.6",
+  "summary": "Jaxl CLI & Jaxl Python API Client.",
+  "author": "Jaxl Innovations Private Limited",
+  "license": "'Proprietary'",
+  "home_page": "https://github.com/jaxl-innovations-private-limited/jaxl-python",
+  "download_filename": "jaxl_python-0.0.6.tar.gz",
+  "download_time": "2025-10-01T07:49:14.209267",
+  "package_url": "https://pypi.org/project/jaxl-python/"
+}

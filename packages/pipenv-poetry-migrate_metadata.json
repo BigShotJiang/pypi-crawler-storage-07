@@ -1,0 +1,11 @@
+{
+  "name": "pipenv-poetry-migrate",
+  "version": "0.7.0",
+  "summary": "simple migration script, migrate pipenv to poetry",
+  "author": "Yoshiyuki HINO",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pipenv_poetry_migrate-0.7.0.tar.gz",
+  "download_time": "2025-10-01T07:49:05.022261",
+  "package_url": "https://pypi.org/project/pipenv-poetry-migrate/"
+}

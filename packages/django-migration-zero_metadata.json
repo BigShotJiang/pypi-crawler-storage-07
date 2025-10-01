@@ -1,0 +1,11 @@
+{
+  "name": "django-migration-zero",
+  "version": "2.3.10",
+  "summary": "Holistic implementation of \"migration zero\" pattern for Django covering local changes and in-production database adjustments.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_migration_zero-2.3.10.tar.gz",
+  "download_time": "2025-10-01T07:48:51.165517",
+  "package_url": "https://pypi.org/project/django-migration-zero/"
+}

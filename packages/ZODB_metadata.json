@@ -1,0 +1,11 @@
+{
+  "name": "ZODB",
+  "version": "6.1",
+  "summary": "ZODB, a Python object-oriented database",
+  "author": "Jim Fulton",
+  "license": "ZPL-2.1",
+  "home_page": "http://zodb-docs.readthedocs.io",
+  "download_filename": "zodb-6.1.tar.gz",
+  "download_time": "2025-10-01T07:49:11.378533",
+  "package_url": "https://pypi.org/project/ZODB/"
+}
