@@ -1,0 +1,11 @@
+{
+  "name": "dataguild-snowflake-connector",
+  "version": "1.0.3",
+  "summary": "Enterprise-grade Snowflake metadata ingestion connector for DataGuild platform",
+  "author": "DataGuild Engineering Team",
+  "license": null,
+  "home_page": "https://github.com/dataguild/snowflake-connector",
+  "download_filename": "dataguild_snowflake_connector-1.0.3.tar.gz",
+  "download_time": "2025-10-01T03:32:02.448276",
+  "package_url": "https://pypi.org/project/dataguild-snowflake-connector/"
+}

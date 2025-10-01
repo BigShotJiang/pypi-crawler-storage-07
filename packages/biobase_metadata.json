@@ -1,0 +1,11 @@
+{
+  "name": "biobase",
+  "version": "0.9.0",
+  "summary": "A comprehensive package of biological constants, serving as a foundational resource for biology and bioinformatics, complemented by functions to streamline related tasks.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "biobase-0.9.0.tar.gz",
+  "download_time": "2025-10-01T03:32:37.326456",
+  "package_url": "https://pypi.org/project/biobase/"
+}

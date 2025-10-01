@@ -1,0 +1,11 @@
+{
+  "name": "episcope",
+  "version": "0.3.3",
+  "summary": "A visualization tool for 4D genomics datasets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "episcope-0.3.3.tar.gz",
+  "download_time": "2025-10-01T03:32:12.616432",
+  "package_url": "https://pypi.org/project/episcope/"
+}

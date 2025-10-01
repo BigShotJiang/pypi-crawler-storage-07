@@ -1,11 +1,11 @@
 {
   "name": "heysol-api-client",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "summary": "A comprehensive Python client for the HeySol API with MCP protocol support, built by Dexter Hadley, MD/PhD",
   "author": "Dexter Hadley, MD/PhD",
   "license": "MIT",
   "home_page": "https://github.com/HadleyLab/heysol-api-client",
-  "download_filename": "heysol_api_client-1.2.1.tar.gz",
-  "download_time": "2025-09-28T05:47:50.976960",
+  "download_filename": "heysol_api_client-1.3.0.tar.gz",
+  "download_time": "2025-10-01T03:32:25.922466",
   "package_url": "https://pypi.org/project/heysol-api-client/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "wingwalker",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "summary": "Wingwalker Airfoil and Wing Design Tools'",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wingwalker-0.9.0.tar.gz",
-  "download_time": "2025-09-27T21:24:12.058654",
+  "download_filename": "wingwalker-1.0.0.tar.gz",
+  "download_time": "2025-10-01T03:31:55.918772",
   "package_url": "https://pypi.org/project/wingwalker/"
 }

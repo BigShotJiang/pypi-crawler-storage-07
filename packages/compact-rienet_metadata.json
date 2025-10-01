@@ -1,11 +1,11 @@
 {
   "name": "compact-rienet",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "A Compact Recurrent-Invariant Eigenvalue Network for Portfolio Optimization",
   "author": "Christian Bongiorno",
   "license": "MIT",
   "home_page": "https://github.com/bongiornoc/Compact-RIEnet",
-  "download_filename": "compact_rienet-1.0.6.tar.gz",
-  "download_time": "2025-09-30T13:52:37.113912",
+  "download_filename": "compact_rienet-1.0.7.tar.gz",
+  "download_time": "2025-10-01T03:32:00.135681",
   "package_url": "https://pypi.org/project/compact-rienet/"
 }

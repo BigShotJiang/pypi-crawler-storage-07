@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-edi-project-oca",
+  "version": "17.0.1.0.0.10",
+  "summary": "Define EDI Configuration for Projects and Tasks",
+  "author": "Camptocamp,Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/edi-framework",
+  "download_filename": "odoo_addon_edi_project_oca-17.0.1.0.0.10-py3-none-any.whl",
+  "download_time": "2025-10-01T03:32:26.953433",
+  "package_url": "https://pypi.org/project/odoo-addon-edi-project-oca/"
+}

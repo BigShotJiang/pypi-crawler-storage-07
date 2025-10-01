@@ -1,0 +1,11 @@
+{
+  "name": "ipds",
+  "version": "1.0.1",
+  "summary": "IP Describe Library - Comprehensive IP information lookup tool",
+  "author": "Juan Lee",
+  "license": "MIT",
+  "home_page": "https://github.com/sigmd-com/ipds-py",
+  "download_filename": "ipds-1.0.1.tar.gz",
+  "download_time": "2025-10-01T03:32:03.553080",
+  "package_url": "https://pypi.org/project/ipds/"
+}

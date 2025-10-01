@@ -1,0 +1,11 @@
+{
+  "name": "litmus-rm",
+  "version": "0.9.0",
+  "summary": "JAX-based lag recovery for AGN reverberation mapping",
+  "author": "Hugh McDougall",
+  "license": null,
+  "home_page": null,
+  "download_filename": "litmus_rm-0.9.0.tar.gz",
+  "download_time": "2025-10-01T03:32:24.319763",
+  "package_url": "https://pypi.org/project/litmus-rm/"
+}

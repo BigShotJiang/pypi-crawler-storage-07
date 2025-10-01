@@ -1,0 +1,11 @@
+{
+  "name": "types-psutil",
+  "version": "7.0.0.20251001",
+  "summary": "Typing stubs for psutil",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_psutil-7.0.0.20251001.tar.gz",
+  "download_time": "2025-10-01T03:32:17.356095",
+  "package_url": "https://pypi.org/project/types-psutil/"
+}

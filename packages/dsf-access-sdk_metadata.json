@@ -1,11 +1,11 @@
 {
   "name": "dsf-access-sdk",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "SDK for DSF Access Control API",
   "author": "Jaime Alexander Jimenez",
   "license": null,
   "home_page": "https://github.com/jaimeajl/dsf-access-sdk",
-  "download_filename": "dsf-access-sdk-1.0.4.tar.gz",
-  "download_time": "2025-10-01T02:29:56.039009",
+  "download_filename": "dsf_access_sdk-1.0.5.tar.gz",
+  "download_time": "2025-10-01T03:32:36.803695",
   "package_url": "https://pypi.org/project/dsf-access-sdk/"
 }

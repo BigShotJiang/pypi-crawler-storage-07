@@ -1,0 +1,11 @@
+{
+  "name": "memg-core",
+  "version": "0.7.5",
+  "summary": "Lightweight memory system for AI agents with vector search and graph storage",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "memg_core-0.7.5.tar.gz",
+  "download_time": "2025-10-01T03:32:28.003902",
+  "package_url": "https://pypi.org/project/memg-core/"
+}
