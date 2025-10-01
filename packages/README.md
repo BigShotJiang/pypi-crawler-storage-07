@@ -1,11 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-01T09:26:21.757295
+- **Download Time**: 2025-10-01T09:33:43.370191
 - **Total Packages**: 84
-- **Total Size**: 22.61 MB
+- **Total Size**: 13.26 MB
 
 ## Packages List
+- spcm-core
+- singbox2proxy
+- fourdigits-cli
+- ayikla
+- httpx-sap-launchpad
+- tmsgpack
+- lmitf
+- yirgacheffe
+- baremetalml
+- pedpol
+- codemie-mcp-datasources
+- aligned
+- codemie-mcp-assistants
+- gladiaio-sdk
+- pyshipproto
+- h0rn3t-sp1d3r
+- authentik-client
+- maleo-google
+- c2cgeoportal-admin
+- c2cgeoportal-geoportal
+- c2cgeoportal-commons
+- machineconfig
 - openplx-bundles
 - dinotool
 - dsp-tools
@@ -15,7 +37,6 @@
 - scc-firewall-manager-sdk
 - Vease-Viewer
 - vease-back
-- maleo-google
 - alita-sdk
 - tclaude
 - pandahub
@@ -45,7 +66,6 @@
 - fastpluggy-memory-analyzer
 - dingo-gw
 - docling-core
-- authentik-client
 - rosys
 - craft-ai-sdk
 - maleo-database
@@ -70,23 +90,3 @@
 - res-wind-up
 - maleo-infra
 - fast-backend-builder
-- kiclearance
-- ut-arr
-- apache-airflow-providers-fab
-- apache-airflow-providers-amazon
-- pythesint
-- tuneapi
-- nebius
-- ut-dic
-- codemie-tools
-- sigmaeval-framework
-- easyfea
-- maleo-schemas
-- m61
-- legit-api-client
-- opswork
-- logly
-- bool-hybrid-array
-- pytilpack
-- GiorgisPackage1234
-- bmsdna-lakeapi

@@ -1,0 +1,11 @@
+{
+  "name": "singbox2proxy",
+  "version": "0.1.9",
+  "summary": "🐳 Use sing-box proxies (VLESS, VMess, Trojan, Shadowsocks, Hysteria, Hysteria2, TUIC, WireGuard, SSH) with chaining support in python web clients.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "singbox2proxy-0.1.9.tar.gz",
+  "download_time": "2025-10-01T09:32:57.165545",
+  "package_url": "https://pypi.org/project/singbox2proxy/"
+}

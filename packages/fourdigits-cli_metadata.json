@@ -1,0 +1,11 @@
+{
+  "name": "fourdigits-cli",
+  "version": "1.28.0",
+  "summary": "FourDigits CLI tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fourdigits_cli-1.28.0.tar.gz",
+  "download_time": "2025-10-01T09:32:57.717818",
+  "package_url": "https://pypi.org/project/fourdigits-cli/"
+}

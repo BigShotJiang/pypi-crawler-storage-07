@@ -1,0 +1,11 @@
+{
+  "name": "baremetalml",
+  "version": "1.0.0",
+  "summary": "Lightweight modular ML library from scratch in Python",
+  "author": "Askari Abidi",
+  "license": "MIT",
+  "home_page": "https://github.com/AskariAbidi18/ML_from_Scratch",
+  "download_filename": "baremetalml-1.0.0.tar.gz",
+  "download_time": "2025-10-01T09:33:00.838787",
+  "package_url": "https://pypi.org/project/baremetalml/"
+}
