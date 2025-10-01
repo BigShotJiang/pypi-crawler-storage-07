@@ -1,0 +1,11 @@
+{
+  "name": "distributed-observability-tools",
+  "version": "0.1.1",
+  "summary": "Comprehensive observability tools for distributed systems - tracing, correlation, and metrics",
+  "author": "Tushar Khanka",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "distributed_observability_tools-0.1.1.tar.gz",
+  "download_time": "2025-10-01T06:56:00.917455",
+  "package_url": "https://pypi.org/project/distributed-observability-tools/"
+}

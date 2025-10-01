@@ -1,11 +1,11 @@
 {
   "name": "resilience_h8",
-  "version": "0.1.7",
+  "version": "0.2.0",
   "summary": "Resilience patterns library (async) with circuit breaker, bulkhead, retry, and timeout patterns",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "resilience_h8-0.1.7.tar.gz",
-  "download_time": "2025-10-01T06:16:55.406942",
+  "download_filename": "resilience_h8-0.2.0.tar.gz",
+  "download_time": "2025-10-01T06:56:10.627285",
   "package_url": "https://pypi.org/project/resilience_h8/"
 }

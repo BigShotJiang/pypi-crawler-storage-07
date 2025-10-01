@@ -1,0 +1,11 @@
+{
+  "name": "cynthion",
+  "version": "0.2.4",
+  "summary": "Python package and utilities for the Great Scott Gadgets Cynthion USB Test Instrument",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "cynthion-0.2.4.tar.gz",
+  "download_time": "2025-10-01T06:56:05.217385",
+  "package_url": "https://pypi.org/project/cynthion/"
+}

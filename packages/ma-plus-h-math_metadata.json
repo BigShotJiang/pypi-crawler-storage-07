@@ -1,0 +1,11 @@
+{
+  "name": "ma-plus-h-math",
+  "version": "0.1.1",
+  "summary": "meth - A simple Python library for mathematical functions",
+  "author": "jhon",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/ma-plus-h",
+  "download_filename": "ma_plus_h_math-0.1.1.tar.gz",
+  "download_time": "2025-10-01T06:55:54.996519",
+  "package_url": "https://pypi.org/project/ma-plus-h-math/"
+}

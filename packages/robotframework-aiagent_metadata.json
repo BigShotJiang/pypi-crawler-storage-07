@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-aiagent",
+  "version": "0.0.1",
+  "summary": "A Robot Framework library for AI agents",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "robotframework_aiagent-0.0.1.tar.gz",
+  "download_time": "2025-10-01T06:56:18.708065",
+  "package_url": "https://pypi.org/project/robotframework-aiagent/"
+}
