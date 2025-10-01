@@ -1,0 +1,11 @@
+{
+  "name": "philologic",
+  "version": "5.1.0.1",
+  "summary": "A concordance search engine for TEI-XML",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "philologic-5.1.0.1.tar.gz",
+  "download_time": "2025-10-01T17:40:44.502016",
+  "package_url": "https://pypi.org/project/philologic/"
+}

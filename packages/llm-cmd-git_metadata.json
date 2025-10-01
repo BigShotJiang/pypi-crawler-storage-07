@@ -1,11 +1,11 @@
 {
   "name": "llm-cmd-git",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "LLM plugin to enhance Git experience",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llm_cmd_git-0.1.4.tar.gz",
-  "download_time": "2025-10-01T14:34:39.331152",
+  "download_filename": "llm_cmd_git-0.1.5.tar.gz",
+  "download_time": "2025-10-01T17:40:46.254210",
   "package_url": "https://pypi.org/project/llm-cmd-git/"
 }

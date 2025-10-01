@@ -1,0 +1,11 @@
+{
+  "name": "djaodjin-signup",
+  "version": "0.10.2",
+  "summary": "Django app for user authentication",
+  "author": null,
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "djaodjin_signup-0.10.2.tar.gz",
+  "download_time": "2025-10-01T17:40:43.338232",
+  "package_url": "https://pypi.org/project/djaodjin-signup/"
+}
