@@ -1,11 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-01T23:35:05.903729
-- **Total Packages**: 88
-- **Total Size**: 4.66 MB
+- **Download Time**: 2025-10-01T23:50:27.513394
+- **Total Packages**: 90
+- **Total Size**: 4.15 MB
 
 ## Packages List
+- ocp-gordon
+- splunk-soar-sdk
+- arize
+- stablepy
+- remnawave
+- pyeztrace
+- narada-pyodide
+- UW-RestClients-MSCA
+- triton-runner
+- tf-shell
+- boxTestpy
+- cjm-fasthtml-sysmon
+- pulumi-provider-boilerplate
+- rslearn
+- meta-edc
+- autoclustal
+- google-genai
+- optycode-sdk
+- authentik-client
+- ssh-key-mgr
+- aiophyn
+- yt-dlp
 - mat3ra-standata
 - nv-ingest
 - nv-ingest-client
@@ -17,14 +39,12 @@
 - dextop
 - vectorshift
 - rainbows
-- pulumi-provider-boilerplate
 - yumako
 - clinicedc
 - fastapi-structured-logging
 - redisvl
 - pulumi-xyz
 - picca
-- authentik-client
 - nubrain
 - opencua
 - eclipse-nn
@@ -76,21 +96,3 @@
 - aurora-dsql-django
 - iDEA-mod-inversions
 - content-types
-- morphcloud
-- signia
-- ben-test-package
-- c2cgeoportal-admin
-- c2cgeoportal-geoportal
-- unbabelizer
-- c2cgeoportal-commons
-- plom
-- simple-exr
-- amigo_sdk
-- agent-memory-client
-- arqio-pycatastro
-- forgebase
-- specifyx
-- orionis
-- compel
-- xurls
-- omnimancer-cli

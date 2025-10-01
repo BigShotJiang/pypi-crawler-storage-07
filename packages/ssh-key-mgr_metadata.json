@@ -1,0 +1,11 @@
+{
+  "name": "ssh-key-mgr",
+  "version": "0.1.2",
+  "summary": "Manager of SSH Keys",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ssh_key_mgr-0.1.2.tar.gz",
+  "download_time": "2025-10-01T23:49:49.866222",
+  "package_url": "https://pypi.org/project/ssh-key-mgr/"
+}
