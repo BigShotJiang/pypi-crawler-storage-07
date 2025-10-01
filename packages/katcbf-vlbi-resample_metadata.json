@@ -1,0 +1,11 @@
+{
+  "name": "katcbf-vlbi-resample",
+  "version": "0.2",
+  "summary": "Proof-of-concept of resampling tied-array-channelised-voltages for VLBI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "katcbf_vlbi_resample-0.2.tar.gz",
+  "download_time": "2025-10-01T07:13:12.416202",
+  "package_url": "https://pypi.org/project/katcbf-vlbi-resample/"
+}

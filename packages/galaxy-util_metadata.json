@@ -1,0 +1,11 @@
+{
+  "name": "galaxy-util",
+  "version": "25.0.3",
+  "summary": "Galaxy generic utilities",
+  "author": "Galaxy Project and Community",
+  "license": "AFL",
+  "home_page": "https://github.com/galaxyproject/galaxy",
+  "download_filename": "galaxy_util-25.0.3.tar.gz",
+  "download_time": "2025-10-01T07:13:05.226068",
+  "package_url": "https://pypi.org/project/galaxy-util/"
+}
