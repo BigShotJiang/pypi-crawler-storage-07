@@ -1,0 +1,11 @@
+{
+  "name": "Openfisca-Paris",
+  "version": "5.5.13",
+  "summary": "Plugin OpenFisca pour les aides sociales de la mairie de Paris",
+  "author": "OpenFisca Team",
+  "license": "http://www.fsf.org/licensing/licenses/agpl-3.0.html",
+  "home_page": null,
+  "download_filename": "openfisca_paris-5.5.13.tar.gz",
+  "download_time": "2025-10-01T09:49:50.523545",
+  "package_url": "https://pypi.org/project/Openfisca-Paris/"
+}

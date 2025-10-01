@@ -1,11 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-01T09:33:43.370191
+- **Download Time**: 2025-10-01T09:50:33.864899
 - **Total Packages**: 84
-- **Total Size**: 13.26 MB
+- **Total Size**: 28.11 MB
 
 ## Packages List
+- chipfoundry-cli
+- scc-firewall-manager-sdk
+- prowler-cloud
+- c2cwsgiutils
+- c2cciutils
+- prowler
+- ibm-platform-services
+- neo4j-rust-ext
+- greedy-ancestral-search
+- unique_follow_up_questions
+- pysp-xcw
+- python-uuidv47
+- ironflock
+- asimov-gwdata
+- loudstream
+- fmu-sumo
+- Openfisca-Paris
+- mockingbird-cli
+- ub-grader
+- trn
+- jupyter-package-manager
+- anhaltai-gbif-downloader
+- ethspecify
+- fastpluggy-memory-analyzer
+- OpenFisca-France-Local
+- calibsunapi
+- incredible-python
+- tweeterpy
+- lazy-ecs
+- gemini-all-for-one
+- goodmap
+- authentik-client
+- glycowork
+- specifyplus
+- forgeschema
+- kisa-utils
+- fast-python-events
+- unique_toolkit
+- machineconfig
 - spcm-core
 - singbox2proxy
 - fourdigits-cli
@@ -22,19 +61,15 @@
 - gladiaio-sdk
 - pyshipproto
 - h0rn3t-sp1d3r
-- authentik-client
 - maleo-google
 - c2cgeoportal-admin
 - c2cgeoportal-geoportal
 - c2cgeoportal-commons
-- machineconfig
 - openplx-bundles
 - dinotool
 - dsp-tools
 - jaxl-python
-- unique_toolkit
 - omniopt2
-- scc-firewall-manager-sdk
 - Vease-Viewer
 - vease-back
 - alita-sdk
@@ -55,38 +90,3 @@
 - sweatstack
 - ramodels
 - rns-status-page
-- clear-skies
-- odoo-addon-product-logistics-uom-net-weight
-- pytest-qaseio
-- phase-cli
-- pupyC3D
-- bee-taxonomy
-- gurobi-optimods
-- hepai
-- fastpluggy-memory-analyzer
-- dingo-gw
-- docling-core
-- rosys
-- craft-ai-sdk
-- maleo-database
-- pasarguard-node-bridge
-- otlmow-modelbuilder
-- version_builder
-- copul
-- whl-deploy
-- tachyon-platform
-- nldcsc
-- ncatbot
-- autogluon
-- autogluon.timeseries
-- autogluon.multimodal
-- autogluon.tabular
-- autogluon.features
-- autogluon.core
-- autogluon.common
-- basalam.backbone-orm
-- haystack-test-package
-- PyLOpt
-- res-wind-up
-- maleo-infra
-- fast-backend-builder
