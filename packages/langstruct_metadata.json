@@ -1,11 +1,11 @@
 {
   "name": "langstruct",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "LLM-powered structured information extraction using DSPy optimization",
   "author": "LangStruct Team",
   "license": null,
   "home_page": null,
-  "download_filename": "langstruct-0.1.3.tar.gz",
-  "download_time": "2025-10-01T03:55:35.848072",
+  "download_filename": "langstruct-0.1.4.tar.gz",
+  "download_time": "2025-10-01T16:39:35.280100",
   "package_url": "https://pypi.org/project/langstruct/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "remote-debug",
+  "version": "0.1.0",
+  "summary": "A helper tool for remote debugging on HPC clusters.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "remote_debug-0.1.0.tar.gz",
+  "download_time": "2025-10-01T16:39:24.568485",
+  "package_url": "https://pypi.org/project/remote-debug/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "arnhem",
+  "version": "1.0.0",
+  "summary": "Asynchronous Python client providing Open Data information of Arnhem",
+  "author": "Klaas Schoute",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arnhem-1.0.0.tar.gz",
+  "download_time": "2025-10-01T16:39:22.680520",
+  "package_url": "https://pypi.org/project/arnhem/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kurv",
+  "version": "1.2",
+  "summary": "Kurv programming language in Python",
+  "author": "Kurv",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kurv-1.2.tar.gz",
+  "download_time": "2025-10-01T16:39:20.953753",
+  "package_url": "https://pypi.org/project/kurv/"
+}

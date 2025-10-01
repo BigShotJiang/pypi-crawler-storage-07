@@ -1,0 +1,11 @@
+{
+  "name": "keri",
+  "version": "1.3.2",
+  "summary": "Key Event Receipt Infrastructure",
+  "author": "Samuel M. Smith",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/WebOfTrust/keripy",
+  "download_filename": "keri-1.3.2.tar.gz",
+  "download_time": "2025-10-01T16:39:15.059607",
+  "package_url": "https://pypi.org/project/keri/"
+}

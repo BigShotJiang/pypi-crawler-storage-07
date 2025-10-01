@@ -1,11 +1,11 @@
 {
   "name": "pyfv",
-  "version": "0.0.0a2",
+  "version": "0.0.0a5",
   "summary": "PyFV: modern Python port of FV for FITS image/table viewing and analysis",
   "author": "Pan Chai",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "pyfv-0.0.0a2.tar.gz",
-  "download_time": "2025-10-01T16:14:25.104343",
+  "download_filename": "pyfv-0.0.0a5.tar.gz",
+  "download_time": "2025-10-01T16:39:23.994805",
   "package_url": "https://pypi.org/project/pyfv/"
 }
