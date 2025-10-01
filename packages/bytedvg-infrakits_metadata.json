@@ -1,0 +1,11 @@
+{
+  "name": "bytedvg-infrakits",
+  "version": "0.0.1",
+  "summary": "This is a reserved placeholder package to mitigate dependency confusion risks.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://code.byted.org/infra/bytedvg_infrakits",
+  "download_filename": "bytedvg_infrakits-0.0.1.tar.gz",
+  "download_time": "2025-10-01T02:30:27.941639",
+  "package_url": "https://pypi.org/project/bytedvg-infrakits/"
+}

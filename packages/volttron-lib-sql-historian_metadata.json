@@ -1,0 +1,11 @@
+{
+  "name": "volttron-lib-sql-historian",
+  "version": "2.0.0rc1",
+  "summary": "A library for supporting sql based historians.",
+  "author": "VOLTTRON Team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/eclipse-volttron/volttron-lib-sql-historian",
+  "download_filename": "volttron_lib_sql_historian-2.0.0rc1.tar.gz",
+  "download_time": "2025-10-01T02:30:00.497130",
+  "package_url": "https://pypi.org/project/volttron-lib-sql-historian/"
+}

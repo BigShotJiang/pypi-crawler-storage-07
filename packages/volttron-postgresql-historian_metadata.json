@@ -1,0 +1,11 @@
+{
+  "name": "volttron-postgresql-historian",
+  "version": "2.0.0rc1",
+  "summary": "VOLTTRON historian agent that stores data in a PostgreSQL database. It extends the SQLHistorian class.",
+  "author": "VOLTTRON Team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/eclipse-volttron/volttron-postgresql-historian",
+  "download_filename": "volttron_postgresql_historian-2.0.0rc1.tar.gz",
+  "download_time": "2025-10-01T02:29:47.006009",
+  "package_url": "https://pypi.org/project/volttron-postgresql-historian/"
+}

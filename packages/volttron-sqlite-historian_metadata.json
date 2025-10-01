@@ -1,0 +1,11 @@
+{
+  "name": "volttron-sqlite-historian",
+  "version": "2.0.0rc1",
+  "summary": "VOLTTRON historian that store data in sqlite3 database",
+  "author": "VOLTTRON Team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/VOLTTRON/volttron-sqlite-historian",
+  "download_filename": "volttron_sqlite_historian-2.0.0rc1.tar.gz",
+  "download_time": "2025-10-01T02:29:49.568298",
+  "package_url": "https://pypi.org/project/volttron-sqlite-historian/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "grades",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Gradient-based Early Stopping for Efficient Fine-tuning",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/IXZZZ9/GradES",
-  "download_filename": "grades-1.0.5.tar.gz",
-  "download_time": "2025-09-28T08:32:30.722577",
+  "download_filename": "grades-1.0.6.tar.gz",
+  "download_time": "2025-10-01T02:30:19.499466",
   "package_url": "https://pypi.org/project/grades/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "i2",
-  "version": "0.1.50",
+  "version": "0.1.51",
   "summary": "The middleware toolbox",
   "author": null,
   "license": "Apache Software License",
   "home_page": "https://github.com/i2mint/i2",
-  "download_filename": "i2-0.1.50.tar.gz",
-  "download_time": "2025-09-29T17:47:51.346978",
+  "download_filename": "i2-0.1.51.tar.gz",
+  "download_time": "2025-10-01T02:30:32.938908",
   "package_url": "https://pypi.org/project/i2/"
 }

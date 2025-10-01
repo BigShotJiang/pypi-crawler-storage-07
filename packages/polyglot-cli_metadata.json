@@ -1,0 +1,11 @@
+{
+  "name": "polyglot-cli",
+  "version": "0.1.0",
+  "summary": "AI-powered code translator using Claude Sonnet 4.5's extended thinking",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "polyglot_cli-0.1.0.tar.gz",
+  "download_time": "2025-10-01T02:29:58.248072",
+  "package_url": "https://pypi.org/project/polyglot-cli/"
+}
