@@ -1,0 +1,11 @@
+{
+  "name": "three-x-pay-sdk",
+  "version": "1.1.1",
+  "summary": "Python SDK for 3X PAY API",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/enveloss/3x-pay-sdk",
+  "download_filename": "three_x_pay_sdk-1.1.1.tar.gz",
+  "download_time": "2025-10-01T08:39:55.282070",
+  "package_url": "https://pypi.org/project/three-x-pay-sdk/"
+}

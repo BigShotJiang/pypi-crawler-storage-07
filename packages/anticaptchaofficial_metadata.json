@@ -1,0 +1,11 @@
+{
+  "name": "anticaptchaofficial",
+  "version": "1.0.68",
+  "summary": "Official anti-captcha.com library",
+  "author": "Anti Admin",
+  "license": "MIT",
+  "home_page": "https://github.com/anti-captcha/anticaptcha-python",
+  "download_filename": "anticaptchaofficial-1.0.68-py3-none-any.whl",
+  "download_time": "2025-10-01T08:40:07.518110",
+  "package_url": "https://pypi.org/project/anticaptchaofficial/"
+}

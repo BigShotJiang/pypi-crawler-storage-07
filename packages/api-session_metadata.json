@@ -1,0 +1,11 @@
+{
+  "name": "api-session",
+  "version": "1.5.2",
+  "summary": "requests.Session to work with JSON APIs",
+  "author": "Baptiste Fontaine",
+  "license": "MIT",
+  "home_page": "https://github.com/Bixoto/api-session",
+  "download_filename": "api_session-1.5.2.tar.gz",
+  "download_time": "2025-10-01T08:40:09.588990",
+  "package_url": "https://pypi.org/project/api-session/"
+}

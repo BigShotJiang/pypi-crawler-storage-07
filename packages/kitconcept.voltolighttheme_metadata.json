@@ -1,11 +1,11 @@
 {
   "name": "kitconcept.voltolighttheme",
-  "version": "7.1.0",
+  "version": "7.2.0",
   "summary": "Plone package providing features for @kitconcept/volto-light-theme",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kitconcept_voltolighttheme-7.1.0.tar.gz",
-  "download_time": "2025-09-29T11:09:25.012223",
+  "download_filename": "kitconcept_voltolighttheme-7.2.0.tar.gz",
+  "download_time": "2025-10-01T08:40:06.992726",
   "package_url": "https://pypi.org/project/kitconcept.voltolighttheme/"
 }
