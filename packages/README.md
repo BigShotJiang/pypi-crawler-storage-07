@@ -1,11 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-01T03:56:03.943661
+- **Download Time**: 2025-10-01T04:14:33.258055
 - **Total Packages**: 83
-- **Total Size**: 32.04 MB
+- **Total Size**: 14.1 MB
 
 ## Packages List
+- pipen-cli-gbatch
+- fog-of-world-data-parser
+- azulero
+- authentik-client
+- gaitsetpy
+- conversion
+- tirex-mirror
+- autogit
+- nexaai
+- cdktf-cdktf-provider-pagerduty
+- upgrade-py-direct-reqs
+- TracChecklist
+- chromedriver-binary
+- yta-numpy-resizer
+- devstack-cli
+- bizyengine
+- keras-nightly
+- pydantic-rpc
+- ai-lls-lib
+- compact-rienet
+- openinference-instrumentation-openai
+- openinference-instrumentation-bedrock
+- jupygrader
+- hud-python
+- pyxDamerauLevenshtein
 - pulumi-aiven
 - braintrust-langchain
 - promptantic
@@ -38,7 +63,6 @@
 - sycommon-python-lib
 - langstruct
 - hardware-benchmark
-- authentik-client
 - gllm-agents-binary
 - prime
 - akari-bot-webui
@@ -55,7 +79,6 @@
 - libdyson-rest
 - django-dynamic-workflows
 - pina-mathlab
-- compact-rienet
 - process-gpt-agent-utils
 - keywordsai
 - ic-code
@@ -66,26 +89,3 @@
 - odoo-addon-mgmtsystem-nonconformity
 - chain-compose
 - pynhl
-- evmspec
-- fred-oss
-- jupyterlab-cpg-portal
-- odoo-addon-l10n-es-aeat-sii-oca
-- aiq-platform-api
-- sportsball
-- pwnkit
-- lumibot
-- episcope
-- odoo14-addon-ssi-sale
-- forecasting-tools
-- jbag
-- pyautd3
-- types-gunicorn
-- odoo14-addon-ssi-l10n-id-taxform-faktur-pajak
-- types-tensorflow
-- types-networkx
-- types-psutil
-- types-pyserial
-- types-PySocks
-- types-grpcio
-- gitopenlib
-- ob-metaflow

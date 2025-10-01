@@ -1,0 +1,11 @@
+{
+  "name": "pyxDamerauLevenshtein",
+  "version": "1.9.0",
+  "summary": "pyxDamerauLevenshtein implements the Damerau-Levenshtein (DL) edit distance algorithm for Python in Cython for high performance.",
+  "author": "Geoffrey Fairchild",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/lanl/pyxDamerauLevenshtein",
+  "download_filename": "pyxDamerauLevenshtein-1.9.0.tar.gz",
+  "download_time": "2025-10-01T04:14:02.514861",
+  "package_url": "https://pypi.org/project/pyxDamerauLevenshtein/"
+}

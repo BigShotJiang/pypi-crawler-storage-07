@@ -1,11 +1,11 @@
 {
   "name": "cdktf-cdktf-provider-pagerduty",
-  "version": "14.2.4",
+  "version": "14.3.0",
   "summary": "Prebuilt pagerduty Provider for Terraform CDK (cdktf)",
   "author": "HashiCorp",
   "license": "MPL-2.0",
   "home_page": "https://github.com/cdktf/cdktf-provider-pagerduty.git",
-  "download_filename": "cdktf_cdktf_provider_pagerduty-14.2.4.tar.gz",
-  "download_time": "2025-09-27T04:32:46.774411",
+  "download_filename": "cdktf_cdktf_provider_pagerduty-14.3.0.tar.gz",
+  "download_time": "2025-10-01T04:13:53.641892",
   "package_url": "https://pypi.org/project/cdktf-cdktf-provider-pagerduty/"
 }

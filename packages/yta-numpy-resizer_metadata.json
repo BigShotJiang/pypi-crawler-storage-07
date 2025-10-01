@@ -1,11 +1,11 @@
 {
   "name": "yta-numpy-resizer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Youtube Autonomous Numpy Resizer Module",
   "author": "danialcala94",
   "license": null,
   "home_page": null,
-  "download_filename": "yta_numpy_resizer-0.0.2.tar.gz",
-  "download_time": "2025-09-30T15:13:27.912328",
+  "download_filename": "yta_numpy_resizer-0.0.3.tar.gz",
+  "download_time": "2025-10-01T04:13:55.736399",
   "package_url": "https://pypi.org/project/yta-numpy-resizer/"
 }
