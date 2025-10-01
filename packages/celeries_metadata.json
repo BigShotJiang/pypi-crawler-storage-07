@@ -1,11 +1,11 @@
 {
   "name": "celeries",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Celestial mechanics series",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "celeries-0.1.3.tar.gz",
-  "download_time": "2025-10-01T15:31:25.732655",
+  "download_filename": "celeries-0.1.4.tar.gz",
+  "download_time": "2025-10-01T15:43:35.334361",
   "package_url": "https://pypi.org/project/celeries/"
 }

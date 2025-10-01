@@ -1,11 +1,11 @@
 {
   "name": "flake8-only-english",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Flake8 plugin to detect non-English comments and string literals",
   "author": "AlgorithmAlchemy",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "flake8_only_english-0.3.1.tar.gz",
-  "download_time": "2025-09-30T00:46:34.538858",
+  "download_filename": "flake8_only_english-0.3.2.tar.gz",
+  "download_time": "2025-10-01T15:43:44.679308",
   "package_url": "https://pypi.org/project/flake8-only-english/"
 }

@@ -1,11 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-01T15:31:46.471939
-- **Total Packages**: 91
-- **Total Size**: 31.09 MB
+- **Download Time**: 2025-10-01T15:44:06.865872
+- **Total Packages**: 87
+- **Total Size**: 10.14 MB
 
 ## Packages List
+- expyfun
+- haliosai
+- pycti
+- robyn-rate-limits
+- codemie-sdk-python
+- nonebot-plugin-mcmotd
+- unidecode-pyo3
+- fastquadtree
+- web3-wizzard-lib
+- rer.voltoplugin.search
+- unique_deep_research
+- tufteplotlib
+- libreflow.extensions.runner.krita
+- onpy
+- mkfst
+- ckanext-dcor-schemas
+- seperno
+- udata-hydra
+- standard-agent
+- sybil-engine
+- typst-pagemaker
+- urless
+- stock-mcp-server
+- netbox-scion
+- giskard-hub
+- pandasai
+- truelink
+- authentik-client
+- pynudger
+- LightGBMModelOptimizer
+- supernet-duo
+- celeries
+- elastic-pipes
+- bohr-atom
+- pyegeria
+- navel
+- bohr-library
+- atomic-term-symbol-calculator
+- truss
+- q2gui
+- zacrostools
+- tokenvault
+- Pegamoid
+- osc-sdk-python
+- obx
+- orq-ai-sdk
+- flake8-only-english
+- emiproc
+- syft-job
+- DIRAC
+- DIRACCommon
+- sdfr
 - aait
 - liturgical-calendar
 - aminodorks.py
@@ -26,15 +78,12 @@
 - lionagi
 - pyinfra
 - ontbo
-- authentik-client
 - efoli
 - byu_pytest_utils
 - langgraph-api
 - universalinit
 - toolos
-- truss
 - af-lab
-- obx
 - jentic
 - one4all-iop-models
 - gs-quant
@@ -44,56 +93,3 @@
 - invenio-app-rdm
 - ix-notifiers
 - qoery
-- mawk
-- openlineage-sql
-- openlineage-python
-- openlineage-integration-common
-- openlineage-dbt
-- openlineage-dagster
-- pagerduty
-- openlineage-airflow
-- odoo-addon-fieldservice-agreement
-- langchain-openai
-- RockyRoad
-- justllms
-- dataguild-snowflake-connector
-- napari
-- celeries
-- dexray-intercept
-- fraggle
-- mmar-ptag
-- syft-job
-- hume
-- tidy3d
-- opik-optimizer
-- ocf-data-sampler
-- nemo-curator
-- km3det
-- screenoverlay
-- typos
-- text-info
-- QuickConn
-- pingintel-api
-- python-docx-huge-tree
-- py-slurmtop
-- bedrock-agentcore-starter-toolkit
-- arthur-client
-- scaleway
-- mas-devops
-- keyvalues3
-- physicsbox
-- formatting-library
-- libpyvivotek
-- pdschema
-- scaleway-async
-- pyremotenode
-- meteoplots
-- evedesign
-- gpustack-runtime
-- pyfv
-- imgquad
-- beeai-framework
-- stock-mcp-server
-- composo
-- praasper
-- odoo-addon-fieldservice-sale-recurring-agreement

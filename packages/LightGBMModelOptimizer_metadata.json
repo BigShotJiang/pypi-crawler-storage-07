@@ -1,0 +1,11 @@
+{
+  "name": "LightGBMModelOptimizer",
+  "version": "0.0.7",
+  "summary": "Trained Lightgbm Model Optimizer. Reduce size and improve inference time of the trained lightgbm model",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lightgbmmodeloptimizer-0.0.7.tar.gz",
+  "download_time": "2025-10-01T15:43:34.240142",
+  "package_url": "https://pypi.org/project/LightGBMModelOptimizer/"
+}

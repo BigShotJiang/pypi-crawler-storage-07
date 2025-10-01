@@ -1,0 +1,11 @@
+{
+  "name": "Pegamoid",
+  "version": "2.12.4",
+  "summary": "Orbital viewer for OpenMolcas",
+  "author": "Ignacio Fdez. Galván",
+  "license": "GPL v3.0",
+  "home_page": "https://gitlab.com/Jellby/Pegamoid",
+  "download_filename": "Pegamoid-2.12.4.tar.gz",
+  "download_time": "2025-10-01T15:43:42.496919",
+  "package_url": "https://pypi.org/project/Pegamoid/"
+}

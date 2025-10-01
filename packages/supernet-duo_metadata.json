@@ -1,11 +1,11 @@
 {
   "name": "supernet-duo",
-  "version": "0.1.6",
-  "summary": "Supernet_Duo: A extremley quick and simple neural network classifier now with option to return class or percent sure of that class.",
+  "version": "0.1.7",
+  "summary": "Supernet_Duo: A extremley quick and simple neural network classifier, and prediction model now with option to return class or percent sure of that class when using the classifier.",
   "author": null,
   "license": "MIT License\r\n        ",
   "home_page": null,
-  "download_filename": "supernet_duo-0.1.6-py3-none-any.whl",
-  "download_time": "2025-09-30T02:13:23.110237",
+  "download_filename": "supernet_duo-0.1.7-py3-none-any.whl",
+  "download_time": "2025-10-01T15:43:34.795983",
   "package_url": "https://pypi.org/project/supernet-duo/"
 }

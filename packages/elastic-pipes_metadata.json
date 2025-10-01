@@ -1,0 +1,11 @@
+{
+  "name": "elastic-pipes",
+  "version": "0.7.0",
+  "summary": "A lightweight composition system",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "elastic_pipes-0.7.0.tar.gz",
+  "download_time": "2025-10-01T15:43:35.891526",
+  "package_url": "https://pypi.org/project/elastic-pipes/"
+}
