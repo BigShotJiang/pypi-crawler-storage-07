@@ -1,11 +1,11 @@
 {
   "name": "earthkit-data",
-  "version": "0.16.7",
+  "version": "0.17.0",
   "summary": "A format-agnostic Python interface for geospatial data",
   "author": null,
   "license": "Apache License Version 2.0",
   "home_page": null,
-  "download_filename": "earthkit_data-0.16.7.tar.gz",
-  "download_time": "2025-10-01T17:11:05.643934",
+  "download_filename": "earthkit_data-0.17.0.tar.gz",
+  "download_time": "2025-10-01T17:32:19.112450",
   "package_url": "https://pypi.org/project/earthkit-data/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "utils-mystuff-windows",
+  "version": "1.0.0",
+  "summary": "Package with various utilities depending on windows platform i. e. windows handling",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "utils_mystuff_windows-1.0.0.tar.gz",
+  "download_time": "2025-10-01T17:32:11.645988",
+  "package_url": "https://pypi.org/project/utils-mystuff-windows/"
+}

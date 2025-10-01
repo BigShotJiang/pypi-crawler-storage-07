@@ -1,11 +1,11 @@
 {
   "name": "opensearch-protobufs",
-  "version": "0.19.0",
+  "version": "0.20.0",
   "summary": null,
   "author": "OpenSearch Team",
   "license": "Apache-2.0",
   "home_page": "https://opensearch.org/",
-  "download_filename": "opensearch_protobufs-0.19.0-py3-none-any.whl",
-  "download_time": "2025-09-29T20:12:12.338839",
+  "download_filename": "opensearch_protobufs-0.20.0-py3-none-any.whl",
+  "download_time": "2025-10-01T17:31:44.760580",
   "package_url": "https://pypi.org/project/opensearch-protobufs/"
 }

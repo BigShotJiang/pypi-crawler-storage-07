@@ -1,0 +1,11 @@
+{
+  "name": "sinapsis-rf-trackers",
+  "version": "0.1.1",
+  "summary": "Multi-object tracking templates using SORT and DeepSORT algorithms",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sinapsis_rf_trackers-0.1.1.tar.gz",
+  "download_time": "2025-10-01T17:31:41.276500",
+  "package_url": "https://pypi.org/project/sinapsis-rf-trackers/"
+}
