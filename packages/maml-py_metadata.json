@@ -1,0 +1,11 @@
+{
+  "name": "maml-py",
+  "version": "0.1.1",
+  "summary": "A pure Python parser for MAML (Minimal Abstract Markup Language)",
+  "author": "Mathew Duggan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "maml_py-0.1.1.tar.gz",
+  "download_time": "2025-10-01T13:08:28.090477",
+  "package_url": "https://pypi.org/project/maml-py/"
+}

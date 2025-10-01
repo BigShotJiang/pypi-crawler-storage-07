@@ -1,11 +1,11 @@
 {
   "name": "sirtep",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Tiny library for construction scheduling based on spatial data with additional attributes.",
   "author": "Leon",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "sirtep-0.2.0.tar.gz",
-  "download_time": "2025-09-30T13:40:00.825958",
+  "download_filename": "sirtep-0.2.1.tar.gz",
+  "download_time": "2025-10-01T13:09:01.951201",
   "package_url": "https://pypi.org/project/sirtep/"
 }

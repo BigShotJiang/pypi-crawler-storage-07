@@ -1,11 +1,11 @@
 {
   "name": "pyportainer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Asynchronous Python client for the Portainer API",
   "author": "Erwin Douna",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyportainer-1.0.1.tar.gz",
-  "download_time": "2025-09-26T20:11:33.597766",
+  "download_filename": "pyportainer-1.0.2.tar.gz",
+  "download_time": "2025-10-01T13:08:48.502622",
   "package_url": "https://pypi.org/project/pyportainer/"
 }

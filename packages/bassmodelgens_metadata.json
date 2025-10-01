@@ -1,0 +1,11 @@
+{
+  "name": "bassmodelgens",
+  "version": "0.1.1",
+  "summary": "A package containing functions to simulate and fit the Bass diffusion model with generations (1987)",
+  "author": "Lewis Mitchell",
+  "license": "MIT",
+  "home_page": "https://github.com/lewismath/bassmodel",
+  "download_filename": "bassmodelgens-0.1.1.tar.gz",
+  "download_time": "2025-10-01T13:08:59.396548",
+  "package_url": "https://pypi.org/project/bassmodelgens/"
+}

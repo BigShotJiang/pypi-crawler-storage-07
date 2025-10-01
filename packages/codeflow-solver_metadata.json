@@ -1,11 +1,11 @@
 {
   "name": "codeflow-solver",
-  "version": "1.0.0",
-  "summary": "A tool that finds the minimum number of code fixes needed to eliminate vulnerabilities from SARIF output",
+  "version": "1.0",
+  "summary": "Find the minimum number of code fixes to eliminate all vulnerabilities from SARIF scan results using mathematical optimization",
   "author": "Amine Boudraa, Gianfranco Romani, Yassine Ilmi",
   "license": null,
   "home_page": null,
-  "download_filename": "codeflow_solver-1.0.0.tar.gz",
-  "download_time": "2025-10-01T12:22:10.018419",
+  "download_filename": "codeflow_solver-1.0.tar.gz",
+  "download_time": "2025-10-01T13:08:47.866157",
   "package_url": "https://pypi.org/project/codeflow-solver/"
 }

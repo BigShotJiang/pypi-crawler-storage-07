@@ -1,0 +1,11 @@
+{
+  "name": "jwt-auth-module",
+  "version": "0.1.1",
+  "summary": "JWT authentication library for Python",
+  "author": "CubedM",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jwt_auth_module-0.1.1.tar.gz",
+  "download_time": "2025-10-01T13:08:50.500970",
+  "package_url": "https://pypi.org/project/jwt-auth-module/"
+}

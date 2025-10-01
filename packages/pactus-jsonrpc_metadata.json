@@ -1,0 +1,11 @@
+{
+  "name": "pactus-jsonrpc",
+  "version": "1.9.3",
+  "summary": "Python client for interacting with the Pactus blockchain via JSON-RPC",
+  "author": "Pactus Development Team",
+  "license": "MIT",
+  "home_page": "https://pactus.org",
+  "download_filename": "pactus_jsonrpc-1.9.3.tar.gz",
+  "download_time": "2025-10-01T13:09:09.157676",
+  "package_url": "https://pypi.org/project/pactus-jsonrpc/"
+}

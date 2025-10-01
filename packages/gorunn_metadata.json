@@ -1,11 +1,11 @@
 {
   "name": "gorunn",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "CLI tool for managing local environments",
   "author": null,
   "license": "Apache Software License",
   "home_page": null,
-  "download_filename": "gorunn-0.1.3.tar.gz",
-  "download_time": "2025-09-30T09:48:43.117781",
+  "download_filename": "gorunn-0.1.5.tar.gz",
+  "download_time": "2025-10-01T13:08:53.056667",
   "package_url": "https://pypi.org/project/gorunn/"
 }

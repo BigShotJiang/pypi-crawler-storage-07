@@ -1,0 +1,11 @@
+{
+  "name": "irontec-livekit-plugins",
+  "version": "0.1.2",
+  "summary": "Custom Livekit Agents plugins for STT and TTS services",
+  "author": "Irontec S.L.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/your-org/livekit-plugins",
+  "download_filename": "irontec_livekit_plugins-0.1.2.tar.gz",
+  "download_time": "2025-10-01T13:08:26.171757",
+  "package_url": "https://pypi.org/project/irontec-livekit-plugins/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kiwi-pdf-chunker",
+  "version": "0.3.0",
+  "summary": "A tool for parsing PDF document layouts and chunking content",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kiwi_pdf_chunker-0.3.0.tar.gz",
+  "download_time": "2025-10-01T13:08:42.733608",
+  "package_url": "https://pypi.org/project/kiwi-pdf-chunker/"
+}

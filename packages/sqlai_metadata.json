@@ -1,0 +1,11 @@
+{
+  "name": "sqlai",
+  "version": "0.1.4",
+  "summary": "A command-line tool for SQL AI queries",
+  "author": "Alexander Brück",
+  "license": "MIT",
+  "home_page": "https://github.com/alexanderbrueck/sqlai",
+  "download_filename": "sqlai-0.1.4.tar.gz",
+  "download_time": "2025-10-01T13:08:15.995438",
+  "package_url": "https://pypi.org/project/sqlai/"
+}
