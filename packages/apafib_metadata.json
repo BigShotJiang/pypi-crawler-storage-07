@@ -1,0 +1,11 @@
+{
+  "name": "apafib",
+  "version": "0.2.14",
+  "summary": "Utilities for FIB GEI APA course",
+  "author": "Javier Bejar",
+  "license": null,
+  "home_page": "https://github.com/bejar/apafib",
+  "download_filename": "apafib-0.2.14.tar.gz",
+  "download_time": "2025-10-01T10:35:24.939649",
+  "package_url": "https://pypi.org/project/apafib/"
+}

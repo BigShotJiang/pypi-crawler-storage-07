@@ -1,0 +1,11 @@
+{
+  "name": "realtimex-browser-use",
+  "version": "0.7.9",
+  "summary": "Make websites accessible for AI agents (RealTimeX fork of browser-use)",
+  "author": "Gregor Zunic, RealTimeX",
+  "license": null,
+  "home_page": null,
+  "download_filename": "realtimex_browser_use-0.7.9.tar.gz",
+  "download_time": "2025-10-01T10:35:51.275787",
+  "package_url": "https://pypi.org/project/realtimex-browser-use/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-energy-communities-api",
+  "version": "16.0.0.4.1",
+  "summary": "API/REST endpoints for energy communities",
+  "author": "Coopdevs Treball SCCL & Som Energia SCCL & SomIT",
+  "license": "AGPL-3",
+  "home_page": "https://git.coopdevs.org/coopdevs/comunitats-energetiques/odoo-ce",
+  "download_filename": "odoo_addon_energy_communities_api-16.0.0.4.1.tar.gz",
+  "download_time": "2025-10-01T10:35:37.696413",
+  "package_url": "https://pypi.org/project/odoo-addon-energy-communities-api/"
+}

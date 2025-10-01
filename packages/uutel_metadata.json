@@ -1,11 +1,11 @@
 {
   "name": "uutel",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "summary": "Universal AI Provider for LiteLLM with CLI interface - extends LiteLLM with Claude Code, Gemini CLI, Google Cloud Code, and OpenAI Codex providers for unified LLM inferencing and command-line completions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "uutel-1.0.6.tar.gz",
-  "download_time": "2025-09-30T19:34:02.010643",
+  "download_filename": "uutel-1.0.8.tar.gz",
+  "download_time": "2025-10-01T10:35:36.069030",
   "package_url": "https://pypi.org/project/uutel/"
 }

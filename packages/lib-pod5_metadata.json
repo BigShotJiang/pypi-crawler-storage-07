@@ -1,0 +1,11 @@
+{
+  "name": "lib-pod5",
+  "version": "0.3.34",
+  "summary": "Python bindings for the POD5 file format",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lib_pod5-0.3.34-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-10-01T10:35:50.226303",
+  "package_url": "https://pypi.org/project/lib-pod5/"
+}

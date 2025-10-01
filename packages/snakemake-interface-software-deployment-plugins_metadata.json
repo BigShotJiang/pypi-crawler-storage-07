@@ -1,0 +1,11 @@
+{
+  "name": "snakemake-interface-software-deployment-plugins",
+  "version": "0.9.0",
+  "summary": "This package provides a stable interface for interactions between Snakemake and its software deployment plugins.",
+  "author": "Johannes Köster",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "snakemake_interface_software_deployment_plugins-0.9.0.tar.gz",
+  "download_time": "2025-10-01T10:36:03.954379",
+  "package_url": "https://pypi.org/project/snakemake-interface-software-deployment-plugins/"
+}
