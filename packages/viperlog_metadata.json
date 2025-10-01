@@ -1,11 +1,11 @@
 {
   "name": "viperlog",
-  "version": "0.2.86",
+  "version": "0.2.89",
   "summary": "ViperLog core logging package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "viperlog-0.2.86.tar.gz",
-  "download_time": "2025-10-01T11:27:00.082144",
+  "download_filename": "viperlog-0.2.89.tar.gz",
+  "download_time": "2025-10-01T14:12:56.249030",
   "package_url": "https://pypi.org/project/viperlog/"
 }

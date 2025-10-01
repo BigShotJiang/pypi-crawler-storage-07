@@ -1,11 +1,11 @@
 {
   "name": "viperlog-http-plugin",
-  "version": "0.2.86",
+  "version": "0.2.89",
   "summary": "Console handler for ViperLog",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "viperlog_http_plugin-0.2.86.tar.gz",
-  "download_time": "2025-10-01T11:26:58.791454",
+  "download_filename": "viperlog_http_plugin-0.2.89.tar.gz",
+  "download_time": "2025-10-01T14:12:54.958455",
   "package_url": "https://pypi.org/project/viperlog-http-plugin/"
 }

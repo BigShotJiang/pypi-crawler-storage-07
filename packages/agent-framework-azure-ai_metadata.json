@@ -1,11 +1,11 @@
 {
   "name": "agent-framework-azure-ai",
-  "version": "0.0.0a1",
-  "summary": "Microsoft Agent Framework Azure AI.",
+  "version": "1.0.0b251001",
+  "summary": "Azure AI Foundry integration for Microsoft Agent Framework.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agent_framework_azure_ai-0.0.0a1.tar.gz",
-  "download_time": "2025-09-30T00:46:40.289317",
+  "download_filename": "agent_framework_azure_ai-1.0.0b251001.tar.gz",
+  "download_time": "2025-10-01T14:12:43.771900",
   "package_url": "https://pypi.org/project/agent-framework-azure-ai/"
 }

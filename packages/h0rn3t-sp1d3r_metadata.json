@@ -1,11 +1,11 @@
 {
   "name": "h0rn3t-sp1d3r",
-  "version": "0.1.0",
-  "summary": "WP CMS Backdoors scanner module",
-  "author": null,
+  "version": "1.0.0",
+  "summary": "A short description of your module",
+  "author": "h0rn3t_sp1d3r",
   "license": null,
-  "home_page": null,
-  "download_filename": "h0rn3t_sp1d3r-0.1.0.tar.gz",
-  "download_time": "2025-10-01T09:33:05.005574",
+  "home_page": "https://github.com/H0rn3t-Sp1d3rs",
+  "download_filename": "h0rn3t_sp1d3r-1.0.0.tar.gz",
+  "download_time": "2025-10-01T14:13:04.856243",
   "package_url": "https://pypi.org/project/h0rn3t-sp1d3r/"
 }

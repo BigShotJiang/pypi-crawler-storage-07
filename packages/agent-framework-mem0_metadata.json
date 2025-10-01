@@ -1,11 +1,11 @@
 {
   "name": "agent-framework-mem0",
-  "version": "0.0.0a1",
-  "summary": "Microsoft Agent Framework Mem0.",
+  "version": "1.0.0b251001",
+  "summary": "Mem0 integration for Microsoft Agent Framework.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agent_framework_mem0-0.0.0a1.tar.gz",
-  "download_time": "2025-09-30T00:46:39.245820",
+  "download_filename": "agent_framework_mem0-1.0.0b251001.tar.gz",
+  "download_time": "2025-10-01T14:12:43.128081",
   "package_url": "https://pypi.org/project/agent-framework-mem0/"
 }

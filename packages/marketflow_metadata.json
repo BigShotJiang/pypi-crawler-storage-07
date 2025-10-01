@@ -1,11 +1,11 @@
 {
   "name": "marketflow",
-  "version": "1.1.8",
+  "version": "1.1.81",
   "summary": "Access to African, American, European and Asian market data for financial analysis, scientific study and to provide a decision-making basis to investors.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "marketflow-1.1.8.tar.gz",
-  "download_time": "2025-10-01T13:51:52.144220",
+  "download_filename": "marketflow-1.1.81.tar.gz",
+  "download_time": "2025-10-01T14:12:49.661021",
   "package_url": "https://pypi.org/project/marketflow/"
 }

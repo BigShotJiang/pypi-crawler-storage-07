@@ -1,0 +1,11 @@
+{
+  "name": "NIDRA",
+  "version": "0.1.0",
+  "summary": "A tool for scoring sleep data from PSG and forehead EEG recordings.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nidra-0.1.0.tar.gz",
+  "download_time": "2025-10-01T14:12:39.228377",
+  "package_url": "https://pypi.org/project/NIDRA/"
+}

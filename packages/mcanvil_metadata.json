@@ -1,11 +1,11 @@
 {
   "name": "mcanvil",
-  "version": "0.9.4.3",
+  "version": "0.9.4.4",
   "summary": "A Minecraft bedrock content development framework.",
   "author": "Yasser A. Benfoughal",
   "license": "GNU GPLv3",
   "home_page": "https://anvil.starktma.net/",
-  "download_filename": "mcanvil-0.9.4.3.tar.gz",
-  "download_time": "2025-10-01T13:52:08.002787",
+  "download_filename": "mcanvil-0.9.4.4.tar.gz",
+  "download_time": "2025-10-01T14:12:15.978648",
   "package_url": "https://pypi.org/project/mcanvil/"
 }
