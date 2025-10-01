@@ -1,0 +1,11 @@
+{
+  "name": "cloudquery-plugin-sdk",
+  "version": "0.1.48",
+  "summary": "CloudQuery Plugin SDK for Python",
+  "author": "CloudQuery LTD",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/cloudquery/plugin-sdk-python",
+  "download_filename": "cloudquery_plugin_sdk-0.1.48.tar.gz",
+  "download_time": "2025-10-01T10:12:59.495316",
+  "package_url": "https://pypi.org/project/cloudquery-plugin-sdk/"
+}

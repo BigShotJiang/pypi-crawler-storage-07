@@ -1,0 +1,11 @@
+{
+  "name": "etos-lib",
+  "version": "5.1.4",
+  "summary": "ETOS Library",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "etos_lib-5.1.4.tar.gz",
+  "download_time": "2025-10-01T10:13:13.671119",
+  "package_url": "https://pypi.org/project/etos-lib/"
+}

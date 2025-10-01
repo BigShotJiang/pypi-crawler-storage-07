@@ -1,22 +1,70 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-01T09:50:33.864899
-- **Total Packages**: 84
-- **Total Size**: 28.11 MB
+- **Download Time**: 2025-10-01T10:13:52.161542
+- **Total Packages**: 88
+- **Total Size**: 35.37 MB
 
 ## Packages List
+- aiqtoolkit-weave
+- cloudquery-plugin-sdk
+- fastapi-radar
+- aiqtoolkit-mem0ai
+- apideck-unify
+- aiqtoolkit-test
+- cloudquery-plugin-pb
+- bertrend
+- aiqtoolkit-llama-index
+- session-mgmt-mcp
+- aiqtoolkit
+- pyshipproto
+- blackbear_media_scoring
+- aiqtoolkit-langchain
+- majorgroove
+- costmodels
+- aiqtoolkit-crewai
+- aiqtoolkit-zep-cloud
+- lsrestclient
+- vease-back
+- aiqtoolkit-agno
+- tdi-rust-python-tools
+- c2cciutils
+- oc-logging
+- etos-lib
+- kmerexplor
+- OpenGeodeWeb-Back
+- boreflow
+- douyin-mcp-server
+- debiai-gui
+- sagemaker-local
+- recce
+- pysp-xcw
+- az-iranian-bank-gateways
+- debiai-data-provider
+- Orange3-MLflow-Export
+- ub-grader
+- ssb-dash-framework
+- PHITS-Tools
+- undine
+- phrase-api
+- canvas
+- pybotchi
+- csnlp
 - chipfoundry-cli
+- unimi-crop-sensing
+- authentik-client
+- arvasit-auth-sdk
+- crackerjack
+- protein-quest
+- cpforager
 - scc-firewall-manager-sdk
 - prowler-cloud
 - c2cwsgiutils
-- c2cciutils
 - prowler
 - ibm-platform-services
 - neo4j-rust-ext
 - greedy-ancestral-search
 - unique_follow_up_questions
-- pysp-xcw
 - python-uuidv47
 - ironflock
 - asimov-gwdata
@@ -24,7 +72,6 @@
 - fmu-sumo
 - Openfisca-Paris
 - mockingbird-cli
-- ub-grader
 - trn
 - jupyter-package-manager
 - anhaltai-gbif-downloader
@@ -37,7 +84,6 @@
 - lazy-ecs
 - gemini-all-for-one
 - goodmap
-- authentik-client
 - glycowork
 - specifyplus
 - forgeschema
@@ -48,45 +94,3 @@
 - spcm-core
 - singbox2proxy
 - fourdigits-cli
-- ayikla
-- httpx-sap-launchpad
-- tmsgpack
-- lmitf
-- yirgacheffe
-- baremetalml
-- pedpol
-- codemie-mcp-datasources
-- aligned
-- codemie-mcp-assistants
-- gladiaio-sdk
-- pyshipproto
-- h0rn3t-sp1d3r
-- maleo-google
-- c2cgeoportal-admin
-- c2cgeoportal-geoportal
-- c2cgeoportal-commons
-- openplx-bundles
-- dinotool
-- dsp-tools
-- jaxl-python
-- omniopt2
-- Vease-Viewer
-- vease-back
-- alita-sdk
-- tclaude
-- pandahub
-- invenio-jobs
-- lgtm-ai
-- friendly-module-not-found-error
-- lite-logging-client
-- OpenGeodeWeb-Back
-- maleo-metadata
-- tbp-nightly
-- OpenGeodeWeb-Viewer
-- reykit
-- reydb
-- codemie-sdk-python
-- amplify-bbopt
-- sweatstack
-- ramodels
-- rns-status-page

@@ -1,0 +1,11 @@
+{
+  "name": "sagemaker-local",
+  "version": "0.3.0",
+  "summary": "Some dependencies for running sagemaker local.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sagemaker_local-0.3.0.tar.gz",
+  "download_time": "2025-10-01T10:13:17.615199",
+  "package_url": "https://pypi.org/project/sagemaker-local/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyshipproto",
-  "version": "2.6.0",
+  "version": "2.6.1",
   "summary": "PyShipProto Package",
   "author": "PyShipProto",
   "license": null,
   "home_page": "https://github.com/shipthisco/gRPC-protobuf",
-  "download_filename": "pyshipproto-2.6.0.tar.gz",
-  "download_time": "2025-10-01T09:33:04.442172",
+  "download_filename": "pyshipproto-2.6.1.tar.gz",
+  "download_time": "2025-10-01T10:13:05.442201",
   "package_url": "https://pypi.org/project/pyshipproto/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cpforager",
+  "version": "1.2.0",
+  "summary": "Python package to handle data gathered from biologgers (GPS, TDR, AXY) attached to central-place foraging seabirds. The idea is to make movement ecology data a bit easier to process.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cpforager-1.2.0-py3-none-any.whl",
+  "download_time": "2025-10-01T10:13:29.928804",
+  "package_url": "https://pypi.org/project/cpforager/"
+}
