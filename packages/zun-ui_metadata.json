@@ -1,0 +1,11 @@
+{
+  "name": "zun-ui",
+  "version": "16.0.0",
+  "summary": "Zun User Interface",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/zun-ui/latest/",
+  "download_filename": "zun_ui-16.0.0.tar.gz",
+  "download_time": "2025-10-01T10:50:26.029384",
+  "package_url": "https://pypi.org/project/zun-ui/"
+}

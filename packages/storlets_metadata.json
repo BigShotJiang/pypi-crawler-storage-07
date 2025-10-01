@@ -1,0 +1,11 @@
+{
+  "name": "storlets",
+  "version": "16.0.0",
+  "summary": "Middleware and Compute Engine for an OpenStack Swift compute framework that runs compute within a Swift cluster",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/storlets/latest/",
+  "download_filename": "storlets-16.0.0.tar.gz",
+  "download_time": "2025-10-01T10:50:14.431429",
+  "package_url": "https://pypi.org/project/storlets/"
+}

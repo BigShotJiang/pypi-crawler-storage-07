@@ -1,0 +1,11 @@
+{
+  "name": "octavia-dashboard",
+  "version": "16.0.0",
+  "summary": "Horizon panels for Octavia",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/octavia-dashboard/latest/",
+  "download_filename": "octavia_dashboard-16.0.0.tar.gz",
+  "download_time": "2025-10-01T10:50:07.876070",
+  "package_url": "https://pypi.org/project/octavia-dashboard/"
+}

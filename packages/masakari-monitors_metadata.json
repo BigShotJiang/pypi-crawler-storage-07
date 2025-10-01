@@ -1,0 +1,11 @@
+{
+  "name": "masakari-monitors",
+  "version": "20.0.0",
+  "summary": "Monitors for Masakari",
+  "author": "OpenStack",
+  "license": "Apache-2.0",
+  "home_page": "https://docs.openstack.org/masakari-monitors/latest/",
+  "download_filename": "masakari_monitors-20.0.0.tar.gz",
+  "download_time": "2025-10-01T10:50:35.515848",
+  "package_url": "https://pypi.org/project/masakari-monitors/"
+}

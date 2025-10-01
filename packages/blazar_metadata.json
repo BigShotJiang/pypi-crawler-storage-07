@@ -1,0 +1,11 @@
+{
+  "name": "blazar",
+  "version": "16.0.0",
+  "summary": "Reservation Service for OpenStack clouds",
+  "author": "OpenStack",
+  "license": "Apache Software License",
+  "home_page": "https://docs.openstack.org/blazar/latest/",
+  "download_filename": "blazar-16.0.0.tar.gz",
+  "download_time": "2025-10-01T10:50:48.525425",
+  "package_url": "https://pypi.org/project/blazar/"
+}

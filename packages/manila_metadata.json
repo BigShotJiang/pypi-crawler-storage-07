@@ -1,0 +1,11 @@
+{
+  "name": "manila",
+  "version": "21.0.0",
+  "summary": "Shared Storage for OpenStack",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/manila/latest/",
+  "download_filename": "manila-21.0.0.tar.gz",
+  "download_time": "2025-10-01T10:50:21.386328",
+  "package_url": "https://pypi.org/project/manila/"
+}

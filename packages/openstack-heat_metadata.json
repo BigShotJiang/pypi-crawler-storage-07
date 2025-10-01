@@ -1,0 +1,11 @@
+{
+  "name": "openstack-heat",
+  "version": "25.0.0",
+  "summary": "OpenStack Orchestration",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/heat/latest/",
+  "download_filename": "openstack_heat-25.0.0.tar.gz",
+  "download_time": "2025-10-01T10:50:39.696147",
+  "package_url": "https://pypi.org/project/openstack-heat/"
+}

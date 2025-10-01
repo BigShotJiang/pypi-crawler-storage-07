@@ -1,0 +1,11 @@
+{
+  "name": "openstack-venus",
+  "version": "7.0.0",
+  "summary": "OpenStack Log Management as a Service",
+  "author": "Brin Zhang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openstack_venus-7.0.0.tar.gz",
+  "download_time": "2025-10-01T10:50:11.194456",
+  "package_url": "https://pypi.org/project/openstack-venus/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pcf-config",
+  "version": "1.0.0",
+  "summary": "A simple YAML configuration management library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pcf_config-1.0.0.tar.gz",
+  "download_time": "2025-10-01T10:50:46.968674",
+  "package_url": "https://pypi.org/project/pcf-config/"
+}

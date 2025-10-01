@@ -1,0 +1,11 @@
+{
+  "name": "venus-dashboard",
+  "version": "7.0.0",
+  "summary": "Venus Horizon plugin",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/venus-dashboard/latest/",
+  "download_filename": "venus_dashboard-7.0.0.tar.gz",
+  "download_time": "2025-10-01T10:50:18.188853",
+  "package_url": "https://pypi.org/project/venus-dashboard/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vitrage-dashboard",
+  "version": "9.0.0",
+  "summary": "Vitrage Horizon plugin",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/vitrage-dashboard/latest/",
+  "download_filename": "vitrage_dashboard-9.0.0.tar.gz",
+  "download_time": "2025-10-01T10:50:16.591233",
+  "package_url": "https://pypi.org/project/vitrage-dashboard/"
+}

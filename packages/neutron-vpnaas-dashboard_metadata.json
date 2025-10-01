@@ -1,0 +1,11 @@
+{
+  "name": "neutron-vpnaas-dashboard",
+  "version": "13.0.0",
+  "summary": "Neutron VPNaaS Dashboard",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/neutron-vpnaas-dashboard/latest/",
+  "download_filename": "neutron_vpnaas_dashboard-13.0.0.tar.gz",
+  "download_time": "2025-10-01T10:50:06.579477",
+  "package_url": "https://pypi.org/project/neutron-vpnaas-dashboard/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "networking-sfc",
+  "version": "21.0.0",
+  "summary": "APIs and implementations to support Service Function Chaining in Neutron.",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/networking-sfc/latest/",
+  "download_filename": "networking_sfc-21.0.0.tar.gz",
+  "download_time": "2025-10-01T10:50:11.715038",
+  "package_url": "https://pypi.org/project/networking-sfc/"
+}

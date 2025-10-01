@@ -1,0 +1,11 @@
+{
+  "name": "freezer",
+  "version": "17.0.0",
+  "summary": "The OpenStack Backup and Restore as a Service Platform",
+  "author": "OpenStack",
+  "license": "Apache-2.0",
+  "home_page": "https://docs.openstack.org/freezer/latest/",
+  "download_filename": "freezer-17.0.0-py3-none-any.whl",
+  "download_time": "2025-10-01T10:50:20.839419",
+  "package_url": "https://pypi.org/project/freezer/"
+}

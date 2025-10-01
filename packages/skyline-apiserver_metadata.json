@@ -1,0 +1,11 @@
+{
+  "name": "skyline-apiserver",
+  "version": "7.0.0",
+  "summary": "OpenStack Skyline APIServer",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/skyline-apiserver/latest/",
+  "download_filename": "skyline_apiserver-7.0.0.tar.gz",
+  "download_time": "2025-10-01T10:50:07.343567",
+  "package_url": "https://pypi.org/project/skyline-apiserver/"
+}

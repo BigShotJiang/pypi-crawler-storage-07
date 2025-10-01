@@ -1,0 +1,11 @@
+{
+  "name": "adjutant-ui",
+  "version": "11.0.0",
+  "summary": "Adjutant User Interface",
+  "author": "Adrian Turjak",
+  "license": null,
+  "home_page": "https://github.com/catalyst/adjutant-ui",
+  "download_filename": "adjutant_ui-11.0.0.tar.gz",
+  "download_time": "2025-10-01T10:50:34.983851",
+  "package_url": "https://pypi.org/project/adjutant-ui/"
+}

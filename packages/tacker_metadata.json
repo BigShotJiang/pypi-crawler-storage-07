@@ -1,0 +1,11 @@
+{
+  "name": "tacker",
+  "version": "14.0.0",
+  "summary": "OpenStack NFV Orchestration",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/tacker/",
+  "download_filename": "tacker-14.0.0-py3-none-any.whl",
+  "download_time": "2025-10-01T10:50:06.046125",
+  "package_url": "https://pypi.org/project/tacker/"
+}

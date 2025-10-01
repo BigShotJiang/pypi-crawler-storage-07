@@ -1,0 +1,11 @@
+{
+  "name": "ansible-role-thales-hsm",
+  "version": "10.0.0",
+  "summary": "ansible-role-thales-hsm - Ansible role to configure nShileld Connect HSM clients.",
+  "author": "TripleO Team",
+  "license": null,
+  "home_page": "https://opendev.org/openstack/ansible-role-thales-hsm",
+  "download_filename": "ansible_role_thales_hsm-10.0.0-py2.py3-none-any.whl",
+  "download_time": "2025-10-01T10:50:29.175668",
+  "package_url": "https://pypi.org/project/ansible-role-thales-hsm/"
+}

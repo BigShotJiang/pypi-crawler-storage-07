@@ -1,0 +1,11 @@
+{
+  "name": "zun",
+  "version": "16.0.0",
+  "summary": "OpenStack Containers service",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/zun/latest/",
+  "download_filename": "zun-16.0.0.tar.gz",
+  "download_time": "2025-10-01T10:50:26.545373",
+  "package_url": "https://pypi.org/project/zun/"
+}

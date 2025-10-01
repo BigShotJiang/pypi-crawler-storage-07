@@ -1,0 +1,11 @@
+{
+  "name": "heat-dashboard",
+  "version": "14.0.0",
+  "summary": "Heat Management Dashboard",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/heat-dashboard/latest/",
+  "download_filename": "heat_dashboard-14.0.0.tar.gz",
+  "download_time": "2025-10-01T10:50:36.036596",
+  "package_url": "https://pypi.org/project/heat-dashboard/"
+}

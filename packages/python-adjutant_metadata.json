@@ -1,0 +1,11 @@
+{
+  "name": "python-adjutant",
+  "version": "11.0.0",
+  "summary": "An admin task workflow service for openstack.",
+  "author": "OpenStack",
+  "license": "Apache-2",
+  "home_page": "https://opendev.org/openstack/adjutant",
+  "download_filename": "python_adjutant-11.0.0.tar.gz",
+  "download_time": "2025-10-01T10:50:33.937809",
+  "package_url": "https://pypi.org/project/python-adjutant/"
+}

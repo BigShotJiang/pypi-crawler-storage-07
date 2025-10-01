@@ -1,0 +1,11 @@
+{
+  "name": "openstack-placement",
+  "version": "14.0.0",
+  "summary": "Resource provider inventory usage and allocation service",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/placement/latest/",
+  "download_filename": "openstack_placement-14.0.0.tar.gz",
+  "download_time": "2025-10-01T10:50:16.079440",
+  "package_url": "https://pypi.org/project/openstack-placement/"
+}

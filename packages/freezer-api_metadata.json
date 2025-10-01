@@ -1,0 +1,11 @@
+{
+  "name": "freezer-api",
+  "version": "17.0.0",
+  "summary": "OpenStack Backup and Restore API Service",
+  "author": "OpenStack",
+  "license": "Apache-2.0",
+  "home_page": "https://docs.openstack.org/freezer/latest/",
+  "download_filename": "freezer_api-17.0.0.tar.gz",
+  "download_time": "2025-10-01T10:50:24.486176",
+  "package_url": "https://pypi.org/project/freezer-api/"
+}

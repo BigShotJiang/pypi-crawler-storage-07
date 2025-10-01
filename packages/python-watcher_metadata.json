@@ -1,0 +1,11 @@
+{
+  "name": "python-watcher",
+  "version": "15.0.0",
+  "summary": "OpenStack Watcher provides a flexible and scalable resource optimization service for multi-tenant OpenStack-based clouds.",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/watcher/latest/",
+  "download_filename": "python_watcher-15.0.0.tar.gz",
+  "download_time": "2025-10-01T10:50:13.870859",
+  "package_url": "https://pypi.org/project/python-watcher/"
+}

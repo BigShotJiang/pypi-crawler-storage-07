@@ -1,0 +1,11 @@
+{
+  "name": "yoda-cli",
+  "version": "0.1.0",
+  "summary": "Offline codebase wisdom and seek tool powered by local LLMs",
+  "author": "Yoda CLI Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/yoda-cli",
+  "download_filename": "yoda_cli-0.1.0.tar.gz",
+  "download_time": "2025-10-01T10:50:49.569899",
+  "package_url": "https://pypi.org/project/yoda-cli/"
+}

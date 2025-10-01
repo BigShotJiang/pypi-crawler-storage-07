@@ -1,0 +1,11 @@
+{
+  "name": "designate",
+  "version": "21.0.0",
+  "summary": "DNS as a Service",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/designate/latest/",
+  "download_filename": "designate-21.0.0-py3-none-any.whl",
+  "download_time": "2025-10-01T10:50:25.516402",
+  "package_url": "https://pypi.org/project/designate/"
+}

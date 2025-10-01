@@ -1,0 +1,11 @@
+{
+  "name": "liquidcosmo",
+  "version": "0.1.4",
+  "summary": "Cosmological analyses made easy",
+  "author": "Nils Schöneberg",
+  "license": null,
+  "home_page": "https://github.com/schoeneberg/liquidcosmo/",
+  "download_filename": "liquidcosmo-0.1.4.tar.gz",
+  "download_time": "2025-10-01T10:50:38.146973",
+  "package_url": "https://pypi.org/project/liquidcosmo/"
+}

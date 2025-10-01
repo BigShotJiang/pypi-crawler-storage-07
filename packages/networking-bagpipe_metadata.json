@@ -1,0 +1,11 @@
+{
+  "name": "networking-bagpipe",
+  "version": "23.0.0",
+  "summary": "Mechanism driver for Neutron ML2 plugin using BGP E-VPNs/IP VPNs as a backend",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/networking-bagpipe/latest/",
+  "download_filename": "networking_bagpipe-23.0.0.tar.gz",
+  "download_time": "2025-10-01T10:50:19.773879",
+  "package_url": "https://pypi.org/project/networking-bagpipe/"
+}

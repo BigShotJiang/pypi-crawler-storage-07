@@ -1,0 +1,11 @@
+{
+  "name": "designate-dashboard",
+  "version": "21.0.0",
+  "summary": "Designate Horizon UI bits",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/designate-dashboard/latest/",
+  "download_filename": "designate_dashboard-21.0.0.tar.gz",
+  "download_time": "2025-10-01T10:50:40.717779",
+  "package_url": "https://pypi.org/project/designate-dashboard/"
+}

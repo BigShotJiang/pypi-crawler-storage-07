@@ -1,0 +1,11 @@
+{
+  "name": "watcher-dashboard",
+  "version": "14.0.0",
+  "summary": "Watcher Management Dashboard",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/watcher-dashboard/latest",
+  "download_filename": "watcher_dashboard-14.0.0.tar.gz",
+  "download_time": "2025-10-01T10:50:17.656445",
+  "package_url": "https://pypi.org/project/watcher-dashboard/"
+}
