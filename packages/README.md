@@ -1,18 +1,27 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-01T22:41:44.442683
-- **Total Packages**: 77
-- **Total Size**: 13.26 MB
+- **Download Time**: 2025-10-01T22:49:30.379612
+- **Total Packages**: 74
+- **Total Size**: 4.38 MB
 
 ## Packages List
+- codegraphcontext
+- braintrust-adk
+- legend-dataflow-scripts
+- vcp-cli
+- quant1x
+- agentmake
+- invocation-tree
+- fabric-user-data-functions
+- deriva-ml
+- orionis
 - bgen
 - moose-lib
 - segmentation-skeleton-metrics
 - gable
 - gehseeker
 - fiap-IA-SimpleModule
-- orionis
 - bettergit
 - memory-graph
 - mem8
@@ -70,16 +79,4 @@
 - tundra-cli
 - claude-mpm
 - website-build-tools
-- fabric-user-data-functions
 - xcode-mcp-server
-- rxfoundry.clients.swifty_api
-- rxfoundry.clients.swifty_oauth_api
-- glean-api-client
-- reflex-agent
-- railtracks-cli
-- railtracks
-- charmlibs-interfaces-tls-certificates
-- dv-pipecat-ai
-- runloop_api_client
-- sim-sci-test-monorepo-public-health
-- teds
