@@ -1,14 +1,22 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-01T20:14:43.269746
-- **Total Packages**: 95
-- **Total Size**: 41.39 MB
+- **Download Time**: 2025-10-01T20:33:52.061228
+- **Total Packages**: 92
+- **Total Size**: 13.59 MB
 
 ## Packages List
+- sbppypitestapp
+- policyengine-api-simulation-client
+- Ferrum
+- policyengine-api-full-client
+- sapiens-transformers
+- pipeline-eds
+- rfsyncer
+- plugantic
+- reward-hub
 - tagoio-sdk
 - fabric-user-data-functions
-- sapiens-transformers
 - amazon-kclpy
 - datachain
 - apache-tvm-ffi
@@ -28,14 +36,9 @@
 - sagemaker-studio-dataengineering-sessions
 - cz-benchmarks
 - navam
-- httpbenchw
-- dc43-integrations
 - agentx-dev
-- dc43-service-backends
 - njinja
 - dzbanek-langflow
-- dc43-service-clients
-- pipeline-eds
 - ctao-wms-clients
 - rms-oops
 - ccfx
@@ -95,9 +98,3 @@
 - large-image-source-multi
 - large-image-source-mapnik
 - large-image-source-gdal
-- large-image-source-dummy
-- py_simpledataflow
-- large-image-source-dicom
-- large-image-source-deepzoom
-- large-image-source-bioformats
-- slurm-script-generator

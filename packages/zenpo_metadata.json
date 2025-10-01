@@ -1,11 +1,11 @@
 {
   "name": "zenpo",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "summary": "A general control panel CLI tool",
   "author": "Zenpo",
   "license": null,
   "home_page": "https://github.com/ZC-RS/zenpo",
-  "download_filename": "zenpo-1.0.0.tar.gz",
-  "download_time": "2025-09-30T20:12:34.493841",
+  "download_filename": "zenpo-2.0.0.tar.gz",
+  "download_time": "2025-10-01T20:33:10.574798",
   "package_url": "https://pypi.org/project/zenpo/"
 }
