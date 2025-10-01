@@ -1,11 +1,11 @@
 {
   "name": "nitrodigest-cli",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "The privacy‑first, local‑LLM text‑summariser for developers.",
   "author": "Marcin Kwiatkowski",
   "license": null,
   "home_page": "https://github.com/Frodigo/garage/tree/main/Projects/Nitrodigest/Cli",
-  "download_filename": "nitrodigest_cli-0.2.0.tar.gz",
-  "download_time": "2025-09-29T06:50:13.939255",
+  "download_filename": "nitrodigest_cli-0.3.0.tar.gz",
+  "download_time": "2025-10-01T06:17:11.559540",
   "package_url": "https://pypi.org/project/nitrodigest-cli/"
 }

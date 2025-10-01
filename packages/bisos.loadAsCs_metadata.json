@@ -1,11 +1,11 @@
 {
   "name": "bisos.loadAsCs",
-  "version": "0.11",
+  "version": "0.12",
   "summary": "bisos.vagrantBaseBoxes: Facilities for Creating and Managing Vagrant Packer Base Boxes",
   "author": "Mohsen Banan",
   "license": "AGPL",
   "home_page": null,
-  "download_filename": "bisos_loadascs-0.11.tar.gz",
-  "download_time": "2025-09-29T04:13:23.973515",
+  "download_filename": "bisos_loadascs-0.12.tar.gz",
+  "download_time": "2025-10-01T06:16:52.255268",
   "package_url": "https://pypi.org/project/bisos.loadAsCs/"
 }
