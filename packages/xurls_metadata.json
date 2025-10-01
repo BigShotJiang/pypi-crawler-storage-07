@@ -1,0 +1,11 @@
+{
+  "name": "xurls",
+  "version": "1.4.1",
+  "summary": "Python URL Library",
+  "author": "Josh Orr",
+  "license": null,
+  "home_page": "https://github.com/joshorr/xurls",
+  "download_filename": "xurls-1.4.1.tar.gz",
+  "download_time": "2025-10-01T23:12:47.660715",
+  "package_url": "https://pypi.org/project/xurls/"
+}

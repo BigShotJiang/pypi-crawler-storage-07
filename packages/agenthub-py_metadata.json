@@ -1,0 +1,11 @@
+{
+  "name": "agenthub-py",
+  "version": "0.1.0",
+  "summary": "A framework for building and running AI agents",
+  "author": "Youssef Kallel",
+  "license": "MIT",
+  "home_page": "https://agenthublabs.com",
+  "download_filename": "agenthub_py-0.1.0.tar.gz",
+  "download_time": "2025-10-01T23:12:22.751502",
+  "package_url": "https://pypi.org/project/agenthub-py/"
+}

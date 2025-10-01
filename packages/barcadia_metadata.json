@@ -1,0 +1,11 @@
+{
+  "name": "barcadia",
+  "version": "3.3.0",
+  "summary": "A high-performance, memory-efficient toolkit for fast generation and validation of large-scale NGS barcodes",
+  "author": "Danting Jiang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "barcadia-3.3.0.tar.gz",
+  "download_time": "2025-10-01T23:12:19.143278",
+  "package_url": "https://pypi.org/project/barcadia/"
+}

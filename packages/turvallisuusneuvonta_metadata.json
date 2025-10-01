@@ -1,0 +1,11 @@
+{
+  "name": "turvallisuusneuvonta",
+  "version": "2025.10.2",
+  "summary": "Security advisory (Finnish: turvallisuusneuvonta) audit tool.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "turvallisuusneuvonta-2025.10.2.tar.gz",
+  "download_time": "2025-10-01T23:12:15.496876",
+  "package_url": "https://pypi.org/project/turvallisuusneuvonta/"
+}

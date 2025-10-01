@@ -1,0 +1,11 @@
+{
+  "name": "ppef",
+  "version": "1.0.2",
+  "summary": "Partitioned Elias-Fano encoding for sequences of nondecreasing integers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ppef-1.0.2.tar.gz",
+  "download_time": "2025-10-01T23:12:23.933935",
+  "package_url": "https://pypi.org/project/ppef/"
+}

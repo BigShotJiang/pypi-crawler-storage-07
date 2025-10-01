@@ -1,0 +1,11 @@
+{
+  "name": "decompyle3",
+  "version": "3.9.3",
+  "summary": "Python cross-version byte-code decompiler",
+  "author": "Rocky Bernstein, Hartmut Goebel, John Aycock, and others",
+  "license": "GPL3",
+  "home_page": "https://github.com/rocky/python-decompile3/",
+  "download_filename": "decompyle3-3.9.3.tar.gz",
+  "download_time": "2025-10-01T23:12:31.500090",
+  "package_url": "https://pypi.org/project/decompyle3/"
+}

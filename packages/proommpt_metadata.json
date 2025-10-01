@@ -1,0 +1,11 @@
+{
+  "name": "proommpt",
+  "version": "0.1.0",
+  "summary": "Object-oriented prompting for Python",
+  "author": "Burhan Qaddoumi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "proommpt-0.1.0.tar.gz",
+  "download_time": "2025-10-01T23:12:30.139207",
+  "package_url": "https://pypi.org/project/proommpt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gapless-crypto-data",
+  "version": "2.16.0",
+  "summary": "Ultra-fast cryptocurrency data collection with zero gaps guarantee. 22x faster via Binance public repository with complete 13-timeframe support (1s-1d) and intelligent monthly-to-daily fallback. Provides 11-column microstructure format with order flow metrics.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gapless_crypto_data-2.16.0.tar.gz",
+  "download_time": "2025-10-01T23:12:26.259908",
+  "package_url": "https://pypi.org/project/gapless-crypto-data/"
+}

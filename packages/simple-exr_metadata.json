@@ -1,0 +1,11 @@
+{
+  "name": "simple-exr",
+  "version": "0.0.0",
+  "summary": "A simple library for reading and writing EXR files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_exr-0.0.0.tar.gz",
+  "download_time": "2025-10-01T23:12:41.977311",
+  "package_url": "https://pypi.org/project/simple-exr/"
+}

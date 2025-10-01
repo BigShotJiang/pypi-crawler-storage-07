@@ -1,0 +1,11 @@
+{
+  "name": "plom",
+  "version": "0.19.3",
+  "summary": "Plom is Paperless Open Marking",
+  "author": "Andrew Rechnitzer, Colin B. Macdonald",
+  "license": null,
+  "home_page": null,
+  "download_filename": "plom-0.19.3.tar.gz",
+  "download_time": "2025-10-01T23:12:41.399987",
+  "package_url": "https://pypi.org/project/plom/"
+}

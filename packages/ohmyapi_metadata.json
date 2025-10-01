@@ -1,11 +1,11 @@
 {
   "name": "ohmyapi",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Django-flavored scaffolding and management layer around FastAPI, Pydantic, TortoiseORM and Aerich migrations",
   "author": "Brian Wiborg",
   "license": null,
   "home_page": null,
-  "download_filename": "ohmyapi-0.2.1.tar.gz",
-  "download_time": "2025-10-01T20:14:08.422959",
+  "download_filename": "ohmyapi-0.2.2.tar.gz",
+  "download_time": "2025-10-01T23:12:30.819501",
   "package_url": "https://pypi.org/project/ohmyapi/"
 }
