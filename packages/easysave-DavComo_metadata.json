@@ -1,0 +1,11 @@
+{
+  "name": "easysave-DavComo",
+  "version": "0.1.0",
+  "summary": "Library for interacting with the EasySave service",
+  "author": "David Comor",
+  "license": null,
+  "home_page": "https://github.com/DavComo/EasySaveModule",
+  "download_filename": "easysave_davcomo-0.1.0.tar.gz",
+  "download_time": "2025-10-01T08:54:55.815054",
+  "package_url": "https://pypi.org/project/easysave-DavComo/"
+}

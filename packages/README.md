@@ -1,11 +1,41 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-01T08:40:33.901292
-- **Total Packages**: 82
-- **Total Size**: 24.22 MB
+- **Download Time**: 2025-10-01T08:55:42.928240
+- **Total Packages**: 85
+- **Total Size**: 12.42 MB
 
 ## Packages List
+- cognite-toolkit
+- bqredis
+- easysave-DavComo
+- MapProxy
+- talentro-commons
+- dorplan
+- reykit
+- reydb
+- starlasu-specs
+- kitconcept.core
+- opperai
+- otpylib
+- lite-logging-client
+- tfp-nightly
+- marpledata
+- alita-sdk
+- authentik-client
+- nucliadb-utils
+- nucliadb-telemetry
+- nucliadb-sdk
+- nucliadb-protos
+- nucliadb-models
+- nucliadb-dataset
+- nucliadb
+- nidx-protos
+- mandelbrot-julia-fractals
+- haystack-test-package
+- c2cciutils
+- markuplift
+- sythonlab-amadeus-enterprise
 - lazy-ecs
 - omniopt2
 - ign-pdal-tools
@@ -17,7 +47,6 @@
 - django-qr-toolkit-core
 - c2cwsgiutils
 - three-x-pay-sdk
-- talentro-commons
 - energy-dependency-inspector
 - amplify-bbopt
 - pluthon
@@ -26,7 +55,6 @@
 - unique_toolkit
 - aiospb
 - msgcenterpy
-- authentik-client
 - gcol
 - modusa
 - instaui
@@ -35,7 +63,6 @@
 - ncatbot
 - finbourne-horizon-sdk
 - konigle
-- mandelbrot-julia-fractals
 - jaxl-python
 - matrix-synapse
 - kitconcept.voltolighttheme
@@ -64,27 +91,3 @@
 - PyBHISDG
 - opik
 - arazzo-runner
-- fuckpythonconfig
-- pyglove
-- finbourne-identity-sdk
-- prefect
-- draive
-- prefect-client
-- syn-commodore
-- jupyterpack
-- equos
-- loggerplusplus
-- aws-lambda-powertools
-- brainweb-dl
-- pyrangeyes
-- tierkreis
-- oasis-sdk
-- act-bin
-- uipath
-- pms-nvidia-processor
-- open-iris
-- agent-memory-client
-- atta
-- nucliadb-utils
-- nucliadb-telemetry
-- nucliadb-sdk
