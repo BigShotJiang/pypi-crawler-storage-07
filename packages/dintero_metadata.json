@@ -1,0 +1,11 @@
+{
+  "name": "dintero",
+  "version": "0.0.9",
+  "summary": "Python bindings for the Dintero API",
+  "author": "Dintero",
+  "license": "MIT",
+  "home_page": "https://github.com/dintero/Dintero.Python.SDK",
+  "download_filename": "dintero-0.0.9.tar.gz",
+  "download_time": "2025-10-01T11:10:41.679682",
+  "package_url": "https://pypi.org/project/dintero/"
+}

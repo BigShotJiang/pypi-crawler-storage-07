@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-database-size",
+  "version": "18.0.1.0.2",
+  "summary": "Database Size",
+  "author": "Opener B.V.,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-tools",
+  "download_filename": "odoo_addon_database_size-18.0.1.0.2-py3-none-any.whl",
+  "download_time": "2025-10-01T11:10:57.067857",
+  "package_url": "https://pypi.org/project/odoo-addon-database-size/"
+}

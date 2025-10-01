@@ -1,0 +1,11 @@
+{
+  "name": "cursh",
+  "version": "1.0.0",
+  "summary": "Protect your Linux PC from viruses using a safer alternative to `curl ... | sh` or `wget ... | sh`",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cursh-1.0.0.tar.gz",
+  "download_time": "2025-10-01T11:10:34.504313",
+  "package_url": "https://pypi.org/project/cursh/"
+}

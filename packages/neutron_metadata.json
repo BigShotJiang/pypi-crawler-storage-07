@@ -1,0 +1,11 @@
+{
+  "name": "neutron",
+  "version": "27.0.0",
+  "summary": "OpenStack Networking",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/neutron/latest/",
+  "download_filename": "neutron-27.0.0-py3-none-any.whl",
+  "download_time": "2025-10-01T11:10:52.456127",
+  "package_url": "https://pypi.org/project/neutron/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "magnum",
+  "version": "21.0.0",
+  "summary": "Container Management project for OpenStack",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "http://docs.openstack.org/magnum/latest/",
+  "download_filename": "magnum-21.0.0.tar.gz",
+  "download_time": "2025-10-01T11:10:40.658811",
+  "package_url": "https://pypi.org/project/magnum/"
+}
