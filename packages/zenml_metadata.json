@@ -1,11 +1,11 @@
 {
   "name": "zenml",
-  "version": "0.85.0",
-  "summary": "ZenML: Write production-ready ML code.",
+  "version": "0.90.0",
+  "summary": "ZenML: MLOps for Reliable AI: from Classical AI to Agents.",
   "author": "ZenML GmbH",
-  "license": "Apache-2.0",
-  "home_page": "https://zenml.io",
-  "download_filename": "zenml-0.85.0.tar.gz",
-  "download_time": "2025-09-29T15:11:22.914056",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zenml-0.90.0.tar.gz",
+  "download_time": "2025-10-01T18:54:23.964032",
   "package_url": "https://pypi.org/project/zenml/"
 }

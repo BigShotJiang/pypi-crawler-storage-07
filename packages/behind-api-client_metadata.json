@@ -1,11 +1,11 @@
 {
   "name": "behind-api-client",
-  "version": "1.0.663",
+  "version": "1.0.664",
   "summary": "Generated API client for Behind API",
   "author": "Henry Fisher",
   "license": null,
   "home_page": "https://github.com/hank/behind-api-client",
-  "download_filename": "behind_api_client-1.0.663.tar.gz",
-  "download_time": "2025-10-01T18:43:36.113232",
+  "download_filename": "behind_api_client-1.0.664.tar.gz",
+  "download_time": "2025-10-01T18:54:21.730294",
   "package_url": "https://pypi.org/project/behind-api-client/"
 }

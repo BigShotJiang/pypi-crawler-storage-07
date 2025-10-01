@@ -1,12 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-01T18:43:56.809271
-- **Total Packages**: 88
-- **Total Size**: 22.85 MB
+- **Download Time**: 2025-10-01T18:55:02.956705
+- **Total Packages**: 86
+- **Total Size**: 11.31 MB
 
 ## Packages List
+- data-repo-client
+- intugle
 - formatting-library
+- alchemystai
+- agentex-sdk
+- aws-utils-app
+- writer-sdk
+- bacnet-scan-tool
+- ecomp
+- satori-ci
+- behind-api-client
+- djaodjin-saas
+- nsj-rest-lib2
+- netbox-maintenance-device
+- zenml
+- balint1
+- notemate-files
+- infragraph
+- odoo-addon-helpdesk-mgmt-sale-project
+- pydeephaven
+- taskcluster-taskgraph
+- deephaven-core
+- syft-job
+- email-to-calendar
+- modal
+- qemu.qmp
+- novavision-cli
+- fusor
+- spine-ml
+- nsj-integracao-api-entidades
+- pyzurecli
+- v440
+- energysystemmodels
+- py-license-auditor
+- ngs-pipeline-lib
+- PiscesORM
+- django-flatpages-extra
+- authentik-client
+- asdkiller123
+- valoria
 - nunchaku
 - pylmcf
 - ut-cli
@@ -15,13 +54,10 @@
 - ipalab-config
 - sinapsis-trackers
 - sinapsis-rf-trackers
-- intugle
-- aws-utils-app
 - pyegeria
 - wkmigrate
 - optlnls
 - pulumi-provider-boilerplate
-- email-to-calendar
 - grasp_agents
 - programgarden
 - xai-review
@@ -31,7 +67,6 @@
 - tobiko-cloud-helpers
 - compel
 - tobiko-cloud-pydantic
-- v440
 - tobiko-cloud-api-client
 - evolutionary-compression
 - osmose-presets
@@ -57,40 +92,3 @@
 - hyperscale-stax
 - programgarden-core
 - vellum-workflow-server
-- behind-api-client
-- psweep
-- authentik-client
-- simplemseed
-- glitchlings
-- frida-fusion
-- trainingsample
-- sgsim
-- iap-messenger
-- pyairahome
-- syft-job
-- signalpilot-ai-internal
-- terminator-py
-- petcache
-- planqk-service-sdk
-- balint-helper
-- continual-foragax
-- rust-simulation-tools
-- dsf-mobility
-- plotly-ml
-- workbench
-- vellum-ai
-- waldur-api-client
-- cz-benchmarks
-- caylent-devcontainer-cli
-- ECOv003-granules
-- pixelflux
-- algobattle-base
-- agentic-commerce-protocol
-- spyder-kernels
-- jupyter-offlinenotebook
-- winloop
-- vecta
-- coiled
-- powl
-- fast-mcp-telegram
-- braindecode

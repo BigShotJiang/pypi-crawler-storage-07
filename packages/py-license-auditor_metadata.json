@@ -1,11 +1,11 @@
 {
   "name": "py-license-auditor",
-  "version": "0.3.3",
+  "version": "0.4.0",
   "summary": "Fast license auditor for uv projects - Extract and analyze license information with uv.lock integration",
   "author": null,
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "py_license_auditor-0.3.3.tar.gz",
-  "download_time": "2025-09-29T08:43:37.542708",
+  "download_filename": "py_license_auditor-0.4.0.tar.gz",
+  "download_time": "2025-10-01T18:54:35.002375",
   "package_url": "https://pypi.org/project/py-license-auditor/"
 }

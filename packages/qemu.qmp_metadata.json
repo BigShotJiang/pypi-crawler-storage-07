@@ -1,0 +1,11 @@
+{
+  "name": "qemu.qmp",
+  "version": "0.0.4",
+  "summary": "QEMU Monitor Protocol library",
+  "author": "QEMU Project",
+  "license": null,
+  "home_page": "https://gitlab.com/qemu-project/python-qemu-qmp",
+  "download_filename": "qemu_qmp-0.0.4.tar.gz",
+  "download_time": "2025-10-01T18:54:30.790409",
+  "package_url": "https://pypi.org/project/qemu.qmp/"
+}

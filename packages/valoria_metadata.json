@@ -1,0 +1,11 @@
+{
+  "name": "valoria",
+  "version": "0.1.0",
+  "summary": "Outils pour gérer fichiers: structure, tmp, permissions, nettoyage, dépendances, chmod",
+  "author": "GameurDev",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "valoria-0.1.0.tar.gz",
+  "download_time": "2025-10-01T18:54:38.674253",
+  "package_url": "https://pypi.org/project/valoria/"
+}
