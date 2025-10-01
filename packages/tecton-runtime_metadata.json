@@ -1,11 +1,11 @@
 {
   "name": "tecton-runtime",
-  "version": "1.2.9",
+  "version": "1.2.10",
   "summary": "Tecton Transformation Service Sidecar",
   "author": "Tecton, Inc.",
   "license": "Tecton Proprietary",
   "home_page": "https://tecton.ai",
-  "download_filename": "tecton_runtime-1.2.9.tar.gz",
-  "download_time": "2025-10-01T17:48:37.143631",
+  "download_filename": "tecton_runtime-1.2.10.tar.gz",
+  "download_time": "2025-10-01T22:31:14.274922",
   "package_url": "https://pypi.org/project/tecton-runtime/"
 }

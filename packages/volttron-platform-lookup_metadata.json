@@ -1,0 +1,11 @@
+{
+  "name": "volttron-platform-lookup",
+  "version": "0.1.0rc0",
+  "summary": "Web service that runs outside of VOLTTRON server and let VOLTTRON instance to register itself and lookup for services that can be part of a federated group",
+  "author": "volttron",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/eclipse-volttron/platform-lookup",
+  "download_filename": "volttron_platform_lookup-0.1.0rc0.tar.gz",
+  "download_time": "2025-10-01T22:31:18.908877",
+  "package_url": "https://pypi.org/project/volttron-platform-lookup/"
+}

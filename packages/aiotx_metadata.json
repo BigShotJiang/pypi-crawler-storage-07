@@ -1,11 +1,11 @@
 {
   "name": "aiotx",
-  "version": "9.2.3",
+  "version": "10.0.0",
   "summary": "An asynchronous library for interacting with various cryptocurrencies and blockchains",
   "author": "Oleksandr Prudnikov",
   "license": null,
   "home_page": "https://github.com/Grommash9/aiotx",
-  "download_filename": "aiotx-9.2.3.tar.gz",
-  "download_time": "2025-09-30T14:31:49.134494",
+  "download_filename": "aiotx-10.0.0.tar.gz",
+  "download_time": "2025-10-01T22:31:11.516180",
   "package_url": "https://pypi.org/project/aiotx/"
 }
