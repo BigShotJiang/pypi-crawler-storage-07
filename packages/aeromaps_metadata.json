@@ -1,0 +1,11 @@
+{
+  "name": "aeromaps",
+  "version": "0.8.4b0",
+  "summary": "AeroMAPS: Multidisciplinary Assessment of Prospective Scenarios for air transport",
+  "author": "Thomas PLANES",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/AeroMAPS/AeroMAPS",
+  "download_filename": "aeromaps-0.8.4b0.tar.gz",
+  "download_time": "2025-10-01T11:48:17.054042",
+  "package_url": "https://pypi.org/project/aeromaps/"
+}

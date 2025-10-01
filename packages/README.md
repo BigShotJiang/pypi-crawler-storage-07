@@ -1,11 +1,31 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-01T11:35:34.296845
+- **Download Time**: 2025-10-01T11:48:55.840042
 - **Total Packages**: 83
-- **Total Size**: 17.75 MB
+- **Total Size**: 19.91 MB
 
 ## Packages List
+- middleware-io-k8s
+- pulse-framework
+- middleware-io
+- mcp-client-capabilities
+- uas-standards
+- meowmod
+- anime-parsers-ru
+- pyrat-game
+- cloudnetpy-qc
+- aeromaps
+- redbrick-sdk
+- collate-sqlfluff
+- c2cgeoportal-admin
+- c2cgeoportal-geoportal
+- c2cgeoportal-commons
+- django-ledger
+- dexray-insight
+- authentik-client
+- atlas-ftag-tools
+- unknown-data
 - Data-Generation-Agents
 - protein-quest
 - cesnet-service-path-plugin
@@ -36,8 +56,6 @@
 - viperlog-http-plugin
 - viperlog-console-plugin
 - viperlog
-- pyrat-game
-- authentik-client
 - mxcubeweb
 - drf-spectacular-sidecar
 - bluer-ugv
@@ -71,21 +89,3 @@
 - cg
 - github2gerrit
 - mm-sdk
-- point-topic-mcp
-- bluer-objects
-- superagent-ai
-- finlab
-- noiserandom
-- jamlib
-- seapopym_optimization
-- ida-settings
-- nesso_cli
-- dbt-mcp
-- openmodule-commands
-- click-option-group
-- pulp-certguard-client
-- pulp-file-client
-- pulpcore-client
-- pulpcore
-- v440
-- parsehub

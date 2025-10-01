@@ -1,11 +1,11 @@
 {
   "name": "middleware-io-k8s",
-  "version": "2.4.1rc30",
+  "version": "2.4.1rc31",
   "summary": "Middleware's APM tool enables Python developers to effortlessly monitor their applications, gathering distributed tracing, metrics, logs, and profiling data for valuable insights and performance optimization.",
   "author": "middleware-dev",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "middleware_io_k8s-2.4.1rc30.tar.gz",
-  "download_time": "2025-10-01T07:30:13.701975",
+  "download_filename": "middleware_io_k8s-2.4.1rc31.tar.gz",
+  "download_time": "2025-10-01T11:48:11.824541",
   "package_url": "https://pypi.org/project/middleware-io-k8s/"
 }

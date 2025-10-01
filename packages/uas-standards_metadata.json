@@ -1,0 +1,11 @@
+{
+  "name": "uas-standards",
+  "version": "4.1.0",
+  "summary": "Data types and tools for working with standards related to uncrewed aircraft systems (UAS)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uas_standards-4.1.0.tar.gz",
+  "download_time": "2025-10-01T11:48:13.876503",
+  "package_url": "https://pypi.org/project/uas-standards/"
+}

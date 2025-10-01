@@ -1,11 +1,11 @@
 {
   "name": "Data-Generation-Agents",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "AI-powered synthetic data generation pipeline with web search and topic extraction",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "data_generation_agents-0.1.2.tar.gz",
-  "download_time": "2025-09-30T22:30:23.802156",
+  "download_filename": "data_generation_agents-0.1.3.tar.gz",
+  "download_time": "2025-10-01T11:48:22.798020",
   "package_url": "https://pypi.org/project/Data-Generation-Agents/"
 }
