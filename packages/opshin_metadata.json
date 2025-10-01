@@ -1,0 +1,11 @@
+{
+  "name": "opshin",
+  "version": "0.25.0",
+  "summary": "A simple pythonic programming language for Smart Contracts on Cardano",
+  "author": "nielstron",
+  "license": "MIT",
+  "home_page": "https://github.com/opshin/opshin",
+  "download_filename": "opshin-0.25.0.tar.gz",
+  "download_time": "2025-10-01T21:35:46.142950",
+  "package_url": "https://pypi.org/project/opshin/"
+}
