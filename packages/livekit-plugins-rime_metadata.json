@@ -1,11 +1,11 @@
 {
   "name": "livekit-plugins-rime",
-  "version": "1.2.12",
+  "version": "1.2.13",
   "summary": "LiveKit Agents Plugin for Rime",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "livekit_plugins_rime-1.2.12.tar.gz",
-  "download_time": "2025-09-29T04:50:15.893851",
+  "download_filename": "livekit_plugins_rime-1.2.13.tar.gz",
+  "download_time": "2025-10-01T04:50:45.485648",
   "package_url": "https://pypi.org/project/livekit-plugins-rime/"
 }

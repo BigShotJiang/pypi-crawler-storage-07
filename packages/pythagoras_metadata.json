@@ -1,0 +1,11 @@
+{
+  "name": "pythagoras",
+  "version": "0.24.0",
+  "summary": "Planet-scale distributed computing in Python.",
+  "author": "Volodymyr (Vlad) Pavlov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pythagoras-0.24.0.tar.gz",
+  "download_time": "2025-10-01T04:51:19.835007",
+  "package_url": "https://pypi.org/project/pythagoras/"
+}

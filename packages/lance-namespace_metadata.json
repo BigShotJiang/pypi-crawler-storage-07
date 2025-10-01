@@ -1,11 +1,11 @@
 {
   "name": "lance-namespace",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "summary": "Python client for Lance Namespace API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "lance_namespace-0.0.16.tar.gz",
-  "download_time": "2025-09-30T15:29:44.973562",
+  "download_filename": "lance_namespace-0.0.17.tar.gz",
+  "download_time": "2025-10-01T04:51:04.243498",
   "package_url": "https://pypi.org/project/lance-namespace/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "livekit-plugins-elevenlabs",
-  "version": "1.2.12",
+  "version": "1.2.13",
   "summary": "Agent Framework plugin for voice synthesis with ElevenLabs' API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "livekit_plugins_elevenlabs-1.2.12.tar.gz",
-  "download_time": "2025-09-29T04:50:26.879686",
+  "download_filename": "livekit_plugins_elevenlabs-1.2.13.tar.gz",
+  "download_time": "2025-10-01T04:50:55.361698",
   "package_url": "https://pypi.org/project/livekit-plugins-elevenlabs/"
 }

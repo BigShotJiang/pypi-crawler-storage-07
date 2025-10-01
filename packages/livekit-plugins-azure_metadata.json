@@ -1,11 +1,11 @@
 {
   "name": "livekit-plugins-azure",
-  "version": "1.2.12",
+  "version": "1.2.13",
   "summary": "Agent Framework plugin for services from Azure",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "livekit_plugins_azure-1.2.12.tar.gz",
-  "download_time": "2025-09-29T04:50:30.835472",
+  "download_filename": "livekit_plugins_azure-1.2.13.tar.gz",
+  "download_time": "2025-10-01T04:51:00.056710",
   "package_url": "https://pypi.org/project/livekit-plugins-azure/"
 }

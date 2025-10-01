@@ -1,0 +1,11 @@
+{
+  "name": "backend.ai-plugin",
+  "version": "25.14.5",
+  "summary": "Backend.AI Plugin Subsystem",
+  "author": "Lablup Inc. and contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/lablup/backend.ai",
+  "download_filename": "backend_ai_plugin-25.14.5.tar.gz",
+  "download_time": "2025-10-01T04:51:08.498682",
+  "package_url": "https://pypi.org/project/backend.ai-plugin/"
+}

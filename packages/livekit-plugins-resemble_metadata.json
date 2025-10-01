@@ -1,11 +1,11 @@
 {
   "name": "livekit-plugins-resemble",
-  "version": "1.2.12",
+  "version": "1.2.13",
   "summary": "LiveKit Agents Plugin for Resemble AI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "livekit_plugins_resemble-1.2.12.tar.gz",
-  "download_time": "2025-09-29T04:50:16.440078",
+  "download_filename": "livekit_plugins_resemble-1.2.13.tar.gz",
+  "download_time": "2025-10-01T04:50:45.998087",
   "package_url": "https://pypi.org/project/livekit-plugins-resemble/"
 }
