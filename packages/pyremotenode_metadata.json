@@ -1,0 +1,11 @@
+{
+  "name": "pyremotenode",
+  "version": "0.6.1",
+  "summary": "A service library for controlling low power devices",
+  "author": "James Byrne",
+  "license": null,
+  "home_page": "http://www.github.com/antarctica/pyremotenode",
+  "download_filename": "pyremotenode-0.6.1.tar.gz",
+  "download_time": "2025-10-01T15:11:51.756006",
+  "package_url": "https://pypi.org/project/pyremotenode/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "keyvalues3",
+  "version": "0.5",
+  "summary": "Read and write Valve's KeyValues3 format",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "keyvalues3-0.5.tar.gz",
+  "download_time": "2025-10-01T15:11:48.525658",
+  "package_url": "https://pypi.org/project/keyvalues3/"
+}

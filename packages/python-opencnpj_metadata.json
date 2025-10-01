@@ -1,0 +1,11 @@
+{
+  "name": "python-opencnpj",
+  "version": "0.1.4",
+  "summary": "Python library to fetch CNPJ data from OpenCNPJ API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_opencnpj-0.1.4.tar.gz",
+  "download_time": "2025-10-01T15:12:26.268153",
+  "package_url": "https://pypi.org/project/python-opencnpj/"
+}
