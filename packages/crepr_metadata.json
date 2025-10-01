@@ -1,0 +1,11 @@
+{
+  "name": "crepr",
+  "version": "0.6.0",
+  "summary": "Create a __repr__ for your python classes from the definition found in __init__",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "crepr-0.6.0.tar.gz",
+  "download_time": "2025-10-01T11:26:56.116044",
+  "package_url": "https://pypi.org/project/crepr/"
+}

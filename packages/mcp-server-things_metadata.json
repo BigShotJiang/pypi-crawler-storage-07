@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-things",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "Model Context Protocol server for Things 3 task management integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_server_things-1.2.2.tar.gz",
-  "download_time": "2025-09-30T19:24:36.797299",
+  "download_filename": "mcp_server_things-1.2.3.tar.gz",
+  "download_time": "2025-10-01T11:27:15.031001",
   "package_url": "https://pypi.org/project/mcp-server-things/"
 }
