@@ -1,0 +1,11 @@
+{
+  "name": "archicad",
+  "version": "29.3000",
+  "summary": "Python binding for the Archicad JSON command interface",
+  "author": "Graphisoft SE",
+  "license": "Apache",
+  "home_page": "https://archicadapi.graphisoft.com/archicadPythonPackage/archicad.html",
+  "download_filename": "archicad-29.3000.tar.gz",
+  "download_time": "2025-10-01T13:52:23.635861",
+  "package_url": "https://pypi.org/project/archicad/"
+}

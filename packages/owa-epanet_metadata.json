@@ -1,0 +1,11 @@
+{
+  "name": "owa-epanet",
+  "version": "2.3.2",
+  "summary": "a thin wrapper for epanet hydraulic toolkit",
+  "author": "Sam Hatchett",
+  "license": null,
+  "home_page": "https://github.com/OpenWaterAnalytics/epanet-python",
+  "download_filename": "owa_epanet-2.3.2.tar.gz",
+  "download_time": "2025-10-01T13:52:24.832007",
+  "package_url": "https://pypi.org/project/owa-epanet/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "seapopym",
+  "version": "0.0.2.5.3",
+  "summary": "Seapodym is a Python package that provides models to simulate the dynamics of low and mid trophic level marine ecosystems.",
+  "author": "Jules Lehodey",
+  "license": "MIT",
+  "home_page": "https://github.com/Ash12H/Seapopym",
+  "download_filename": "seapopym-0.0.2.5.3.tar.gz",
+  "download_time": "2025-10-01T13:52:16.760104",
+  "package_url": "https://pypi.org/project/seapopym/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "todoist-digest",
+  "version": "0.10.7",
+  "summary": "Generate a digest of comments that occured since the last checked in date. Useful for including in an email.",
+  "author": "Michael Bianco",
+  "license": null,
+  "home_page": null,
+  "download_filename": "todoist_digest-0.10.7.tar.gz",
+  "download_time": "2025-10-01T13:52:20.776497",
+  "package_url": "https://pypi.org/project/todoist-digest/"
+}

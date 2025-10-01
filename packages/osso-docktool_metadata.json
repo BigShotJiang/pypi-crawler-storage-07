@@ -1,0 +1,11 @@
+{
+  "name": "osso-docktool",
+  "version": "1.9.6",
+  "summary": "HDD administration and maintenance",
+  "author": "OSSO B.V.",
+  "license": "Undecided",
+  "home_page": "https://git.osso.nl/osso-io/docktool",
+  "download_filename": "osso_docktool-1.9.6.tar.gz",
+  "download_time": "2025-10-01T13:52:03.362918",
+  "package_url": "https://pypi.org/project/osso-docktool/"
+}

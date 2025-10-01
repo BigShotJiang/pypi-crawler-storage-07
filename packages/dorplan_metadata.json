@@ -1,11 +1,11 @@
 {
   "name": "dorplan",
-  "version": "0.11.1",
+  "version": "0.11.2",
   "summary": "Desktop OR planner",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dorplan-0.11.1.tar.gz",
-  "download_time": "2025-10-01T13:08:25.539565",
+  "download_filename": "dorplan-0.11.2.tar.gz",
+  "download_time": "2025-10-01T13:51:55.051429",
   "package_url": "https://pypi.org/project/dorplan/"
 }

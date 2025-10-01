@@ -1,0 +1,11 @@
+{
+  "name": "hoi4dev",
+  "version": "0.1.1.4",
+  "summary": "HOI4DEV: Hearts of Iron IV Development Tools",
+  "author": "Magolor",
+  "license": null,
+  "home_page": "https://github.com/Magolor/",
+  "download_filename": "hoi4dev-0.1.1.4.tar.gz",
+  "download_time": "2025-10-01T13:52:11.496172",
+  "package_url": "https://pypi.org/project/hoi4dev/"
+}
