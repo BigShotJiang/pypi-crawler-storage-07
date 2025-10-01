@@ -1,11 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-01T21:49:21.986415
-- **Total Packages**: 82
-- **Total Size**: 17.49 MB
+- **Download Time**: 2025-10-01T22:11:37.661011
+- **Total Packages**: 79
+- **Total Size**: 38.48 MB
 
 ## Packages List
+- cobib
+- py-license-auditor
+- regula-documentreader-webclient
+- tundra-cli
+- claude-mpm
+- website-build-tools
+- fabric-user-data-functions
+- authentik-client
+- xcode-mcp-server
+- rxfoundry.clients.swifty_api
+- rxfoundry.clients.swifty_oauth_api
+- glean-api-client
+- reflex-agent
+- railtracks-cli
+- railtracks
+- charmlibs-interfaces-tls-certificates
+- dv-pipecat-ai
+- runloop_api_client
+- sim-sci-test-monorepo-public-health
+- teds
+- gable
+- sportsball
+- jaxnasium
+- verbalized-sampling
+- anta-database
+- opentrons
+- foundry-sdk
+- sieves
+- sim-sci-test-monorepo-core
+- agnt5
+- infinyon-coagent-client
+- mcp-panther
+- sopel-imdb
+- bgen
+- libcalab
+- pyEdge-package-name-reservation-1
+- truss
+- movinglines
+- vcp-cli
+- pyproteum
+- pymcdc
 - eegdash
 - propelauth-byo
 - lunar-policy
@@ -14,7 +55,6 @@
 - ncut-pytorch
 - keycardai-mcp-fastmcp
 - scc-firewall-manager-sdk
-- sportsball
 - noahENERGY-phoenix-sdk
 - rslearn
 - codeflash
@@ -32,7 +72,6 @@
 - psr-factory
 - mrx-runway
 - tricc-oo
-- authentik-client
 - narada-pyodide
 - ipss
 - karellen-llvm-toolchain-tools
@@ -46,45 +85,3 @@
 - django-torque
 - distoptica
 - ignition-api-stubs
-- ignition-api
-- pluthon
-- flash-dmattn
-- taters
-- fmriprep-docker
-- fmriprep
-- urless
-- cosim-toolbox
-- boxTestpy
-- satori-ci
-- noaithx
-- jumper-extension
-- virtualshell
-- coherent-client
-- tobiko-cloud-pydantic
-- tobiko-cloud-helpers
-- stackitui
-- tobiko-cloud-api-client
-- academia-mcp
-- cerb-code
-- dsf-mobility
-- dw-ai-x
-- datamule
-- beam-client
-- pymongo
-- modelred
-- ngff-zarr
-- symetrie-hexapod
-- plato-spw
-- plato-hdf5
-- plato-fits
-- lakeshore-tempcontrol
-- keithley-tempcontrol
-- cgse-tools
-- cgse-gui
-- cgse-core
-- cgse-coordinates
-- cgse-common
-- anycapture
-- cgse
-- licomp-toolkit
-- sphinx-codelinks

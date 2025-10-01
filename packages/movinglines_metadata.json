@@ -1,0 +1,11 @@
+{
+  "name": "movinglines",
+  "version": "1.60",
+  "summary": "Moving Lines - Research flight planner",
+  "author": "Samuel LeBlanc",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/samuelleblanc/fp",
+  "download_filename": "movinglines-1.60.tar.gz",
+  "download_time": "2025-10-01T22:11:14.005828",
+  "package_url": "https://pypi.org/project/movinglines/"
+}

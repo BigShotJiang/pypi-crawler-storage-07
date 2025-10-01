@@ -1,11 +1,11 @@
 {
   "name": "sim-sci-test-monorepo-public-health",
-  "version": "0.0.4",
+  "version": "0.0.8",
   "summary": "Public health functionality for sim_sci_test_monorepo",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sim_sci_test_monorepo_public_health-0.0.4.tar.gz",
-  "download_time": "2025-09-29T21:26:41.726056",
+  "download_filename": "sim_sci_test_monorepo_public_health-0.0.8.tar.gz",
+  "download_time": "2025-10-01T22:11:03.257984",
   "package_url": "https://pypi.org/project/sim-sci-test-monorepo-public-health/"
 }
