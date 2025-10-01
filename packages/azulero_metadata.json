@@ -1,11 +1,11 @@
 {
   "name": "azulero",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "Bring colors to Euclid tiles!",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "azulero-0.4.2.tar.gz",
-  "download_time": "2025-10-01T04:50:32.617726",
+  "download_filename": "azulero-0.4.3.tar.gz",
+  "download_time": "2025-10-01T14:34:38.289590",
   "package_url": "https://pypi.org/project/azulero/"
 }

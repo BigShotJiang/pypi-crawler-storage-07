@@ -1,0 +1,11 @@
+{
+  "name": "pymnt",
+  "version": "0.1.0",
+  "summary": "Ultra-fast package manager (Mint)",
+  "author": "ninja",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymnt-0.1.0.tar.gz",
+  "download_time": "2025-10-01T14:34:56.041772",
+  "package_url": "https://pypi.org/project/pymnt/"
+}

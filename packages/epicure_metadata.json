@@ -1,11 +1,11 @@
 {
   "name": "epicure",
-  "version": "0.2.20",
+  "version": "0.2.21",
   "summary": "Napari plugin to manually correct epithelia segmentation in movies",
   "author": "Gaëlle Letort",
   "license": "BSD-3-Clause",
   "home_page": "https://gitlab.pasteur.fr/gletort/epicure",
-  "download_filename": "epicure-0.2.20.tar.gz",
-  "download_time": "2025-09-30T09:12:26.996316",
+  "download_filename": "epicure-0.2.21.tar.gz",
+  "download_time": "2025-10-01T14:34:51.862352",
   "package_url": "https://pypi.org/project/epicure/"
 }

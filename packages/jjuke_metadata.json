@@ -1,0 +1,11 @@
+{
+  "name": "jjuke",
+  "version": "1.1.1",
+  "summary": "Framework for training Deep Learning networks by JJukE",
+  "author": "JJukE",
+  "license": null,
+  "home_page": "https://github.com/JJukE/JJuk_E.git",
+  "download_filename": "jjuke-1.1.1.tar.gz",
+  "download_time": "2025-10-01T14:34:55.522145",
+  "package_url": "https://pypi.org/project/jjuke/"
+}

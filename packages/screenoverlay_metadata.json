@@ -1,11 +1,11 @@
 {
   "name": "screenoverlay",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Cross-platform screen overlay with blur, black, white, and custom modes",
   "author": "Pekay",
   "license": null,
   "home_page": "https://github.com/pekay-ai/screenoverlay",
-  "download_filename": "screenoverlay-0.1.1.tar.gz",
-  "download_time": "2025-10-01T14:12:27.880999",
+  "download_filename": "screenoverlay-0.1.2.tar.gz",
+  "download_time": "2025-10-01T14:34:45.045601",
   "package_url": "https://pypi.org/project/screenoverlay/"
 }

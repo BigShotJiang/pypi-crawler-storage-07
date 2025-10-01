@@ -1,0 +1,11 @@
+{
+  "name": "pyamit",
+  "version": "0.1.0",
+  "summary": "A fast Python CLI tool for formatting and sorting YAML files with pre-commit integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyamit-0.1.0.tar.gz",
+  "download_time": "2025-10-01T14:34:22.436544",
+  "package_url": "https://pypi.org/project/pyamit/"
+}

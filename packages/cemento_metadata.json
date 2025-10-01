@@ -1,11 +1,11 @@
 {
   "name": "cemento",
-  "version": "0.12.2",
+  "version": "0.12.3",
   "summary": "A package to view and write ontologies directly from draw.io diagram files.",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "cemento-0.12.2.tar.gz",
-  "download_time": "2025-10-01T14:12:27.242349",
+  "download_filename": "cemento-0.12.3.tar.gz",
+  "download_time": "2025-10-01T14:34:58.162584",
   "package_url": "https://pypi.org/project/cemento/"
 }

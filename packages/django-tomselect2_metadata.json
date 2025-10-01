@@ -1,0 +1,11 @@
+{
+  "name": "django-tomselect2",
+  "version": "0.1.3",
+  "summary": "Django integration for Tom Select autocomplete widget",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_tomselect2-0.1.3.tar.gz",
+  "download_time": "2025-10-01T14:34:24.510627",
+  "package_url": "https://pypi.org/project/django-tomselect2/"
+}
