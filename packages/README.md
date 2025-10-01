@@ -1,11 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-01T21:36:33.981427
-- **Total Packages**: 89
-- **Total Size**: 17.86 MB
+- **Download Time**: 2025-10-01T21:49:21.986415
+- **Total Packages**: 82
+- **Total Size**: 17.49 MB
 
 ## Packages List
+- eegdash
+- propelauth-byo
+- lunar-policy
+- opentrons-shared-data
+- pmcx
+- ncut-pytorch
+- keycardai-mcp-fastmcp
+- scc-firewall-manager-sdk
+- sportsball
+- noahENERGY-phoenix-sdk
+- rslearn
+- codeflash
+- terminator-py
+- stash-ai-server
+- bright-horizons-backup
+- v440
+- futurehouse-client
+- rbacx
+- tecton-runtime
+- oxidd
+- tecton
+- ben-lammps-utils
+- fastquadtree
+- psr-factory
+- mrx-runway
+- tricc-oo
+- authentik-client
+- narada-pyodide
 - ipss
 - karellen-llvm-toolchain-tools
 - karellen-llvm-lldb
@@ -16,7 +44,6 @@
 - py5canvas
 - torqueclient
 - django-torque
-- scc-firewall-manager-sdk
 - distoptica
 - ignition-api-stubs
 - ignition-api
@@ -29,7 +56,6 @@
 - cosim-toolbox
 - boxTestpy
 - satori-ci
-- sportsball
 - noaithx
 - jumper-extension
 - virtualshell
@@ -40,7 +66,6 @@
 - tobiko-cloud-api-client
 - academia-mcp
 - cerb-code
-- authentik-client
 - dsf-mobility
 - dw-ai-x
 - datamule
@@ -48,7 +73,6 @@
 - pymongo
 - modelred
 - ngff-zarr
-- futurehouse-client
 - symetrie-hexapod
 - plato-spw
 - plato-hdf5
@@ -64,34 +88,3 @@
 - cgse
 - licomp-toolkit
 - sphinx-codelinks
-- v440
-- credal
-- python-postmark
-- crfm-helm
-- acb
-- keeper-pam-webrtc-rs
-- codearkt
-- konokenj.cdk-api-mcp-server
-- bugbug
-- bedrock-agentcore-starter-toolkit
-- dsf-logic-sdk
-- les-louisdelatech
-- pyportion
-- moose-lib
-- redlistapi
-- ursina
-- large-image-tasks
-- large-image-source-zarr
-- large-image-source-vips
-- large-image-source-tifffile
-- large-image-source-tiff
-- large-image-source-test
-- large-image-source-rasterio
-- large-image-source-pil
-- large-image-source-openslide
-- large-image-source-openjpeg
-- large-image-source-ometiff
-- large-image-source-nd2
-- large-image-source-multi
-- large-image-source-mapnik
-- large-image-source-gdal

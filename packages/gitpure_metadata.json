@@ -1,11 +1,11 @@
 {
   "name": "gitpure",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A Python git library implemented in Rust using gitoxide",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/cmeister2/gitpure",
-  "download_filename": "gitpure-1.0.0.tar.gz",
-  "download_time": "2025-10-01T21:11:10.990800",
+  "download_filename": "gitpure-1.0.1.tar.gz",
+  "download_time": "2025-10-01T21:48:54.192468",
   "package_url": "https://pypi.org/project/gitpure/"
 }

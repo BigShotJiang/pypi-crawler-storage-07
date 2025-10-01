@@ -1,11 +1,11 @@
 {
   "name": "hume",
-  "version": "0.12.0",
+  "version": "0.12.1",
   "summary": "A Python SDK for Hume AI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hume-0.12.0.tar.gz",
-  "download_time": "2025-10-01T15:31:28.337157",
+  "download_filename": "hume-0.12.1.tar.gz",
+  "download_time": "2025-10-01T21:48:54.716027",
   "package_url": "https://pypi.org/project/hume/"
 }
