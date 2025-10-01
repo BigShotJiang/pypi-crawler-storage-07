@@ -1,11 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-01T07:30:42.359888
-- **Total Packages**: 85
-- **Total Size**: 18.09 MB
+- **Download Time**: 2025-10-01T07:41:31.037530
+- **Total Packages**: 93
+- **Total Size**: 22.19 MB
 
 ## Packages List
+- pulumi-vsphere
+- pulumi-wavefront
+- light-compressor
+- authentik-client
+- core-system-grpc
+- goodmap
+- rtdi-kafkaavro
+- AutoForge
+- pulumi-vault
+- pulumi-tls
+- yaiv
+- snakemake
+- haiway
+- bmsdna-lakeapi
+- pulumi-oci
+- infrable
+- frequenz-quantities
+- ipgetter2
+- djhtmx
+- essentials
+- wink-sdk-user-settings
+- wink-sdk-travel-agent
+- wink-sdk-reference
+- wink-sdk-ping
+- deeploy
+- wink-sdk-notification
+- wink-sdk-lookup
+- wink-sdk-inventory
+- wink-sdk-extranet-property-register
+- wink-sdk-extranet-property
+- wink-sdk-extranet-monetize
+- wink-sdk-extranet-facilities
+- wink-sdk-extranet-experiences
+- wink-sdk-extranet-distribution
+- wink-sdk-extranet-booking
+- wink-sdk-engine-client
+- wink-sdk-channel-manager
 - wink-sdk-booking
 - wink-sdk-analytics
 - wink-sdk-affiliate-winklinks
@@ -21,7 +58,6 @@
 - pulumi-venafi
 - aibooster
 - navam
-- authentik-client
 - bool-hybrid-array
 - hud-python
 - xpander-sdk
@@ -63,31 +99,3 @@
 - increase
 - artificial-terrains
 - pulumi-signalfx
-- cribl-control-plane
-- sparkpipelineframework
-- cesnet-service-path-plugin
-- imio.schedule
-- tf-models-nightly
-- pytest-pl-grader
-- session-mgmt-mcp
-- odoo-addon-web-environment-ribbon
-- galaxy-util
-- odoo-addon-edi-oca
-- pulumi-pagerduty
-- gradupe
-- zmp-authentication-provider
-- param-lsp
-- pulumi-rabbitmq
-- upgrade-py-direct-reqs
-- picassosr
-- katcbf-vlbi-resample
-- cognite-neat
-- kt-ds-api
-- daytona_sdk
-- daytona
-- cmk-dev-site
-- daytona_api_client_async
-- daytona_api_client
-- smu-ontwins-demo
-- django-dmf
-- opencolorio
