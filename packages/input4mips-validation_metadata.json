@@ -1,0 +1,11 @@
+{
+  "name": "input4mips-validation",
+  "version": "0.20.1",
+  "summary": "Validation of input4MIPs data (checking file formats, metadata etc.).",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "input4mips_validation-0.20.1.tar.gz",
+  "download_time": "2025-10-01T14:52:45.777055",
+  "package_url": "https://pypi.org/project/input4mips-validation/"
+}

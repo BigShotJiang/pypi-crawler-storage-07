@@ -1,0 +1,11 @@
+{
+  "name": "fraggle",
+  "version": "0.1.0",
+  "summary": "A simple RAG API - build a question and answer interface to your own content in minutes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fraggle-0.1.0.tar.gz",
+  "download_time": "2025-10-01T14:52:27.156169",
+  "package_url": "https://pypi.org/project/fraggle/"
+}

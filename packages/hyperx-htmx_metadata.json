@@ -1,0 +1,11 @@
+{
+  "name": "hyperx-htmx",
+  "version": "1.0.0",
+  "summary": "🚀 HyperX - HTMX's Sidekick ⚡ TabX so fast! Lightning-fast HTMX enhancement protocol for Django",
+  "author": "Faron",
+  "license": null,
+  "home_page": "https://github.com/faroncoder/hyperx-htmx",
+  "download_filename": "hyperx_htmx-1.0.0.tar.gz",
+  "download_time": "2025-10-01T14:52:39.323234",
+  "package_url": "https://pypi.org/project/hyperx-htmx/"
+}

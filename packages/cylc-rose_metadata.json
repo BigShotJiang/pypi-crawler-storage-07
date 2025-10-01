@@ -1,0 +1,11 @@
+{
+  "name": "cylc-rose",
+  "version": "1.7.0",
+  "summary": "A Cylc plugin providing support for the Rose rose-suite.conf file.",
+  "author": "British Crown (Met Office) & Contributors",
+  "license": "GPL",
+  "home_page": "https://cylc.github.io/cylc-doc/latest/html/plugins/cylc-rose.html",
+  "download_filename": "cylc_rose-1.7.0.tar.gz",
+  "download_time": "2025-10-01T14:52:33.236921",
+  "package_url": "https://pypi.org/project/cylc-rose/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "composo",
-  "version": "0.2.38",
+  "version": "0.2.39",
   "summary": "Composo Python SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "composo-0.2.38.tar.gz",
-  "download_time": "2025-10-01T14:34:15.096698",
+  "download_filename": "composo-0.2.39.tar.gz",
+  "download_time": "2025-10-01T14:52:49.051954",
   "package_url": "https://pypi.org/project/composo/"
 }
