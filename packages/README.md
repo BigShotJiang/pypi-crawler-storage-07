@@ -1,11 +1,26 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-01T23:28:39.804259
-- **Total Packages**: 83
-- **Total Size**: 18.22 MB
+- **Download Time**: 2025-10-01T23:35:05.903729
+- **Total Packages**: 88
+- **Total Size**: 4.66 MB
 
 ## Packages List
+- mat3ra-standata
+- nv-ingest
+- nv-ingest-client
+- nv-ingest-api
+- napari-geff
+- gptchangelog
+- bgen
+- aorta-sirius-dev
+- dextop
+- vectorshift
+- rainbows
+- pulumi-provider-boilerplate
+- yumako
+- clinicedc
+- fastapi-structured-logging
 - redisvl
 - pulumi-xyz
 - picca
@@ -13,7 +28,6 @@
 - nubrain
 - opencua
 - eclipse-nn
-- yumako
 - reflex-agent
 - infraweave
 - cecil
@@ -80,12 +94,3 @@
 - compel
 - xurls
 - omnimancer-cli
-- quant1x
-- tundra-cli
-- biblemate
-- codegraphcontext
-- braintrust-adk
-- legend-dataflow-scripts
-- agentmake
-- invocation-tree
-- fabric-user-data-functions
