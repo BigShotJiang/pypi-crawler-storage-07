@@ -1,0 +1,11 @@
+{
+  "name": "obiba-agate",
+  "version": "3.1.0",
+  "summary": "OBiBa/Agate python client.",
+  "author": "Yannick Marcon",
+  "license": "GPL-v3",
+  "home_page": null,
+  "download_filename": "obiba_agate-3.1.0.tar.gz",
+  "download_time": "2025-10-01T18:43:10.773890",
+  "package_url": "https://pypi.org/project/obiba-agate/"
+}

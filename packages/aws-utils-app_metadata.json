@@ -1,11 +1,11 @@
 {
   "name": "aws-utils-app",
-  "version": "0.4.7",
+  "version": "0.4.9",
   "summary": "Facilitador de integração com serviços AWS como SNS, SQS, Lambda, DynamoDB, RDS e S3",
   "author": "Matheus Cabral",
   "license": "MIT",
   "home_page": "https://github.com/matheuszcabral/aws_easy_tools",
-  "download_filename": "aws_utils_app-0.4.7.tar.gz",
-  "download_time": "2025-10-01T18:19:20.606615",
+  "download_filename": "aws_utils_app-0.4.9.tar.gz",
+  "download_time": "2025-10-01T18:43:13.494326",
   "package_url": "https://pypi.org/project/aws-utils-app/"
 }

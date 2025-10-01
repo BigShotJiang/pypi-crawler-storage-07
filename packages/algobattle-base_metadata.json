@@ -1,0 +1,11 @@
+{
+  "name": "algobattle-base",
+  "version": "4.3.2",
+  "summary": "The Algobattle lab course package.",
+  "author": "Imogen Hergeth, Jan Dreier, Henri Lotze",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "algobattle_base-4.3.2.tar.gz",
+  "download_time": "2025-10-01T18:43:51.516726",
+  "package_url": "https://pypi.org/project/algobattle-base/"
+}
