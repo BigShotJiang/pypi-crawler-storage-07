@@ -1,0 +1,11 @@
+{
+  "name": "python-postmark",
+  "version": "0.7.0",
+  "summary": "Postmark library for Python 2.7 and greater.",
+  "author": "Dave Martorana (http://davemartorana.com), Richard Cooper (http://frozenskys.com), Bill Jones (oraclebill), Dmitry Golomidov (deeGraYve)",
+  "license": "BSD",
+  "home_page": "http://github.com/themartorana/python-postmark",
+  "download_filename": "python-postmark-0.7.0.tar.gz",
+  "download_time": "2025-10-01T21:29:04.439505",
+  "package_url": "https://pypi.org/project/python-postmark/"
+}

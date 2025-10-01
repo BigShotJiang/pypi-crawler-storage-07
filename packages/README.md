@@ -1,17 +1,68 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-01T21:11:36.851728
-- **Total Packages**: 91
-- **Total Size**: 42.9 MB
+- **Download Time**: 2025-10-01T21:29:32.823224
+- **Total Packages**: 89
+- **Total Size**: 18.6 MB
 
 ## Packages List
+- cosim-toolbox
+- boxTestpy
+- satori-ci
+- sportsball
+- noaithx
+- jumper-extension
+- virtualshell
+- coherent-client
+- tobiko-cloud-pydantic
+- tobiko-cloud-helpers
+- stackitui
+- tobiko-cloud-api-client
+- academia-mcp
+- cerb-code
+- authentik-client
+- dsf-mobility
+- dw-ai-x
+- datamule
+- beam-client
+- pymongo
+- modelred
+- ngff-zarr
+- futurehouse-client
+- symetrie-hexapod
+- plato-spw
+- plato-hdf5
+- plato-fits
+- lakeshore-tempcontrol
+- keithley-tempcontrol
+- cgse-tools
+- cgse-gui
+- cgse-core
+- cgse-coordinates
+- cgse-common
+- anycapture
+- cgse
+- licomp-toolkit
+- sphinx-codelinks
+- v440
+- credal
+- python-postmark
+- crfm-helm
+- acb
+- keeper-pam-webrtc-rs
+- codearkt
+- konokenj.cdk-api-mcp-server
+- bugbug
+- bedrock-agentcore-starter-toolkit
+- dsf-logic-sdk
+- les-louisdelatech
+- pyportion
+- moose-lib
 - redlistapi
 - ursina
 - large-image-tasks
 - large-image-source-zarr
 - large-image-source-vips
-- v440
 - large-image-source-tifffile
 - large-image-source-tiff
 - large-image-source-test
@@ -32,14 +83,11 @@
 - large-image
 - girder-large-image-annotation
 - girder-large-image
-- virtualshell
 - reydb
 - cdxcore
 - steeleagle-sdk
 - DimitrInnom-library
 - stash-ai-server
-- authentik-client
-- noaithx
 - llama-api-client
 - closed-circuit-ai
 - opensearch-protobufs
@@ -47,53 +95,3 @@
 - pyatcommand
 - pluthon
 - portable-python
-- aind-smartsheet-service-async-client
-- aind-smartsheet-service-client
-- celar
-- planet
-- DKInnom-library
-- plone.app.iterate
-- pyqrackising
-- gitpure
-- auris_tools
-- sim-sci-test-monorepo-core
-- flyteplugins-spark
-- flyteplugins-openai
-- flyte
-- flyteplugins-dask
-- flyteplugins-ray
-- cgmm
-- sheetsight
-- kongalib
-- cybrid-api-bank-python
-- maya-brew
-- cjm-fasthtml-sysmon
-- cybrid-api-organization-python
-- cybrid-api-id-python
-- sapiens-transformers
-- cerb-code
-- crstlmeth
-- kirin-toolchain
-- bettergit
-- pyAgrum-nightly
-- airbyte
-- truss
-- simplini
-- unified-xai
-- manipulation
-- les-louisdelatech
-- futurehouse-client
-- tartanair
-- fmapip
-- anta-database
-- netbook
-- aws-cdk.region-info
-- aws-cdk.integ-tests-alpha
-- aws-cdk.cx-api
-- aws-cdk.aws-servicecatalogappregistry-alpha
-- aws-cdk.aws-sagemaker-alpha
-- aws-cdk.aws-s3tables-alpha
-- aws-cdk.aws-s3objectlambda-alpha
-- aws-cdk.aws-route53resolver-alpha
-- aws-cdk.aws-redshift-alpha
-- aws-cdk.aws-pipes-targets-alpha

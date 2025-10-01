@@ -1,11 +1,11 @@
 {
   "name": "les-louisdelatech",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "LouisDeLaTech is a discord bot manager for Lyon e-Sport",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "les_louisdelatech-0.5.2.tar.gz",
-  "download_time": "2025-10-01T21:11:26.698482",
+  "download_filename": "les_louisdelatech-0.5.3.tar.gz",
+  "download_time": "2025-10-01T21:29:11.331441",
   "package_url": "https://pypi.org/project/les-louisdelatech/"
 }

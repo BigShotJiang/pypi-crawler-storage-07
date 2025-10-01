@@ -1,11 +1,11 @@
 {
   "name": "jumper-extension",
-  "version": "0.3.0",
+  "version": "0.3.3",
   "summary": "IPython extension for monitoring cell performance",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jumper_extension-0.3.0.tar.gz",
-  "download_time": "2025-10-01T19:25:29.206802",
+  "download_filename": "jumper_extension-0.3.3.tar.gz",
+  "download_time": "2025-10-01T21:28:44.161768",
   "package_url": "https://pypi.org/project/jumper-extension/"
 }

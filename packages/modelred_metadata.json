@@ -1,11 +1,11 @@
 {
   "name": "modelred",
-  "version": "0.1.22",
+  "version": "0.1.23",
   "summary": "ModelRed SDK - Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "modelred-0.1.22.tar.gz",
-  "download_time": "2025-09-30T21:10:50.784991",
+  "download_filename": "modelred-0.1.23.tar.gz",
+  "download_time": "2025-10-01T21:28:53.010428",
   "package_url": "https://pypi.org/project/modelred/"
 }

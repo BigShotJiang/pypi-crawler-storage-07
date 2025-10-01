@@ -1,11 +1,11 @@
 {
   "name": "closed-circuit-ai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "closed-circuit-ai",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "closed_circuit_ai-1.0.0.tar.gz",
-  "download_time": "2025-10-01T16:14:15.145036",
+  "download_filename": "closed_circuit_ai-1.0.1.tar.gz",
+  "download_time": "2025-10-01T21:29:29.683808",
   "package_url": "https://pypi.org/project/closed-circuit-ai/"
 }

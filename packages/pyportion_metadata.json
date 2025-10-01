@@ -1,0 +1,11 @@
+{
+  "name": "pyportion",
+  "version": "0.0.5",
+  "summary": "Python CLI to manage your projects",
+  "author": "Murtada Altarouti",
+  "license": "MIT",
+  "home_page": "https://github.com/pyportion/pyportion",
+  "download_filename": "pyportion-0.0.5.tar.gz",
+  "download_time": "2025-10-01T21:29:11.874732",
+  "package_url": "https://pypi.org/project/pyportion/"
+}
