@@ -1,11 +1,11 @@
 {
   "name": "gnobjects",
-  "version": "0.0.0.0.18",
+  "version": "0.0.0.0.19",
   "summary": "gnobjects",
   "author": "KeyisB",
   "license": "MMB License v1.0",
   "home_page": "https://github.com/KeyisB/libs/tree/main/gnobjects",
-  "download_filename": "gnobjects-0.0.0.0.18.tar.gz",
-  "download_time": "2025-09-28T07:10:17.685391",
+  "download_filename": "gnobjects-0.0.0.0.19.tar.gz",
+  "download_time": "2025-10-01T17:48:46.531500",
   "package_url": "https://pypi.org/project/gnobjects/"
 }

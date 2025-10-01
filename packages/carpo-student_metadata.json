@@ -1,0 +1,11 @@
+{
+  "name": "carpo-student",
+  "version": "0.2.9",
+  "summary": "JupyterLab extension with backend and frontend parts for carpo student.",
+  "author": "test",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/github_username/carpo-student",
+  "download_filename": "carpo_student-0.2.9.tar.gz",
+  "download_time": "2025-10-01T17:48:57.342501",
+  "package_url": "https://pypi.org/project/carpo-student/"
+}

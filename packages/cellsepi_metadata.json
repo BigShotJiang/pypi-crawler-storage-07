@@ -1,11 +1,11 @@
 {
   "name": "cellsepi",
-  "version": "1.1.9.7",
+  "version": "1.1.9.9.1",
   "summary": "Segmentation of microscopy images and data analysis pipeline with a graphical user interface, powered by Cellpose.",
   "author": "Jenna Ahlvers, Santosh Chhetri Thapa, Nike Dratt, Pascal Heß, Florian Hock",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/PraiseTheDarkFlo/CellSePi",
-  "download_filename": "cellsepi-1.1.9.7.tar.gz",
-  "download_time": "2025-10-01T17:31:46.508701",
+  "download_filename": "cellsepi-1.1.9.9.1.tar.gz",
+  "download_time": "2025-10-01T17:49:00.006426",
   "package_url": "https://pypi.org/project/cellsepi/"
 }

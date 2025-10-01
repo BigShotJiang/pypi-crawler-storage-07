@@ -1,0 +1,11 @@
+{
+  "name": "esp-idf-size",
+  "version": "2.0.0",
+  "summary": "Firmware size analysis for ESP-IDF",
+  "author": "Espressif Systems",
+  "license": null,
+  "home_page": "https://github.com/espressif/esp-idf-size",
+  "download_filename": "esp_idf_size-2.0.0.tar.gz",
+  "download_time": "2025-10-01T17:49:02.635158",
+  "package_url": "https://pypi.org/project/esp-idf-size/"
+}

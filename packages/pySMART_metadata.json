@@ -1,0 +1,11 @@
+{
+  "name": "pySMART",
+  "version": "1.4.2",
+  "summary": "Wrapper for smartctl (smartmontools)",
+  "author": null,
+  "license": "GNU LGPLv2.1",
+  "home_page": null,
+  "download_filename": "pysmart-1.4.2.tar.gz",
+  "download_time": "2025-10-01T17:49:00.530496",
+  "package_url": "https://pypi.org/project/pySMART/"
+}
