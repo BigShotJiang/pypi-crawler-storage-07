@@ -1,0 +1,11 @@
+{
+  "name": "picca",
+  "version": "9.19.0",
+  "summary": "Package for Igm Cosmological-Correlations Analyses",
+  "author": "Nicolas Busca, Helion du Mas des Bourboux, Michael Walther, The DESI Lya forest picca topical group",
+  "license": null,
+  "home_page": null,
+  "download_filename": "picca-9.19.0.tar.gz",
+  "download_time": "2025-10-01T23:27:51.536674",
+  "package_url": "https://pypi.org/project/picca/"
+}

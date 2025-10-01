@@ -1,11 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-01T23:13:03.175123
-- **Total Packages**: 79
-- **Total Size**: 24.43 MB
+- **Download Time**: 2025-10-01T23:28:39.804259
+- **Total Packages**: 83
+- **Total Size**: 18.22 MB
 
 ## Packages List
+- redisvl
+- pulumi-xyz
+- picca
+- authentik-client
+- nubrain
+- opencua
+- eclipse-nn
+- yumako
+- reflex-agent
+- infraweave
+- cecil
+- dbqt
+- apache-tvm-ffi
+- aerospike
+- OpenImageIO
+- saptiva-agents
+- csaf
+- volttron-testing
+- agenthub-py
+- syllable-sdk
+- proompt
+- kuzu-memory
 - mdsasa-bolt
 - planet-auth
 - minecode-pipelines
@@ -21,8 +43,6 @@
 - cirq-core
 - cirq-ionq
 - cirq-google
-- authentik-client
-- agenthub-py
 - session-mgmt-mcp
 - ppef
 - zeroproof
@@ -60,7 +80,6 @@
 - compel
 - xurls
 - omnimancer-cli
-- saptiva-agents
 - quant1x
 - tundra-cli
 - biblemate
@@ -70,18 +89,3 @@
 - agentmake
 - invocation-tree
 - fabric-user-data-functions
-- deriva-ml
-- bgen
-- moose-lib
-- segmentation-skeleton-metrics
-- gable
-- gehseeker
-- fiap-IA-SimpleModule
-- bettergit
-- memory-graph
-- mem8
-- aiiware-cli
-- infrahub-server
-- tokonomics
-- infrahub-testcontainers
-- dsf-logic-sdk

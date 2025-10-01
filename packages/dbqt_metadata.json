@@ -1,0 +1,11 @@
+{
+  "name": "dbqt",
+  "version": "0.1.14",
+  "summary": "DataBase Quality Tool",
+  "author": "NamiLink",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbqt-0.1.14.tar.gz",
+  "download_time": "2025-10-01T23:27:57.905790",
+  "package_url": "https://pypi.org/project/dbqt/"
+}

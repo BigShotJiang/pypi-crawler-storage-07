@@ -1,11 +1,11 @@
 {
   "name": "volttron-testing",
-  "version": "0.5.1rc3",
+  "version": "0.5.1rc4",
   "summary": "The volttron-testing library contains classes and utilities for interacting with a VOLTTRON instance.",
   "author": "VOLTTRON Team",
   "license": "Apache-2.0",
   "home_page": "https://github.com/eclipse-volttron/volttron-testing",
-  "download_filename": "volttron_testing-0.5.1rc3.tar.gz",
-  "download_time": "2025-10-01T02:29:58.822544",
+  "download_filename": "volttron_testing-0.5.1rc4.tar.gz",
+  "download_time": "2025-10-01T23:28:02.793886",
   "package_url": "https://pypi.org/project/volttron-testing/"
 }
