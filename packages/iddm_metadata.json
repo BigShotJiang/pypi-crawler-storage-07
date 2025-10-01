@@ -1,0 +1,11 @@
+{
+  "name": "iddm",
+  "version": "1.2.3",
+  "summary": "IDDM: Integrated Design Diffusion Model",
+  "author": "chairc",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/chairc/Integrated-Design-Diffusion-Model",
+  "download_filename": "iddm-1.2.3.tar.gz",
+  "download_time": "2025-10-01T16:14:16.818767",
+  "package_url": "https://pypi.org/project/iddm/"
+}

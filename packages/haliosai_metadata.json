@@ -1,11 +1,11 @@
 {
   "name": "haliosai",
-  "version": "1.0.1",
-  "summary": "Advanced AI Guardrails SDK for LLM applications",
+  "version": "1.0.3",
+  "summary": "Advanced Guardrails and Evaluation SDK for AI Agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "haliosai-1.0.1.tar.gz",
-  "download_time": "2025-10-01T05:48:51.462362",
+  "download_filename": "haliosai-1.0.3.tar.gz",
+  "download_time": "2025-10-01T16:14:42.866195",
   "package_url": "https://pypi.org/project/haliosai/"
 }

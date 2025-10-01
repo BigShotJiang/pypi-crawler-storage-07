@@ -1,0 +1,11 @@
+{
+  "name": "mldmtd",
+  "version": "1.1.3",
+  "summary": "Methodology to locate the minimum and maximum depth of the thermocline",
+  "author": "Emmanuel Romero",
+  "license": "CC-BY-4.0",
+  "home_page": "https://github.com/romeroqe/mld-mtd",
+  "download_filename": "mldmtd-1.1.3.tar.gz",
+  "download_time": "2025-10-01T16:14:13.408404",
+  "package_url": "https://pypi.org/project/mldmtd/"
+}

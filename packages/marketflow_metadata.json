@@ -1,11 +1,11 @@
 {
   "name": "marketflow",
-  "version": "1.1.86",
-  "summary": "Access to African, American, European and Asian market data for financial analysis, scientific study and to provide a decision-making basis to investors.",
-  "author": "ODJO OLABIYI AUREL GEOFFROY",
+  "version": "1.1.871",
+  "summary": "Access to African, American, European and Asian market data for financial analysis.",
+  "author": null,
   "license": null,
-  "home_page": "https://github.com/xgeosoft/marketflow",
-  "download_filename": "marketflow-1.1.86.tar.gz",
-  "download_time": "2025-10-01T14:34:44.006119",
+  "home_page": null,
+  "download_filename": "marketflow-1.1.871.tar.gz",
+  "download_time": "2025-10-01T16:14:36.475553",
   "package_url": "https://pypi.org/project/marketflow/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "syft-job",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "A generic job submission system for data science workflows with syft:// URL support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "syft_job-0.1.6.tar.gz",
-  "download_time": "2025-10-01T15:43:45.738834",
+  "download_filename": "syft_job-0.1.8.tar.gz",
+  "download_time": "2025-10-01T16:14:13.955501",
   "package_url": "https://pypi.org/project/syft-job/"
 }

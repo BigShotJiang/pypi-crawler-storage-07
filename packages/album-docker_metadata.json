@@ -1,0 +1,11 @@
+{
+  "name": "album-docker",
+  "version": "0.2.0",
+  "summary": "album plugin for building docker images from solutions",
+  "author": "Lucas Rieckert, Jan Philipp Albrecht, Deborah Schmidt",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/album-app/plugins/album-docker",
+  "download_filename": "album_docker-0.2.0.tar.gz",
+  "download_time": "2025-10-01T16:14:38.589237",
+  "package_url": "https://pypi.org/project/album-docker/"
+}

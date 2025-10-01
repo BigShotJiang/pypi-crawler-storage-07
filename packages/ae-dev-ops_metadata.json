@@ -1,11 +1,11 @@
 {
   "name": "ae-dev-ops",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "ae namespace module portion dev_ops: project development variables and helpers",
   "author": "AndiEcker",
   "license": "GPL-3.0-or-later",
   "home_page": "https://gitlab.com/ae-group/ae_dev_ops",
-  "download_filename": "ae_dev_ops-0.3.3.tar.gz",
-  "download_time": "2025-09-28T18:12:28.737418",
+  "download_filename": "ae_dev_ops-0.3.4.tar.gz",
+  "download_time": "2025-10-01T16:14:07.196684",
   "package_url": "https://pypi.org/project/ae-dev-ops/"
 }
