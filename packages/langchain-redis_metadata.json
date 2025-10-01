@@ -1,0 +1,11 @@
+{
+  "name": "langchain-redis",
+  "version": "0.2.4",
+  "summary": "An integration package connecting Redis and LangChain for AI working memory",
+  "author": "Brian Sam-Bodden",
+  "license": "MIT",
+  "home_page": "https://github.com/langchain-ai/langchain-redis",
+  "download_filename": "langchain_redis-0.2.4.tar.gz",
+  "download_time": "2025-10-01T22:41:10.523496",
+  "package_url": "https://pypi.org/project/langchain-redis/"
+}

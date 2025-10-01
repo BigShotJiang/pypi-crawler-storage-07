@@ -1,0 +1,11 @@
+{
+  "name": "fiap-IA-SimpleModule",
+  "version": "1.0.0",
+  "summary": "Lib pdo Curso FIAP de IA para DEV's",
+  "author": "Ricardo Franco Hernandez",
+  "license": "MIT",
+  "home_page": "https://github.com/ricardoHer/FIAP-IA-SimpleModule",
+  "download_filename": "fiap_ia_simplemodule-1.0.0.tar.gz",
+  "download_time": "2025-10-01T22:41:04.692817",
+  "package_url": "https://pypi.org/project/fiap-IA-SimpleModule/"
+}

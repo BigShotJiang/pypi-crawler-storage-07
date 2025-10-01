@@ -1,11 +1,11 @@
 {
   "name": "dsf-logic-sdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "SDK for DSF Logic API - Conditional Logic Evaluation",
   "author": "Jaime Alexander Jimenez",
   "license": null,
   "home_page": "https://github.com/jaimeajl/dsf-logic-sdk",
-  "download_filename": "dsf_logic_sdk-1.0.2-py3-none-any.whl",
-  "download_time": "2025-10-01T22:31:09.389478",
+  "download_filename": "dsf_logic_sdk-1.0.3-py3-none-any.whl",
+  "download_time": "2025-10-01T22:41:10.002564",
   "package_url": "https://pypi.org/project/dsf-logic-sdk/"
 }
