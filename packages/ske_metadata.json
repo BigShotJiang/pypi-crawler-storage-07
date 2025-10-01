@@ -1,0 +1,11 @@
+{
+  "name": "ske",
+  "version": "0.1.1",
+  "summary": "Simple XOR file encryptor (.ske)",
+  "author": "sky",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ske-0.1.1.tar.gz",
+  "download_time": "2025-10-01T19:25:37.345465",
+  "package_url": "https://pypi.org/project/ske/"
+}

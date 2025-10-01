@@ -1,11 +1,11 @@
 {
   "name": "denario",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "summary": "Modular Automation of Scientific Research with Multi-Agent Systems",
   "author": "Pablo Villanueva-Domingo, Francisco Villaescusa-Navarro, Boris Bolliet",
   "license": "GPLv3",
   "home_page": null,
-  "download_filename": "denario-0.1.21-py3-none-any.whl",
-  "download_time": "2025-09-28T16:47:52.889919",
+  "download_filename": "denario-0.1.22.tar.gz",
+  "download_time": "2025-10-01T19:25:19.947712",
   "package_url": "https://pypi.org/project/denario/"
 }

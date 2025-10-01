@@ -1,0 +1,11 @@
+{
+  "name": "pyroxi",
+  "version": "0.1.0",
+  "summary": "A Python package for connecting to a proxy and sending packets.",
+  "author": "bettercallninja",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyroxi-0.1.0.tar.gz",
+  "download_time": "2025-10-01T19:26:05.467030",
+  "package_url": "https://pypi.org/project/pyroxi/"
+}

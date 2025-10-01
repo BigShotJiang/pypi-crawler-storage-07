@@ -1,11 +1,11 @@
 {
   "name": "iap-messenger",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "summary": "Messaging service package for IA PARC",
   "author": "Bertrand Louargant",
   "license": null,
   "home_page": null,
-  "download_filename": "iap_messenger-1.5.0.tar.gz",
-  "download_time": "2025-10-01T13:52:21.965182",
+  "download_filename": "iap_messenger-1.5.1.tar.gz",
+  "download_time": "2025-10-01T19:26:01.485736",
   "package_url": "https://pypi.org/project/iap-messenger/"
 }

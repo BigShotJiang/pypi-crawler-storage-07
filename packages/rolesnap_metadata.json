@@ -1,0 +1,11 @@
+{
+  "name": "rolesnap",
+  "version": "0.9.0",
+  "summary": "Structured, role-based code snapshots for LLMs. Enforce architecture boundaries.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "rolesnap-0.9.0.tar.gz",
+  "download_time": "2025-10-01T19:25:58.210513",
+  "package_url": "https://pypi.org/project/rolesnap/"
+}
