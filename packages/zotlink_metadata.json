@@ -1,11 +1,11 @@
 {
   "name": "zotlink",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "summary": "ZotLink - 智能学术文献管理 MCP 服务器",
   "author": "ScholarTool Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zotlink-1.3.2.tar.gz",
-  "download_time": "2025-10-01T03:32:05.701121",
+  "download_filename": "zotlink-1.3.3.tar.gz",
+  "download_time": "2025-10-01T03:55:32.695267",
   "package_url": "https://pypi.org/project/zotlink/"
 }

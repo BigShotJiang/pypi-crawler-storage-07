@@ -1,16 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-01T03:32:41.040070
-- **Total Packages**: 85
-- **Total Size**: 25.2 MB
+- **Download Time**: 2025-10-01T03:56:03.943661
+- **Total Packages**: 83
+- **Total Size**: 32.04 MB
 
 ## Packages List
+- pulumi-aiven
+- braintrust-langchain
+- promptantic
+- odoo14-addon-ssi-risk-limit
+- TeLLMgramBot
+- navam
+- fastquadtree
+- odoo-addons-oca-server-tools
+- odoo-addon-autovacuum-message-attachment
+- odoo-addon-base-name-search-improved
+- odoo-addon-fetchmail-attach-from-folder
+- pyautd3-emulator
+- publicsuffixlist
+- django-unicom
+- pypi-upload-demo
+- django-login-email
+- pulumi-confluentcloud
+- docling-eval
+- pytexmk
+- onellmclient
+- colab-zirc-dims
+- maleo-schemas
+- entrophier
+- scrapling
+- zotlink
+- process-gpt-agent-sdk
+- flask-shopify-utils
+- apsimNGpy
+- Mopidy-Marceline
+- sycommon-python-lib
+- langstruct
+- hardware-benchmark
+- authentik-client
+- gllm-agents-binary
+- prime
+- akari-bot-webui
+- keras-rs-nightly
+- re-invent-2025-mcp
 - GANDLF
 - ocp-gordon
 - odoo-addon-product-ingredient
 - phandas
 - wingwalker
+- aequilibrae
 - agently
 - ersilia
 - libdyson-rest
@@ -26,9 +65,7 @@
 - optimum-rbln
 - odoo-addon-mgmtsystem-nonconformity
 - chain-compose
-- zotlink
 - pynhl
-- fastquadtree
 - evmspec
 - fred-oss
 - jupyterlab-cpg-portal
@@ -36,9 +73,7 @@
 - aiq-platform-api
 - sportsball
 - pwnkit
-- authentik-client
 - lumibot
-- langstruct
 - episcope
 - odoo14-addon-ssi-sale
 - forecasting-tools
@@ -54,40 +89,3 @@
 - types-grpcio
 - gitopenlib
 - ob-metaflow
-- aenet-gpr
-- statsig-python-core
-- abstract-math
-- maven-proxy
-- bedrock-agentcore-starter-toolkit
-- tetsuya
-- litmus-rm
-- baml-cc
-- quadtree-rs
-- heysol-api-client
-- odoo-addon-edi-oca
-- odoo-addon-edi-project-oca
-- odoo-addon-edi-account-oca
-- memg-core
-- bm25-rs
-- mixsea
-- UW-RestClients-Canvas
-- queuesim
-- naif-eop-high-prec
-- mpc-obscodes
-- robhan-cdk-lib.aws-aps
-- robhan-cdk-lib.aws-grafana
-- aif-workflow-helper
-- robhan-cdk-lib.utils
-- gmdkit
-- odoo-addon-crm-stage-multi-team
-- meltanolabs-tap-github
-- clusterscope
-- glidergun
-- dsf-access-sdk
-- biobase
-- upils
-- onnxruntime-transformers
-- samudra-ai
-- graphlit-client
-- struct-strm
-- qrpa

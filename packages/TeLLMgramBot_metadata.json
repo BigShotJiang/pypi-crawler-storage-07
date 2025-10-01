@@ -1,0 +1,11 @@
+{
+  "name": "TeLLMgramBot",
+  "version": "2.0.0",
+  "summary": "OpenAI GPT, driven by Telegram",
+  "author": "Digital Heresy",
+  "license": "MIT",
+  "home_page": "https://github.com/Digital-Heresy/TeLLMgramBot",
+  "download_filename": "tellmgrambot-2.0.0.tar.gz",
+  "download_time": "2025-10-01T03:55:22.362140",
+  "package_url": "https://pypi.org/project/TeLLMgramBot/"
+}
