@@ -1,0 +1,11 @@
+{
+  "name": "playsound3",
+  "version": "3.2.8",
+  "summary": "Cross-platform library to play audio files",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "playsound3-3.2.8.tar.gz",
+  "download_time": "2025-10-01T19:48:55.586268",
+  "package_url": "https://pypi.org/project/playsound3/"
+}

@@ -1,11 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-01T19:34:30.221299
-- **Total Packages**: 90
-- **Total Size**: 7.01 MB
+- **Download Time**: 2025-10-01T19:49:43.550296
+- **Total Packages**: 86
+- **Total Size**: 11.12 MB
 
 ## Packages List
+- spydcmtk
+- neuralforecast
+- langgraph-api
+- utn-fra
+- vivarium-build-utils
+- playsound3
+- py_fatigue
+- weycop
+- coiled
+- deeporigin
+- sapiopycommons
+- v440
+- bmsspy
+- fused
+- uv-ship
+- jupiterone
+- blarify
+- secchecker
+- mypy-boto3-pcs
+- mypy-boto3-ecs
+- ai-security-mcp
+- mypy-boto3-dms
+- types-boto3-lite
+- types-boto3
+- mypy-boto3-cleanrooms
+- mypy-boto3-chime-sdk-meetings
+- mypy-boto3-cleanroomsml
+- types-boto3-pcs
+- types-boto3-ecs
+- types-boto3-dms
+- types-boto3-cleanrooms
+- types-boto3-cleanroomsml
+- types-boto3-chime-sdk-meetings
+- dz-lib
+- python-snake-game
+- tap-belvo
+- autarco
+- sphinxnotes-project
+- boto3
+- awscli
+- acb
+- stash-ai-server
+- runware
+- simplini
+- modal
+- js-python-starter
+- pipeline-eds
+- rashdf
+- authentik-client
+- qanswer_sdk
+- arize
+- py-license-auditor
 - krnel-graph
 - nemorosa
 - nmdc-schema
@@ -13,7 +65,6 @@
 - gunicorn-prometheus-exporter
 - vector-vault
 - exobengal
-- secchecker
 - openseries
 - tai-ttex
 - commizard
@@ -23,11 +74,9 @@
 - invocation-tree
 - bluer-options
 - ahbicht
-- arize
 - geomaglib
 - bluer-sandbox
 - toneswiper
-- utn-fra
 - dissect.fve
 - altscore
 - gammarers.aws-daily-cost-usage-report-stack
@@ -36,63 +85,10 @@
 - ligo-cgmi
 - denario
 - dkist-processing-common
-- langgraph-api
 - git-goose
-- authentik-client
 - phoenix-bot-api
 - django-language-server
 - pyspedas
 - aspose-total-java
 - aurora-dsql-django
 - burla
-- terra-scientific-pipelines-service-api-client
-- novavision-cli
-- vocalizr
-- jumper-extension
-- alchemystai
-- mdxcanvas
-- globus-compute-endpoint
-- decent-bench
-- globus-compute-sdk
-- ECOv003-L3T-L4T-JET
-- llama-stack-provider-ragas
-- large-image-source-zarr
-- ben-lammps-utils
-- pydantic-shapely
-- large-image-source-vips
-- cybrid-api-bank-python
-- ske
-- large-image-source-tifffile
-- large-image-source-tiff
-- cybrid-api-id-python
-- large-image-source-test
-- code-puppy
-- large-image-source-rasterio
-- large-image-source-pil
-- planet
-- large-image-source-openslide
-- orionis
-- large-image-source-openjpeg
-- cybrid-api-organization-python
-- large-image-source-ometiff
-- large-image-source-nd2
-- sdss-almanac
-- large-image-source-multi
-- large-image-source-mapnik
-- ttnn-visualizer
-- large-image-source-gdal
-- large-image-source-dummy
-- fastgraphFPMS
-- sphinx-ubuntu-images
-- large-image-source-dicom
-- large-image-source-deepzoom
-- large-image-source-bioformats
-- large-image-tasks
-- large-image-converter
-- girder-large-image-annotation
-- girder-large-image
-- g4x_helpers
-- large-image
-- tardis-em
-- napari-tardis-em
-- tardis-em-analysis

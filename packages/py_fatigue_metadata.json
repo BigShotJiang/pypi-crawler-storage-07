@@ -1,0 +1,11 @@
+{
+  "name": "py_fatigue",
+  "version": "2.0.4",
+  "summary": "Py-fatigue bundles the main functionality for performing cyclic stress (fatigue) analysis and cycle-counting.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_fatigue-2.0.4.tar.gz",
+  "download_time": "2025-10-01T19:48:56.189032",
+  "package_url": "https://pypi.org/project/py_fatigue/"
+}
