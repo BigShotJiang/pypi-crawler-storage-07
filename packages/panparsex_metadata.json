@@ -1,11 +1,11 @@
 {
   "name": "panparsex",
-  "version": "0.1.7",
+  "version": "0.1.10",
   "summary": "Universal, extensible parser for many file types and websites with a clean plugin architecture.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "panparsex-0.1.7.tar.gz",
-  "download_time": "2025-10-01T05:32:39.967259",
+  "download_filename": "panparsex-0.1.10.tar.gz",
+  "download_time": "2025-10-01T17:11:18.072688",
   "package_url": "https://pypi.org/project/panparsex/"
 }

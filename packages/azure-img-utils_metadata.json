@@ -1,0 +1,11 @@
+{
+  "name": "azure-img-utils",
+  "version": "2.5.0",
+  "summary": "Package that provides utilities for handling images in Azure Cloud.",
+  "author": "SUSE",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/SUSE-Enceladus/azure-img-utils",
+  "download_filename": "azure_img_utils-2.5.0.tar.gz",
+  "download_time": "2025-10-01T17:11:38.453866",
+  "package_url": "https://pypi.org/project/azure-img-utils/"
+}

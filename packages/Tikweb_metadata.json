@@ -1,11 +1,11 @@
 {
   "name": "Tikweb",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "TikTok Web automation and utilities",
   "author": "Lariot & Horte",
   "license": "MIT",
   "home_page": "https://github.com/Trade999/Tikweb",
-  "download_filename": "tikweb-1.0.4.tar.gz",
-  "download_time": "2025-10-01T06:56:23.614135",
+  "download_filename": "tikweb-1.0.5.tar.gz",
+  "download_time": "2025-10-01T17:11:02.124011",
   "package_url": "https://pypi.org/project/Tikweb/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "stream-python",
+  "version": "5.4.0",
+  "summary": "Client for getstream.io. Build scalable newsfeeds & activity streams in a few hours instead of weeks.",
+  "author": "Thierry Schellenbach",
+  "license": "BSD-3-Clause",
+  "home_page": "http://github.com/GetStream/stream-python",
+  "download_filename": "stream-python-5.4.0.tar.gz",
+  "download_time": "2025-10-01T17:11:43.698511",
+  "package_url": "https://pypi.org/project/stream-python/"
+}

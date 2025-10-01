@@ -1,0 +1,11 @@
+{
+  "name": "simpledataquality",
+  "version": "1.0.8",
+  "summary": "A package implement a basic data quelity check",
+  "author": "Alan Medina",
+  "license": null,
+  "home_page": "https://github.com/amedinag32/simpledataquality",
+  "download_filename": "simpledataquality-1.0.8.tar.gz",
+  "download_time": "2025-10-01T17:11:50.042863",
+  "package_url": "https://pypi.org/project/simpledataquality/"
+}

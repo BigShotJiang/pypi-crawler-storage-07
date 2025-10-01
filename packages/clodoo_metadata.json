@@ -1,0 +1,11 @@
+{
+  "name": "clodoo",
+  "version": "2.0.17",
+  "summary": "Do massive operations on Odoo Cloud",
+  "author": "Antonio Maria Vigliotti",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/zeroincombenze/tools",
+  "download_filename": "clodoo-2.0.17.tar.gz",
+  "download_time": "2025-10-01T17:11:13.178854",
+  "package_url": "https://pypi.org/project/clodoo/"
+}

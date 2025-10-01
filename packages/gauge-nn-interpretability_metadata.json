@@ -1,0 +1,11 @@
+{
+  "name": "gauge-nn-interpretability",
+  "version": "1.0.3",
+  "summary": "Computational Gauge Theory for Neural Network Interpretability",
+  "author": "Michael J. Pendleton",
+  "license": null,
+  "home_page": "https://github.com/theaicowboys/gauge-nn-interpretability",
+  "download_filename": "gauge_nn_interpretability-1.0.3.tar.gz",
+  "download_time": "2025-10-01T17:11:16.408793",
+  "package_url": "https://pypi.org/project/gauge-nn-interpretability/"
+}

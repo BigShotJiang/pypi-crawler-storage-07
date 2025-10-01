@@ -1,0 +1,11 @@
+{
+  "name": "rocmi",
+  "version": "0.3.1",
+  "summary": "Pure Python implementation of ROCm metircs and management interfaces",
+  "author": "Mathew Odden",
+  "license": null,
+  "home_page": "https://github.com/mrodden/rocmi",
+  "download_filename": "rocmi-0.3.1.tar.gz",
+  "download_time": "2025-10-01T17:11:12.115986",
+  "package_url": "https://pypi.org/project/rocmi/"
+}

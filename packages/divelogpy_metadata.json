@@ -1,11 +1,11 @@
 {
   "name": "divelogpy",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Dive log analysis workspace",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "divelogpy-0.1.5.tar.gz",
-  "download_time": "2025-09-30T23:33:51.252463",
+  "download_filename": "divelogpy-0.1.6.tar.gz",
+  "download_time": "2025-10-01T17:11:32.470554",
   "package_url": "https://pypi.org/project/divelogpy/"
 }

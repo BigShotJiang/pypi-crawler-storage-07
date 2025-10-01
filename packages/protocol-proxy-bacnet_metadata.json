@@ -1,11 +1,11 @@
 {
   "name": "protocol-proxy-bacnet",
-  "version": "2.0.0rc1",
+  "version": "2.0.0rc2",
   "summary": "A BACnet Protocol Proxy implementation. A BACnet Manager is provided which can launch proxy devices for communication with a BACnet network.",
   "author": "The VOLTTRON Development Team",
   "license": "Apache-2.0",
   "home_page": "https://github.com/eclipse-volttron/lib-protocol-proxy-bacnet",
-  "download_filename": "protocol_proxy_bacnet-2.0.0rc1.tar.gz",
-  "download_time": "2025-09-30T12:21:52.606853",
+  "download_filename": "protocol_proxy_bacnet-2.0.0rc2.tar.gz",
+  "download_time": "2025-10-01T17:11:46.305722",
   "package_url": "https://pypi.org/project/protocol-proxy-bacnet/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "policyengine-core",
+  "version": "3.20.1",
+  "summary": "Core microsimulation engine enabling country-specific policy models.",
+  "author": "PolicyEngine",
+  "license": "https://www.fsf.org/licensing/licenses/agpl-3.0.html",
+  "home_page": "https://github.com/policyengine/policyengine-core",
+  "download_filename": "policyengine_core-3.20.1.tar.gz",
+  "download_time": "2025-10-01T17:11:19.148586",
+  "package_url": "https://pypi.org/project/policyengine-core/"
+}
