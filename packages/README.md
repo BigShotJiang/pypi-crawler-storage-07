@@ -1,12 +1,25 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-01T05:12:47.506689
-- **Total Packages**: 90
-- **Total Size**: 5.9 MB
+- **Download Time**: 2025-10-01T05:33:26.513484
+- **Total Packages**: 88
+- **Total Size**: 1.65 MB
 
 ## Packages List
+- bool-hybrid-array
+- RegixTest
+- pulumi-archive
+- pulumi-akamai
+- TyphonBreaker
+- panparsex
+- pulumi-aiven
+- smu-ontwins-demo
 - dataguild-snowflake-connector
+- re-invent-2025-mcp
+- getlino
+- santok
+- fiddler-evals
+- zotlink
 - async-llms
 - quantmini
 - beans-logging
@@ -19,7 +32,6 @@
 - skeptofox
 - pytest-homeassistant-custom-component
 - konigle
-- panparsex
 - meltano-tap-circle-ci
 - StoryForge
 - cyberdrop-dl-fix
@@ -82,17 +94,3 @@
 - livekit-plugins-groq
 - livekit-plugins-google
 - livekit-plugins-gladia
-- livekit-plugins-fireworksai
-- livekit-plugins-fal
-- ai-lls-lib
-- livekit-plugins-elevenlabs
-- livekit-plugins-deepgram
-- aws-fsx-lifecycle-status-monitor
-- livekit-plugins-clova
-- livekit-plugins-cartesia
-- livekit-plugins-bithuman
-- livekit-plugins-bey
-- livekit-plugins-baseten
-- livekit-plugins-azure
-- livekit-plugins-aws
-- livekit-plugins-assemblyai
