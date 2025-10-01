@@ -1,0 +1,11 @@
+{
+  "name": "dsf-api-sdk",
+  "version": "1.0.2",
+  "summary": "SDK for DSF API Validation",
+  "author": "Jaime Alexander Jimenez",
+  "license": null,
+  "home_page": "https://github.com/jaimeajl/dsf-api-sdk",
+  "download_filename": "dsf_api_sdk-1.0.2-py3-none-any.whl",
+  "download_time": "2025-10-01T18:18:50.103955",
+  "package_url": "https://pypi.org/project/dsf-api-sdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fastgraphFPMS",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Fast Graph Algorithms Library implemented in C++",
   "author": "Flavio D.",
   "license": null,
   "home_page": null,
-  "download_filename": "fastgraphfpms-1.0.0.tar.gz",
-  "download_time": "2025-10-01T17:41:16.094611",
+  "download_filename": "fastgraphfpms-1.0.2.tar.gz",
+  "download_time": "2025-10-01T18:18:54.659135",
   "package_url": "https://pypi.org/project/fastgraphFPMS/"
 }

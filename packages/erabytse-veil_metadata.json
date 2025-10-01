@@ -1,0 +1,11 @@
+{
+  "name": "erabytse-veil",
+  "version": "0.1.0",
+  "summary": "An ethical veil for image metadata — not deletion, but intentional protection.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "erabytse_veil-0.1.0.tar.gz",
+  "download_time": "2025-10-01T18:18:53.483958",
+  "package_url": "https://pypi.org/project/erabytse-veil/"
+}

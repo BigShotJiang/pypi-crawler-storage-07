@@ -1,0 +1,11 @@
+{
+  "name": "xmlcanon",
+  "version": "1.0.0",
+  "summary": "XML Canonicalization для Python",
+  "author": "Daniil (imdeniil)",
+  "license": "MIT",
+  "home_page": "https://github.com/imdeniil/xmlcanon",
+  "download_filename": "xmlcanon-1.0.0.tar.gz",
+  "download_time": "2025-10-01T18:18:57.585558",
+  "package_url": "https://pypi.org/project/xmlcanon/"
+}

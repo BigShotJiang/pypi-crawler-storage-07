@@ -1,0 +1,11 @@
+{
+  "name": "jupyter-offlinenotebook",
+  "version": "0.3.2",
+  "summary": "Save and load notebooks to local-storage",
+  "author": "Simon Li",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/manics/jupyter-offlinenotebook",
+  "download_filename": "jupyter_offlinenotebook-0.3.2.tar.gz",
+  "download_time": "2025-10-01T18:18:42.994898",
+  "package_url": "https://pypi.org/project/jupyter-offlinenotebook/"
+}
