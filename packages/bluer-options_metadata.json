@@ -1,11 +1,11 @@
 {
   "name": "bluer-options",
-  "version": "5.173.1",
+  "version": "5.175.1",
   "summary": "🌀 Options for Bash.",
   "author": "Arash Abadpour (Kamangir)",
   "license": "CC0-1.0",
   "home_page": "https://github.com/kamangir/bluer-options",
-  "download_filename": "bluer_options-5.173.1.tar.gz",
-  "download_time": "2025-10-01T10:50:42.270644",
+  "download_filename": "bluer_options-5.175.1.tar.gz",
+  "download_time": "2025-10-01T19:33:48.340688",
   "package_url": "https://pypi.org/project/bluer-options/"
 }
