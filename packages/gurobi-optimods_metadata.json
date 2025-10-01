@@ -1,0 +1,11 @@
+{
+  "name": "gurobi-optimods",
+  "version": "2.4.0",
+  "summary": "Data-driven APIs for common optimization tasks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gurobi_optimods-2.4.0.tar.gz",
+  "download_time": "2025-10-01T09:25:51.771651",
+  "package_url": "https://pypi.org/project/gurobi-optimods/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "opswork",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "summary": "OpsWork Swiss Knife.",
   "author": "Clivern",
   "license": "MIT",
   "home_page": "https://github.com/Clivern/OpsWork/",
-  "download_filename": "opswork-0.10.0.tar.gz",
-  "download_time": "2025-09-28T22:28:50.620613",
+  "download_filename": "opswork-0.10.1.tar.gz",
+  "download_time": "2025-10-01T09:26:18.148809",
   "package_url": "https://pypi.org/project/opswork/"
 }

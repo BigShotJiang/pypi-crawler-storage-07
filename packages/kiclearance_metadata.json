@@ -1,0 +1,11 @@
+{
+  "name": "kiclearance",
+  "version": "0.2.1",
+  "summary": "Generate clearance rules for KiCAD by a table.",
+  "author": "UPB-LEA",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kiclearance-0.2.1.tar.gz",
+  "download_time": "2025-10-01T09:26:09.960630",
+  "package_url": "https://pypi.org/project/kiclearance/"
+}

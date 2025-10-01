@@ -1,0 +1,11 @@
+{
+  "name": "m61",
+  "version": "0.1.0",
+  "summary": "The name M61 comes from Vulcan, the English name of Vulcanus, the Roman god of fire and blacksmithing. We chose this name to symbolize the massive flow of traffic handled by the project.",
+  "author": "andrew.chang(장진우)/kep",
+  "license": null,
+  "home_page": null,
+  "download_filename": "m61-0.1.0.tar.gz",
+  "download_time": "2025-10-01T09:26:17.090884",
+  "package_url": "https://pypi.org/project/m61/"
+}
