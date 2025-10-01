@@ -1,0 +1,11 @@
+{
+  "name": "mertisreader",
+  "version": "0.0.3",
+  "summary": "helper routines to read ESA/Bepicolombo space mission - DLR MERTIS instrument data",
+  "author": "Mario D Amore",
+  "license": "MIT License ",
+  "home_page": "https://github.com/mariodamore/mertisreader/tree/master/",
+  "download_filename": "mertisreader-0.0.3.tar.gz",
+  "download_time": "2025-10-01T15:30:59.574836",
+  "package_url": "https://pypi.org/project/mertisreader/"
+}

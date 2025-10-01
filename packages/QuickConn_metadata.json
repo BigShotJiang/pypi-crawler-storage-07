@@ -1,0 +1,11 @@
+{
+  "name": "QuickConn",
+  "version": "0.1.0",
+  "summary": "Unified HTTP clients: HTTP/1.0, HTTP/1.1, HTTP/2, HTTP/3 and Cloudflare solver",
+  "author": "أحمد الحراني",
+  "license": "MIT",
+  "home_page": "https://github.com/Gisnsl/QuickConn",
+  "download_filename": "quickconn-0.1.0.tar.gz",
+  "download_time": "2025-10-01T15:31:33.111020",
+  "package_url": "https://pypi.org/project/QuickConn/"
+}

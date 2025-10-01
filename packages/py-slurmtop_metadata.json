@@ -1,0 +1,11 @@
+{
+  "name": "py-slurmtop",
+  "version": "0.4",
+  "summary": "Show node occupancy and job information for SLURM job system.",
+  "author": "Huanchen Zhai",
+  "license": "LICENSE",
+  "home_page": "https://github.com/hczhai/py-slurmtop",
+  "download_filename": "py_slurmtop-0.4.tar.gz",
+  "download_time": "2025-10-01T15:31:34.702673",
+  "package_url": "https://pypi.org/project/py-slurmtop/"
+}

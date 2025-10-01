@@ -1,11 +1,11 @@
 {
   "name": "netbox-routing-complex",
-  "version": "0.2.109",
+  "version": "0.2.110",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "netbox_routing_complex-0.2.109.tar.gz",
-  "download_time": "2025-10-01T15:12:29.382684",
+  "download_filename": "netbox_routing_complex-0.2.110.tar.gz",
+  "download_time": "2025-10-01T15:31:03.255018",
   "package_url": "https://pypi.org/project/netbox-routing-complex/"
 }

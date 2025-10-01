@@ -1,11 +1,11 @@
 {
   "name": "mawk",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "A minimalist implementation of an Awk-like model in Python",
   "author": "Johan Hidding",
   "license": null,
   "home_page": null,
-  "download_filename": "mawk-0.1.5.tar.gz",
-  "download_time": "2025-10-01T10:50:37.615452",
+  "download_filename": "mawk-0.1.7.tar.gz",
+  "download_time": "2025-10-01T15:31:18.435639",
   "package_url": "https://pypi.org/project/mawk/"
 }

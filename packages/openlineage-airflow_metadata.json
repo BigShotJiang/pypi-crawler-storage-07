@@ -1,0 +1,11 @@
+{
+  "name": "openlineage-airflow",
+  "version": "1.38.0",
+  "summary": "OpenLineage integration with Airflow",
+  "author": "OpenLineage",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openlineage_airflow-1.38.0.tar.gz",
+  "download_time": "2025-10-01T15:31:22.086833",
+  "package_url": "https://pypi.org/project/openlineage-airflow/"
+}

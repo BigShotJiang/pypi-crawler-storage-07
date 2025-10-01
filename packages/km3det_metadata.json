@@ -1,0 +1,11 @@
+{
+  "name": "km3det",
+  "version": "0.4.0",
+  "summary": "km3det, a low weight python io module for KM3NeT detector files",
+  "author": "Valentin Pestel",
+  "license": "MIT",
+  "home_page": "https://git.km3net.de/km3py/km3det",
+  "download_filename": "km3det-0.4.0.tar.gz",
+  "download_time": "2025-10-01T15:31:30.995047",
+  "package_url": "https://pypi.org/project/km3det/"
+}
