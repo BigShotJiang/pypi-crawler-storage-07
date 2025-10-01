@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-hr-assistance-somconnexio",
+  "version": "16.0.1.0.2",
+  "summary": "Manage human resources processes in Som Connexió.",
+  "author": "Som Connexió SCCL, Coopdevs Treball SCCL",
+  "license": "AGPL-3",
+  "home_page": "https://git.coopdevs.org/coopdevs/som-connexio/odoo/odoo-somconnexio",
+  "download_filename": "odoo_addon_hr_assistance_somconnexio-16.0.1.0.2.tar.gz",
+  "download_time": "2025-10-01T12:22:29.337943",
+  "package_url": "https://pypi.org/project/odoo-addon-hr-assistance-somconnexio/"
+}

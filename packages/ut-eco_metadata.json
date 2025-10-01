@@ -1,0 +1,11 @@
+{
+  "name": "ut-eco",
+  "version": "1.0.0.20251001",
+  "summary": "Utilities for EcoVadis IQ Processing.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ut_eco-1.0.0.20251001.tar.gz",
+  "download_time": "2025-10-01T12:22:37.605378",
+  "package_url": "https://pypi.org/project/ut-eco/"
+}

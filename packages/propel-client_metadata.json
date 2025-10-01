@@ -1,11 +1,11 @@
 {
   "name": "propel-client",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "summary": "Propel service client",
   "author": "Yuri Turchenkov",
   "license": null,
   "home_page": null,
-  "download_filename": "propel_client-0.0.16.tar.gz",
-  "download_time": "2025-09-30T15:49:10.432335",
+  "download_filename": "propel_client-0.0.17.tar.gz",
+  "download_time": "2025-10-01T12:22:42.109326",
   "package_url": "https://pypi.org/project/propel-client/"
 }

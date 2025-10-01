@@ -1,11 +1,11 @@
 {
   "name": "cdk8s-image",
-  "version": "0.2.703",
+  "version": "0.2.704",
   "summary": "Build & Push local docker images inside CDK8s applications",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/cdk8s-team/cdk8s-image.git",
-  "download_filename": "cdk8s_image-0.2.703.tar.gz",
-  "download_time": "2025-09-29T12:20:37.903122",
+  "download_filename": "cdk8s_image-0.2.704.tar.gz",
+  "download_time": "2025-10-01T12:22:03.810878",
   "package_url": "https://pypi.org/project/cdk8s-image/"
 }

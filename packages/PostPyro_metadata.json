@@ -1,0 +1,11 @@
+{
+  "name": "PostPyro",
+  "version": "0.1.1",
+  "summary": "High-performance PostgreSQL driver for Python using PyO3 and tokio-postgres",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://github.com/magi8101/PostPyro",
+  "download_filename": "PostPyro-0.1.1-cp38-abi3-win_amd64.whl",
+  "download_time": "2025-10-01T12:22:14.698788",
+  "package_url": "https://pypi.org/project/PostPyro/"
+}

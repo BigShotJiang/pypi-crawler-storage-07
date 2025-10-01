@@ -1,0 +1,11 @@
+{
+  "name": "karabo.daemontools",
+  "version": "3.0.7",
+  "summary": "Daemontools for Karabo",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "karabo_daemontools-3.0.7.tar.gz",
+  "download_time": "2025-10-01T12:22:50.441105",
+  "package_url": "https://pypi.org/project/karabo.daemontools/"
+}
