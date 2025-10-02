@@ -1,0 +1,11 @@
+{
+  "name": "zope.testrunner",
+  "version": "8.1",
+  "summary": "Zope testrunner script.",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zope.testrunner",
+  "download_filename": "zope_testrunner-8.1.tar.gz",
+  "download_time": "2025-10-02T06:44:25.352031",
+  "package_url": "https://pypi.org/project/zope.testrunner/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rl-bandits",
+  "version": "0.1.0",
+  "summary": "A modular library for multi-armed bandit algorithms",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rl_bandits-0.1.0.tar.gz",
+  "download_time": "2025-10-02T06:44:35.817107",
+  "package_url": "https://pypi.org/project/rl-bandits/"
+}
