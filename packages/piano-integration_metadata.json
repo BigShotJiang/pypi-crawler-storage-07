@@ -1,0 +1,11 @@
+{
+  "name": "piano-integration",
+  "version": "0.0.0",
+  "summary": "PIANO: Probabilistic Inference Autoencoder Networks for multi-Omics",
+  "author": "Ning Wang",
+  "license": null,
+  "home_page": "https://github.com/ningwang1729/piano",
+  "download_filename": "piano_integration-0.0.0.tar.gz",
+  "download_time": "2025-10-02T03:53:13.392574",
+  "package_url": "https://pypi.org/project/piano-integration/"
+}

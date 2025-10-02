@@ -1,11 +1,11 @@
 {
   "name": "smu-ontwins-demo",
-  "version": "0.1.33",
+  "version": "0.1.34",
   "summary": "Functions for SMU OnTwins demo package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "smu_ontwins_demo-0.1.33.tar.gz",
-  "download_time": "2025-10-01T08:40:02.609996",
+  "download_filename": "smu_ontwins_demo-0.1.34.tar.gz",
+  "download_time": "2025-10-02T03:52:47.159491",
   "package_url": "https://pypi.org/project/smu-ontwins-demo/"
 }

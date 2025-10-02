@@ -1,0 +1,11 @@
+{
+  "name": "psyneulink",
+  "version": "0.18.0.0",
+  "summary": "A block modeling system for cognitive neuroscience",
+  "author": "Jonathan Cohen, Princeton University",
+  "license": "Apache",
+  "home_page": "https://github.com/PrincetonUniversity/PsyNeuLink",
+  "download_filename": "psyneulink-0.18.0.0.tar.gz",
+  "download_time": "2025-10-02T03:53:19.671796",
+  "package_url": "https://pypi.org/project/psyneulink/"
+}

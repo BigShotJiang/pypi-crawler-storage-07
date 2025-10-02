@@ -1,0 +1,11 @@
+{
+  "name": "dq-tester",
+  "version": "0.2.0",
+  "summary": "A lightweight data quality testing tool for CSV files and databases",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dq_tester-0.2.0.tar.gz",
+  "download_time": "2025-10-02T03:53:19.137675",
+  "package_url": "https://pypi.org/project/dq-tester/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "publicsuffixlist",
-  "version": "1.0.2.20251001",
+  "version": "1.0.2.20251002",
   "summary": "publicsuffixlist implement",
   "author": "ko-zu",
   "license": "MPL-2.0",
   "home_page": "https://github.com/ko-zu/psl",
-  "download_filename": "publicsuffixlist-1.0.2.20251001.tar.gz",
-  "download_time": "2025-10-01T03:55:26.527580",
+  "download_filename": "publicsuffixlist-1.0.2.20251002.tar.gz",
+  "download_time": "2025-10-02T03:53:03.436268",
   "package_url": "https://pypi.org/project/publicsuffixlist/"
 }
