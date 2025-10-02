@@ -1,11 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-02T10:33:35.630314
-- **Total Packages**: 52
-- **Total Size**: 17.76 MB
+- **Download Time**: 2025-10-02T10:49:39.992196
+- **Total Packages**: 80
+- **Total Size**: 13.72 MB
 
 ## Packages List
+- criipto-signatures
+- yeref
+- power-grid-model
+- th2-grpc-check1
+- datamarket
+- th2-grpc-act-template
+- flake8-timeout
+- oc-ftp-upload-worker
+- design.plone.contenttypes
+- konduktor-nightly
+- unbabelizer
+- pydantic-serializable
+- Diffuzz
+- dependency-resolver
+- nadag-innmelding-python-client
+- cgse-dummy
+- trainy-policy-nightly
+- imgquad
+- DiffCD
+- otobo_znuny
+- mosamatic2
+- httpdiff
+- letta-nightly
+- httpinsert
+- cs-flickrgallery
+- collective.volto.contactsblock
+- greedy-ancestral-search
+- hypervigilant
+- deltachat-rpc-server
+- django-ai-core
+- authentik-client
+- lib4vex
+- agenta
+- omero-biomero
+- tsdf
+- ryseble
+- ai-evaluation
+- mx-bluesky
+- libinephany
 - streamshatter
 - vidigi
 - docling-mcp
@@ -23,7 +62,6 @@
 - omniopt2
 - sqlramen
 - aigraphcodescan
-- authentik-client
 - dynamic-temporal-models
 - Geode-Simplex
 - transonic
@@ -48,13 +86,3 @@
 - ppt-to-video
 - talentro-commons
 - karrio-veho
-- karrio-tge
-- karrio-shipengine
-- karrio-seko
-- karrio-sapient
-- karrio-mydhl
-- karrio-hay-post
-- tf-keras-nightly
-- karrio-easyship
-- karrio-dhl-parcel-de
-- karrio-cli

@@ -1,11 +1,11 @@
 {
   "name": "dependency-resolver",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "\"A way to specify publicly available sources (e.g. files/zips) to cache locally and then resolve these sources (e.g. copy/unzip) to a local directories for use.\"",
   "author": "Dan East",
   "license": null,
   "home_page": "https://github.com/dan-east/dependency-resolver",
-  "download_filename": "dependency_resolver-1.0.1.tar.gz",
-  "download_time": "2025-09-29T16:38:31.193086",
+  "download_filename": "dependency_resolver-1.0.2.tar.gz",
+  "download_time": "2025-10-02T10:49:02.265197",
   "package_url": "https://pypi.org/project/dependency-resolver/"
 }

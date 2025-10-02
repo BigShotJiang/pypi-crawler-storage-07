@@ -1,0 +1,11 @@
+{
+  "name": "flake8-timeout",
+  "version": "1.0.0",
+  "summary": "flake8 plugin which checks that a timeout is set to all requests and urllib.request.open calls",
+  "author": "Jonas Kittner",
+  "license": "MIT",
+  "home_page": "https://github.com/jkittner/flake8-timeout",
+  "download_filename": "flake8_timeout-1.0.0.tar.gz",
+  "download_time": "2025-10-02T10:48:58.633048",
+  "package_url": "https://pypi.org/project/flake8-timeout/"
+}

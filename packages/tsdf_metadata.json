@@ -1,0 +1,11 @@
+{
+  "name": "tsdf",
+  "version": "0.6.1",
+  "summary": "A Python library that provides methods for encoding and decoding TSDF (Time Series Data Format) data, which allows you to easily create, manipulate and serialize TSDF files in your Python code.",
+  "author": "Vedran Kasalica",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tsdf-0.6.1.tar.gz",
+  "download_time": "2025-10-02T10:49:15.021508",
+  "package_url": "https://pypi.org/project/tsdf/"
+}

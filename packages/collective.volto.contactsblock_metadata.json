@@ -1,0 +1,11 @@
+{
+  "name": "collective.volto.contactsblock",
+  "version": "1.0.0",
+  "summary": "An add-on for Plone",
+  "author": "RedTurtle",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/collective/collective.volto.contactsblock",
+  "download_filename": "collective_volto_contactsblock-1.0.0.tar.gz",
+  "download_time": "2025-10-02T10:49:10.187800",
+  "package_url": "https://pypi.org/project/collective.volto.contactsblock/"
+}

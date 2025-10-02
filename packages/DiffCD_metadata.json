@@ -1,0 +1,11 @@
+{
+  "name": "DiffCD",
+  "version": "2.0.0",
+  "summary": "Content Discovery tool using response diffing for finding more interesting/hidden content on web applications.",
+  "author": "William Kristoffersen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "diffcd-2.0.0.tar.gz",
+  "download_time": "2025-10-02T10:49:05.945264",
+  "package_url": "https://pypi.org/project/DiffCD/"
+}

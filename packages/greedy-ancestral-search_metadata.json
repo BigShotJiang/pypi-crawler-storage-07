@@ -1,11 +1,11 @@
 {
   "name": "greedy-ancestral-search",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "Python implementation of the Greedy Ancestral Seach (GAS) algorithm from the paper 'On the Number of Conditional Independence Tests in Constraint-based Causal Discovery'.",
   "author": "Marc Franquesa Monés, Jiaqi Zhang, Caroline Uhler",
   "license": null,
   "home_page": null,
-  "download_filename": "greedy_ancestral_search-0.0.2.tar.gz",
-  "download_time": "2025-10-01T13:08:45.938508",
+  "download_filename": "greedy_ancestral_search-0.0.4.tar.gz",
+  "download_time": "2025-10-02T10:49:10.719750",
   "package_url": "https://pypi.org/project/greedy-ancestral-search/"
 }
