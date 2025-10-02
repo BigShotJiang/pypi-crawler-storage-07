@@ -1,0 +1,11 @@
+{
+  "name": "quant1x-trader",
+  "version": "0.8.17",
+  "summary": "Quant1X程序化自动化交易",
+  "author": "WangFeng",
+  "license": "MIT license",
+  "home_page": "https://gitee.com/quant1x/trader",
+  "download_filename": "quant1x_trader-0.8.17.tar.gz",
+  "download_time": "2025-10-02T10:33:11.348687",
+  "package_url": "https://pypi.org/project/quant1x-trader/"
+}

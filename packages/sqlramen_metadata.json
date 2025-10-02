@@ -1,0 +1,11 @@
+{
+  "name": "sqlramen",
+  "version": "0.9.1",
+  "summary": "SQLRamen provides a convenient way to map Python objects to relational database tables, with no declarative code of any kind.  It's built on top of the SQLAlchemy ORM and provides a super-minimalistic interface to an existing database.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlramen-0.9.1.tar.gz",
+  "download_time": "2025-10-02T10:33:15.080921",
+  "package_url": "https://pypi.org/project/sqlramen/"
+}

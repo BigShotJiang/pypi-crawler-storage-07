@@ -1,11 +1,11 @@
 {
   "name": "web3-wizzard-lib",
-  "version": "1.13.0",
+  "version": "1.13.2",
   "summary": "Engine for web3 smart contracts automatization.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "web3_wizzard_lib-1.13.0.tar.gz",
-  "download_time": "2025-10-01T15:43:22.625192",
+  "download_filename": "web3_wizzard_lib-1.13.2.tar.gz",
+  "download_time": "2025-10-02T10:33:20.484763",
   "package_url": "https://pypi.org/project/web3-wizzard-lib/"
 }
