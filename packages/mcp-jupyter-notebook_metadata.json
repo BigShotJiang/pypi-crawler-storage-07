@@ -1,11 +1,11 @@
 {
   "name": "mcp-jupyter-notebook",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "A MCP server for AI agents to interact with a Jupyter server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_jupyter_notebook-0.1.8.tar.gz",
-  "download_time": "2025-10-02T20:14:59.957892",
+  "download_filename": "mcp_jupyter_notebook-0.1.9.tar.gz",
+  "download_time": "2025-10-02T20:32:58.042628",
   "package_url": "https://pypi.org/project/mcp-jupyter-notebook/"
 }

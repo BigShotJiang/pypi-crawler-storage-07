@@ -1,11 +1,11 @@
 {
   "name": "yacce",
-  "version": "0.9.7",
+  "version": "0.9.8",
   "summary": "Non-intrusive bazel compile_commands.json extractor",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yacce-0.9.7.tar.gz",
-  "download_time": "2025-09-29T20:12:31.949160",
+  "download_filename": "yacce-0.9.8.tar.gz",
+  "download_time": "2025-10-02T20:33:14.215121",
   "package_url": "https://pypi.org/project/yacce/"
 }

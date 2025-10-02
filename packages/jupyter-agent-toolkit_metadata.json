@@ -1,11 +1,11 @@
 {
   "name": "jupyter-agent-toolkit",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "A toolkit for building, managing, and extending Jupyter agent workflows, including kernel and notebook utilities.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jupyter_agent_toolkit-0.1.7.tar.gz",
-  "download_time": "2025-09-30T14:32:09.194492",
+  "download_filename": "jupyter_agent_toolkit-0.1.9.tar.gz",
+  "download_time": "2025-10-02T20:33:02.173593",
   "package_url": "https://pypi.org/project/jupyter-agent-toolkit/"
 }

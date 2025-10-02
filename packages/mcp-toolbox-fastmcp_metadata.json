@@ -1,0 +1,11 @@
+{
+  "name": "mcp-toolbox-fastmcp",
+  "version": "0.0.1.dev0",
+  "summary": "Maintenance of a set of tools to enhance LLM through MCP protocols.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_toolbox_fastmcp-0.0.1.dev0.tar.gz",
+  "download_time": "2025-10-02T20:33:04.823791",
+  "package_url": "https://pypi.org/project/mcp-toolbox-fastmcp/"
+}

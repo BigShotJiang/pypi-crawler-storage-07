@@ -1,0 +1,11 @@
+{
+  "name": "cionuke",
+  "version": "0.8.1",
+  "summary": "Nuke plugin for Conductor Cloud Rendering Platform.",
+  "author": "conductor",
+  "license": null,
+  "home_page": "https://github.com/ConductorTechnologies/cionuke",
+  "download_filename": "cionuke-0.8.1-py2.py3-none-any.whl",
+  "download_time": "2025-10-02T20:32:48.183752",
+  "package_url": "https://pypi.org/project/cionuke/"
+}

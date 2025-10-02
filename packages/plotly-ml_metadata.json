@@ -1,11 +1,11 @@
 {
   "name": "plotly-ml",
-  "version": "0.1.10",
+  "version": "0.1.12",
   "summary": "Interactive ML Visualizations with Plotly",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plotly_ml-0.1.10.tar.gz",
-  "download_time": "2025-10-02T20:14:37.073694",
+  "download_filename": "plotly_ml-0.1.12.tar.gz",
+  "download_time": "2025-10-02T20:32:48.698122",
   "package_url": "https://pypi.org/project/plotly-ml/"
 }

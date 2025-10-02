@@ -1,0 +1,11 @@
+{
+  "name": "hightime",
+  "version": "1.0.0",
+  "summary": "Hightime Python API",
+  "author": "NI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hightime-1.0.0.tar.gz",
+  "download_time": "2025-10-02T20:33:07.942804",
+  "package_url": "https://pypi.org/project/hightime/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tensorlake",
-  "version": "0.2.52",
+  "version": "0.2.54",
   "summary": "Tensorlake SDK for Document Ingestion API and Serverless Applications",
   "author": "Tensorlake Inc.",
   "license": null,
   "home_page": "https://github.com/tensorlakeai/tensorlake",
-  "download_filename": "tensorlake-0.2.52.tar.gz",
-  "download_time": "2025-10-01T16:39:23.263090",
+  "download_filename": "tensorlake-0.2.54.tar.gz",
+  "download_time": "2025-10-02T20:33:07.430345",
   "package_url": "https://pypi.org/project/tensorlake/"
 }
