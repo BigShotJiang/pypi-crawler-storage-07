@@ -1,11 +1,11 @@
 {
   "name": "bus-202",
-  "version": "1.17.3",
+  "version": "1.17.4",
   "summary": "BUS 202, Fundamentals of Business Analytics",
   "author": "Justin G. Davis",
   "license": null,
   "home_page": null,
-  "download_filename": "bus_202-1.17.3.tar.gz",
-  "download_time": "2025-09-30T21:48:31.274384",
+  "download_filename": "bus_202-1.17.4.tar.gz",
+  "download_time": "2025-10-02T14:50:57.253234",
   "package_url": "https://pypi.org/project/bus-202/"
 }

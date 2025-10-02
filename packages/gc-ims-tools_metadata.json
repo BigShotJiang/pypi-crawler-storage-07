@@ -1,0 +1,11 @@
+{
+  "name": "gc-ims-tools",
+  "version": "0.1.8",
+  "summary": "Analyze GC-IMS data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gc_ims_tools-0.1.8.tar.gz",
+  "download_time": "2025-10-02T14:51:11.185208",
+  "package_url": "https://pypi.org/project/gc-ims-tools/"
+}

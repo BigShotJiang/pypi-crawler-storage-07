@@ -1,0 +1,11 @@
+{
+  "name": "crystmatch",
+  "version": "2.1.2",
+  "summary": "Enumerating and analyzing crystal-structure matches for solid-solid phase transitions.",
+  "author": "Fang-Cheng Wang",
+  "license": null,
+  "home_page": "https://fangcheng-wang.github.io/crystmatch/",
+  "download_filename": "crystmatch-2.1.2.tar.gz",
+  "download_time": "2025-10-02T14:50:45.185843",
+  "package_url": "https://pypi.org/project/crystmatch/"
+}
