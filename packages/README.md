@@ -1,12 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-02T06:45:05.963774
+- **Download Time**: 2025-10-02T06:54:48.343958
 - **Total Packages**: 87
-- **Total Size**: 18.6 MB
+- **Total Size**: 29.01 MB
 
 ## Packages List
+- pulumi-postgresql
 - bool-hybrid-array
+- tsgauth
+- hippius
+- pulumi-pagerduty
+- persistent
+- sapiens-transformers
+- doc-to-benchmark
+- awesome-cheap-flights
+- pulumi-okta
+- agentcrew-ai
+- biblemate
+- vntickers
+- mem8
+- feu
+- pytest-reporter-html1
+- most-client
+- rigour
+- pulumi-opsgenie
+- tms-mcp
+- ingestr
+- pulumi-openstack
+- cactus-client
+- fast-mcp-telegram
+- bgp-data-interface
 - authentik-client
 - xxtea
 - photos_drive
@@ -32,8 +56,6 @@
 - ai-edge-litert-sdk-mediatek-nightly
 - ai-edge-litert-sdk-qualcomm-nightly
 - pulumi-mysql
-- tms-mcp
-- awesome-cheap-flights
 - futu-stock-mcp-server
 - genai-labnote
 - pulumi-minio
@@ -71,25 +93,3 @@
 - pulumi-kafka
 - jmstate
 - nv2a-pretty
-- cdk8s-awscdk-resolver
-- light-compressor
-- oarepo-invenio-typing-stubs
-- pulumi-ec
-- pulumi-ise
-- approck-imagesize
-- pulumi-harness
-- chalkpy
-- pulumi-aws-native
-- odoo-addon-l10n-ro-nondeductible-vat
-- odoo-addon-l10n-ro-vat-on-payment
-- ipfs-tk
-- pulumi-http
-- cogames
-- BatchalignHK
-- pachcalib
-- batchalign
-- pydsmc
-- gvmrpc
-- finter
-- pulumi-github
-- mem8

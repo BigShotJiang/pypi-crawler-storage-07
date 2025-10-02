@@ -1,0 +1,11 @@
+{
+  "name": "doc-to-benchmark",
+  "version": "0.1.0",
+  "summary": "FastAPI + React file upload demo packaged for PyPI distribution",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github/yoonth95/doc-to-benchmark",
+  "download_filename": "doc_to_benchmark-0.1.0-py3-none-any.whl",
+  "download_time": "2025-10-02T06:54:04.350439",
+  "package_url": "https://pypi.org/project/doc-to-benchmark/"
+}
