@@ -1,0 +1,11 @@
+{
+  "name": "galaxias-python",
+  "version": "0.1.1",
+  "summary": "Package for creating Darwin Core Archives",
+  "author": "Amanda Buyan",
+  "license": "MPL-2.0",
+  "home_page": "https://galaxias.ala.org.au/Python/",
+  "download_filename": "galaxias_python-0.1.1-py3-none-any.whl",
+  "download_time": "2025-10-02T03:39:37.579549",
+  "package_url": "https://pypi.org/project/galaxias-python/"
+}
