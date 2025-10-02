@@ -1,0 +1,11 @@
+{
+  "name": "langchain-cli",
+  "version": "0.0.37",
+  "summary": "CLI for interacting with LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_cli-0.0.37.tar.gz",
+  "download_time": "2025-10-02T23:27:45.234110",
+  "package_url": "https://pypi.org/project/langchain-cli/"
+}

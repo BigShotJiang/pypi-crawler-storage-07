@@ -1,0 +1,11 @@
+{
+  "name": "mac-messages-mcp-fastmcp",
+  "version": "0.7.4",
+  "summary": "A bridge for interacting with macOS Messages app through MCP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mac_messages_mcp_fastmcp-0.7.4.tar.gz",
+  "download_time": "2025-10-02T23:27:38.172062",
+  "package_url": "https://pypi.org/project/mac-messages-mcp-fastmcp/"
+}

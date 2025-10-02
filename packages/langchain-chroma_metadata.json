@@ -1,0 +1,11 @@
+{
+  "name": "langchain-chroma",
+  "version": "0.2.6",
+  "summary": "An integration package connecting Chroma and LangChain.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_chroma-0.2.6.tar.gz",
+  "download_time": "2025-10-02T23:27:43.574788",
+  "package_url": "https://pypi.org/project/langchain-chroma/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scrippy-api",
+  "version": "1.1.87",
+  "summary": "\"Fonctions d'utilisation d'API ReST.\"",
+  "author": "Michael Costa, Florent Chevalier",
+  "license": null,
+  "home_page": "https://codeberg.org/scrippy/scrippy-api",
+  "download_filename": "scrippy_api-1.1.87.tar.gz",
+  "download_time": "2025-10-02T23:27:37.145774",
+  "package_url": "https://pypi.org/project/scrippy-api/"
+}
