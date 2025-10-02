@@ -1,0 +1,11 @@
+{
+  "name": "ae-notify",
+  "version": "0.3.6",
+  "summary": "ae namespace module portion notify: send notifications via email, telegram or whatsapp",
+  "author": "AndiEcker",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://gitlab.com/ae-group/ae_notify",
+  "download_filename": "ae_notify-0.3.6.tar.gz",
+  "download_time": "2025-10-02T15:43:08.664938",
+  "package_url": "https://pypi.org/project/ae-notify/"
+}
