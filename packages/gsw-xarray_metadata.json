@@ -1,0 +1,11 @@
+{
+  "name": "gsw-xarray",
+  "version": "0.5.0",
+  "summary": "Drop in wrapper for gsw which adds CF standard name and units attributes to xarray results",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gsw_xarray-0.5.0.tar.gz",
+  "download_time": "2025-10-02T08:17:09.239373",
+  "package_url": "https://pypi.org/project/gsw-xarray/"
+}

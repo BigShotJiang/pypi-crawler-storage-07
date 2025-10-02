@@ -1,0 +1,11 @@
+{
+  "name": "volkanic",
+  "version": "0.6.0",
+  "summary": "access config and CLI easily and elegantly",
+  "author": "frozflame",
+  "license": "GNU General Public License (GPL)",
+  "home_page": "https://github.com/frozflame/volkanic",
+  "download_filename": "volkanic-0.6.0.tar.gz",
+  "download_time": "2025-10-02T08:16:51.086118",
+  "package_url": "https://pypi.org/project/volkanic/"
+}

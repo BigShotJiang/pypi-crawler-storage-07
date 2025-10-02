@@ -1,0 +1,11 @@
+{
+  "name": "django-cap-alerts",
+  "version": "1.0.0",
+  "summary": "Django package for CAP (Common Alerting Protocol)",
+  "author": "Orestis Tsagketas",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/otsagketas1/cap-package",
+  "download_filename": "django_cap_alerts-1.0.0.tar.gz",
+  "download_time": "2025-10-02T08:16:56.602740",
+  "package_url": "https://pypi.org/project/django-cap-alerts/"
+}

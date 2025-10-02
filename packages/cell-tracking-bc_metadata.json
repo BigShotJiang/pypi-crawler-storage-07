@@ -1,0 +1,11 @@
+{
+  "name": "cell-tracking-bc",
+  "version": "2025.1",
+  "summary": "Base Classes for Cell Tracking in Microscopy",
+  "author": "Eric Debreuve",
+  "license": "CeCILL-2.1",
+  "home_page": "https://src.koda.cnrs.fr/eric.debreuve/cell-tracking-bc",
+  "download_filename": "cell_tracking_bc-2025.1.tar.gz",
+  "download_time": "2025-10-02T08:16:46.793017",
+  "package_url": "https://pypi.org/project/cell-tracking-bc/"
+}

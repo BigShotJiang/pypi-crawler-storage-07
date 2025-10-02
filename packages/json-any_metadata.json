@@ -1,0 +1,11 @@
+{
+  "name": "json-any",
+  "version": "2025.1",
+  "summary": "JSON and unJSON objects of any type",
+  "author": "Eric Debreuve",
+  "license": "CeCILL-2.1",
+  "home_page": "https://src.koda.cnrs.fr/eric.debreuve/json-any/",
+  "download_filename": "json_any-2025.1.tar.gz",
+  "download_time": "2025-10-02T08:16:50.474669",
+  "package_url": "https://pypi.org/project/json-any/"
+}

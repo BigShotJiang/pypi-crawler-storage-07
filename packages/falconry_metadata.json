@@ -1,0 +1,11 @@
+{
+  "name": "falconry",
+  "version": "0.2.10",
+  "summary": "A lightweight python package to create and manage your HTCondor jobs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "falconry-0.2.10.tar.gz",
+  "download_time": "2025-10-02T08:16:44.361300",
+  "package_url": "https://pypi.org/project/falconry/"
+}

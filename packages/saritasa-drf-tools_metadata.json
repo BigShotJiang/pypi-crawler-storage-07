@@ -1,0 +1,11 @@
+{
+  "name": "saritasa-drf-tools",
+  "version": "0.2.2",
+  "summary": "Tools For DRF Used By Saritasa",
+  "author": "Saritasa",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/saritasa-drf-tools/",
+  "download_filename": "saritasa_drf_tools-0.2.2.tar.gz",
+  "download_time": "2025-10-02T08:17:06.881689",
+  "package_url": "https://pypi.org/project/saritasa-drf-tools/"
+}

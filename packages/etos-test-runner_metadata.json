@@ -1,0 +1,11 @@
+{
+  "name": "etos-test-runner",
+  "version": "3.7.4",
+  "summary": "ETOS Test Runner",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "etos_test_runner-3.7.4.tar.gz",
+  "download_time": "2025-10-02T08:16:55.381257",
+  "package_url": "https://pypi.org/project/etos-test-runner/"
+}
