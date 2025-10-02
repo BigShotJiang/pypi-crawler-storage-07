@@ -1,0 +1,11 @@
+{
+  "name": "ddcal",
+  "version": "1.1.0",
+  "summary": "clustering packages with DDCAL algorithm",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ddcal-1.1.0.tar.gz",
+  "download_time": "2025-10-02T15:12:06.627735",
+  "package_url": "https://pypi.org/project/ddcal/"
+}

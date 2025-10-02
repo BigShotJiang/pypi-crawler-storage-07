@@ -1,0 +1,11 @@
+{
+  "name": "elkoep-aio-mqtt",
+  "version": "0.2.33b31",
+  "summary": "Python library for iNELS mqtt protocol",
+  "author": "Elko EP s.r.o.",
+  "license": "MIT",
+  "home_page": "https://github.com/epdevlab/elkoep-aio-mqtt",
+  "download_filename": "elkoep_aio_mqtt-0.2.33b31.tar.gz",
+  "download_time": "2025-10-02T15:12:26.974215",
+  "package_url": "https://pypi.org/project/elkoep-aio-mqtt/"
+}

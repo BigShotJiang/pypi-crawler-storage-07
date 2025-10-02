@@ -1,0 +1,11 @@
+{
+  "name": "picas",
+  "version": "1.1.0",
+  "summary": "Python client using CouchDB as a token pool server.",
+  "author": "Jan Bot, Joris Borgdorff, Lodewijk Nauta, Haili Hu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "picas-1.1.0.tar.gz",
+  "download_time": "2025-10-02T15:12:29.594565",
+  "package_url": "https://pypi.org/project/picas/"
+}

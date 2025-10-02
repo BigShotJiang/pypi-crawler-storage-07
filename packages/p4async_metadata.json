@@ -1,0 +1,11 @@
+{
+  "name": "p4async",
+  "version": "0.1.6",
+  "summary": "An async extension to p4python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "p4async-0.1.6.tar.gz",
+  "download_time": "2025-10-02T15:12:07.188560",
+  "package_url": "https://pypi.org/project/p4async/"
+}
