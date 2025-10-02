@@ -1,11 +1,11 @@
 {
   "name": "frigg",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Convert common crawl to multimodal datasets.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "frigg-0.1.1.tar.gz",
-  "download_time": "2025-10-02T03:07:29.216479",
+  "download_filename": "frigg-0.1.2.tar.gz",
+  "download_time": "2025-10-02T19:23:39.339487",
   "package_url": "https://pypi.org/project/frigg/"
 }

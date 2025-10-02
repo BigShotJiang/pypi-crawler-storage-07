@@ -1,0 +1,11 @@
+{
+  "name": "mq-image-processing",
+  "version": "0.0.1",
+  "summary": "Processamento de imagens usando combinação e transformação",
+  "author": "Mariana Simões Queiroz",
+  "license": null,
+  "home_page": "https://github.com/marianasqueiroz/image-processing-package",
+  "download_filename": "mq_image_processing-0.0.1.tar.gz",
+  "download_time": "2025-10-02T19:23:32.339549",
+  "package_url": "https://pypi.org/project/mq-image-processing/"
+}

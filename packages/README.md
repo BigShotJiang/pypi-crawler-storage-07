@@ -1,11 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-02T19:11:12.804558
-- **Total Packages**: 81
-- **Total Size**: 15.63 MB
+- **Download Time**: 2025-10-02T19:23:59.260700
+- **Total Packages**: 80
+- **Total Size**: 16.81 MB
 
 ## Packages List
+- v440
+- funstall
+- feather-tools
+- amigo_sdk
+- aiobmsble
+- dasein-core
+- ape-safe
+- sort-images
+- worker-automate-hub
+- hashprep
+- alphadia-search-rs
+- modin
+- arize
+- castnet
+- imap-processing
+- local-deep-research
+- Minting
+- letschatty
+- asyncclick
+- deltafi
+- mcli-framework
+- trame-vtk
+- astrux
+- chatlas
+- i2
+- igwn-lldd-common
+- exiftool-mcp
+- pytest-oduit
+- sphinx-notionbuilder
+- mq-image-processing
+- twigs
+- pycommence
+- anaconda-ai
+- sleap
+- gcshttpx
+- keepercommander
+- truss
+- ncdiff
 - insarscript
 - mysingle-quant
 - simplini
@@ -18,13 +56,10 @@
 - skypilot-nightly
 - extended-lengyel
 - process-inspector
-- letschatty
 - eval-protocol
 - py-surepetcare
-- asyncclick
 - starmerge
 - cyberdesk
-- exiftool-mcp
 - terra-python
 - mdxcanvas
 - geomux
@@ -36,13 +71,10 @@
 - thds.core
 - HSSM
 - thds.adls
-- dasein-core
 - bafser-tgapi
 - griffe2md
 - telomerehunter2
-- Minting
 - niti
-- funstall
 - fishjam-server-sdk
 - agilicus
 - zalfmas-fbp
@@ -52,38 +84,5 @@
 - azure-ai-voicelive
 - autoxkit
 - str_sim_scorer
-- sort-images
 - django-eveuniverse
 - pawdf
-- modal
-- django-mg
-- keplar-api
-- redzone-lib
-- deepcode-hku
-- feather-tools
-- stochasticforceinference
-- oilpriceapi
-- slack-bolt
-- dreamstone
-- pythonLogs
-- ragger-python-sdk
-- parcelforce-expresslink
-- otpylib
-- akips
-- mattermost-api-reference-client
-- index-parser
-- slack-sdk
-- mb-mercately-client
-- singer-python
-- synth-ai
-- rosdomofon
-- financial-analyzer-mcp-server
-- bdscore
-- victron-mqtt
-- qwix
-- vector-vault
-- python-socketio
-- roigenerator
-- deepgram-sdk
-- edat-utils
-- fixture-foundry
