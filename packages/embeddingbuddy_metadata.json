@@ -1,11 +1,11 @@
 {
   "name": "embeddingbuddy",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "summary": "A Python Dash application for interactive exploration and visualization of embedding vectors through dimensionality reduction techniques.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "embeddingbuddy-0.8.2.tar.gz",
-  "download_time": "2025-10-02T15:31:59.213960",
+  "download_filename": "embeddingbuddy-0.8.3.tar.gz",
+  "download_time": "2025-10-02T15:48:57.905936",
   "package_url": "https://pypi.org/project/embeddingbuddy/"
 }
