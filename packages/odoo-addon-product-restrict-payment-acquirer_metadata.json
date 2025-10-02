@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-product-restrict-payment-acquirer",
+  "version": "17.0.1.0.0.2",
+  "summary": "Product Restrict Payment Acquirer",
+  "author": "Cetmix, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-payment",
+  "download_filename": "odoo_addon_product_restrict_payment_acquirer-17.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-10-02T09:41:07.238431",
+  "package_url": "https://pypi.org/project/odoo-addon-product-restrict-payment-acquirer/"
+}

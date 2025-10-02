@@ -1,0 +1,11 @@
+{
+  "name": "blurhash-avif",
+  "version": "0.8.4",
+  "summary": "A library to generate BlurHash and PNG data URLs for AVIF images",
+  "author": "ZuidVolt",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "blurhash_avif-0.8.4.tar.gz",
+  "download_time": "2025-10-02T09:40:51.480056",
+  "package_url": "https://pypi.org/project/blurhash-avif/"
+}

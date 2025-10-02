@@ -1,0 +1,11 @@
+{
+  "name": "mcp-metatrader5-server",
+  "version": "0.1.5",
+  "summary": "A Model Context Protocol (MCP) server for MetaTrader 5",
+  "author": "Abdul Qoyyuum",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_metatrader5_server-0.1.5.tar.gz",
+  "download_time": "2025-10-02T09:40:41.717615",
+  "package_url": "https://pypi.org/project/mcp-metatrader5-server/"
+}

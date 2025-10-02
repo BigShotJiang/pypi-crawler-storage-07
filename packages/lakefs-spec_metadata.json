@@ -1,0 +1,11 @@
+{
+  "name": "lakefs-spec",
+  "version": "0.13.0",
+  "summary": "An fsspec implementation for lakeFS.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "lakefs_spec-0.13.0.tar.gz",
+  "download_time": "2025-10-02T09:40:25.817405",
+  "package_url": "https://pypi.org/project/lakefs-spec/"
+}

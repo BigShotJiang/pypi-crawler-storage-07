@@ -1,11 +1,11 @@
 {
   "name": "dzbanek-langflow",
-  "version": "1.6.7",
+  "version": "1.6.9",
   "summary": "A Python package with a built-in web application",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dzbanek_langflow-1.6.7-py3-none-any.whl",
-  "download_time": "2025-10-01T20:14:04.767191",
+  "download_filename": "dzbanek_langflow-1.6.9-py3-none-any.whl",
+  "download_time": "2025-10-02T09:40:37.943831",
   "package_url": "https://pypi.org/project/dzbanek-langflow/"
 }

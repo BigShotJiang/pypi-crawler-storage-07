@@ -1,11 +1,11 @@
 {
   "name": "stackitui",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "A modern, powerful framework for creating beautiful macOS menu bar applications with rich custom layouts",
   "author": "Edoardo Balducci",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "stackitui-0.2.0.tar.gz",
-  "download_time": "2025-10-01T21:28:47.075193",
+  "download_filename": "stackitui-0.2.2.tar.gz",
+  "download_time": "2025-10-02T09:40:21.927199",
   "package_url": "https://pypi.org/project/stackitui/"
 }

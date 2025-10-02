@@ -1,0 +1,11 @@
+{
+  "name": "ragformance",
+  "version": "0.1.105",
+  "summary": "A library for generating dataset and evaluating these datasets on RAG based solutions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ragformance-0.1.105.tar.gz",
+  "download_time": "2025-10-02T09:40:45.467235",
+  "package_url": "https://pypi.org/project/ragformance/"
+}

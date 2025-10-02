@@ -1,0 +1,11 @@
+{
+  "name": "ngsPETSc",
+  "version": "0.1.1",
+  "summary": "NGSolve/Netgen interface to PETSc",
+  "author": "Umberto Zerbinati",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ngspetsc-0.1.1.tar.gz",
+  "download_time": "2025-10-02T09:41:00.284364",
+  "package_url": "https://pypi.org/project/ngsPETSc/"
+}

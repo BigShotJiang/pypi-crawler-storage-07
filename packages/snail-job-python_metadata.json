@@ -1,11 +1,11 @@
 {
   "name": "snail-job-python",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A distributed job execution framework",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "snail_job_python-0.1.1.tar.gz",
-  "download_time": "2025-10-01T08:40:08.560922",
+  "download_filename": "snail_job_python-0.1.2.tar.gz",
+  "download_time": "2025-10-02T09:40:22.477069",
   "package_url": "https://pypi.org/project/snail-job-python/"
 }
