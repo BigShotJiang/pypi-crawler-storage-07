@@ -1,0 +1,11 @@
+{
+  "name": "py-irclib",
+  "version": "0.7.0",
+  "summary": "A simple library for working with the IRC protocol",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_irclib-0.7.0.tar.gz",
+  "download_time": "2025-10-02T05:31:13.466998",
+  "package_url": "https://pypi.org/project/py-irclib/"
+}

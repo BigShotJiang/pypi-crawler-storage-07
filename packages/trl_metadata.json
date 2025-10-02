@@ -1,0 +1,11 @@
+{
+  "name": "trl",
+  "version": "0.23.1",
+  "summary": "Train transformer language models with reinforcement learning.",
+  "author": "Leandro von Werra",
+  "license": null,
+  "home_page": "https://github.com/huggingface/trl",
+  "download_filename": "trl-0.23.1.tar.gz",
+  "download_time": "2025-10-02T05:31:22.067625",
+  "package_url": "https://pypi.org/project/trl/"
+}

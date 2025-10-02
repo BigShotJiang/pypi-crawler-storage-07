@@ -1,0 +1,11 @@
+{
+  "name": "mtbase",
+  "version": "4.33.1",
+  "summary": "The most fundamental Python modules for Minh-Tri Pham",
+  "author": "['Minh-Tri Pham']",
+  "license": "MIT",
+  "home_page": "https://github.com/inteplus/mtbase",
+  "download_filename": "mtbase-4.33.1-py3-none-any.whl",
+  "download_time": "2025-10-02T05:31:08.509097",
+  "package_url": "https://pypi.org/project/mtbase/"
+}

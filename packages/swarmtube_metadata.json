@@ -1,11 +1,11 @@
 {
   "name": "swarmtube",
-  "version": "0.1.344",
+  "version": "0.1.345",
   "summary": "Swarm Workflow based on Tubes",
   "author": "Asterio Gonzalez",
   "license": "MIT license",
   "home_page": "https://github.com/asterio.gonzalez/swarmtube",
-  "download_filename": "swarmtube-0.1.344-py2.py3-none-any.whl",
-  "download_time": "2025-09-30T11:48:37.760416",
+  "download_filename": "swarmtube-0.1.345-py2.py3-none-any.whl",
+  "download_time": "2025-10-02T05:31:19.957496",
   "package_url": "https://pypi.org/project/swarmtube/"
 }

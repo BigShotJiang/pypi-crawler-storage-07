@@ -1,32 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-02T05:12:41.213466
-- **Total Packages**: 76
-- **Total Size**: 18.27 MB
+- **Download Time**: 2025-10-02T05:31:50.813160
+- **Total Packages**: 78
+- **Total Size**: 11.37 MB
 
 ## Packages List
+- pulumi-alicloud
+- mtbase
+- dea-intertidal
+- modaic
+- data2streamlit
+- klavis
+- modelcub
+- pyloid-adapter
+- authentik-client
+- pulumi-auth0
+- py-irclib
+- contextifyai
+- pcp-serversdk-python
+- aisuite
+- optimum-rbln
+- langchain-tool-server
+- gitlab-api
+- tocount
+- pulumi-archive
+- filebrowser-downloader
+- uv-ship
+- smartmodels
+- swarmtube
+- syncmodels
+- agptools
+- pulumi-akamai
+- trl
+- pulumi-aiven
+- nedo-vision-training
+- cube-alchemy
+- atlas-rag
+- houdini_package_manager
+- crackerjack
 - chattr
 - datapythonstreamlit
-- uv-ship
-- authentik-client
 - merlin-batch-predictor
 - merlin-pyfunc-server
-- houdini_package_manager
 - bozupy
 - merlin-sdk
 - tifonts
 - pytest-homeassistant-custom-component
 - shudaodao
-- langchain-tool-server
 - streamlit-chat-widget-franklu
 - onetick.query-webapi
 - vcfpy
 - oaas-sdk2-py
 - npstat
 - nimo
-- pyloid-adapter
-- contextifyai
 - lixi
 - mypylogger
 - cogames
@@ -57,28 +84,3 @@
 - Pydowndoc
 - piano-integration
 - finter
-- PCILeechFWGenerator
-- testoooooo
-- maleo-types
-- dgexcel
-- exogibbs
-- pdf-anonymizer-core
-- msgflux
-- wxauto4
-- openhcs
-- kubeagentic
-- pipen-poplog
-- model-compression-toolkit
-- pipeline-eds
-- keras-nlp-nightly
-- wxauto
-- keras-hub-nightly
-- pipen-log2file
-- snowflake-connector-python-nightly
-- mkdocs-include-stubs-plugin-test1.0
-- nonebot-adapter-afdian
-- heaserver-organizations
-- suga-client
-- iplotx
-- agentcrew-ai
-- cb-events
