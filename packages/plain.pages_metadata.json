@@ -1,11 +1,11 @@
 {
   "name": "plain.pages",
-  "version": "0.14.0",
+  "version": "0.14.1",
   "summary": "Serve static pages, markdown, and assets from templates/pages directories.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plain_pages-0.14.0.tar.gz",
-  "download_time": "2025-09-30T21:34:53.738319",
+  "download_filename": "plain_pages-0.14.1.tar.gz",
+  "download_time": "2025-10-02T21:12:42.587026",
   "package_url": "https://pypi.org/project/plain.pages/"
 }

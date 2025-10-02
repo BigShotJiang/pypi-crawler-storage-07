@@ -1,11 +1,11 @@
 {
   "name": "dreamstone",
-  "version": "0.1.5",
+  "version": "0.1.5.post4",
   "summary": "Secure hybrid RSA + AES encryption library with CLI",
   "author": "Renks",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dreamstone-0.1.5.tar.gz",
-  "download_time": "2025-10-02T19:49:14.862059",
+  "download_filename": "dreamstone-0.1.5.post4.tar.gz",
+  "download_time": "2025-10-02T21:12:31.825993",
   "package_url": "https://pypi.org/project/dreamstone/"
 }

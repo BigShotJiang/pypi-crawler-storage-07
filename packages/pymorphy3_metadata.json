@@ -1,0 +1,11 @@
+{
+  "name": "pymorphy3",
+  "version": "2.0.5",
+  "summary": "Morphological analyzer (POS tagger + inflection engine) for Russian language.",
+  "author": "Danylo Halaiko",
+  "license": "MIT license",
+  "home_page": "https://github.com/no-plagiarism/pymorphy3",
+  "download_filename": "pymorphy3-2.0.5.tar.gz",
+  "download_time": "2025-10-02T21:12:49.307779",
+  "package_url": "https://pypi.org/project/pymorphy3/"
+}

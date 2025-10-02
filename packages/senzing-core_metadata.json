@@ -1,0 +1,11 @@
+{
+  "name": "senzing-core",
+  "version": "1.0.3",
+  "summary": "Senzing Python SDK",
+  "author": "senzing",
+  "license": "Apache 2",
+  "home_page": "https://github.com/senzing-garage/sz-sdk-python-core",
+  "download_filename": "senzing_core-1.0.3.tar.gz",
+  "download_time": "2025-10-02T21:12:54.970155",
+  "package_url": "https://pypi.org/project/senzing-core/"
+}

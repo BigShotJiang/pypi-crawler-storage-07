@@ -1,0 +1,11 @@
+{
+  "name": "zyracrypt",
+  "version": "2.0.0",
+  "summary": "Enterprise-grade cryptographic library providing advanced encryption, post-quantum cryptography, key management, threshold signatures, and secure enclaves",
+  "author": "Alqudimi Systems",
+  "license": "MIT",
+  "home_page": "https://github.com/AlqudimiSystems/zyracrypt",
+  "download_filename": "zyracrypt-2.0.0.tar.gz",
+  "download_time": "2025-10-02T21:12:58.447591",
+  "package_url": "https://pypi.org/project/zyracrypt/"
+}

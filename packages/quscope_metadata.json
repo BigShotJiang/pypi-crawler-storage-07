@@ -1,0 +1,11 @@
+{
+  "name": "quscope",
+  "version": "0.1.0",
+  "summary": "QuScope - Quantum algorithms for microscopy image processing and EELS analysis",
+  "author": "Roberto dos Reis and Sean Lam",
+  "license": "MIT",
+  "home_page": "https://github.com/QuScope/QuScope",
+  "download_filename": "quscope-0.1.0.tar.gz",
+  "download_time": "2025-10-02T21:12:26.132587",
+  "package_url": "https://pypi.org/project/quscope/"
+}

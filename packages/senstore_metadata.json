@@ -1,11 +1,11 @@
 {
   "name": "senstore",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Minimalistic vectorized sentence store",
   "author": "Paul Tarau",
   "license": "MIT",
   "home_page": "https://github.com/ptarau/senstore.git",
-  "download_filename": "senstore-0.5.0.tar.gz",
-  "download_time": "2025-10-02T20:49:29.568804",
+  "download_filename": "senstore-0.5.1.tar.gz",
+  "download_time": "2025-10-02T21:12:56.192448",
   "package_url": "https://pypi.org/project/senstore/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "advanced-video-processor",
-  "version": "0.5.1",
-  "summary": "Professional video processing pipeline with computer vision analysis, 360° processing, and adaptive streaming",
+  "version": "0.6.0",
+  "summary": "Professional video processing pipeline with computer vision analysis, 360° processing, adaptive streaming, and AI-powered transcription (msprites2)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "advanced_video_processor-0.5.1.tar.gz",
-  "download_time": "2025-09-30T08:16:21.755703",
+  "download_filename": "advanced_video_processor-0.6.0.tar.gz",
+  "download_time": "2025-10-02T21:12:19.792499",
   "package_url": "https://pypi.org/project/advanced-video-processor/"
 }
