@@ -1,11 +1,11 @@
 {
   "name": "vntickers",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Python package for fetching Vietnamese stock market data from multiple sources",
   "author": "gahoccode",
   "license": null,
   "home_page": null,
-  "download_filename": "vntickers-0.1.0.tar.gz",
-  "download_time": "2025-10-02T06:54:07.582375",
+  "download_filename": "vntickers-0.1.1.tar.gz",
+  "download_time": "2025-10-02T13:02:35.157347",
   "package_url": "https://pypi.org/project/vntickers/"
 }

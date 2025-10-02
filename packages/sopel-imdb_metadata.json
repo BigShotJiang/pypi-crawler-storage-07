@@ -1,11 +1,11 @@
 {
   "name": "sopel-imdb",
-  "version": "1.3.0.dev0",
-  "summary": "A working re-implementation of the imdb module for Sopel",
+  "version": "1.3.0",
+  "summary": "A re-implementation of the imdb plugin for Sopel",
   "author": "Rusty Bower",
-  "license": "MIT License",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "sopel_imdb-1.3.0.dev0.tar.gz",
-  "download_time": "2025-10-01T22:11:11.271543",
+  "download_filename": "sopel_imdb-1.3.0.tar.gz",
+  "download_time": "2025-10-02T13:02:55.231176",
   "package_url": "https://pypi.org/project/sopel-imdb/"
 }

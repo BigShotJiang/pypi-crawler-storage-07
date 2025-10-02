@@ -1,11 +1,11 @@
 {
   "name": "elemai",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "An AI LLM coding library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "elemai-0.3.0.tar.gz",
-  "download_time": "2025-10-02T03:07:32.486121",
+  "download_filename": "elemai-0.4.0.tar.gz",
+  "download_time": "2025-10-02T13:03:09.928800",
   "package_url": "https://pypi.org/project/elemai/"
 }

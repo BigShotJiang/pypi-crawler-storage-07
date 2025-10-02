@@ -1,0 +1,11 @@
+{
+  "name": "locmem",
+  "version": "0.1.2",
+  "summary": "A Python library for direct, low-level memory management.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "locmem-0.1.2.tar.gz",
+  "download_time": "2025-10-02T13:02:40.343600",
+  "package_url": "https://pypi.org/project/locmem/"
+}

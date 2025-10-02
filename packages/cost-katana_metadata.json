@@ -1,0 +1,11 @@
+{
+  "name": "cost-katana",
+  "version": "2.0.1",
+  "summary": "Revolutionary AI SDK with Cortex Meta-Language for 70-95% token reduction",
+  "author": "Cost Katana Team",
+  "license": null,
+  "home_page": "https://github.com/Hypothesize-Tech/cost-katana-python",
+  "download_filename": "cost_katana-2.0.1.tar.gz",
+  "download_time": "2025-10-02T13:02:54.650073",
+  "package_url": "https://pypi.org/project/cost-katana/"
+}
