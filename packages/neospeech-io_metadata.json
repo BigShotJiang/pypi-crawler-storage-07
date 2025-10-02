@@ -1,0 +1,11 @@
+{
+  "name": "neospeech-io",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for the NeoSpeech Text-to-Speech API",
+  "author": "NeoSpeech",
+  "license": "MIT",
+  "home_page": "https://github.com/neospeech/neospeech-python",
+  "download_filename": "neospeech_io-1.0.0.tar.gz",
+  "download_time": "2025-10-02T12:20:22.609457",
+  "package_url": "https://pypi.org/project/neospeech-io/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hugedict",
+  "version": "2.14.4",
+  "summary": "A dictionary-like object that is friendly with multiprocessing and uses key-value databases (e.g., RocksDB) as the underlying storage.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hugedict-2.14.4-cp310-cp310-macosx_10_14_x86_64.macosx_11_0_arm64.macosx_10_14_universal2.whl",
+  "download_time": "2025-10-02T12:21:00.925844",
+  "package_url": "https://pypi.org/project/hugedict/"
+}

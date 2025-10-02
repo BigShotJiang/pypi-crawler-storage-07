@@ -1,11 +1,11 @@
 {
   "name": "django-streaming",
-  "version": "0.5",
+  "version": "0.6.0",
   "summary": "A project for streaming data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_streaming-0.5.tar.gz",
-  "download_time": "2025-10-01T05:48:35.584275",
+  "download_filename": "django_streaming-0.6.0.tar.gz",
+  "download_time": "2025-10-02T12:20:54.004761",
   "package_url": "https://pypi.org/project/django-streaming/"
 }

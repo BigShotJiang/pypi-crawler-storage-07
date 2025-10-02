@@ -1,11 +1,11 @@
 {
   "name": "wiking",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "Wiking — Python web application development framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wiking-2.2.0.tar.gz",
-  "download_time": "2025-10-01T23:12:32.304775",
+  "download_filename": "wiking-2.2.1.tar.gz",
+  "download_time": "2025-10-02T12:20:44.335275",
   "package_url": "https://pypi.org/project/wiking/"
 }

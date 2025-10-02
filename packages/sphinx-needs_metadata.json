@@ -1,11 +1,11 @@
 {
   "name": "sphinx-needs",
-  "version": "6.0.0",
+  "version": "6.0.1",
   "summary": "Sphinx needs extension for managing needs/requirements and specifications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sphinx_needs-6.0.0-py3-none-any.whl",
-  "download_time": "2025-09-28T16:11:11.197864",
+  "download_filename": "sphinx_needs-6.0.1-py3-none-any.whl",
+  "download_time": "2025-10-02T12:20:29.233224",
   "package_url": "https://pypi.org/project/sphinx-needs/"
 }

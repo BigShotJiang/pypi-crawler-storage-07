@@ -1,0 +1,11 @@
+{
+  "name": "ee-client",
+  "version": "2.4.0",
+  "summary": "extends the capabilities of the earthengine-api by providing custom session management and client interactions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ee_client-2.4.0.tar.gz",
+  "download_time": "2025-10-02T12:21:05.599416",
+  "package_url": "https://pypi.org/project/ee-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cr8",
+  "version": "0.28.0",
+  "summary": "A collection of command line tools for crate devs",
+  "author": "Mathias Fußenegger",
+  "license": null,
+  "home_page": "https://github.com/mfussenegger/cr8",
+  "download_filename": "cr8-0.28.0.tar.gz",
+  "download_time": "2025-10-02T12:20:43.793623",
+  "package_url": "https://pypi.org/project/cr8/"
+}

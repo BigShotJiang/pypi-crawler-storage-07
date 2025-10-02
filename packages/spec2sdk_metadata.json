@@ -1,11 +1,11 @@
 {
   "name": "spec2sdk",
-  "version": "1.0.202509300732",
+  "version": "1.0.202510021158",
   "summary": "Generate Pydantic models and API client code from OpenAPI 3.1.x specifications",
   "author": "moneymeets",
   "license": "MIT",
   "home_page": "https://github.com/moneymeets/spec2sdk",
-  "download_filename": "spec2sdk-1.0.202509300732.tar.gz",
-  "download_time": "2025-09-30T07:39:54.297010",
+  "download_filename": "spec2sdk-1.0.202510021158.tar.gz",
+  "download_time": "2025-10-02T12:20:54.538748",
   "package_url": "https://pypi.org/project/spec2sdk/"
 }

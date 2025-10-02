@@ -1,11 +1,11 @@
 {
   "name": "Magmar",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "Some cool tools to automate tasks in Tabular Data Analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "magmar-0.1.0.tar.gz",
-  "download_time": "2025-09-28T07:24:11.327943",
+  "download_filename": "magmar-0.3.0.tar.gz",
+  "download_time": "2025-10-02T12:20:40.564040",
   "package_url": "https://pypi.org/project/Magmar/"
 }
