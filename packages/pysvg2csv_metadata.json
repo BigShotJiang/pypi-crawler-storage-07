@@ -1,0 +1,11 @@
+{
+  "name": "pysvg2csv",
+  "version": "2025.10.2",
+  "summary": "Package to convert SVG paths to CSV data and LaTeX commands",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysvg2csv-2025.10.2.tar.gz",
+  "download_time": "2025-10-02T05:48:40.795010",
+  "package_url": "https://pypi.org/project/pysvg2csv/"
+}
