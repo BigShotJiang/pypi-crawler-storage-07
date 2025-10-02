@@ -1,11 +1,31 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-02T21:28:10.453277
-- **Total Packages**: 87
-- **Total Size**: 15.53 MB
+- **Download Time**: 2025-10-02T21:34:56.304680
+- **Total Packages**: 89
+- **Total Size**: 4.56 MB
 
 ## Packages List
+- lanyard-py
+- shipaw
+- dbt-adapters
+- warp-beacon
+- tabella
+- nevu-ui
+- ipachecker
+- dramatic
+- django-freakyfunkyfonts
+- firegex
+- fgex
+- finbrain-python
+- cerb-code
+- multidecoder
+- bioguider
+- whoop-data
+- heracles-ql
+- atom
+- mysingle-quant
+- kelp-o-matic
 - metaport-agent-python
 - pluthon
 - qsharp-widgets
@@ -31,7 +51,6 @@
 - windmill-api
 - selenium-recaptcha-solver
 - segmentation-skeleton-metrics
-- mysingle-quant
 - propfit
 - django-mongodb-extensions
 - v440
@@ -76,20 +95,3 @@
 - idds-common
 - idds-client
 - idds-atlas
-- quscope
-- universal-silabs-flasher
-- whoop-data
-- dtpyfw
-- IPTCInfo3
-- nspd-request
-- linode-api4
-- lbt-dragonfly
-- dreamstone
-- chutes
-- sweetbean
-- dragonfly-radiance
-- ni-grpc-extensions
-- dragonfly-energy
-- shipaw
-- tobiko-cloud-api-client
-- tobiko-cloud-pydantic

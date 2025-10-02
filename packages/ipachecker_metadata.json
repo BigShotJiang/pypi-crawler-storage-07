@@ -1,0 +1,11 @@
+{
+  "name": "ipachecker",
+  "version": "1.0.2",
+  "summary": "A tool for checking if an .ipa file is encrypted",
+  "author": "Andres99",
+  "license": null,
+  "home_page": "https://github.com/Andres9890/ipachecker",
+  "download_filename": "ipachecker-1.0.2.tar.gz",
+  "download_time": "2025-10-02T21:34:12.990905",
+  "package_url": "https://pypi.org/project/ipachecker/"
+}

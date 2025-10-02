@@ -1,0 +1,11 @@
+{
+  "name": "dramatic",
+  "version": "0.5.0",
+  "summary": "Display all Python process output character-by-character",
+  "author": "Trey Hunner",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dramatic-0.5.0-py3-none-any.whl",
+  "download_time": "2025-10-02T21:34:13.527552",
+  "package_url": "https://pypi.org/project/dramatic/"
+}

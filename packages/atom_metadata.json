@@ -1,0 +1,11 @@
+{
+  "name": "atom",
+  "version": "0.12.0",
+  "summary": "Memory efficient Python objects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "atom-0.12.0.tar.gz",
+  "download_time": "2025-10-02T21:34:18.978063",
+  "package_url": "https://pypi.org/project/atom/"
+}
