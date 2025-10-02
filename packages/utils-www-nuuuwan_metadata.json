@@ -1,11 +1,11 @@
 {
   "name": "utils-www-nuuuwan",
-  "version": "1.3.0",
+  "version": "1.3.2",
   "summary": "Utilities for accessing webpages",
   "author": "Nuwan I. Senaratna",
   "license": null,
   "home_page": "https://github.com/nuuuwan/utils_www",
-  "download_filename": "utils_www_nuuuwan-1.3.0.tar.gz",
-  "download_time": "2025-10-02T12:20:28.683180",
+  "download_filename": "utils_www_nuuuwan-1.3.2.tar.gz",
+  "download_time": "2025-10-02T14:11:55.742561",
   "package_url": "https://pypi.org/project/utils-www-nuuuwan/"
 }

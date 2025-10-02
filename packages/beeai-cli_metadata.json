@@ -1,11 +1,11 @@
 {
   "name": "beeai-cli",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "BeeAI CLI",
   "author": "IBM Corp.",
   "license": null,
   "home_page": null,
-  "download_filename": "beeai_cli-0.3.4.tar.gz",
-  "download_time": "2025-09-30T13:52:42.815622",
+  "download_filename": "beeai_cli-0.3.5.tar.gz",
+  "download_time": "2025-10-02T14:12:32.581566",
   "package_url": "https://pypi.org/project/beeai-cli/"
 }

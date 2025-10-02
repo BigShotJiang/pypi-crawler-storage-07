@@ -1,11 +1,11 @@
 {
   "name": "projen",
-  "version": "0.96.5",
+  "version": "0.97.0",
   "summary": "CDK for software projects",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/projen/projen.git",
-  "download_filename": "projen-0.96.5.tar.gz",
-  "download_time": "2025-09-30T11:48:46.110462",
+  "download_filename": "projen-0.97.0.tar.gz",
+  "download_time": "2025-10-02T14:12:26.666196",
   "package_url": "https://pypi.org/project/projen/"
 }

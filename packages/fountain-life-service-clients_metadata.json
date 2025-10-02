@@ -1,11 +1,11 @@
 {
   "name": "fountain-life-service-clients",
-  "version": "3.37.0",
+  "version": "3.37.1",
   "summary": null,
   "author": "Fountain Life",
   "license": "UNLICENSED",
   "home_page": null,
-  "download_filename": "fountain_life_service_clients-3.37.0.tar.gz",
-  "download_time": "2025-10-01T19:33:47.067072",
+  "download_filename": "fountain_life_service_clients-3.37.1.tar.gz",
+  "download_time": "2025-10-02T14:12:34.816821",
   "package_url": "https://pypi.org/project/fountain-life-service-clients/"
 }

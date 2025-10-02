@@ -1,0 +1,11 @@
+{
+  "name": "candela-kit",
+  "version": "0.2.16",
+  "summary": "Client library for Candela",
+  "author": "Candela Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "candela_kit-0.2.16.tar.gz",
+  "download_time": "2025-10-02T14:12:29.908370",
+  "package_url": "https://pypi.org/project/candela-kit/"
+}

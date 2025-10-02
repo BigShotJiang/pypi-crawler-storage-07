@@ -1,0 +1,11 @@
+{
+  "name": "metamorph-cli",
+  "version": "1.0.0",
+  "summary": "Transform your file metadata with ease",
+  "author": "Atrid Ahmetaj",
+  "license": "MIT",
+  "home_page": "https://github.com/atridahmetaj/metamorph",
+  "download_filename": "metamorph_cli-1.0.0.tar.gz",
+  "download_time": "2025-10-02T14:12:27.800285",
+  "package_url": "https://pypi.org/project/metamorph-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vnpy_optionmaster",
+  "version": "1.2.1",
+  "summary": "Option pricing and trading application for VeighNa quant trading framework.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vnpy_optionmaster-1.2.1.tar.gz",
+  "download_time": "2025-10-02T14:12:11.176605",
+  "package_url": "https://pypi.org/project/vnpy_optionmaster/"
+}

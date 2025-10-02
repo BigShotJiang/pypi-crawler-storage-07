@@ -1,11 +1,11 @@
 {
   "name": "SinaTools",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "summary": "Open-source Python toolkit for Arabic Natural Understanding, allowing people to integrate it in their system workflow.",
   "author": null,
   "license": "MIT license",
   "home_page": "https://github.com/SinaLab/sinatools",
-  "download_filename": "SinaTools-1.0.6.tar.gz",
-  "download_time": "2025-09-30T21:10:45.127763",
+  "download_filename": "SinaTools-1.0.8.tar.gz",
+  "download_time": "2025-10-02T14:12:24.953115",
   "package_url": "https://pypi.org/project/SinaTools/"
 }
