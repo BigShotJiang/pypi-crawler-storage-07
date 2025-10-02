@@ -1,0 +1,11 @@
+{
+  "name": "approck-imagesize",
+  "version": "1.4.1",
+  "summary": "Getting image size from png/jpeg/jpeg2000/gif file",
+  "author": "Yoshiki Shibukawa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "approck_imagesize-1.4.1.tar.gz",
+  "download_time": "2025-10-02T06:16:48.264117",
+  "package_url": "https://pypi.org/project/approck-imagesize/"
+}

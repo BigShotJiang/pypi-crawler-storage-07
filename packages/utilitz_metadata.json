@@ -1,0 +1,11 @@
+{
+  "name": "utilitz",
+  "version": "0.2.1",
+  "summary": "Simple Python utility functions to save and load data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "utilitz-0.2.1.tar.gz",
+  "download_time": "2025-10-02T06:17:00.258763",
+  "package_url": "https://pypi.org/project/utilitz/"
+}

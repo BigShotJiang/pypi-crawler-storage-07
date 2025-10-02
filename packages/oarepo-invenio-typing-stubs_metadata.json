@@ -1,11 +1,11 @@
 {
   "name": "oarepo-invenio-typing-stubs",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "OAREPO typing package for invenio packages. Stub files only.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oarepo_invenio_typing_stubs-0.1.14.tar.gz",
-  "download_time": "2025-10-01T06:56:03.048532",
+  "download_filename": "oarepo_invenio_typing_stubs-0.1.15.tar.gz",
+  "download_time": "2025-10-02T06:16:46.731228",
   "package_url": "https://pypi.org/project/oarepo-invenio-typing-stubs/"
 }

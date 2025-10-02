@@ -1,0 +1,11 @@
+{
+  "name": "string-date-controller",
+  "version": "0.3.1",
+  "summary": "A Python module for string date manipulation and formatting",
+  "author": "June Young Park",
+  "license": null,
+  "home_page": "https://github.com/nailen1/string_date_controller.git",
+  "download_filename": "string_date_controller-0.3.1.tar.gz",
+  "download_time": "2025-10-02T06:17:18.270086",
+  "package_url": "https://pypi.org/project/string-date-controller/"
+}

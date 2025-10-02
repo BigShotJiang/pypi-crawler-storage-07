@@ -1,0 +1,11 @@
+{
+  "name": "qrcodegenpy-shankonduru",
+  "version": "1.0.0",
+  "summary": "A comprehensive QR Code Generator library with CLI, Streamlit UI, and robust testing",
+  "author": "Shan Konduru",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qrcodegenpy_shankonduru-1.0.0.tar.gz",
+  "download_time": "2025-10-02T06:17:15.713070",
+  "package_url": "https://pypi.org/project/qrcodegenpy-shankonduru/"
+}
