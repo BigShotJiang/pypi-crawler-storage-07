@@ -1,0 +1,11 @@
+{
+  "name": "value-factory",
+  "version": "2025.11",
+  "summary": "Convert strings to Python objects, or cast objects, guided by (potentially annotated) type hints",
+  "author": "Eric Debreuve",
+  "license": "CeCILL-2.1",
+  "home_page": "https://src.koda.cnrs.fr/eric.debreuve/value-factory/",
+  "download_filename": "value_factory-2025.11.tar.gz",
+  "download_time": "2025-10-02T07:36:14.446005",
+  "package_url": "https://pypi.org/project/value-factory/"
+}

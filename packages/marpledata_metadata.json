@@ -1,11 +1,11 @@
 {
   "name": "marpledata",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "Marple SDK",
   "author": "Matthias Baert",
   "license": "Apache-2.0",
   "home_page": "https://www.marpledata.com/",
-  "download_filename": "marpledata-2.2.0.tar.gz",
-  "download_time": "2025-10-01T08:55:03.260111",
+  "download_filename": "marpledata-2.2.1.tar.gz",
+  "download_time": "2025-10-02T07:36:20.305591",
   "package_url": "https://pypi.org/project/marpledata/"
 }
