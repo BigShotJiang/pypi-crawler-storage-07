@@ -1,11 +1,11 @@
 {
   "name": "cerillo-python",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cerillo_python-0.0.1.tar.gz",
-  "download_time": "2025-10-02T17:29:00.298334",
+  "download_filename": "cerillo_python-0.0.5.tar.gz",
+  "download_time": "2025-10-02T18:42:50.074848",
   "package_url": "https://pypi.org/project/cerillo-python/"
 }
