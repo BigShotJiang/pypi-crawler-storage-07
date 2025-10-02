@@ -1,11 +1,23 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-02T23:28:15.551939
-- **Total Packages**: 83
-- **Total Size**: 8.23 MB
+- **Download Time**: 2025-10-02T23:35:39.353864
+- **Total Packages**: 84
+- **Total Size**: 10.02 MB
 
 ## Packages List
+- nv-ingest
+- peti007link
+- nv-ingest-client
+- nv-ingest-api
+- feature-engineering-rs
+- langchain-prompty
+- meilisearch-python-sdk
+- tinyshift
+- dbt-tests-adapter
+- zrb-extras
+- rmonico.setup-helper
+- langchain-perplexity
 - scifter-core
 - quant1x
 - syntax-diagrams
@@ -15,7 +27,6 @@
 - authentik-client
 - oaxaca
 - coloredstrings
-- zededa-edgeai-sdk
 - imgen-cli
 - mara-client
 - otpylib-config
@@ -41,7 +52,6 @@
 - rxfoundry.clients.swifty_api
 - rxfoundry.clients.swifty_oauth_api
 - req-update-check
-- feature-engineering-rs
 - llamactl
 - llama-deploy-core
 - llama-deploy-appserver
@@ -80,12 +90,3 @@
 - cirq-google
 - cirq-pasqal
 - cirq-core
-- cirq
-- cirq-ionq
-- cirq-aqt
-- gitbud
-- agentic-commerce-protocol
-- pygmt
-- svc-infra
-- isapilib
-- py-me
