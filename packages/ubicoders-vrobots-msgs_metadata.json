@@ -1,11 +1,11 @@
 {
   "name": "ubicoders-vrobots-msgs",
-  "version": "0.0.1",
+  "version": "2.0.0",
   "summary": "Message definitions for VROBOTS in Python",
   "author": "Elliot Lee",
   "license": "MIT",
   "home_page": "https://github.com/ubicoders0/vrobots_msgs",
-  "download_filename": "ubicoders_vrobots_msgs-0.0.1-py3-none-any.whl",
-  "download_time": "2025-09-28T22:09:55.399896",
+  "download_filename": "ubicoders_vrobots_msgs-2.0.0.tar.gz",
+  "download_time": "2025-10-02T04:13:53.025979",
   "package_url": "https://pypi.org/project/ubicoders-vrobots-msgs/"
 }

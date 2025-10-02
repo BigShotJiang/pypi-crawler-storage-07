@@ -1,11 +1,11 @@
 {
   "name": "darkbin",
-  "version": "0.2.0",
-  "summary": "DarkBin - BIN lookup & CC extractor",
-  "author": "Darkboy",
+  "version": "0.4.0",
+  "summary": "Darkbin updated version",
+  "author": "Your Name",
   "license": null,
-  "home_page": "https://github.com/d0x-dev/darkbin",
-  "download_filename": "darkbin-0.2.0.tar.gz",
-  "download_time": "2025-10-02T03:52:55.609510",
+  "home_page": "https://github.com/yourusername/darkbin",
+  "download_filename": "darkbin-0.4.0.tar.gz",
+  "download_time": "2025-10-02T04:13:44.628245",
   "package_url": "https://pypi.org/project/darkbin/"
 }

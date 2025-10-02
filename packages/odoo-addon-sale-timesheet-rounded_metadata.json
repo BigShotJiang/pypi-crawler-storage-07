@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-timesheet-rounded",
+  "version": "17.0.1.0.0.4",
+  "summary": "Round timesheet entries amount based on project settings.",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/timesheet",
+  "download_filename": "odoo_addon_sale_timesheet_rounded-17.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-10-02T04:13:41.444084",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-timesheet-rounded/"
+}

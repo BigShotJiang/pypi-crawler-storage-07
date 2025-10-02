@@ -1,11 +1,11 @@
 {
   "name": "kittylog",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "AI-powered changelog updater that uses git tags to update CHANGELOG.md files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kittylog-1.0.1.tar.gz",
-  "download_time": "2025-09-30T03:06:45.422640",
+  "download_filename": "kittylog-1.0.2.tar.gz",
+  "download_time": "2025-10-02T04:13:50.938734",
   "package_url": "https://pypi.org/project/kittylog/"
 }

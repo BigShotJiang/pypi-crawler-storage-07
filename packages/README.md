@@ -1,42 +1,72 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-02T03:53:20.172625
-- **Total Packages**: 77
-- **Total Size**: 25.74 MB
+- **Download Time**: 2025-10-02T04:14:10.484939
+- **Total Packages**: 70
+- **Total Size**: 15.29 MB
 
 ## Packages List
+- mkdocs-include-stubs-plugin-test1.0
+- nonebot-adapter-afdian
+- dynamic-temporal-models
+- heaserver-organizations
+- authentik-client
+- suga-client
+- iplotx
+- agentcrew-ai
+- cb-events
+- tirex-mirror
+- mem8
+- yooztech-mcp-api-request
+- robokop-orion
+- openvsc
+- odoo-addon-sale-timesheet-rounded
+- pipeline-eds
+- odoo-commands
+- chromedriver-binary
+- fwdi
+- arcade-mcp
+- darkbin
+- velocity-python
+- quilt-mcp
+- ubicoders-vrobots-ipc
+- otlmow-model
+- odoo-addon-stock-move-purchase-uom
+- metrics_layer
+- devstack-cli
+- nimo
+- cactus-client
+- omniopt2
+- c2pa-python
+- kittylog
+- cmlibs.exporter
+- pulumi-datadog
+- bool-hybrid-array
+- ubicoders-vrobots-msgs
+- telepact-cli
+- phanterpwa
+- pynhl
 - odoo-addon-autovacuum-message-attachment
 - odoo-addon-base-name-search-improved
-- authentik-client
 - odoo-addons-oca-server-tools
 - odoo-addon-auto-backup
 - odoo-addon-attachment-queue
 - scxpand-cuda
 - scxpand
-- pipeline-eds
-- phanterpwa
-- mem8
-- bool-hybrid-array
 - sdfgen
 - raySD
 - smu-ontwins-demo
 - ohmyapi
 - coredis
 - keras-nightly
-- pynhl
 - clipdrop
 - eratos-sdk
 - awslabs.redshift-mcp-server
 - awslabs.aws-dataprocessing-mcp-server
 - awslabs.amazon-bedrock-agentcore-mcp-server
 - ozi-spec
-- heaserver-organizations
-- pulumi-datadog
 - vellum-workflow-server
-- ubicoders-vrobots-ipc
 - django-dynamic-workflows
-- darkbin
 - shipyard-python-sdk
 - robhan-cdk-lib.aws-grafana
 - robhan-cdk-lib.aws-aps
@@ -46,40 +76,3 @@
 - pterradactyl
 - robhan-cdk-lib.utils
 - odoo-addon-procurement-purchase-no-grouping
-- pulumi-ise
-- braintools
-- suga-client
-- dbbasic-video
-- modxpy
-- publicsuffixlist
-- systems-manager
-- servicenow-api
-- repository-manager
-- ansible-tower-mcp
-- cdktf-cdktf-provider-mongodbatlas
-- odoo-addons-oca-product-attribute
-- datamule
-- container-manager-mcp
-- media-downloader
-- llama-index-embeddings-text-embeddings-inference
-- mindhunter
-- sqlmesh
-- wybthon
-- tap-bitly
-- llama-index-tools-scrapegraphai
-- llama-index-readers-confluence
-- keras-rs-nightly
-- llama-index-llms-mistralai
-- piano-integration
-- dasein-core
-- pymcel
-- GANDLF
-- nowledge-mem
-- pyloid-adapter
-- braintrust
-- odoo-addon-ebill-postfinance
-- c2cciutils
-- niti
-- featrixsphere
-- dq-tester
-- psyneulink

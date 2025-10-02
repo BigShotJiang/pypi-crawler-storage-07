@@ -1,0 +1,11 @@
+{
+  "name": "odoo-commands",
+  "version": "0.7",
+  "summary": "Project description",
+  "author": "Dmitry Voronin",
+  "license": "MIT",
+  "home_page": "https://github.com/odoo-ru/odoo-commands",
+  "download_filename": "odoo_commands-0.7.tar.gz",
+  "download_time": "2025-10-02T04:13:42.492773",
+  "package_url": "https://pypi.org/project/odoo-commands/"
+}
