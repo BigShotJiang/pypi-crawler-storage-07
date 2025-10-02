@@ -1,11 +1,11 @@
 {
   "name": "sort-images",
-  "version": "2025.10.11",
+  "version": "2025.10.13",
   "summary": "A cli tool to sort images into folders by date",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sort_images-2025.10.11.tar.gz",
-  "download_time": "2025-10-02T19:23:20.042900",
+  "download_filename": "sort_images-2025.10.13.tar.gz",
+  "download_time": "2025-10-02T19:49:18.999020",
   "package_url": "https://pypi.org/project/sort-images/"
 }

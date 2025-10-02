@@ -1,11 +1,11 @@
 {
   "name": "autoclustal",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Comprehensive bioinformatics pipeline for sequence analysis, clustering, phylogeny, and BLAST annotation",
-  "author": "Stella Hartono",
+  "author": null,
   "license": null,
-  "home_page": "https://github.com/srhartono/autoclustal",
-  "download_filename": "autoclustal-1.0.4.tar.gz",
-  "download_time": "2025-10-02T01:01:37.946487",
+  "home_page": null,
+  "download_filename": "autoclustal-1.0.5.tar.gz",
+  "download_time": "2025-10-02T19:49:37.160539",
   "package_url": "https://pypi.org/project/autoclustal/"
 }

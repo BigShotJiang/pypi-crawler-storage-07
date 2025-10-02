@@ -1,11 +1,11 @@
 {
   "name": "dasein-core",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Universal memory for agentic AI. Attach a brain to any LangChain/LangGraph agent in a single line.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dasein_core-0.1.6.tar.gz",
-  "download_time": "2025-10-02T19:35:20.763898",
+  "download_filename": "dasein_core-0.1.7.tar.gz",
+  "download_time": "2025-10-02T19:49:21.683717",
   "package_url": "https://pypi.org/project/dasein-core/"
 }

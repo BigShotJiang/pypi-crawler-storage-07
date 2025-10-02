@@ -1,11 +1,11 @@
 {
   "name": "flyte",
-  "version": "2.0.0b23",
+  "version": "2.0.0b24",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flyte-2.0.0b23-py3-none-any.whl",
-  "download_time": "2025-10-01T21:11:13.735290",
+  "download_filename": "flyte-2.0.0b24-py3-none-any.whl",
+  "download_time": "2025-10-02T19:49:26.853298",
   "package_url": "https://pypi.org/project/flyte/"
 }

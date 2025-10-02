@@ -1,11 +1,11 @@
 {
   "name": "open-spiel",
-  "version": "1.6.2",
+  "version": "1.6.3",
   "summary": "A Framework for Reinforcement Learning in Games",
   "author": "The OpenSpiel authors",
   "license": "Apache 2.0",
   "home_page": "https://github.com/deepmind/open_spiel",
-  "download_filename": "open_spiel-1.6.2.tar.gz",
-  "download_time": "2025-09-30T20:12:50.356757",
+  "download_filename": "open_spiel-1.6.3.tar.gz",
+  "download_time": "2025-10-02T19:49:20.653921",
   "package_url": "https://pypi.org/project/open-spiel/"
 }

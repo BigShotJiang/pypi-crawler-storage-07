@@ -1,11 +1,11 @@
 {
   "name": "pycommence",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "wrapper for Commence Rm via pywin32",
   "author": "PawRequest",
   "license": null,
   "home_page": null,
-  "download_filename": "pycommence-0.2.3.tar.gz",
-  "download_time": "2025-10-02T19:23:33.479116",
+  "download_filename": "pycommence-0.2.4.tar.gz",
+  "download_time": "2025-10-02T19:49:45.138075",
   "package_url": "https://pypi.org/project/pycommence/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pulumi-cloudru",
-  "version": "1.0.0a1759422924",
+  "version": "1.0.0a1759433404",
   "summary": "A Pulumi package for creating and managing cloud.ru cloud resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pulumi_cloudru-1.0.0a1759422924.tar.gz",
-  "download_time": "2025-10-02T16:48:59.683903",
+  "download_filename": "pulumi_cloudru-1.0.0a1759433404.tar.gz",
+  "download_time": "2025-10-02T19:49:25.818833",
   "package_url": "https://pypi.org/project/pulumi-cloudru/"
 }
