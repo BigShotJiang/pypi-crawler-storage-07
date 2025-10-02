@@ -1,0 +1,11 @@
+{
+  "name": "enfobench",
+  "version": "0.8.0",
+  "summary": "Energy forecast benchmarking toolkit.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "enfobench-0.8.0.tar.gz",
+  "download_time": "2025-10-02T13:44:12.662407",
+  "package_url": "https://pypi.org/project/enfobench/"
+}

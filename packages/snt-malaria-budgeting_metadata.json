@@ -1,0 +1,11 @@
+{
+  "name": "snt-malaria-budgeting",
+  "version": "0.1.2",
+  "summary": "A Python library for calculating malaria intervention budgets",
+  "author": "PATH, IDM, Bluesquare",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "snt_malaria_budgeting-0.1.2.tar.gz",
+  "download_time": "2025-10-02T13:43:45.985457",
+  "package_url": "https://pypi.org/project/snt-malaria-budgeting/"
+}

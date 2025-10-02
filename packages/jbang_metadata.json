@@ -1,0 +1,11 @@
+{
+  "name": "jbang",
+  "version": "0.8.0",
+  "summary": "Python for JBang - Java Script in your Python",
+  "author": "JBang Developers",
+  "license": "MIT",
+  "home_page": "http://jbang.dev",
+  "download_filename": "jbang-0.8.0.tar.gz",
+  "download_time": "2025-10-02T13:43:48.897493",
+  "package_url": "https://pypi.org/project/jbang/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "git-worktree-cli",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "A lightweight Python CLI tool to simplify Git worktree management",
-  "author": null,
-  "license": null,
+  "author": "cebidhem",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "git_worktree_cli-0.1.0.tar.gz",
-  "download_time": "2025-10-01T11:27:17.929169",
+  "download_filename": "git_worktree_cli-0.3.0.tar.gz",
+  "download_time": "2025-10-02T13:43:49.469769",
   "package_url": "https://pypi.org/project/git-worktree-cli/"
 }

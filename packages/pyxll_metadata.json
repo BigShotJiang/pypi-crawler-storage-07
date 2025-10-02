@@ -1,0 +1,11 @@
+{
+  "name": "pyxll",
+  "version": "5.11.2",
+  "summary": "Write Microsoft Excel Add-Ins in Python",
+  "author": "PyXLL Ltd",
+  "license": "Other/Proprietary License",
+  "home_page": "https://www.pyxll.com",
+  "download_filename": "pyxll-5.11.2-cp23-none-any.whl",
+  "download_time": "2025-10-02T13:44:06.902164",
+  "package_url": "https://pypi.org/project/pyxll/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pydantic-serializable",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A lightweight, type-safe base class for serializing/deserializing Pydantic models to/from JSON files, with built-in fallback to default data and overwrite protection.",
   "author": "Mirage_",
   "license": "MIT",
   "home_page": "https://github.com/gxxxr-111/pydantic-serializable",
-  "download_filename": "pydantic_serializable-0.1.1.tar.gz",
-  "download_time": "2025-10-02T11:10:42.345173",
+  "download_filename": "pydantic_serializable-0.1.2.tar.gz",
+  "download_time": "2025-10-02T13:44:30.198439",
   "package_url": "https://pypi.org/project/pydantic-serializable/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "django-webhook-subscriber",
+  "version": "2.0.0",
+  "summary": "A Django package designed to handle webhook creation, management, and delivery.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_webhook_subscriber-2.0.0.tar.gz",
+  "download_time": "2025-10-02T13:44:28.445482",
+  "package_url": "https://pypi.org/project/django-webhook-subscriber/"
+}

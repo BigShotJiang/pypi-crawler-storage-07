@@ -1,11 +1,11 @@
 {
   "name": "typed-linq-collections",
-  "version": "0.8.2",
-  "summary": "Linq for Python with full type annotions. Fluent interface to query and transform any built in Iterable or one of the queryable collections that are drop in replacements for standard collections.",
+  "version": "0.9.5",
+  "summary": "Complete LINQ, language integrated query, implementation for Python with full type annotations, comprehensive documentation, 100% test coverage, and queryable drop in replacements for the builtin collection types.",
   "author": "Magnus Lidbom",
   "license": null,
   "home_page": null,
-  "download_filename": "typed_linq_collections-0.8.2.tar.gz",
-  "download_time": "2025-09-29T05:32:16.816416",
+  "download_filename": "typed_linq_collections-0.9.5.tar.gz",
+  "download_time": "2025-10-02T13:43:41.815984",
   "package_url": "https://pypi.org/project/typed-linq-collections/"
 }

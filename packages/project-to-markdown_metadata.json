@@ -1,11 +1,11 @@
 {
   "name": "project-to-markdown",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "Export a Python project into a single Markdown file.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "project_to_markdown-0.1.0.tar.gz",
-  "download_time": "2025-10-02T11:34:32.844599",
+  "download_filename": "project_to_markdown-0.1.3.tar.gz",
+  "download_time": "2025-10-02T13:43:54.711522",
   "package_url": "https://pypi.org/project/project-to-markdown/"
 }

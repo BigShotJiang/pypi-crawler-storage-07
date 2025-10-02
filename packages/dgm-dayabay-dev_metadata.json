@@ -1,0 +1,11 @@
+{
+  "name": "dgm-dayabay-dev",
+  "version": "0.2.3",
+  "summary": "Implementation of the Daya Bay model for dag-modelling framework. Development version.",
+  "author": "DAGModelling Team",
+  "license": "MIT",
+  "home_page": "https://github.com/dagflow-team/dgm-dayabay-dev",
+  "download_filename": "dgm_dayabay_dev-0.2.3.tar.gz",
+  "download_time": "2025-10-02T13:44:12.087366",
+  "package_url": "https://pypi.org/project/dgm-dayabay-dev/"
+}

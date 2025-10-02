@@ -1,0 +1,11 @@
+{
+  "name": "dayabay-model-official",
+  "version": "1.1.1",
+  "summary": "Official model of the Daya Bay reactor antineutrino experiment for neutrino oscillation analysis based on gadolinium capture data",
+  "author": "Daya Bay Collaboration",
+  "license": "MIT",
+  "home_page": "https://github.com/dagflow-team/dayabay-model-official",
+  "download_filename": "dayabay_model_official-1.1.1.tar.gz",
+  "download_time": "2025-10-02T13:44:11.511335",
+  "package_url": "https://pypi.org/project/dayabay-model-official/"
+}
