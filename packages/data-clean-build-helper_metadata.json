@@ -1,0 +1,11 @@
+{
+  "name": "data-clean-build-helper",
+  "version": "0.1.0",
+  "summary": "A helper library for building and managing data pipelines",
+  "author": "Ashok ARC",
+  "license": null,
+  "home_page": null,
+  "download_filename": "data_clean_build_helper-0.1.0-py3-none-any.whl",
+  "download_time": "2025-10-02T02:12:48.310377",
+  "package_url": "https://pypi.org/project/data-clean-build-helper/"
+}

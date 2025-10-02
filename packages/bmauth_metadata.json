@@ -1,0 +1,11 @@
+{
+  "name": "bmauth",
+  "version": "0.0.2",
+  "summary": "Biometric Authentication System for FastAPI applications",
+  "author": "Sami Melhem",
+  "license": "MIT",
+  "home_page": "https://github.com/samimelhem/bmauth",
+  "download_filename": "bmauth-0.0.2.tar.gz",
+  "download_time": "2025-10-02T02:13:03.210559",
+  "package_url": "https://pypi.org/project/bmauth/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mltracker",
-  "version": "0.2.7",
-  "summary": "A simple tool for tracking machine learning aggregates and storing their data.",
+  "version": "0.3.0",
+  "summary": "Track machine learning experiments.",
   "author": "entropy-flux",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mltracker-0.2.7.tar.gz",
-  "download_time": "2025-09-29T18:43:40.385170",
+  "download_filename": "mltracker-0.3.0.tar.gz",
+  "download_time": "2025-10-02T02:13:28.305709",
   "package_url": "https://pypi.org/project/mltracker/"
 }

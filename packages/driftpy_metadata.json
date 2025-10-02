@@ -1,11 +1,11 @@
 {
   "name": "driftpy",
-  "version": "0.8.74",
+  "version": "0.8.75",
   "summary": "A Python client for the Drift DEX",
   "author": "x19",
   "license": "MIT",
   "home_page": "https://github.com/drift-labs/driftpy",
-  "download_filename": "driftpy-0.8.74.tar.gz",
-  "download_time": "2025-09-30T02:13:16.261243",
+  "download_filename": "driftpy-0.8.75.tar.gz",
+  "download_time": "2025-10-02T02:13:27.742620",
   "package_url": "https://pypi.org/project/driftpy/"
 }

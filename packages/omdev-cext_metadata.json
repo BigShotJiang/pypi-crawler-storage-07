@@ -1,11 +1,11 @@
 {
   "name": "omdev-cext",
-  "version": "0.0.0.dev451",
+  "version": "0.0.0.dev452",
   "summary": "omdev",
   "author": "wrmsr",
   "license": null,
   "home_page": null,
-  "download_filename": "omdev_cext-0.0.0.dev451.tar.gz",
-  "download_time": "2025-09-29T22:48:32.173794",
+  "download_filename": "omdev_cext-0.0.0.dev452.tar.gz",
+  "download_time": "2025-10-02T02:13:24.963828",
   "package_url": "https://pypi.org/project/omdev-cext/"
 }

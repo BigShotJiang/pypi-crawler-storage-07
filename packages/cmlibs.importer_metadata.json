@@ -1,0 +1,11 @@
+{
+  "name": "cmlibs.importer",
+  "version": "0.7.3",
+  "summary": "Import a variety of formats to CMLibs Zinc.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cmlibs_importer-0.7.3-py3-none-any.whl",
+  "download_time": "2025-10-02T02:12:50.010013",
+  "package_url": "https://pypi.org/project/cmlibs.importer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "debian-inspector",
+  "version": "31.1.1",
+  "summary": "Utilities to parse Debian package, copyright and control files.",
+  "author": "nexB. Inc. and others",
+  "license": "Apache-2.0 AND BSD-3-Clause AND MIT",
+  "home_page": "https://github.com/nexB/debian-inspector",
+  "download_filename": "debian_inspector-31.1.1.tar.gz",
+  "download_time": "2025-10-02T02:13:26.599470",
+  "package_url": "https://pypi.org/project/debian-inspector/"
+}
