@@ -1,0 +1,11 @@
+{
+  "name": "trytond-sale-supply-production",
+  "version": "7.6.1",
+  "summary": "Tryton module to supply sales from production",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_sale_supply_production-7.6.1.tar.gz",
+  "download_time": "2025-10-02T21:49:45.836405",
+  "package_url": "https://pypi.org/project/trytond-sale-supply-production/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "metaport-agent-python",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Python agent for Metaport SBOM generation and reporting",
   "author": "Metaport Team",
   "license": "BSD-3",
   "home_page": "https://getmetaport.com",
-  "download_filename": "metaport_agent_python-1.0.2.tar.gz",
-  "download_time": "2025-10-02T21:27:22.593224",
+  "download_filename": "metaport_agent_python-1.0.3.tar.gz",
+  "download_time": "2025-10-02T21:49:47.008570",
   "package_url": "https://pypi.org/project/metaport-agent-python/"
 }

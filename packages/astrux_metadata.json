@@ -1,11 +1,11 @@
 {
   "name": "astrux",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Astrux Python SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "astrux-0.1.1.tar.gz",
-  "download_time": "2025-10-02T20:14:54.155158",
+  "download_filename": "astrux-0.1.2.tar.gz",
+  "download_time": "2025-10-02T21:49:49.478347",
   "package_url": "https://pypi.org/project/astrux/"
 }

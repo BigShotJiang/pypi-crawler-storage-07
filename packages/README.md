@@ -1,13 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-02T21:34:56.304680
-- **Total Packages**: 89
-- **Total Size**: 4.56 MB
+- **Download Time**: 2025-10-02T21:50:37.417936
+- **Total Packages**: 81
+- **Total Size**: 27.01 MB
 
 ## Packages List
-- lanyard-py
+- trytond-sale-supply-production
+- wry
+- metaport-agent-python
+- ezga-lib
+- sphinx-vhs
+- cerb-code
+- astrux
+- fmod-toolkit
+- trytond-stock-package-shipping
+- hats-import
+- dsa-toolkit
+- pyagentspec
+- v440
+- davidkhala.databases
+- lightning-pose
+- satori-ci
+- artifex
+- pythermite
+- microsoft-fabric-api
+- perturbvi
+- lark-parser-language-server
 - shipaw
+- atom
+- trytond-stock-package-shipping-sendcloud
+- ubicoders-vrobots-ipc
+- layrz-sdk
+- trytond-web-shop-shopify
+- hats
+- capsem
+- galago-tools
+- locust
+- ngab
+- opencode-client
+- tai-jaix
+- eolymp
+- elyzo
+- vhs
+- provider-hub
+- mrx-runway
+- pwdgen-py
+- dapr-agents
+- authentik-client
+- redzone-lib
+- fastapi-qengine
+- extend-ai
+- terra-scientific-pipelines-service-api-client
+- lanyard-py
 - dbt-adapters
 - warp-beacon
 - tabella
@@ -18,15 +63,12 @@
 - firegex
 - fgex
 - finbrain-python
-- cerb-code
 - multidecoder
 - bioguider
 - whoop-data
 - heracles-ql
-- atom
 - mysingle-quant
 - kelp-o-matic
-- metaport-agent-python
 - pluthon
 - qsharp-widgets
 - qsharp-jupyterlab
@@ -40,58 +82,8 @@
 - crewai-tools
 - netneurotools
 - crewai
-- authentik-client
 - python-hilo
 - pragmastat
 - taters
 - pyxcrypt
 - rdworks
-- wmill-pg
-- wmill
-- windmill-api
-- selenium-recaptcha-solver
-- segmentation-skeleton-metrics
-- propfit
-- django-mongodb-extensions
-- v440
-- qumulo-api
-- perturbvi
-- ni.grpcdevice.v1.proto
-- heroku-tl-new
-- strongmind-deployment
-- cursofiap-utils-luest
-- omserv
-- ommlds
-- omlish
-- systrack
-- omlish-cext
-- ominfra
-- omextra
-- omdev
-- omdev-cli
-- omdev-cext
-- langchain-xai
-- hla-compass
-- django-nativemojo
-- mock-spark
-- montecarlodata
-- ut-cli
-- ikigai
-- openweights
-- nested-pandas
-- zalfmas-fbp
-- shellforgepy
-- datachain
-- sphinx-notionbuilder
-- valimp
-- advanced-video-processor
-- n23
-- simplini
-- idds-workflow
-- idds-website
-- idds-monitor
-- idds-server
-- idds-doma
-- idds-common
-- idds-client
-- idds-atlas

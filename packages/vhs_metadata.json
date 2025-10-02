@@ -1,11 +1,11 @@
 {
   "name": "vhs",
-  "version": "1.0.0",
+  "version": "1.0.0.post1",
   "summary": "Write terminal GIFs as code for integration testing and demoing your CLI tools, now with python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vhs-1.0.0.tar.gz",
-  "download_time": "2025-09-29T23:33:49.180834",
+  "download_filename": "vhs-1.0.0.post1.tar.gz",
+  "download_time": "2025-10-02T21:50:09.676968",
   "package_url": "https://pypi.org/project/vhs/"
 }

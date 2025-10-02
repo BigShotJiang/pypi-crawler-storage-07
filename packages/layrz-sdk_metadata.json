@@ -1,11 +1,11 @@
 {
   "name": "layrz-sdk",
-  "version": "4.0.26",
+  "version": "4.0.27",
   "summary": "Layrz SDK for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "layrz_sdk-4.0.26.tar.gz",
-  "download_time": "2025-10-02T17:49:57.104960",
+  "download_filename": "layrz_sdk-4.0.27.tar.gz",
+  "download_time": "2025-10-02T21:50:01.828683",
   "package_url": "https://pypi.org/project/layrz-sdk/"
 }

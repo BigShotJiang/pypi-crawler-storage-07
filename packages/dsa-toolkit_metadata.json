@@ -1,0 +1,11 @@
+{
+  "name": "dsa-toolkit",
+  "version": "1.0.0",
+  "summary": "A comprehensive toolkit for Data Structures and Algorithms",
+  "author": "Masoom Verma",
+  "license": "MIT",
+  "home_page": "https://github.com/masoomverma/dsa-toolkit",
+  "download_filename": "dsa_toolkit-1.0.0.tar.gz",
+  "download_time": "2025-10-02T21:49:52.214146",
+  "package_url": "https://pypi.org/project/dsa-toolkit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "microsoft-fabric-api",
+  "version": "0.1.0b1",
+  "summary": "Microsoft Fabric API Python SDK",
+  "author": "Microsoft Corporation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "microsoft_fabric_api-0.1.0b1-py3-none-any.whl",
+  "download_time": "2025-10-02T21:49:57.368257",
+  "package_url": "https://pypi.org/project/microsoft-fabric-api/"
+}
