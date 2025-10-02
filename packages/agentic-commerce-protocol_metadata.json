@@ -1,11 +1,11 @@
 {
   "name": "agentic-commerce-protocol",
-  "version": "0.1.7",
+  "version": "0.2.0",
   "summary": "Type definitions for the Agentic Commerce Protocol specification",
   "author": "Svix",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentic_commerce_protocol-0.1.7.tar.gz",
-  "download_time": "2025-10-02T22:50:27.133173",
+  "download_filename": "agentic_commerce_protocol-0.2.0.tar.gz",
+  "download_time": "2025-10-02T23:11:36.269237",
   "package_url": "https://pypi.org/project/agentic-commerce-protocol/"
 }

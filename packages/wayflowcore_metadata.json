@@ -1,0 +1,11 @@
+{
+  "name": "wayflowcore",
+  "version": "0.0.0.post9999",
+  "summary": "Reserved package.",
+  "author": "Oracle",
+  "license": "wayflowcore — Dual License Notice\n        \n        This project is dual-licensed. You may use this work under the terms of either:\n        \n        1) Apache License, Version 2.0 (Apache-2.0)\n           See the included file: LICENSE-APACHE\n           https://www.apache.org/licenses/LICENSE-2.0\n        \n        2) Universal Permissive License, Version 1.0 (UPL-1.0)\n           See the included file: LICENSE-UPL\n           https://opensource.org/license/upl-1-0/\n        \n        SPDX-License-Identifier: Apache-2.0 OR UPL-1.0",
+  "home_page": null,
+  "download_filename": "wayflowcore-0.0.0.post9999.tar.gz",
+  "download_time": "2025-10-02T23:11:18.374776",
+  "package_url": "https://pypi.org/project/wayflowcore/"
+}

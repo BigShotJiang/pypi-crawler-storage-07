@@ -1,11 +1,11 @@
 {
   "name": "MAVez",
-  "version": "3.2.1",
+  "version": "3.2.2",
   "summary": "An intuitive MAVLink library for ArduPilot via pymavlink",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mavez-3.2.1.tar.gz",
-  "download_time": "2025-10-02T18:16:45.037209",
+  "download_filename": "mavez-3.2.2.tar.gz",
+  "download_time": "2025-10-02T23:11:19.625524",
   "package_url": "https://pypi.org/project/MAVez/"
 }

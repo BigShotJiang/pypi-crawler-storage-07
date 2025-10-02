@@ -1,0 +1,11 @@
+{
+  "name": "pros-cli",
+  "version": "3.5.6",
+  "summary": "Command Line Interface for managing PROS projects",
+  "author": "Purdue ACM SIGBots",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/purduesigbots/pros-cli",
+  "download_filename": "pros_cli-3.5.6-py3-none-any.whl",
+  "download_time": "2025-10-02T23:11:16.991909",
+  "package_url": "https://pypi.org/project/pros-cli/"
+}
