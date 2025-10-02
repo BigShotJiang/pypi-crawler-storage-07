@@ -1,0 +1,11 @@
+{
+  "name": "stochasticforceinference",
+  "version": "1.9.5.2",
+  "summary": "Stochastic Force Inference for Langevin SDEs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stochasticforceinference-1.9.5.2.tar.gz",
+  "download_time": "2025-10-02T18:53:27.227469",
+  "package_url": "https://pypi.org/project/stochasticforceinference/"
+}

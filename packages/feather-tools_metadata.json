@@ -1,0 +1,11 @@
+{
+  "name": "feather-tools",
+  "version": "1.0.0",
+  "summary": "Scripts to use for pyarrow feather files in a Linux terminal window",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "feather_tools-1.0.0.tar.gz",
+  "download_time": "2025-10-02T18:53:26.576747",
+  "package_url": "https://pypi.org/project/feather-tools/"
+}

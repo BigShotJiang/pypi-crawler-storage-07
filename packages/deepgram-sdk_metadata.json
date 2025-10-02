@@ -1,0 +1,11 @@
+{
+  "name": "deepgram-sdk",
+  "version": "5.0.0",
+  "summary": null,
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/deepgram/deepgram-python-sdk",
+  "download_filename": "deepgram_sdk-5.0.0.tar.gz",
+  "download_time": "2025-10-02T18:53:45.831093",
+  "package_url": "https://pypi.org/project/deepgram-sdk/"
+}
