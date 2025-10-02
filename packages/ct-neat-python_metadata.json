@@ -1,11 +1,11 @@
 {
   "name": "ct-neat-python",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A CT (Continuous Time) NEAT (NeuroEvolution of Augmenting Topologies) implementation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ct_neat_python-1.0.0.tar.gz",
-  "download_time": "2025-09-28T09:09:38.987943",
+  "download_filename": "ct_neat_python-1.0.1.tar.gz",
+  "download_time": "2025-10-02T11:35:01.364218",
   "package_url": "https://pypi.org/project/ct-neat-python/"
 }

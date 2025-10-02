@@ -1,11 +1,11 @@
 {
   "name": "stimulus-py",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "A package for testing deep learning models",
   "author": "Alessio Vignoli, Suzanne Jin, Luisa Santus",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "stimulus_py-0.5.0.tar.gz",
-  "download_time": "2025-09-30T16:15:10.017054",
+  "download_filename": "stimulus_py-0.5.1.tar.gz",
+  "download_time": "2025-10-02T11:34:40.377424",
   "package_url": "https://pypi.org/project/stimulus-py/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "telescope-python",
+  "version": "1.0.0",
+  "summary": "Python client for Telescope error monitoring",
+  "author": "Telescope Team",
+  "license": "MIT",
+  "home_page": "https://github.com/us-telescope/telescope-python",
+  "download_filename": "telescope_python-1.0.0.tar.gz",
+  "download_time": "2025-10-02T11:34:55.518538",
+  "package_url": "https://pypi.org/project/telescope-python/"
+}

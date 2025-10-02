@@ -1,11 +1,11 @@
 {
   "name": "halonex",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "URL validation and security analysis package using Halonex Vanta API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "halonex-0.1.6.tar.gz",
-  "download_time": "2025-10-02T08:38:30.688104",
+  "download_filename": "halonex-0.1.7.tar.gz",
+  "download_time": "2025-10-02T11:34:40.895150",
   "package_url": "https://pypi.org/project/halonex/"
 }
