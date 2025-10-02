@@ -1,11 +1,11 @@
 {
   "name": "gondola",
-  "version": "0.11.8",
+  "version": "0.12.0",
   "summary": "GAPS Online and Offline Analysis software",
   "author": null,
   "license": "GPLV3",
   "home_page": null,
-  "download_filename": "gondola-0.11.8.tar.gz",
-  "download_time": "2025-09-27T18:12:51.680125",
+  "download_filename": "gondola-0.12.0.tar.gz",
+  "download_time": "2025-10-02T22:50:29.067507",
   "package_url": "https://pypi.org/project/gondola/"
 }

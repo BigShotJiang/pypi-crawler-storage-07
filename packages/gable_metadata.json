@@ -1,11 +1,11 @@
 {
   "name": "gable",
-  "version": "0.45.1",
+  "version": "0.45.2",
   "summary": "Command line interface (CLI) and software development kit (SDK) to interact with Gable API",
   "author": "Gable.ai",
   "license": null,
   "home_page": null,
-  "download_filename": "gable-0.45.1.tar.gz",
-  "download_time": "2025-10-01T22:41:03.484745",
+  "download_filename": "gable-0.45.2.tar.gz",
+  "download_time": "2025-10-02T22:50:27.718202",
   "package_url": "https://pypi.org/project/gable/"
 }

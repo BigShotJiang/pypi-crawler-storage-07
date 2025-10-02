@@ -1,24 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-02T22:40:28.534206
-- **Total Packages**: 86
-- **Total Size**: 11.56 MB
+- **Download Time**: 2025-10-02T22:51:07.984244
+- **Total Packages**: 84
+- **Total Size**: 5.82 MB
 
 ## Packages List
+- monaco
+- frameio
+- wry
+- quant1x
+- py-me
+- propfit
+- retro-dos-border-ui
+- v440
+- rfdetr
+- finbrain-mcp
+- bmauth
+- agentic-commerce-protocol
+- gable
+- dragonfly-core
+- gondola
+- feature-engineering-rs
+- segmentation-skeleton-metrics
+- gitbud
+- svc-infra
+- RitalinCoder
+- sdxclient
+- flote
+- caylent-devcontainer-cli
+- comfoair
+- grooveshop-django-api
+- ubicoders-vrobots-ipc
+- warp-beacon
+- langchain-tool-server
 - mwl-phonemizer
 - streamlit-chat-widget-franklu
 - pyrathole
 - psr-factory
-- agentic-commerce-protocol
 - layrz-sdk
 - sinehost
 - authentik-client
 - mcp-server-things
 - turbopdf
-- gitbud
 - dsa-toolkit
-- warp-beacon
 - asset-model-data-storage
 - invariant-client
 - helpers-to-python
@@ -26,8 +51,6 @@
 - brs-xss
 - shell-gpt-deluxe
 - tiktok-business-api-sdk-official
-- v440
-- ubicoders-vrobots-ipc
 - google-genai
 - model-train-protocol
 - clearner
@@ -35,7 +58,6 @@
 - pyelox
 - workos
 - django-cdt-identity
-- wry
 - aiogram-sentinel
 - gbd-mapping
 - spatialstudio
@@ -68,27 +90,3 @@
 - pipeline-eds
 - ni.measurementlink.proto
 - pragmastat
-- kaqing
-- ni.measurementlink.pinmap.v1.proto
-- objectproxypool
-- ni.measurementlink.pinmap.v1.client
-- dbt-colibri
-- SquirroClient
-- referrers
-- tetra
-- glitchlings
-- ni.measurementlink.measurement.v1.proto
-- ecomp
-- ni.measurementlink.measurement.v2.proto
-- cognite-sdk
-- raya-pdi
-- pmmc
-- cogworks
-- shipaw
-- regula-documentreader-webclient
-- trytond-account-payment-sepa
-- unbabelizer
-- eca-lib
-- pydantic
-- lanyard-py
-- mysingle-quant

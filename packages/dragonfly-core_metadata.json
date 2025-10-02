@@ -1,11 +1,11 @@
 {
   "name": "dragonfly-core",
-  "version": "1.72.0",
+  "version": "1.72.1",
   "summary": ":dragon: dragonfly core library",
   "author": "Ladybug Tools",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/ladybug-tools/dragonfly-core",
-  "download_filename": "dragonfly_core-1.72.0.tar.gz",
-  "download_time": "2025-10-02T20:49:16.832250",
+  "download_filename": "dragonfly_core-1.72.1.tar.gz",
+  "download_time": "2025-10-02T22:50:28.317285",
   "package_url": "https://pypi.org/project/dragonfly-core/"
 }
