@@ -1,0 +1,11 @@
+{
+  "name": "ni.grpcdevice.v1.proto",
+  "version": "1.0.0",
+  "summary": "Protobuf generated code for the nidevice_grpc gRPC API",
+  "author": "NI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ni_grpcdevice_v1_proto-1.0.0.tar.gz",
+  "download_time": "2025-10-02T21:27:40.021529",
+  "package_url": "https://pypi.org/project/ni.grpcdevice.v1.proto/"
+}

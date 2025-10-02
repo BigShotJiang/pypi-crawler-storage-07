@@ -1,11 +1,11 @@
 {
   "name": "omserv",
-  "version": "0.0.0.dev453",
+  "version": "0.0.0.dev454",
   "summary": "omserv",
   "author": "wrmsr",
   "license": null,
   "home_page": null,
-  "download_filename": "omserv-0.0.0.dev453.tar.gz",
-  "download_time": "2025-10-02T06:17:05.386399",
+  "download_filename": "omserv-0.0.0.dev454.tar.gz",
+  "download_time": "2025-10-02T21:27:42.288422",
   "package_url": "https://pypi.org/project/omserv/"
 }

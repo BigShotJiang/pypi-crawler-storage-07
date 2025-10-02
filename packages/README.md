@@ -1,14 +1,70 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-02T21:13:10.944132
-- **Total Packages**: 89
-- **Total Size**: 33.4 MB
+- **Download Time**: 2025-10-02T21:28:10.453277
+- **Total Packages**: 87
+- **Total Size**: 15.53 MB
 
 ## Packages List
+- metaport-agent-python
+- pluthon
+- qsharp-widgets
+- qsharp-jupyterlab
+- qsharp
+- qdk
+- netbox-services
+- otpylib-logger
+- trytond
+- botocraft
+- ni.measurementlink.discovery.v1.client
+- crewai-tools
+- netneurotools
+- crewai
+- authentik-client
+- python-hilo
+- pragmastat
+- taters
+- pyxcrypt
+- rdworks
+- wmill-pg
+- wmill
+- windmill-api
+- selenium-recaptcha-solver
+- segmentation-skeleton-metrics
+- mysingle-quant
+- propfit
+- django-mongodb-extensions
+- v440
+- qumulo-api
+- perturbvi
+- ni.grpcdevice.v1.proto
+- heroku-tl-new
+- strongmind-deployment
+- cursofiap-utils-luest
+- omserv
+- ommlds
+- omlish
+- systrack
+- omlish-cext
+- ominfra
+- omextra
+- omdev
+- omdev-cli
+- omdev-cext
+- langchain-xai
+- hla-compass
+- django-nativemojo
+- mock-spark
+- montecarlodata
+- ut-cli
+- ikigai
+- openweights
+- nested-pandas
+- zalfmas-fbp
 - shellforgepy
 - datachain
 - sphinx-notionbuilder
+- valimp
 - advanced-video-processor
 - n23
 - simplini
@@ -21,7 +77,6 @@
 - idds-client
 - idds-atlas
 - quscope
-- authentik-client
 - universal-silabs-flasher
 - whoop-data
 - dtpyfw
@@ -36,62 +91,5 @@
 - ni-grpc-extensions
 - dragonfly-energy
 - shipaw
-- v440
-- botocraft
 - tobiko-cloud-api-client
 - tobiko-cloud-pydantic
-- openreview-py
-- tobiko-cloud-helpers
-- mdxcanvas
-- sort-images
-- plain.toolbar
-- plain.sessions
-- plain.pageviews
-- plain.pages
-- plain.oauth
-- plain.models
-- plotly-ml
-- plain.htmx
-- plain.flags
-- plain.auth
-- plain.api
-- plain
-- doctra
-- nba-video-generator
-- pymorphy3
-- dataria
-- upsonic
-- fpg-cli
-- omniverse-kit
-- polynx
-- c2cgeoportal-admin
-- c2cgeoportal-geoportal
-- c2cgeoportal-commons
-- senzing-core
-- redzone-lib
-- senstore
-- spatiomic
-- stackitui
-- lxml-html-clean
-- zyracrypt
-- netbox-services
-- dragonfly-core
-- rdiffweb
-- mysingle-quant
-- databricks-feature-engineering
-- devsecops-engine-tools
-- proml-cli
-- rich-style
-- whiffpy
-- snakebar
-- check-config
-- nominal-api-protos
-- nominal-api
-- ngab
-- transformerlab
-- vcp-cli
-- soniox-sdk
-- openai
-- great-expectations-cloud
-- rad-dino
-- dynamanager

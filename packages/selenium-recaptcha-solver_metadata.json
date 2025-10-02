@@ -1,0 +1,11 @@
+{
+  "name": "selenium-recaptcha-solver",
+  "version": "1.9.1",
+  "summary": null,
+  "author": "Tomás Perestrelo",
+  "license": "MIT",
+  "home_page": "https://github.com/thicccat688/selenium-recaptcha-solver",
+  "download_filename": "selenium_recaptcha_solver-1.9.1.tar.gz",
+  "download_time": "2025-10-02T21:27:35.622051",
+  "package_url": "https://pypi.org/project/selenium-recaptcha-solver/"
+}

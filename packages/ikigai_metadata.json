@@ -1,0 +1,11 @@
+{
+  "name": "ikigai",
+  "version": "0.2.3",
+  "summary": "Python client for ikigailabs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ikigai-0.2.3.tar.gz",
+  "download_time": "2025-10-02T21:27:51.594076",
+  "package_url": "https://pypi.org/project/ikigai/"
+}

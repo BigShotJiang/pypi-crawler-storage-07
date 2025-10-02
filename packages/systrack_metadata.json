@@ -1,0 +1,11 @@
+{
+  "name": "systrack",
+  "version": "0.8",
+  "summary": "Linux kernel syscall implementation tracker",
+  "author": "Marco Bonelli",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "systrack-0.8.tar.gz",
+  "download_time": "2025-10-02T21:27:44.036613",
+  "package_url": "https://pypi.org/project/systrack/"
+}

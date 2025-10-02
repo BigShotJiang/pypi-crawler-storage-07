@@ -1,0 +1,11 @@
+{
+  "name": "qdk",
+  "version": "1.21.0",
+  "summary": "Unified Quantum Development Kit Python meta-package (wraps qsharp and optional extras)",
+  "author": "Microsoft",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qdk-1.21.0-py3-none-any.whl",
+  "download_time": "2025-10-02T21:27:25.324223",
+  "package_url": "https://pypi.org/project/qdk/"
+}

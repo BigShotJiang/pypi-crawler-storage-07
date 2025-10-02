@@ -1,0 +1,11 @@
+{
+  "name": "heroku-tl-new",
+  "version": "1.7.2",
+  "summary": "This library is built for the Heroku userbot and is based on Telethon.",
+  "author": "Codrago",
+  "license": "CCBYNCND V4",
+  "home_page": "https://github.com/coddrago/heroku-tl",
+  "download_filename": "heroku_tl_new-1.7.2.tar.gz",
+  "download_time": "2025-10-02T21:27:40.617499",
+  "package_url": "https://pypi.org/project/heroku-tl-new/"
+}

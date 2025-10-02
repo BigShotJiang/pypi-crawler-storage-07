@@ -1,11 +1,11 @@
 {
   "name": "idds-workflow",
-  "version": "2.2.52",
+  "version": "2.3.0",
   "summary": "intelligent Data Delivery Service(iDDS) Package",
   "author": "IRIS-HEP Team",
   "license": "GPL",
   "home_page": null,
-  "download_filename": "idds_workflow-2.2.52.tar.gz",
-  "download_time": "2025-10-02T21:12:21.515178",
+  "download_filename": "idds_workflow-2.3.0.tar.gz",
+  "download_time": "2025-10-02T21:27:57.454595",
   "package_url": "https://pypi.org/project/idds-workflow/"
 }
