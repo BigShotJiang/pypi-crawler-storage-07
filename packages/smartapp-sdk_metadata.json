@@ -1,0 +1,11 @@
+{
+  "name": "smartapp-sdk",
+  "version": "0.9.1",
+  "summary": "Framework to build a webhook-based SmartThings SmartApp",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smartapp_sdk-0.9.1.tar.gz",
+  "download_time": "2025-10-02T17:37:31.622303",
+  "package_url": "https://pypi.org/project/smartapp-sdk/"
+}
