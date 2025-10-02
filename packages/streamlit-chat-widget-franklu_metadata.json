@@ -1,11 +1,11 @@
 {
   "name": "streamlit-chat-widget-franklu",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "A custom chat input widget for Streamlit based on Mohammed Bahageel's Chat Input Widget",
   "author": "Frank Lu",
   "license": null,
   "home_page": "https://github.com/franklu2014/Chat_input_widget",
-  "download_filename": "streamlit_chat_widget_franklu-0.4.0.tar.gz",
-  "download_time": "2025-10-02T22:30:32.269952",
+  "download_filename": "streamlit_chat_widget_franklu-0.5.0.tar.gz",
+  "download_time": "2025-10-02T22:39:43.232572",
   "package_url": "https://pypi.org/project/streamlit-chat-widget-franklu/"
 }

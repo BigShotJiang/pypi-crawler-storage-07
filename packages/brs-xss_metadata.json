@@ -1,0 +1,11 @@
+{
+  "name": "brs-xss",
+  "version": "1.1.0",
+  "summary": "Context-aware async XSS scanner for CI",
+  "author": null,
+  "license": "Dual License: GPL-3.0-or-later OR Commercial",
+  "home_page": null,
+  "download_filename": "brs_xss-1.1.0.tar.gz",
+  "download_time": "2025-10-02T22:39:52.345201",
+  "package_url": "https://pypi.org/project/brs-xss/"
+}
