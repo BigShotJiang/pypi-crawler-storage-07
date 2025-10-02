@@ -1,11 +1,11 @@
 {
   "name": "pman-tester",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "A GUI-based API testing tool",
   "author": "Tien Song Nguyen",
   "license": null,
   "home_page": "https://github.com/tiennsloit/pman",
-  "download_filename": "pman_tester-1.0.2.tar.gz",
-  "download_time": "2025-09-29T08:43:16.600839",
+  "download_filename": "pman_tester-1.0.4.tar.gz",
+  "download_time": "2025-10-02T09:20:10.418873",
   "package_url": "https://pypi.org/project/pman-tester/"
 }

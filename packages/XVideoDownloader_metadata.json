@@ -1,0 +1,11 @@
+{
+  "name": "XVideoDownloader",
+  "version": "0.1.0",
+  "summary": "Python wrapper for X (Twitter) video downloader API",
+  "author": "0600011",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xvideodownloader-0.1.0.tar.gz",
+  "download_time": "2025-10-02T09:20:11.639983",
+  "package_url": "https://pypi.org/project/XVideoDownloader/"
+}

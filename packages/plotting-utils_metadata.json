@@ -1,0 +1,11 @@
+{
+  "name": "plotting-utils",
+  "version": "0.1.5",
+  "summary": "Elegant wrappers around matplotlib and seaborn for scientific plotting",
+  "author": "andrecossa5",
+  "license": null,
+  "home_page": "https://github.com/andrecossa5/plotting_utils",
+  "download_filename": "plotting_utils-0.1.5.tar.gz",
+  "download_time": "2025-10-02T09:20:23.248618",
+  "package_url": "https://pypi.org/project/plotting-utils/"
+}

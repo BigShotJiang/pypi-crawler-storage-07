@@ -1,11 +1,11 @@
 {
   "name": "bris-fiab",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Running the bris model in Forecast-in-a-Box and anemoi-inference",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bris_fiab-0.1.0.tar.gz",
-  "download_time": "2025-10-02T07:36:17.711213",
+  "download_filename": "bris_fiab-0.1.1.tar.gz",
+  "download_time": "2025-10-02T09:20:49.524574",
   "package_url": "https://pypi.org/project/bris-fiab/"
 }

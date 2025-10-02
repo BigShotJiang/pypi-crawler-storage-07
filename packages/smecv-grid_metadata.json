@@ -1,0 +1,11 @@
+{
+  "name": "smecv-grid",
+  "version": "0.6",
+  "summary": "Grid definition of the Discrete Global Grid (DGG) for ESA CCI SM and C3S SM.",
+  "author": null,
+  "license": "mit",
+  "home_page": null,
+  "download_filename": "smecv_grid-0.6.tar.gz",
+  "download_time": "2025-10-02T09:20:23.852363",
+  "package_url": "https://pypi.org/project/smecv-grid/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "python-snake-game",
-  "version": "0.10.1",
+  "version": "0.10.2",
   "summary": "A Windows snake game project.It is a private project but you can use it if you trust me.",
   "author": "ramimK0bir",
   "license": null,
   "home_page": null,
-  "download_filename": "python_snake_game-0.10.1.tar.gz",
-  "download_time": "2025-10-02T08:53:45.338069",
+  "download_filename": "python_snake_game-0.10.2.tar.gz",
+  "download_time": "2025-10-02T09:20:34.829686",
   "package_url": "https://pypi.org/project/python-snake-game/"
 }

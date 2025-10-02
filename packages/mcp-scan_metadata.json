@@ -1,11 +1,11 @@
 {
   "name": "mcp-scan",
-  "version": "0.3.16",
+  "version": "0.3.17",
   "summary": "MCP Scan tool",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mcp_scan-0.3.16.tar.gz",
-  "download_time": "2025-10-02T08:16:54.771307",
+  "download_filename": "mcp_scan-0.3.17.tar.gz",
+  "download_time": "2025-10-02T09:20:30.188165",
   "package_url": "https://pypi.org/project/mcp-scan/"
 }
