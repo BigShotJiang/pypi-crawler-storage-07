@@ -1,11 +1,11 @@
 {
   "name": "altinoai",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "altinoai-2.0.1.tar.gz",
-  "download_time": "2025-10-01T16:39:34.635576",
+  "download_filename": "altinoai-2.0.2.tar.gz",
+  "download_time": "2025-10-02T01:01:55.537779",
   "package_url": "https://pypi.org/project/altinoai/"
 }

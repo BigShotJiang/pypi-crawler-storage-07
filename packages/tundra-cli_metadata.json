@@ -1,11 +1,11 @@
 {
   "name": "tundra-cli",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Snowflake permissions management tool with Apache Iceberg table support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tundra_cli-0.0.4.tar.gz",
-  "download_time": "2025-10-01T23:12:49.888462",
+  "download_filename": "tundra_cli-0.0.5.tar.gz",
+  "download_time": "2025-10-02T01:01:50.317961",
   "package_url": "https://pypi.org/project/tundra-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyjson5",
+  "version": "2.0.0",
+  "summary": "JSON5 serializer and parser for Python 3 written in Cython.",
+  "author": "René Kijewski",
+  "license": null,
+  "home_page": "https://github.com/Kijewski/pyjson5",
+  "download_filename": "pyjson5-2.0.0.tar.gz",
+  "download_time": "2025-10-02T01:01:54.954801",
+  "package_url": "https://pypi.org/project/pyjson5/"
+}

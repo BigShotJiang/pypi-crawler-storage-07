@@ -1,0 +1,11 @@
+{
+  "name": "WhisperDriver",
+  "version": "0.1.8",
+  "summary": "Automation and API library for WhisperTrades.com",
+  "author": "Paul Nobrega",
+  "license": "MIT",
+  "home_page": "https://github.com/PaulNobrega/WhisperDriver",
+  "download_filename": "WhisperDriver-0.1.8.tar.gz",
+  "download_time": "2025-10-02T01:01:24.237180",
+  "package_url": "https://pypi.org/project/WhisperDriver/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pycol-complexity",
+  "version": "1.0.0",
+  "summary": "Python Package for complexity measures",
+  "author": "Diogo Apostolo",
+  "license": null,
+  "home_page": "https://github.com/DiogoApostolo/pycol",
+  "download_filename": "pycol_complexity-1.0.0.tar.gz",
+  "download_time": "2025-10-02T01:01:39.112635",
+  "package_url": "https://pypi.org/project/pycol-complexity/"
+}

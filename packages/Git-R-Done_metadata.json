@@ -1,0 +1,11 @@
+{
+  "name": "Git-R-Done",
+  "version": "0.1.0",
+  "summary": "Interactive command line helper for Git workflows",
+  "author": "Christopher Hirschauer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "git_r_done-0.1.0.tar.gz",
+  "download_time": "2025-10-02T01:02:00.419901",
+  "package_url": "https://pypi.org/project/Git-R-Done/"
+}
