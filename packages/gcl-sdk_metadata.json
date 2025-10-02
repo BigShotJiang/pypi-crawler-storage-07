@@ -1,11 +1,11 @@
 {
   "name": "gcl-sdk",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "summary": "The Genesis Core SDK",
   "author": "Genesis Corporation",
   "license": null,
   "home_page": "https://github.com/infraguys/gcl_sdk/",
-  "download_filename": "gcl_sdk-0.8.3.tar.gz",
-  "download_time": "2025-10-01T20:14:27.941776",
+  "download_filename": "gcl_sdk-0.8.4.tar.gz",
+  "download_time": "2025-10-02T08:38:46.442900",
   "package_url": "https://pypi.org/project/gcl-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyexecmd",
+  "version": "0.1.9",
+  "summary": "Python-Powered Markdown with executable code and dynamic content",
+  "author": "PyExecMD Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyexecmd-0.1.9.tar.gz",
+  "download_time": "2025-10-02T08:38:56.946625",
+  "package_url": "https://pypi.org/project/pyexecmd/"
+}

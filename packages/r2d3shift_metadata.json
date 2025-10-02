@@ -1,0 +1,11 @@
+{
+  "name": "r2d3shift",
+  "version": "1.617978",
+  "summary": "Fix the misalignments of spectra from R2D3 sequence due to varying thermal conditions.",
+  "author": "Julien PONTABRY",
+  "license": "CECILL-2.1",
+  "home_page": null,
+  "download_filename": "r2d3shift-1.617978.tar.gz",
+  "download_time": "2025-10-02T08:38:39.871522",
+  "package_url": "https://pypi.org/project/r2d3shift/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hostinger-api",
+  "version": "0.0.19",
+  "summary": "Hostinger API",
+  "author": "Hostinger",
+  "license": "MIT",
+  "home_page": "https://github.com/hostinger/api-python-sdk",
+  "download_filename": "hostinger_api-0.0.19.tar.gz",
+  "download_time": "2025-10-02T08:38:48.062688",
+  "package_url": "https://pypi.org/project/hostinger-api/"
+}
