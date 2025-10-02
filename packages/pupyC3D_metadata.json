@@ -1,11 +1,11 @@
 {
   "name": "pupyC3D",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Pure Python C3D reader and writer for biomechanics and motion capture data",
   "author": "Antoine MARIN",
   "license": "CC-BY-NC-4.0",
   "home_page": "https://github.com/Norton-breman/pupyC3D",
-  "download_filename": "pupyc3d-0.1.1.tar.gz",
-  "download_time": "2025-10-01T09:25:49.337274",
+  "download_filename": "pupyc3d-0.1.2.tar.gz",
+  "download_time": "2025-10-02T07:49:15.241109",
   "package_url": "https://pypi.org/project/pupyC3D/"
 }

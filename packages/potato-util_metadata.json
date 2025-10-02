@@ -1,11 +1,11 @@
 {
   "name": "potato-util",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "'potato_util' is collection of simple useful utils package for python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "potato_util-0.0.4.tar.gz",
-  "download_time": "2025-10-01T06:56:14.961084",
+  "download_filename": "potato_util-0.0.5.tar.gz",
+  "download_time": "2025-10-02T07:49:31.745637",
   "package_url": "https://pypi.org/project/potato-util/"
 }

@@ -1,17 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-02T07:36:55.109034
+- **Download Time**: 2025-10-02T07:49:56.834460
 - **Total Packages**: 82
-- **Total Size**: 14.27 MB
+- **Total Size**: 12.12 MB
 
 ## Packages List
+- icat-plus-client
+- ut-com
+- SPODESext
+- gr4vy
+- pupyC3D
+- ragaai-catalyst
+- yellowdog-ray
+- mcp-webrtc
+- c2cgeoportal-admin
+- c2cgeoportal-geoportal
+- c2cgeoportal-commons
+- dune-client
+- otlmow-modelbuilder
+- codemie-tools
+- QUARK-plugin-ghz
+- adk-agui-middleware
+- ut-cli
+- process-gpt-agent-sdk
+- odoo14-addon-ssi-l10n-id-taxform-faktur-pajak
+- remote-debug
+- odoo14-addon-ssi-l10n-id-taxform-faktur-pajak-operating-unit
+- machineconfig
+- InfoTracker
+- dataspace-client
+- pygnssutils
+- reahl-swordfish
+- camera-master
+- localstack-ext
+- localstack
+- konigle
+- localkin-service-audio
+- mpss-tools-36
+- zenx
+- ssh-proto-types
+- ocpi-pydantic
+- screenoverlay
+- potato-util
 - authentik-client
 - obj.mpp
 - securityreporter
 - localstack-core
 - revengai
-- dataspace-client
 - yt-mpv
 - value-factory
 - pulumi-oci
@@ -28,7 +64,6 @@
 - odoo-addon-ddmrp-history
 - paradex_py
 - waveform-editor
-- screenoverlay
 - feldera
 - ootrain
 - pulumi-vault
@@ -53,38 +88,3 @@
 - zbWidgetLib
 - ant-ray-cpp-nightly
 - odoo-addon-hr-holidays-natural-period
-- entangled-cli
-- careamics
-- pulumi-snowflake
-- artefacts-toolkit-gazebo
-- pulumiverse-scaleway
-- pyubx2
-- pulumi-tailscale
-- hypervigilant
-- crawlee
-- pulumi-spotinst
-- noetl
-- pulumi-xyz
-- zenx
-- streamlit-nightly
-- session-mgmt-mcp
-- metaxuda
-- pulumi-splunk
-- syndesi
-- pyzk2
-- fractal-client
-- process-gpt-agent-utils
-- localstack-ext
-- localstack
-- IservETLLib
-- sqlmelt
-- fred-oss
-- pulumi-slack
-- essreflectometry
-- pulumi-sdwan
-- genai-labnote
-- urartu
-- rubxy
-- jfjoch-client
-- vllm-rbln
-- cribl-mgmt-plane

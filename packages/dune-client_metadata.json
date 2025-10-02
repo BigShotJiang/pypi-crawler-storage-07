@@ -1,11 +1,11 @@
 {
   "name": "dune-client",
-  "version": "1.9.2",
+  "version": "1.9.3",
   "summary": "A simple framework for interacting with Dune Analytics official API service.",
   "author": null,
   "license": "Apache License Version 2.0",
   "home_page": null,
-  "download_filename": "dune_client-1.9.2.tar.gz",
-  "download_time": "2025-09-29T11:33:11.509719",
+  "download_filename": "dune_client-1.9.3.tar.gz",
+  "download_time": "2025-10-02T07:49:18.844291",
   "package_url": "https://pypi.org/project/dune-client/"
 }
