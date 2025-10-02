@@ -1,0 +1,11 @@
+{
+  "name": "json-to-excel-converter",
+  "version": "0.1.1",
+  "summary": "Convert large JSON to CSV/XLSX with root selection, flattening, array explode, exclusion, and header control.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "json_to_excel_converter-0.1.1.tar.gz",
+  "download_time": "2025-10-02T15:31:39.233409",
+  "package_url": "https://pypi.org/project/json-to-excel-converter/"
+}

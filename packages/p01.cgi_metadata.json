@@ -1,0 +1,11 @@
+{
+  "name": "p01.cgi",
+  "version": "0.6.3",
+  "summary": "Replacement for cgi FieldStorage parser",
+  "author": "Adam Groszer, Roger Ineichen, Projekt01 GmbH",
+  "license": "ZPL 2.1",
+  "home_page": "http://pypi.python.org/pypi/p01.cgi",
+  "download_filename": "p01.cgi-0.6.3.tar.gz",
+  "download_time": "2025-10-02T15:32:09.672198",
+  "package_url": "https://pypi.org/project/p01.cgi/"
+}

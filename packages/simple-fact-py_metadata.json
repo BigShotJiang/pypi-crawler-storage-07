@@ -1,11 +1,11 @@
 {
   "name": "simple-fact-py",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A simple factorial function",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "simple_fact_py-0.1.0.tar.gz",
-  "download_time": "2025-10-02T15:12:08.286318",
+  "download_filename": "simple_fact_py-0.1.1.tar.gz",
+  "download_time": "2025-10-02T15:32:04.388574",
   "package_url": "https://pypi.org/project/simple-fact-py/"
 }
