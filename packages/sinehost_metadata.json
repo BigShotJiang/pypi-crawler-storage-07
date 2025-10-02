@@ -1,0 +1,11 @@
+{
+  "name": "sinehost",
+  "version": "0.1",
+  "summary": "JUCE-based audio host launcher",
+  "author": "sinesurge",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sinehost-0.1.tar.gz",
+  "download_time": "2025-10-02T22:30:24.741653",
+  "package_url": "https://pypi.org/project/sinehost/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "trytond-sale-payment",
+  "version": "7.6.1",
+  "summary": "Tryton module that manage payments on sale",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_sale_payment-7.6.1.tar.gz",
+  "download_time": "2025-10-02T22:31:08.057395",
+  "package_url": "https://pypi.org/project/trytond-sale-payment/"
+}

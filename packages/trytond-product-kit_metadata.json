@@ -1,0 +1,11 @@
+{
+  "name": "trytond-product-kit",
+  "version": "7.6.3",
+  "summary": "Tryton module to manage product kits and components",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_product_kit-7.6.3.tar.gz",
+  "download_time": "2025-10-02T22:31:05.444012",
+  "package_url": "https://pypi.org/project/trytond-product-kit/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "propfit",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "Python test package.",
   "author": "Jordyn Robare",
   "license": null,
   "home_page": null,
-  "download_filename": "propfit-1.1.1.tar.gz",
-  "download_time": "2025-10-02T21:27:37.243461",
+  "download_filename": "propfit-1.1.2.tar.gz",
+  "download_time": "2025-10-02T22:31:06.491408",
   "package_url": "https://pypi.org/project/propfit/"
 }

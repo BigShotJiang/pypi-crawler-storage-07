@@ -1,0 +1,11 @@
+{
+  "name": "model-train-protocol",
+  "version": "0.1.7",
+  "summary": "Standardized protocol to train models on Databiomes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "model_train_protocol-0.1.7.tar.gz",
+  "download_time": "2025-10-02T22:30:23.688982",
+  "package_url": "https://pypi.org/project/model-train-protocol/"
+}

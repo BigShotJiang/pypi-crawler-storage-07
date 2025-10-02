@@ -1,11 +1,11 @@
 {
   "name": "cogworks",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "2D Python game engine built on pygame and pymunk",
   "author": "Dempsey Newton",
   "license": "MIT",
   "home_page": "https://github.com/Dempsey845/cog-works-engine",
-  "download_filename": "cogworks-0.1.4.tar.gz",
-  "download_time": "2025-10-02T20:32:54.411081",
+  "download_filename": "cogworks-0.1.5.tar.gz",
+  "download_time": "2025-10-02T22:30:55.964776",
   "package_url": "https://pypi.org/project/cogworks/"
 }

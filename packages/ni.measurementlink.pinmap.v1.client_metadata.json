@@ -1,0 +1,11 @@
+{
+  "name": "ni.measurementlink.pinmap.v1.client",
+  "version": "1.0.0",
+  "summary": "gRPC Client for NI Pin Map Service",
+  "author": "NI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ni_measurementlink_pinmap_v1_client-1.0.0.tar.gz",
+  "download_time": "2025-10-02T22:30:48.669321",
+  "package_url": "https://pypi.org/project/ni.measurementlink.pinmap.v1.client/"
+}

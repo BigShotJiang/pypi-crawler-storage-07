@@ -1,0 +1,11 @@
+{
+  "name": "ni.measurementlink.measurement.v2.proto",
+  "version": "1.0.0",
+  "summary": "Protobuf data types for NI measurement gRPC APIs",
+  "author": "NI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ni_measurementlink_measurement_v2_proto-1.0.0.tar.gz",
+  "download_time": "2025-10-02T22:30:53.855565",
+  "package_url": "https://pypi.org/project/ni.measurementlink.measurement.v2.proto/"
+}

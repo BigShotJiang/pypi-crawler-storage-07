@@ -1,0 +1,11 @@
+{
+  "name": "SquirroClient",
+  "version": "3.14.2",
+  "summary": "Python client for the Squirro API",
+  "author": "Squirro Team",
+  "license": "Commercial",
+  "home_page": "http://dev.squirro.com/docs/tools/python/index.html",
+  "download_filename": "squirroclient-3.14.2.tar.gz",
+  "download_time": "2025-10-02T22:30:49.702676",
+  "package_url": "https://pypi.org/project/SquirroClient/"
+}

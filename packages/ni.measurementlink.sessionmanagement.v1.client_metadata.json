@@ -1,11 +1,11 @@
 {
   "name": "ni.measurementlink.sessionmanagement.v1.client",
-  "version": "0.1.0.dev2",
+  "version": "1.0.0",
   "summary": "Client gRPC APIs for the session management service",
   "author": "NI",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ni_measurementlink_sessionmanagement_v1_client-0.1.0.dev2.tar.gz",
-  "download_time": "2025-09-29T20:48:03.001716",
+  "download_filename": "ni_measurementlink_sessionmanagement_v1_client-1.0.0.tar.gz",
+  "download_time": "2025-10-02T22:30:41.307626",
   "package_url": "https://pypi.org/project/ni.measurementlink.sessionmanagement.v1.client/"
 }

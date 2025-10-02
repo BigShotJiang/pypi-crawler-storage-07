@@ -1,0 +1,11 @@
+{
+  "name": "ni.protobuf.types",
+  "version": "1.0.0",
+  "summary": "Protobuf data types for NI gRPC APIs",
+  "author": "NI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ni_protobuf_types-1.0.0.tar.gz",
+  "download_time": "2025-10-02T22:30:32.790453",
+  "package_url": "https://pypi.org/project/ni.protobuf.types/"
+}

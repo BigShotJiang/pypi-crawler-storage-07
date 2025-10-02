@@ -1,0 +1,11 @@
+{
+  "name": "undate",
+  "version": "0.5.2",
+  "summary": "library for working with uncertain, fuzzy, or partially unknown dates and date intervals",
+  "author": "Rebecca Sutton Koeser, Cole Crawford, Julia Damerow, Robert Casties, Malte Vogl",
+  "license": "Apache-2",
+  "home_page": null,
+  "download_filename": "undate-0.5.2.tar.gz",
+  "download_time": "2025-10-02T22:30:41.830572",
+  "package_url": "https://pypi.org/project/undate/"
+}

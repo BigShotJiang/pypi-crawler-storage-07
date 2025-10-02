@@ -1,0 +1,11 @@
+{
+  "name": "ni.measurementlink.pinmap.v1.proto",
+  "version": "1.0.0",
+  "summary": "Protobuf data types for NI pinmap gRPC APIs",
+  "author": "NI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ni_measurementlink_pinmap_v1_proto-1.0.0.tar.gz",
+  "download_time": "2025-10-02T22:30:47.627443",
+  "package_url": "https://pypi.org/project/ni.measurementlink.pinmap.v1.proto/"
+}
