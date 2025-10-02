@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-api",
+  "version": "0.53.0",
+  "summary": "Python Client SDK for Airbyte API",
+  "author": "Airbyte",
+  "license": null,
+  "home_page": "https://github.com/airbytehq/airbyte-api-python-sdk.git",
+  "download_filename": "airbyte-api-0.53.0.tar.gz",
+  "download_time": "2025-10-02T20:15:06.534744",
+  "package_url": "https://pypi.org/project/airbyte-api/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cargoshipper-mcp",
+  "version": "1.0.3",
+  "summary": "MCP server for Docker, DigitalOcean, and CloudFlare operations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cargoshipper_mcp-1.0.3.tar.gz",
+  "download_time": "2025-10-02T20:14:58.212205",
+  "package_url": "https://pypi.org/project/cargoshipper-mcp/"
+}

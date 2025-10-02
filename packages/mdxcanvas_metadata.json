@@ -1,11 +1,11 @@
 {
   "name": "mdxcanvas",
-  "version": "0.4.14",
+  "version": "0.4.15",
   "summary": "A Canvas LMS API wrapper for maintaining content in markdown",
   "author": "Gordon Bean",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mdxcanvas-0.4.14.tar.gz",
-  "download_time": "2025-10-02T19:10:39.602127",
+  "download_filename": "mdxcanvas-0.4.15.tar.gz",
+  "download_time": "2025-10-02T20:14:59.379427",
   "package_url": "https://pypi.org/project/mdxcanvas/"
 }

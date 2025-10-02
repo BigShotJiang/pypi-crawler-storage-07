@@ -1,11 +1,11 @@
 {
   "name": "reolink-aio",
-  "version": "0.16.0",
+  "version": "0.16.1",
   "summary": "Reolink NVR/cameras API package",
   "author": "starkillerOG",
   "license": "MIT",
   "home_page": "https://github.com/starkillerOG/reolink_aio",
-  "download_filename": "reolink_aio-0.16.0.tar.gz",
-  "download_time": "2025-09-28T18:48:22.757772",
+  "download_filename": "reolink_aio-0.16.1.tar.gz",
+  "download_time": "2025-10-02T20:14:40.449309",
   "package_url": "https://pypi.org/project/reolink-aio/"
 }

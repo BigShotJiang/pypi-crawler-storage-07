@@ -1,0 +1,11 @@
+{
+  "name": "CTkQrCode",
+  "version": "0.1.0",
+  "summary": "A CustomTkinter widget for generating customizable QR Codes easily.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ctkqrcode-0.1.0.tar.gz",
+  "download_time": "2025-10-02T20:14:28.818039",
+  "package_url": "https://pypi.org/project/CTkQrCode/"
+}

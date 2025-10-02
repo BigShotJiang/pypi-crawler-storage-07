@@ -1,0 +1,11 @@
+{
+  "name": "popgym-arcade",
+  "version": "0.0.5",
+  "summary": "POMDP Arcade Environments on the GPU",
+  "author": "Wang Zekang, He Zhe, Steven Morad",
+  "license": null,
+  "home_page": null,
+  "download_filename": "popgym_arcade-0.0.5.tar.gz",
+  "download_time": "2025-10-02T20:15:09.672023",
+  "package_url": "https://pypi.org/project/popgym-arcade/"
+}

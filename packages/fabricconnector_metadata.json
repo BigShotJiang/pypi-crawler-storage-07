@@ -1,0 +1,11 @@
+{
+  "name": "fabricconnector",
+  "version": "0.0.1",
+  "summary": "Python connector library for Microsoft Fabric notebooks (placeholder release)",
+  "author": "Davista",
+  "license": "Proprietary",
+  "home_page": "https://www.powerbiconnector.nl",
+  "download_filename": "fabricconnector-0.0.1.tar.gz",
+  "download_time": "2025-10-02T20:14:21.956100",
+  "package_url": "https://pypi.org/project/fabricconnector/"
+}
