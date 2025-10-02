@@ -1,11 +1,11 @@
 {
   "name": "boto3-stubs-lite",
-  "version": "1.40.42",
-  "summary": "Lite type annotations for boto3 1.40.42 generated with mypy-boto3-builder 8.11.0",
+  "version": "1.40.44",
+  "summary": "Lite type annotations for boto3 1.40.44 generated with mypy-boto3-builder 8.11.0",
   "author": "Vlad Emelianov",
   "license": "MIT License",
   "home_page": "https://github.com/youtype/mypy_boto3_builder",
-  "download_filename": "boto3_stubs_lite-1.40.42.tar.gz",
-  "download_time": "2025-09-30T19:48:31.919861",
+  "download_filename": "boto3_stubs_lite-1.40.44.tar.gz",
+  "download_time": "2025-10-02T20:49:32.819814",
   "package_url": "https://pypi.org/project/boto3-stubs-lite/"
 }

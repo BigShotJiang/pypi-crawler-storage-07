@@ -1,0 +1,11 @@
+{
+  "name": "senzing",
+  "version": "4.0.4",
+  "summary": "Python SDK method definitions",
+  "author": "senzing",
+  "license": "Apache 2",
+  "home_page": "https://github.com/senzing-garage/sz-sdk-python",
+  "download_filename": "senzing-4.0.4.tar.gz",
+  "download_time": "2025-10-02T20:49:34.913045",
+  "package_url": "https://pypi.org/project/senzing/"
+}

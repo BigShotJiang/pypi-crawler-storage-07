@@ -1,11 +1,11 @@
 {
   "name": "great-expectations-cloud",
-  "version": "20250925.0",
+  "version": "20251002.0",
   "summary": "Great Expectations Cloud",
   "author": "The Great Expectations Team",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "great_expectations_cloud-20250925.0.tar.gz",
-  "download_time": "2025-10-02T16:49:31.811690",
+  "download_filename": "great_expectations_cloud-20251002.0.tar.gz",
+  "download_time": "2025-10-02T20:49:25.880227",
   "package_url": "https://pypi.org/project/great-expectations-cloud/"
 }
