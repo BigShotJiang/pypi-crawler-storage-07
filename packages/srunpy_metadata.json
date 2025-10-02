@@ -1,11 +1,11 @@
 {
   "name": "srunpy",
-  "version": "1.0.8.3",
+  "version": "1.0.8.4",
   "summary": "适用于深澜网关的校园网第三方登录器",
   "author": "HofNature",
   "license": "GPL-3.0",
   "home_page": "https://github.com/HofNature/SRunPy-GUI",
-  "download_filename": "srunpy-1.0.8.3.tar.gz",
-  "download_time": "2025-10-02T09:40:53.805165",
+  "download_filename": "srunpy-1.0.8.4.tar.gz",
+  "download_time": "2025-10-02T10:13:39.783049",
   "package_url": "https://pypi.org/project/srunpy/"
 }

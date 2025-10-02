@@ -1,0 +1,11 @@
+{
+  "name": "commit-gen-cli",
+  "version": "1.1.7",
+  "summary": "AI-Powered Git Commit Message Generator",
+  "author": "MOBIO",
+  "license": null,
+  "home_page": "https://github.com/mobiovn",
+  "download_filename": "commit_gen_cli-1.1.7.tar.gz",
+  "download_time": "2025-10-02T10:13:57.140414",
+  "package_url": "https://pypi.org/project/commit-gen-cli/"
+}

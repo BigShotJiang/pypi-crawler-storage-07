@@ -1,11 +1,11 @@
 {
   "name": "cogflow",
-  "version": "1.11.4",
+  "version": "1.11.5",
   "summary": "COG modules",
   "author": "Sai_kireeti",
   "license": null,
   "home_page": null,
-  "download_filename": "cogflow-1.11.4.tar.gz",
-  "download_time": "2025-10-02T09:41:03.496748",
+  "download_filename": "cogflow-1.11.5.tar.gz",
+  "download_time": "2025-10-02T10:12:59.675664",
   "package_url": "https://pypi.org/project/cogflow/"
 }

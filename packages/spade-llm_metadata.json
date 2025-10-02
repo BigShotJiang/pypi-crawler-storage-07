@@ -1,0 +1,11 @@
+{
+  "name": "spade-llm",
+  "version": "0.2.0",
+  "summary": "Extension for SPADE to integrate Large Language Models in agents",
+  "author": "Manel Soler Sanz",
+  "license": null,
+  "home_page": "https://github.com/sosanzma/spade_llm",
+  "download_filename": "spade_llm-0.2.0.tar.gz",
+  "download_time": "2025-10-02T10:13:31.232678",
+  "package_url": "https://pypi.org/project/spade-llm/"
+}

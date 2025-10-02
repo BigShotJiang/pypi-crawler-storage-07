@@ -1,11 +1,11 @@
 {
   "name": "dutchsoils",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Package to get soil profiles of the Netherlands.",
   "author": "markvdbrink",
   "license": "MIT",
   "home_page": "https://github.com/markvdbrink/dutchsoils",
-  "download_filename": "dutchsoils-0.3.0.tar.gz",
-  "download_time": "2025-09-30T15:13:33.580222",
+  "download_filename": "dutchsoils-0.3.1.tar.gz",
+  "download_time": "2025-10-02T10:13:23.510609",
   "package_url": "https://pypi.org/project/dutchsoils/"
 }
