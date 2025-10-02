@@ -1,0 +1,11 @@
+{
+  "name": "pyprofyler",
+  "version": "2.0.1",
+  "summary": "a simple memory/perf profiler for python programs.",
+  "author": "Aly Shmahell",
+  "license": null,
+  "home_page": "https://github.com/AlyShmahell/PyProfyler",
+  "download_filename": "pyprofyler-2.0.1.tar.gz",
+  "download_time": "2025-10-02T17:28:53.921389",
+  "package_url": "https://pypi.org/project/pyprofyler/"
+}

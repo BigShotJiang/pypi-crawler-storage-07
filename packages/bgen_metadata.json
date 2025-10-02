@@ -1,11 +1,11 @@
 {
   "name": "bgen",
-  "version": "1.9.2",
+  "version": "1.9.4",
   "summary": "Package for loading data from bgen files",
   "author": "Jeremy McRae",
   "license": "MIT",
   "home_page": "https://github.com/jeremymcrae/bgen",
-  "download_filename": "bgen-1.9.2.tar.gz",
-  "download_time": "2025-10-01T22:31:22.212188",
+  "download_filename": "bgen-1.9.4.tar.gz",
+  "download_time": "2025-10-02T17:29:25.580483",
   "package_url": "https://pypi.org/project/bgen/"
 }

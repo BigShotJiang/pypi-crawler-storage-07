@@ -1,0 +1,11 @@
+{
+  "name": "exso-sdk",
+  "version": "2.0.0",
+  "summary": "Exoplanet candidate classification SDK V2 with stacking ensemble model (LightGBM + XGBoost + CatBoost)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "exso_sdk-2.0.0-py3-none-any.whl",
+  "download_time": "2025-10-02T17:28:49.727695",
+  "package_url": "https://pypi.org/project/exso-sdk/"
+}

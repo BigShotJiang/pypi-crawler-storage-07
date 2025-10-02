@@ -1,11 +1,11 @@
 {
   "name": "dc43-service-clients",
-  "version": "0.13.0.0",
+  "version": "0.15.0.0",
   "summary": "Client contracts and helper implementations for DC43 services",
   "author": "Andy Petrella",
   "license": null,
   "home_page": null,
-  "download_filename": "dc43_service_clients-0.13.0.0.tar.gz",
-  "download_time": "2025-10-02T11:26:13.018765",
+  "download_filename": "dc43_service_clients-0.15.0.0.tar.gz",
+  "download_time": "2025-10-02T17:29:06.120730",
   "package_url": "https://pypi.org/project/dc43-service-clients/"
 }

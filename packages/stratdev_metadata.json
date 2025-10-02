@@ -1,0 +1,11 @@
+{
+  "name": "stratdev",
+  "version": "1.0.0",
+  "summary": "Financial data aqcuisition and organization system to streamline process for backtesting trading strategies",
+  "author": "Alejandro Wong",
+  "license": "MIT",
+  "home_page": "https://github.com/Alejandro-wong/stratdev",
+  "download_filename": "stratdev-1.0.0.tar.gz",
+  "download_time": "2025-10-02T17:29:29.743214",
+  "package_url": "https://pypi.org/project/stratdev/"
+}
