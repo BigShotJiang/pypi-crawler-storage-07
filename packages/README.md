@@ -1,29 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-02T04:34:44.402857
-- **Total Packages**: 75
-- **Total Size**: 6.77 MB
+- **Download Time**: 2025-10-02T04:49:54.271349
+- **Total Packages**: 77
+- **Total Size**: 4.31 MB
 
 ## Packages List
+- dynamic-temporal-models
+- mindhunter
+- iamdata
+- langchain-dev-utils
+- houdini_package_manager
+- npstat
+- aiida-project
+- geoservercloud
+- authentik-client
+- yooztech-mcp-api-request
+- cmlibs.merger
+- smu-ontwins-demo
 - chift
 - typed_classproperties
 - bool-hybrid-array
 - flexibuddiesrl
 - process-gpt-agent-sdk
 - test-pppppp
-- smu-ontwins-demo
 - weycop
 - Pydowndoc
 - piano-integration
 - finter
 - PCILeechFWGenerator
-- authentik-client
 - testoooooo
 - maleo-types
 - dgexcel
 - exogibbs
-- yooztech-mcp-api-request
 - pdf-anonymizer-core
 - msgflux
 - image-serve
@@ -40,7 +49,6 @@
 - snowflake-connector-python-nightly
 - mkdocs-include-stubs-plugin-test1.0
 - nonebot-adapter-afdian
-- dynamic-temporal-models
 - heaserver-organizations
 - suga-client
 - iplotx
@@ -75,9 +83,3 @@
 - phanterpwa
 - pynhl
 - odoo-addon-autovacuum-message-attachment
-- odoo-addon-base-name-search-improved
-- odoo-addons-oca-server-tools
-- odoo-addon-auto-backup
-- odoo-addon-attachment-queue
-- scxpand-cuda
-- scxpand

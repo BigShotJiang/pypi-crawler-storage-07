@@ -1,0 +1,11 @@
+{
+  "name": "cmlibs.merger",
+  "version": "0.4.0",
+  "summary": "Merge together datapoints or points from different exf file using CMLibs Zinc.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cmlibs_merger-0.4.0-py3-none-any.whl",
+  "download_time": "2025-10-02T04:49:17.802925",
+  "package_url": "https://pypi.org/project/cmlibs.merger/"
+}
