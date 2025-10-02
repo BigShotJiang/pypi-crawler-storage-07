@@ -1,14 +1,8 @@
 {
-  "download_time": "2025-10-02T11:10:55.575312",
-  "total_packages_downloaded": 81,
-  "total_size_mb": 25.38,
+  "download_time": "2025-10-02T11:26:33.559162",
+  "total_packages_downloaded": 82,
+  "total_size_mb": 2.29,
   "packages": [
-    "imagedata",
-    "aek-seq-trainer",
-    "yta-testing",
-    "authentik-client",
-    "mpfshell2",
-    "generative-ai-toolkit",
     "pyhackgui",
     "django-freakyfunkyfonts",
     "steamcom",
@@ -47,6 +41,7 @@
     "speechreclib",
     "odoo-addon-l10n-es-aeat-mod182",
     "hypervigilant",
+    "th2-grpc-sim",
     "opensimula",
     "gembench",
     "swvo",
@@ -65,8 +60,10 @@
     "uv-secure",
     "pwnit",
     "pyomie",
+    "aek-seq-trainer",
     "livekit-plugins-tenvad",
     "axiomatic-mcp",
+    "authentik-client",
     "yta-youtube-api",
     "httpdiff",
     "scailo-sdk",
@@ -83,6 +80,10 @@
     "Diffuzz",
     "dependency-resolver",
     "nadag-innmelding-python-client",
-    "cgse-dummy"
+    "cgse-dummy",
+    "trainy-policy-nightly",
+    "imgquad",
+    "DiffCD",
+    "otobo_znuny"
   ]
 }

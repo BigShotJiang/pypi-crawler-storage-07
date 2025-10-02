@@ -1,11 +1,11 @@
 {
   "name": "tradeapi",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "summary": "Python package for Finam API",
   "author": "Alexander Illyuk",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/example-pip-package",
-  "download_filename": "tradeapi-0.1.8-py3-none-any.whl",
-  "download_time": "2025-10-02T11:10:18.696224",
+  "download_filename": "tradeapi-0.1.10-py3-none-any.whl",
+  "download_time": "2025-10-02T11:25:48.906054",
   "package_url": "https://pypi.org/project/tradeapi/"
 }
