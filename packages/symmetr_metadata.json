@@ -1,0 +1,11 @@
+{
+  "name": "symmetr",
+  "version": "0.10.0",
+  "summary": "Package for determining symmetry properties of crystals.",
+  "author": "Jakub Zelezny",
+  "license": null,
+  "home_page": "https://bitbucket.org/zeleznyj/linear-response-symmetry",
+  "download_filename": "symmetr-0.10.0.tar.gz",
+  "download_time": "2025-10-02T07:12:47.550727",
+  "package_url": "https://pypi.org/project/symmetr/"
+}

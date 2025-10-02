@@ -1,0 +1,11 @@
+{
+  "name": "python-can-remote",
+  "version": "0.2.4",
+  "summary": "CAN over network bridge for Python",
+  "author": "Christian Sandberg",
+  "license": "MIT",
+  "home_page": "https://github.com/christiansandberg/python-can-remote",
+  "download_filename": "python_can_remote-0.2.4.tar.gz",
+  "download_time": "2025-10-02T07:12:37.382835",
+  "package_url": "https://pypi.org/project/python-can-remote/"
+}

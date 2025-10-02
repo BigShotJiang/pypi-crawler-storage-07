@@ -1,11 +1,11 @@
 {
   "name": "fred-oss",
-  "version": "0.51.0",
+  "version": "0.51.1",
   "summary": "FREDOSS",
   "author": "Fahera Research, Education, and Development",
   "license": null,
   "home_page": "https://fred.fahera.mx",
-  "download_filename": "fred_oss-0.51.0.tar.gz",
-  "download_time": "2025-10-02T06:44:36.350581",
+  "download_filename": "fred_oss-0.51.1.tar.gz",
+  "download_time": "2025-10-02T07:12:32.147026",
   "package_url": "https://pypi.org/project/fred-oss/"
 }
