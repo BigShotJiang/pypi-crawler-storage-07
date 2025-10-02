@@ -1,11 +1,16 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-02T08:39:10.388961
+- **Download Time**: 2025-10-02T08:54:27.295210
 - **Total Packages**: 81
-- **Total Size**: 30.88 MB
+- **Total Size**: 7.49 MB
 
 ## Packages List
+- AstrBot
+- machineconfig
+- hcube
+- sema4ai-action-server
+- morphic
 - beans-logging
 - aiohomekit
 - taha
@@ -26,7 +31,6 @@
 - localstack-sdk-python
 - localstack-sdk-generated
 - sretoolbox
-- dino-temporal-lib-helper
 - robotframework-flaui
 - langfuse
 - samsara-api
@@ -83,7 +87,3 @@
 - nucliadb
 - nidx-protos
 - mcp-scan
-- pymadng
-- OpenFisca-France-Dotations-Locales
-- NORDic
-- simple-backup

@@ -1,11 +1,11 @@
 {
   "name": "ctu-crs",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Package to control CTU/CIIRC robots CRS93 and CRS97 via MARS control unit.",
   "author": null,
   "license": "BSD 3-Clause",
   "home_page": null,
-  "download_filename": "ctu_crs-1.0.4.tar.gz",
-  "download_time": "2025-10-02T08:38:41.478468",
+  "download_filename": "ctu_crs-1.0.5.tar.gz",
+  "download_time": "2025-10-02T08:53:57.643871",
   "package_url": "https://pypi.org/project/ctu-crs/"
 }

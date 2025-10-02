@@ -1,11 +1,11 @@
 {
   "name": "hermai",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "A hermeneutic approach to explainable AI (XAI) with contextual and narrative explanations.",
   "author": "sadi evren seker",
   "license": null,
   "home_page": "https://github.com/bilgisayarkavramlari/hermai",
-  "download_filename": "hermai-0.1.6.tar.gz",
-  "download_time": "2025-10-02T08:38:28.023231",
+  "download_filename": "hermai-0.1.8.tar.gz",
+  "download_time": "2025-10-02T08:53:44.199269",
   "package_url": "https://pypi.org/project/hermai/"
 }
