@@ -1,11 +1,11 @@
 {
   "name": "stashhouse-ssh",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "StashHouse plugin for SCP and SFTP",
   "author": null,
   "license": "MIT AND (EPL-2.0 OR GPL-2.0-or-later)",
   "home_page": null,
-  "download_filename": "stashhouse_ssh-0.0.4.tar.gz",
-  "download_time": "2025-09-28T13:17:07.191592",
+  "download_filename": "stashhouse_ssh-0.0.5.tar.gz",
+  "download_time": "2025-10-02T16:26:13.977397",
   "package_url": "https://pypi.org/project/stashhouse-ssh/"
 }

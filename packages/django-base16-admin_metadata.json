@@ -1,0 +1,11 @@
+{
+  "name": "django-base16-admin",
+  "version": "0.1.2",
+  "summary": "Base16 color themes for Django Admin.",
+  "author": "stabldev",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_base16_admin-0.1.2.tar.gz",
+  "download_time": "2025-10-02T16:26:23.558299",
+  "package_url": "https://pypi.org/project/django-base16-admin/"
+}

@@ -1,14 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-02T15:49:43.098222
-- **Total Packages**: 92
-- **Total Size**: 8.98 MB
+- **Download Time**: 2025-10-02T16:26:50.928924
+- **Total Packages**: 95
+- **Total Size**: 30.73 MB
 
 ## Packages List
+- slumber-python
+- brixs
+- dbt-copilot-python
+- manish-pype-pakage
+- gov-uk-dashboards
+- angreal
+- keywordx
+- praasper
+- mozi_ai_x
+- llama-index-workflows
+- nucliadb-utils
+- nucliadb-telemetry
+- nucliadb-sdk
+- nucliadb-protos
+- nucliadb-models
+- csonpath
+- tiddl
+- nucliadb-dataset
+- nucliadb
+- nidx-protos
+- pyfamsa
+- claude-mpm
+- wannierberri
+- hybridoma
+- openwebui-chat-client
+- stashhouse-ssh
+- mistralai
+- langchain-ollama
+- xautomata-hive
+- employee-pensionplan
+- transcribe-with-whisper
+- stashhouse-tftp
+- spectree
+- human-protocol-sdk
+- suse-cloud-image-name-parser
+- logly
+- odoo-addon-l10n-br-fiscal
+- odoo-addon-l10n-br-nfse
+- authentik-client
+- stashhouse
+- debug-gym
+- folder2md4llms
+- loxodo-curses
+- django-base16-admin
+- PVNet
 - django-unicom
 - specklepy
-- hybridoma
 - pypsql
 - pydantic-metamodel
 - wedoco_optimo
@@ -16,7 +60,6 @@
 - embeddingbuddy
 - akash
 - diagram-ai-generator
-- keywordx
 - reqman
 - xdi-validator
 - spaceforge
@@ -29,7 +72,6 @@
 - gha-workflow-linter
 - polars-genson
 - BatchalignHK
-- authentik-client
 - modisco
 - django-phonenumber-field
 - codemie-sdk-python
@@ -59,42 +101,3 @@
 - unique_deep_research
 - django-mediastorage
 - vector-vault
-- meta-edc
-- glaip-sdk
-- streamshatter
-- rdworks
-- davidkhala.databases
-- json-to-excel-converter
-- kospex
-- dexray-intercept
-- selenium
-- clinicedc
-- moldenViz
-- locscale
-- symetrie-hexapod
-- plato-spw
-- plato-hdf5
-- firedrake-fiat
-- plato-fits
-- lakeshore-tempcontrol
-- keithley-tempcontrol
-- cgse-tools
-- cgse-gui
-- cgse-core
-- cgse-coordinates
-- cgse-common
-- cgse
-- continual-foragax
-- flexget
-- eorcalc
-- sqlmesh
-- fh-pydantic-form
-- biblemate
-- odoo-addon-l10n-br-nfse
-- ecodev-core
-- data-repo-client
-- csonpath
-- speedtab
-- nothing-less
-- zalando-kubectl
-- opik-optimizer

@@ -1,11 +1,11 @@
 {
   "name": "mozi_ai_x",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "Mozi AI async version",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mozi_ai_x-0.3.4.tar.gz",
-  "download_time": "2025-09-30T09:32:24.605248",
+  "download_filename": "mozi_ai_x-0.3.5.tar.gz",
+  "download_time": "2025-10-02T16:26:04.360146",
   "package_url": "https://pypi.org/project/mozi_ai_x/"
 }
