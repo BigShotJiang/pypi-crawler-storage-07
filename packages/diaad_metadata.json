@@ -1,0 +1,11 @@
+{
+  "name": "diaad",
+  "version": "0.2.0",
+  "summary": "Digital Interface for Aggregate Analysis of Dialog",
+  "author": "Nick McCloskey",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "diaad-0.2.0.tar.gz",
+  "download_time": "2025-10-02T18:16:23.059428",
+  "package_url": "https://pypi.org/project/diaad/"
+}

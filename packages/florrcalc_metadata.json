@@ -1,0 +1,11 @@
+{
+  "name": "florrcalc",
+  "version": "26.0.0",
+  "summary": "A petal crafting calculator for florrr.io, now on PyPI!",
+  "author": "The florrOS Project",
+  "license": null,
+  "home_page": "https://github.com/cubinghater/florrcalc-python",
+  "download_filename": "florrcalc-26.0.0.tar.gz",
+  "download_time": "2025-10-02T18:16:14.842401",
+  "package_url": "https://pypi.org/project/florrcalc/"
+}
