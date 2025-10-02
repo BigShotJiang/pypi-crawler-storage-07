@@ -1,24 +1,70 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-02T18:54:11.920030
+- **Download Time**: 2025-10-02T19:11:12.804558
 - **Total Packages**: 81
-- **Total Size**: 2.45 MB
+- **Total Size**: 15.63 MB
 
 ## Packages List
+- insarscript
+- mysingle-quant
+- simplini
+- turbopdf
+- frigg
+- pawlogger
+- hop-client
+- perforatedai
+- authentik-client
+- skypilot-nightly
+- extended-lengyel
+- process-inspector
+- letschatty
+- eval-protocol
+- py-surepetcare
+- asyncclick
+- starmerge
+- cyberdesk
+- exiftool-mcp
+- terra-python
+- mdxcanvas
+- geomux
+- compressed-tensors
+- thds.atacama
+- thds.mops
+- thds.humenc
+- shipaw
+- thds.core
+- HSSM
+- thds.adls
+- dasein-core
+- bafser-tgapi
+- griffe2md
+- telomerehunter2
+- Minting
+- niti
+- funstall
+- fishjam-server-sdk
+- agilicus
+- zalfmas-fbp
+- PyEmailerAJM
+- iagitbetter
+- buelon
+- azure-ai-voicelive
+- autoxkit
+- str_sim_scorer
+- sort-images
+- django-eveuniverse
+- pawdf
+- modal
+- django-mg
+- keplar-api
 - redzone-lib
 - deepcode-hku
 - feather-tools
 - stochasticforceinference
-- authentik-client
 - oilpriceapi
-- compressed-tensors
 - slack-bolt
 - dreamstone
-- sort-images
-- mysingle-quant
-- bafser-tgapi
-- str_sim_scorer
 - pythonLogs
 - ragger-python-sdk
 - parcelforce-expresslink
@@ -27,7 +73,6 @@
 - mattermost-api-reference-client
 - index-parser
 - slack-sdk
-- buelon
 - mb-mercately-client
 - singer-python
 - synth-ai
@@ -42,48 +87,3 @@
 - deepgram-sdk
 - edat-utils
 - fixture-foundry
-- SpaDOT
-- assemblypy
-- mkdocs-note
-- provider-hub
-- exiftool-mcp
-- Minting
-- flashinfer-python
-- ggx
-- scout-mcp-local
-- bluer-ugv
-- jobspy-enhanced-scraper
-- cerillo-python
-- clue-api
-- modxpy
-- lila-framework
-- fontbakery
-- piano-integration
-- market_analy
-- django-mg
-- mrgrain.cdk-esbuild
-- crc-pulp-service-client
-- polars-runtime-compat
-- crc-pulp-file-client
-- crc-pulp-maven-client
-- crc-pulp-rpm-client
-- crc-pulp-gem-client
-- crc-pulp-npm-client
-- uv-ship
-- polars-runtime-64
-- crc-pulp-python-client
-- spytial-diagramming
-- crc-pulpcore-client
-- polars-runtime-32
-- pyTibber
-- polars
-- qemu.qmp
-- recce-nightly
-- qiskit-leaky-scheduling
-- df2tables
-- stratdev
-- qiskit-leaky-layout
-- dir-assistant
-- valkey-glide-sync
-- qiskit-leaky-init
-- valkey-glide

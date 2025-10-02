@@ -1,0 +1,11 @@
+{
+  "name": "hop-client",
+  "version": "0.12.1",
+  "summary": "A pub-sub client library for Multi-messenger Astrophysics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hop_client-0.12.1.tar.gz",
+  "download_time": "2025-10-02T19:10:31.156115",
+  "package_url": "https://pypi.org/project/hop-client/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "niti",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "A modern C++ linter written in Python",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "niti-0.2.3.tar.gz",
-  "download_time": "2025-10-02T03:53:18.096679",
+  "download_filename": "niti-0.2.4.tar.gz",
+  "download_time": "2025-10-02T19:10:48.052046",
   "package_url": "https://pypi.org/project/niti/"
 }
