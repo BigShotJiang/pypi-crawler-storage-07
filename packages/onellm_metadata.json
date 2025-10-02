@@ -1,0 +1,11 @@
+{
+  "name": "onellm",
+  "version": "0.1.4",
+  "summary": "A unified interface for interacting with large language models from various providers - a complete drop-in replacement for OpenAI's client",
+  "author": "Ran Aroussi",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/muxi-ai/onellm",
+  "download_filename": "onellm-0.1.4.tar.gz",
+  "download_time": "2025-10-02T09:49:16.105765",
+  "package_url": "https://pypi.org/project/onellm/"
+}

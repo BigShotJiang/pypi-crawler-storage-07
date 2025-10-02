@@ -1,0 +1,11 @@
+{
+  "name": "utils-base-nuuuwan",
+  "version": "1.1.0",
+  "summary": "Utilities that extend Standard Python.",
+  "author": "Nuwan I. Senaratna",
+  "license": null,
+  "home_page": "https://github.com/nuuuwan/utils_base",
+  "download_filename": "utils_base_nuuuwan-1.1.0.tar.gz",
+  "download_time": "2025-10-02T09:49:23.945888",
+  "package_url": "https://pypi.org/project/utils-base-nuuuwan/"
+}

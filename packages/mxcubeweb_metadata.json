@@ -1,11 +1,11 @@
 {
   "name": "mxcubeweb",
-  "version": "4.539.0",
+  "version": "4.540.0",
   "summary": "MXCuBE Web user interface",
   "author": "The MXCuBE collaboration",
   "license": "LGPL-3.0-or-later",
   "home_page": "https://github.com/mxcube/mxcubeweb",
-  "download_filename": "mxcubeweb-4.539.0.tar.gz",
-  "download_time": "2025-10-02T09:20:43.198433",
+  "download_filename": "mxcubeweb-4.540.0.tar.gz",
+  "download_time": "2025-10-02T09:49:19.329680",
   "package_url": "https://pypi.org/project/mxcubeweb/"
 }
