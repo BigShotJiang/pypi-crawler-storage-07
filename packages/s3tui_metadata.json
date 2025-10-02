@@ -1,0 +1,11 @@
+{
+  "name": "s3tui",
+  "version": "0.1.0",
+  "summary": "Terminal User Interface for AWS S3 with ranger-style navigation",
+  "author": "joeyism",
+  "license": null,
+  "home_page": "https://github.com/joeyism/s3tui",
+  "download_filename": "s3tui-0.1.0.tar.gz",
+  "download_time": "2025-10-02T03:07:30.755046",
+  "package_url": "https://pypi.org/project/s3tui/"
+}

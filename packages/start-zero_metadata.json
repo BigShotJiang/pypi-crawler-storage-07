@@ -1,0 +1,11 @@
+{
+  "name": "start-zero",
+  "version": "0.2.0",
+  "summary": "深度学习框架（Deep Learning Framework）",
+  "author": "HeBin",
+  "license": "Apache License 2.0",
+  "home_page": "https://gitee.com/tank2140896/start-zero",
+  "download_filename": "start_zero-0.2.0.tar.gz",
+  "download_time": "2025-10-02T03:07:18.829476",
+  "package_url": "https://pypi.org/project/start-zero/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "types-Jetson.GPIO",
+  "version": "2.1.11.20251002",
+  "summary": "Typing stubs for Jetson.GPIO",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_jetson_gpio-2.1.11.20251002.tar.gz",
+  "download_time": "2025-10-02T03:07:12.479591",
+  "package_url": "https://pypi.org/project/types-Jetson.GPIO/"
+}

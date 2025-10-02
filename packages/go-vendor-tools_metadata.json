@@ -1,0 +1,11 @@
+{
+  "name": "go-vendor-tools",
+  "version": "0.9.0",
+  "summary": "Tools for handling Go library vendoring in Fedora",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "go_vendor_tools-0.9.0.tar.gz",
+  "download_time": "2025-10-02T03:07:28.134301",
+  "package_url": "https://pypi.org/project/go-vendor-tools/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "octave_nexus",
-  "version": "2.0.0",
+  "version": "3.2.0",
   "summary": "Offline wallet program for Aptos.",
   "author": null,
-  "license": "Mix: GPL-3.0-only for originals + Laboratory Rules",
+  "license": "Mix: GPL-3.0-only for originals + Modules Rules",
   "home_page": null,
-  "download_filename": "octave_nexus-2.0.0.tar.gz",
-  "download_time": "2025-10-02T01:01:56.815983",
+  "download_filename": "octave_nexus-3.2.0.tar.gz",
+  "download_time": "2025-10-02T03:07:08.345741",
   "package_url": "https://pypi.org/project/octave_nexus/"
 }

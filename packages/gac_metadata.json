@@ -1,11 +1,11 @@
 {
   "name": "gac",
-  "version": "1.2.3",
+  "version": "1.2.6",
   "summary": "AI-powered Git commit message generator with multi-provider support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gac-1.2.3.tar.gz",
-  "download_time": "2025-09-28T21:08:42.963510",
+  "download_filename": "gac-1.2.6.tar.gz",
+  "download_time": "2025-10-02T03:07:14.041488",
   "package_url": "https://pypi.org/project/gac/"
 }

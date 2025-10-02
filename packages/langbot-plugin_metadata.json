@@ -1,11 +1,11 @@
 {
   "name": "langbot-plugin",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "This package contains the SDK, CLI for building plugins for LangBot, plus the runtime for hosting LangBot plugins",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langbot_plugin-0.1.2.tar.gz",
-  "download_time": "2025-09-29T08:43:39.112888",
+  "download_filename": "langbot_plugin-0.1.3.tar.gz",
+  "download_time": "2025-10-02T03:07:36.212228",
   "package_url": "https://pypi.org/project/langbot-plugin/"
 }
