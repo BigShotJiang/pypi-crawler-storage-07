@@ -1,0 +1,11 @@
+{
+  "name": "onetick.query-webapi",
+  "version": "20250727.0.3",
+  "summary": "OneTick web client package",
+  "author": "OneTick",
+  "license": "MIT",
+  "home_page": "https://www.onetick.com",
+  "download_filename": "onetick.query_webapi-20250727.0.3-py3-none-any.whl",
+  "download_time": "2025-10-02T05:12:07.176493",
+  "package_url": "https://pypi.org/project/onetick.query-webapi/"
+}

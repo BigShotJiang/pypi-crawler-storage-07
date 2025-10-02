@@ -1,0 +1,11 @@
+{
+  "name": "tifonts",
+  "version": "0.1.0",
+  "summary": "a Python library designed to render pixel-based fonts within the `taichi-lang` environment. It allows users to display text on a Taichi canvas with customizable fonts, sizes, colors, and positions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tifonts-0.1.0.tar.gz",
+  "download_time": "2025-10-02T05:12:04.550047",
+  "package_url": "https://pypi.org/project/tifonts/"
+}

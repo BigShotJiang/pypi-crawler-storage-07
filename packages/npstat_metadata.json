@@ -1,11 +1,11 @@
 {
   "name": "npstat",
-  "version": "0.2",
+  "version": "0.3",
   "summary": "Statistical hypothesis testing package",
   "author": "OsAfzal",
   "license": null,
   "home_page": null,
-  "download_filename": "npstat-0.2.tar.gz",
-  "download_time": "2025-10-02T04:49:14.939543",
+  "download_filename": "npstat-0.3.tar.gz",
+  "download_time": "2025-10-02T05:12:08.732893",
   "package_url": "https://pypi.org/project/npstat/"
 }

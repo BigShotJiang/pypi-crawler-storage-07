@@ -1,11 +1,11 @@
 {
   "name": "houdini_package_manager",
-  "version": "2.2.10",
+  "version": "2.2.11",
   "summary": "GUI package manager for Houdini",
   "author": "Ariff Jeff",
   "license": null,
   "home_page": "https://github.com/ariffjeff/houdini-package-manager",
-  "download_filename": "houdini_package_manager-2.2.10.tar.gz",
-  "download_time": "2025-10-02T04:49:14.383059",
+  "download_filename": "houdini_package_manager-2.2.11.tar.gz",
+  "download_time": "2025-10-02T05:12:02.956076",
   "package_url": "https://pypi.org/project/houdini_package_manager/"
 }

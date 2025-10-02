@@ -1,0 +1,11 @@
+{
+  "name": "mypylogger",
+  "version": "0.1.0a2",
+  "summary": "Production-ready Python logging library with structured JSON output, environment-driven configuration, and real-time development support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mypylogger-0.1.0a2.tar.gz",
+  "download_time": "2025-10-02T05:12:11.846943",
+  "package_url": "https://pypi.org/project/mypylogger/"
+}

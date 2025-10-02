@@ -1,0 +1,11 @@
+{
+  "name": "bozupy",
+  "version": "0.2.2",
+  "summary": "**Unofficial**: cybozu.com(kintone,Garoon,common) Python SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bozupy-0.2.2.tar.gz",
+  "download_time": "2025-10-02T05:12:03.500566",
+  "package_url": "https://pypi.org/project/bozupy/"
+}
