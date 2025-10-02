@@ -1,11 +1,11 @@
 {
   "name": "scout-mcp-local",
-  "version": "2025.9.29",
+  "version": "2025.10.2",
   "summary": "A local MCP for Scout Monitoring data interactions.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scout_mcp_local-2025.9.29.tar.gz",
-  "download_time": "2025-09-29T22:26:49.167886",
+  "download_filename": "scout_mcp_local-2025.10.2.tar.gz",
+  "download_time": "2025-10-02T17:49:53.343922",
   "package_url": "https://pypi.org/project/scout-mcp-local/"
 }

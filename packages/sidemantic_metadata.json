@@ -1,0 +1,11 @@
+{
+  "name": "sidemantic",
+  "version": "0.1.0",
+  "summary": "SQLGlot-based semantic layer with multi-format adapter support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sidemantic-0.1.0.tar.gz",
+  "download_time": "2025-10-02T17:49:55.082677",
+  "package_url": "https://pypi.org/project/sidemantic/"
+}

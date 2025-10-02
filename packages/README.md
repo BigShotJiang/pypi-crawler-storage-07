@@ -1,11 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-02T17:38:11.430052
-- **Total Packages**: 81
-- **Total Size**: 14.65 MB
+- **Download Time**: 2025-10-02T17:50:39.229287
+- **Total Packages**: 80
+- **Total Size**: 7.4 MB
 
 ## Packages List
+- lockss-pybasic
+- scout-mcp-local
+- nsj-rest-lib2
+- wool
+- sidemantic
+- cuimgops
+- sort-images
+- layrz-sdk
+- kapipe
+- mle-kit-mcp
+- exiftool-mcp
+- hud-python
+- dialectid
+- identify
+- geoapi-pandas
+- otpylib
+- pyprestascan
+- mcp-proxy-adapter
+- iot-inspector
+- SCons
+- buelon
+- whitebox-plugin-device-manager
+- opuscleaner
+- py_fatigue
+- geemap
 - agent-lab-sdk
 - stratdev
 - authentik-client
@@ -27,7 +52,6 @@
 - gamengine2d
 - pulumi-rabbitmq
 - bafser
-- layrz-sdk
 - aicodetools
 - great-expectations-cloud
 - exponential-degradation-model
@@ -44,7 +68,6 @@
 - cerillo-python
 - mcp-email-server-fastmcp
 - mapc_suitability
-- geemap
 - writhe-tools
 - ae-core
 - jfjoch-client
@@ -63,27 +86,3 @@
 - thds.atacama
 - thds.mops
 - thds.humenc
-- birder
-- thds.core
-- thds.adls
-- fuzzy-theory
-- lymia
-- academia-mcp
-- qub-sherlock
-- chalkpy
-- clue-api
-- dhisana
-- pdf-anonymizer-cli
-- cvat-manifest-builder
-- geopix
-- iwx-manifest-builder
-- fsai-vision-utils
-- tfads-o-builder
-- fsai-shared-funcs
-- awpr
-- json-file-split
-- nv2a-pretty
-- bioforklift
-- apolo-app-types
-- azure-ai-evaluation
-- config2py
