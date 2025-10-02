@@ -1,8 +1,13 @@
 {
-  "download_time": "2025-10-02T11:35:11.583997",
-  "total_packages_downloaded": 80,
-  "total_size_mb": 17.14,
+  "download_time": "2025-10-02T11:53:26.007974",
+  "total_packages_downloaded": 79,
+  "total_size_mb": 1.98,
   "packages": [
+    "spark-pipelines",
+    "authentik-client",
+    "dokuwiki-autodoc",
+    "cometx",
+    "sv2svg",
     "aa-killtracker",
     "cardo-python-utils",
     "NeuronBit",
@@ -22,7 +27,6 @@
     "djangocms-aldryn-forms",
     "tinyshift",
     "torchx-nightly",
-    "zinq",
     "cued-speech",
     "stimulus-py",
     "halonex",
@@ -36,7 +40,6 @@
     "otobo_znuny",
     "validio-sdk",
     "gembench",
-    "authentik-client",
     "soniox-sdk",
     "delphai-utils",
     "promoai",
@@ -78,10 +81,6 @@
     "openmodule-commands",
     "cattle_grid",
     "nomad-simulations",
-    "sqliteai-vector",
-    "openmodule-test",
-    "criipto-signatures",
-    "cuery",
-    "vsthost"
+    "sqliteai-vector"
   ]
 }

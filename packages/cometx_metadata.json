@@ -1,11 +1,11 @@
 {
   "name": "cometx",
-  "version": "2.6.1",
+  "version": "2.6.2",
   "summary": "Python tools for Comet",
   "author": "cometx development team",
   "license": "MIT License",
   "home_page": "https://github.com/comet-ml/cometx/",
-  "download_filename": "cometx-2.6.1.tar.gz",
-  "download_time": "2025-10-01T14:13:00.839929",
+  "download_filename": "cometx-2.6.2.tar.gz",
+  "download_time": "2025-10-02T11:52:43.573752",
   "package_url": "https://pypi.org/project/cometx/"
 }

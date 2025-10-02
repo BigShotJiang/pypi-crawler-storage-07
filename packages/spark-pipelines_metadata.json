@@ -1,0 +1,11 @@
+{
+  "name": "spark-pipelines",
+  "version": "1.0.0",
+  "summary": "A simple data quality framework for PySpark DataFrames",
+  "author": "Nilesh Pise",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spark_pipelines-1.0.0.tar.gz",
+  "download_time": "2025-10-02T11:52:41.671740",
+  "package_url": "https://pypi.org/project/spark-pipelines/"
+}
