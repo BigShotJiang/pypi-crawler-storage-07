@@ -1,0 +1,11 @@
+{
+  "name": "nanograph-sdk",
+  "version": "0.1.19",
+  "summary": "Official Python SDK for Nanograph",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nanograph_sdk-0.1.19.tar.gz",
+  "download_time": "2025-10-02T13:50:24.216621",
+  "package_url": "https://pypi.org/project/nanograph-sdk/"
+}

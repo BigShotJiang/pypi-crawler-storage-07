@@ -1,0 +1,11 @@
+{
+  "name": "nlp-lab-pkg-i061-oct25",
+  "version": "0.0.1",
+  "summary": "NLP Lab utilities for tokenization, stemming, and tagging.",
+  "author": "Jind Saini",
+  "license": null,
+  "home_page": "https://github.com/jindsaini2013/nlp-lab-pkg-i061.git",
+  "download_filename": "nlp-lab-pkg-i061-oct25-0.0.1.tar.gz",
+  "download_time": "2025-10-02T13:50:19.620348",
+  "package_url": "https://pypi.org/project/nlp-lab-pkg-i061-oct25/"
+}

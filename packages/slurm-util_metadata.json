@@ -1,0 +1,11 @@
+{
+  "name": "slurm-util",
+  "version": "0.2.5",
+  "summary": "Slurm utility functions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "slurm_util-0.2.5.tar.gz",
+  "download_time": "2025-10-02T13:50:48.974210",
+  "package_url": "https://pypi.org/project/slurm-util/"
+}
