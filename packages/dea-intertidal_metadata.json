@@ -1,11 +1,11 @@
 {
   "name": "dea-intertidal",
-  "version": "2.3.1",
-  "summary": "Generating intertidal elevation, extents and exposure from satellite Earth Observation data",
+  "version": "2.3.2",
+  "summary": "Remote sensing tools for high-resolution mapping of the intertidal zone",
   "author": "Robbi Bishop-Taylor, Claire Phillips, Vanessa Newey, Stephen Sagar",
   "license": null,
   "home_page": null,
-  "download_filename": "dea_intertidal-2.3.1.tar.gz",
-  "download_time": "2025-10-02T05:31:09.226791",
+  "download_filename": "dea_intertidal-2.3.2.tar.gz",
+  "download_time": "2025-10-02T07:28:17.314259",
   "package_url": "https://pypi.org/project/dea-intertidal/"
 }
