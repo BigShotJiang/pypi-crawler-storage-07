@@ -1,0 +1,11 @@
+{
+  "name": "t-common",
+  "version": "1.0.20",
+  "summary": "The package contains all frequently used packages in Thoughtful",
+  "author": null,
+  "license": null,
+  "home_page": "https://www.thoughtful.ai/",
+  "download_filename": "t_common-1.0.20.tar.gz",
+  "download_time": "2025-10-02T16:49:05.661100",
+  "package_url": "https://pypi.org/project/t-common/"
+}

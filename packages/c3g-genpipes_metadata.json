@@ -1,0 +1,11 @@
+{
+  "name": "c3g-genpipes",
+  "version": "6.1.0",
+  "summary": "Several bioinformatics pipelines developed at McGill University Genome Centre",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "c3g_genpipes-6.1.0.tar.gz",
+  "download_time": "2025-10-02T16:49:00.282540",
+  "package_url": "https://pypi.org/project/c3g-genpipes/"
+}

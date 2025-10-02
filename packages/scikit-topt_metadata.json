@@ -1,11 +1,11 @@
 {
   "name": "scikit-topt",
-  "version": "0.2.8",
+  "version": "0.2.10",
   "summary": "A lightweight, flexible Python library for topology optimization built on top of Scikit Libraries",
   "author": "Kevin-Tofu",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "scikit_topt-0.2.8.tar.gz",
-  "download_time": "2025-10-01T17:11:27.641370",
+  "download_filename": "scikit_topt-0.2.10.tar.gz",
+  "download_time": "2025-10-02T16:49:37.554759",
   "package_url": "https://pypi.org/project/scikit-topt/"
 }

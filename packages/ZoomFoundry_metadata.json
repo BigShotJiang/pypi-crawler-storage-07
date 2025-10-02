@@ -1,0 +1,11 @@
+{
+  "name": "ZoomFoundry",
+  "version": "6.26.0",
+  "summary": "A dynamic Web Framework that promotes modularity and rapid prototyping",
+  "author": "DSI Labs",
+  "license": null,
+  "home_page": "https://github.com/ZoomFoundry/ZoomFoundry",
+  "download_filename": "ZoomFoundry-6.26.0.tar.gz",
+  "download_time": "2025-10-02T16:49:47.944408",
+  "package_url": "https://pypi.org/project/ZoomFoundry/"
+}

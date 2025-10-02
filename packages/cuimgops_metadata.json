@@ -1,0 +1,11 @@
+{
+  "name": "cuimgops",
+  "version": "0.1.2",
+  "summary": "CUDA accelerated image processing operations with Python bindings.",
+  "author": "Sashank Nimmagadda",
+  "license": null,
+  "home_page": "https://github.com/mightycandle",
+  "download_filename": "cuimgops-0.1.2.tar.gz",
+  "download_time": "2025-10-02T16:49:18.068186",
+  "package_url": "https://pypi.org/project/cuimgops/"
+}

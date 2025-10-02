@@ -1,0 +1,11 @@
+{
+  "name": "retrylite",
+  "version": "0.1.2",
+  "summary": "Zero-dependency retry decorator (sync & async)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "retrylite-0.1.2.tar.gz",
+  "download_time": "2025-10-02T16:49:11.954430",
+  "package_url": "https://pypi.org/project/retrylite/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "xv",
+  "version": "0.1.2",
+  "summary": "Access to arxiv data",
+  "author": "Thor Whalen",
+  "license": "mit",
+  "home_page": "https://github.com/thorwhalen/xv",
+  "download_filename": "xv-0.1.2.tar.gz",
+  "download_time": "2025-10-02T16:49:21.971897",
+  "package_url": "https://pypi.org/project/xv/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rebase-migrations",
+  "version": "0.3.0",
+  "summary": "Python library for Django migration conflict resolution during git rebases",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/reinhash/rebase-migrations",
+  "download_filename": "rebase_migrations-0.3.0.tar.gz",
+  "download_time": "2025-10-02T16:49:23.079745",
+  "package_url": "https://pypi.org/project/rebase-migrations/"
+}

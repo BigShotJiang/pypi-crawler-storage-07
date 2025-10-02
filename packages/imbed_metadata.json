@@ -1,0 +1,11 @@
+{
+  "name": "imbed",
+  "version": "0.0.23",
+  "summary": "Tools to work with embeddings",
+  "author": "Thor Whalen",
+  "license": "mit",
+  "home_page": "https://github.com/thorwhalen/imbed",
+  "download_filename": "imbed-0.0.23.tar.gz",
+  "download_time": "2025-10-02T16:49:19.721387",
+  "package_url": "https://pypi.org/project/imbed/"
+}

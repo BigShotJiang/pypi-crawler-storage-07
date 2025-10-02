@@ -1,0 +1,11 @@
+{
+  "name": "abide-data-explorer",
+  "version": "1.0.0",
+  "summary": "A Streamlit application for exploring ABIDE II Composite Phenotypic data",
+  "author": "Data Explorer Team",
+  "license": null,
+  "home_page": "https://github.com/ItsHarshitAg/lab10",
+  "download_filename": "abide_data_explorer-1.0.0.tar.gz",
+  "download_time": "2025-10-02T16:49:32.377674",
+  "package_url": "https://pypi.org/project/abide-data-explorer/"
+}
