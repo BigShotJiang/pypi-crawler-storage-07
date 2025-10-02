@@ -1,0 +1,11 @@
+{
+  "name": "gembench",
+  "version": "1.0.0",
+  "summary": "A Benchmark for Ad-Injected Response Generation within Generative Engine Marketing",
+  "author": "Shiqi Zhang, Yimin Shi, Xiaokui Xiao",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gembench-1.0.0.tar.gz",
+  "download_time": "2025-10-02T11:10:36.031924",
+  "package_url": "https://pypi.org/project/gembench/"
+}

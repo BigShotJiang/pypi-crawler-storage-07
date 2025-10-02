@@ -1,11 +1,11 @@
 {
   "name": "mpfshell2",
-  "version": "100.9.24",
+  "version": "100.9.25",
   "summary": "A simple shell based file explorer for ESP8266 and WiPy Micropython devices.",
   "author": "Stefan Wendler, with extensions by Hans Maerki",
   "license": null,
   "home_page": "https://github.com/hmaerki/mpfshell2",
-  "download_filename": "mpfshell2-100.9.24.tar.gz",
-  "download_time": "2025-10-02T08:16:58.417795",
+  "download_filename": "mpfshell2-100.9.25.tar.gz",
+  "download_time": "2025-10-02T11:10:14.472735",
   "package_url": "https://pypi.org/project/mpfshell2/"
 }

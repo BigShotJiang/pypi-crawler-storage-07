@@ -1,0 +1,11 @@
+{
+  "name": "civic-transparency-ptag-spec",
+  "version": "0.2.3",
+  "summary": "Civic Transparency PTag specification schemas",
+  "author": "Civic Interconnect",
+  "license": null,
+  "home_page": null,
+  "download_filename": "civic_transparency_ptag_spec-0.2.3.tar.gz",
+  "download_time": "2025-10-02T11:10:38.678035",
+  "package_url": "https://pypi.org/project/civic-transparency-ptag-spec/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vatcheckapi",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Python client for the vatcheckapi.com API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vatcheckapi-0.1.0.tar.gz",
-  "download_time": "2025-10-02T09:20:44.386647",
+  "download_filename": "vatcheckapi-0.1.1.tar.gz",
+  "download_time": "2025-10-02T11:10:30.763446",
   "package_url": "https://pypi.org/project/vatcheckapi/"
 }

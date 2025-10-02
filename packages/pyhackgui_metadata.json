@@ -1,11 +1,11 @@
 {
   "name": "pyhackgui",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "PyHackGUI - A Python GUI library for game overlay interfaces",
   "author": "LiangYu",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/pyhackgui",
-  "download_filename": "pyhackgui-1.0.4.tar.gz",
-  "download_time": "2025-10-02T10:49:34.870834",
+  "download_filename": "pyhackgui-1.0.5.tar.gz",
+  "download_time": "2025-10-02T11:10:15.541677",
   "package_url": "https://pypi.org/project/pyhackgui/"
 }
