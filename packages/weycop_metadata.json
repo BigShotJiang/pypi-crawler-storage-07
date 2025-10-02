@@ -1,11 +1,11 @@
 {
   "name": "weycop",
-  "version": "2.0.0",
+  "version": "2.1.1",
   "summary": "Python client for WeyCP API - Multi-provider AI chat completions (Local/OpenAI/Anthropic)",
   "author": "WeyCP Team",
   "license": null,
   "home_page": "https://github.com/weycop/weycop-python",
-  "download_filename": "weycop-2.0.0.tar.gz",
-  "download_time": "2025-10-01T19:48:56.854972",
+  "download_filename": "weycop-2.1.1.tar.gz",
+  "download_time": "2025-10-02T04:34:08.533155",
   "package_url": "https://pypi.org/project/weycop/"
 }

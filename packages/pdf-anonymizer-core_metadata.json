@@ -1,0 +1,11 @@
+{
+  "name": "pdf-anonymizer-core",
+  "version": "0.3.0",
+  "summary": "A core library to anonymize PDF, Markdown, and plain text files using LLMs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pdf_anonymizer_core-0.3.0.tar.gz",
+  "download_time": "2025-10-02T04:34:14.763966",
+  "package_url": "https://pypi.org/project/pdf-anonymizer-core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dgexcel",
+  "version": "1.0.0a0",
+  "summary": "Пакет для работы с Excel файлами",
+  "author": "Malanris",
+  "license": "MIT License",
+  "home_page": "https://gitlab.com/gng-group/dgdb.git",
+  "download_filename": "dgexcel-1.0.0a0.tar.gz",
+  "download_time": "2025-10-02T04:34:13.216392",
+  "package_url": "https://pypi.org/project/dgexcel/"
+}

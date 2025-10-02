@@ -1,27 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-02T04:14:10.484939
-- **Total Packages**: 70
-- **Total Size**: 15.29 MB
+- **Download Time**: 2025-10-02T04:34:44.402857
+- **Total Packages**: 75
+- **Total Size**: 6.77 MB
 
 ## Packages List
+- chift
+- typed_classproperties
+- bool-hybrid-array
+- flexibuddiesrl
+- process-gpt-agent-sdk
+- test-pppppp
+- smu-ontwins-demo
+- weycop
+- Pydowndoc
+- piano-integration
+- finter
+- PCILeechFWGenerator
+- authentik-client
+- testoooooo
+- maleo-types
+- dgexcel
+- exogibbs
+- yooztech-mcp-api-request
+- pdf-anonymizer-core
+- msgflux
+- image-serve
+- wxauto4
+- openhcs
+- kubeagentic
+- pipen-poplog
+- model-compression-toolkit
+- pipeline-eds
+- keras-nlp-nightly
+- wxauto
+- keras-hub-nightly
+- pipen-log2file
+- snowflake-connector-python-nightly
 - mkdocs-include-stubs-plugin-test1.0
 - nonebot-adapter-afdian
 - dynamic-temporal-models
 - heaserver-organizations
-- authentik-client
 - suga-client
 - iplotx
 - agentcrew-ai
 - cb-events
 - tirex-mirror
 - mem8
-- yooztech-mcp-api-request
 - robokop-orion
 - openvsc
 - odoo-addon-sale-timesheet-rounded
-- pipeline-eds
 - odoo-commands
 - chromedriver-binary
 - fwdi
@@ -41,7 +70,6 @@
 - kittylog
 - cmlibs.exporter
 - pulumi-datadog
-- bool-hybrid-array
 - ubicoders-vrobots-msgs
 - telepact-cli
 - phanterpwa
@@ -53,26 +81,3 @@
 - odoo-addon-attachment-queue
 - scxpand-cuda
 - scxpand
-- sdfgen
-- raySD
-- smu-ontwins-demo
-- ohmyapi
-- coredis
-- keras-nightly
-- clipdrop
-- eratos-sdk
-- awslabs.redshift-mcp-server
-- awslabs.aws-dataprocessing-mcp-server
-- awslabs.amazon-bedrock-agentcore-mcp-server
-- ozi-spec
-- vellum-workflow-server
-- django-dynamic-workflows
-- shipyard-python-sdk
-- robhan-cdk-lib.aws-grafana
-- robhan-cdk-lib.aws-aps
-- uapg
-- xiaozhi-sdk
-- bedrock-agentcore-starter-toolkit
-- pterradactyl
-- robhan-cdk-lib.utils
-- odoo-addon-procurement-purchase-no-grouping
