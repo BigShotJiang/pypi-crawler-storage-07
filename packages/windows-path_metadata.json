@@ -1,0 +1,11 @@
+{
+  "name": "windows-path",
+  "version": "0.1.0",
+  "summary": "Manage the Windows user PATH environment variable from Python or the command line.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "windows_path-0.1.0.tar.gz",
+  "download_time": "2025-10-03T07:49:59.924278",
+  "package_url": "https://pypi.org/project/windows-path/"
+}

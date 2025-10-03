@@ -1,11 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-03T07:37:52.815223
-- **Total Packages**: 89
-- **Total Size**: 2.35 MB
+- **Download Time**: 2025-10-03T07:50:31.558863
+- **Total Packages**: 93
+- **Total Size**: 8.89 MB
 
 ## Packages List
+- ut-eco
+- gcore
+- ida-hcli
+- haiway
+- orq-ai-sdk
+- shipyard-python-sdk
+- elemento-customers
+- unicex
+- autogen
+- ag2
+- annet
+- revengai
+- raphson-music-headless
+- bse-options
+- lmitf
+- hg-systematic
+- smartmodels
+- bn-byneuron
+- swarmtube
+- syncmodels
+- agptools
+- interpolator-for-wrfchem
+- topsisx-arpit-102203499
+- gllm-core-binary
+- data-retrieval-monitor
+- zserio
+- maltiverse
+- pulumi-cloudru
+- alerk-pack
+- Vease-Viewer
+- smooth-py
+- vease-back
+- xarray-ms
+- windows-path
+- auretrix
 - wildkcat
 - nvidia-safety-harness
 - authentik-client
@@ -49,7 +84,6 @@
 - pipen-cli-gbatch
 - fal
 - nonebot-plugin-gemini-vision
-- ida-hcli
 - odoo-addon-salesperson-transfer-portfolio
 - blivet
 - pixell-kit
@@ -65,33 +99,3 @@
 - algoritmia
 - tf-models-nightly
 - sv2svg
-- pulumi-snowflake
-- voipbox-plugin
-- lhs-global-service-fastapi
-- flow-compute
-- oarepo-invenio-typing-stubs
-- datajunction-server
-- Vease-Viewer
-- vease-back
-- okareo
-- streamlit-nightly
-- codex-resume
-- json-schema-to-pydantic
-- Refero
-- fancylog
-- dockreg
-- maven-proxy
-- fastapi-router-viz
-- orq-ai-sdk
-- yagoutpay-sdk
-- nvidia-scicode
-- nvidia-livecodebench
-- radl
-- GooeyGUI-Python
-- odoo-addon-dms-field
-- pex
-- nvidia-vlmeval
-- nvidia-mmath
-- prefect-datahub
-- acryl-datahub
-- te_quiz

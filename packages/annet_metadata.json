@@ -1,11 +1,11 @@
 {
   "name": "annet",
-  "version": "3.15.0",
+  "version": "3.15.1",
   "summary": "annet",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/annetutil/annet",
-  "download_filename": "annet-3.15.0.tar.gz",
-  "download_time": "2025-09-30T13:40:17.563824",
+  "download_filename": "annet-3.15.1.tar.gz",
+  "download_time": "2025-10-03T07:49:46.645098",
   "package_url": "https://pypi.org/project/annet/"
 }
