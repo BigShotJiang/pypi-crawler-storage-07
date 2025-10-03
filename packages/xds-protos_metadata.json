@@ -1,0 +1,11 @@
+{
+  "name": "xds-protos",
+  "version": "1.75.1",
+  "summary": "Generated Python code from envoyproxy/data-plane-api",
+  "author": "The gRPC Authors",
+  "license": "Apache License 2.0",
+  "home_page": "https://grpc.io",
+  "download_filename": "xds_protos-1.75.1.tar.gz",
+  "download_time": "2025-10-03T08:54:19.664662",
+  "package_url": "https://pypi.org/project/xds-protos/"
+}

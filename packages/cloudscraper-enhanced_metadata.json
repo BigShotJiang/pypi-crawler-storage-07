@@ -1,0 +1,11 @@
+{
+  "name": "cloudscraper-enhanced",
+  "version": "3.0.0",
+  "summary": "Enhanced Python module to bypass Cloudflare's anti-bot page with support for v2 challenges, proxy rotation, and stealth mode.",
+  "author": "VeNoMouS, Zied Boughdir",
+  "license": "MIT",
+  "home_page": "https://github.com/venomous/cloudscraper",
+  "download_filename": "cloudscraper_enhanced-3.0.0.tar.gz",
+  "download_time": "2025-10-03T08:54:08.053868",
+  "package_url": "https://pypi.org/project/cloudscraper-enhanced/"
+}

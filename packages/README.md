@@ -1,14 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-03T08:38:22.394685
-- **Total Packages**: 80
-- **Total Size**: 23.38 MB
+- **Download Time**: 2025-10-03T08:54:53.734003
+- **Total Packages**: 83
+- **Total Size**: 10.6 MB
 
 ## Packages List
+- tala
+- zephy
+- validate-pyproject-schema-store
+- cloudscraper-enhanced
+- cloudru-ml-cli
+- tlf-binary-parser
+- talentro-commons
+- OpenGeodeWeb-Back
+- qenerate
+- djaploy
+- OpenGeodeWeb-Viewer
+- screenoverlay
+- praasper
+- smalk-disk-check
+- frontmatter-utils
+- zenx
+- grpcio-channelz
+- grpcio-status
+- grpcio-admin
+- grpcio-csds
+- grpcio-reflection
+- xds-protos
+- grpcio-csm-observability
+- OpenGeodeWeb-Microservice
+- grpcio-health-checking
+- grpcio-testing
+- ctd-processing
+- bse-options
+- grpcio-observability
+- fiatlight
+- authentik-client
 - crowdsec-fastly-bouncer
 - hmm-git-safety
-- vulnguard
 - holado
 - pyteamtv
 - pyAutoMR
@@ -35,7 +65,6 @@
 - brynq-sdk-functions
 - lsm-storage-engine-key-value-store
 - ida-hcli
-- authentik-client
 - json-schema-to-pydantic
 - pyglove
 - pyhamsys
@@ -59,30 +88,4 @@
 - abvdev
 - tessdb-api
 - odoo-addon-auditlog
-- zephy
 - python-thingsdb
-- xtgeo
-- talentro-commons
-- odoo-addon-l10n-it-fatturapa-pec
-- odoo-addon-l10n-it-sdi-channel
-- unpage
-- cradl
-- unicex
-- open-api-framework
-- fast-backend-builder
-- point-topic-mcp
-- nessie-py
-- peeler
-- videobgremover
-- tuzi-mcp
-- shotgun-sh
-- auretrix
-- odoo-addon-crm-sale-automatic-quotation
-- bn-byneuron
-- mkdocs-asciidoctor-backend
-- ironflock
-- lmitf
-- simple-job-files
-- pytest-mergify
-- cython-lint
-- ant-ray-cpp-nightly

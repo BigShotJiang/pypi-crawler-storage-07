@@ -1,0 +1,11 @@
+{
+  "name": "grpcio-admin",
+  "version": "1.75.1",
+  "summary": "a collection of admin services",
+  "author": "The gRPC Authors",
+  "license": "Apache License 2.0",
+  "home_page": "https://grpc.io",
+  "download_filename": "grpcio_admin-1.75.1.tar.gz",
+  "download_time": "2025-10-03T08:54:17.883719",
+  "package_url": "https://pypi.org/project/grpcio-admin/"
+}
