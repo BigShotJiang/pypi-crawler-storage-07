@@ -1,0 +1,11 @@
+{
+  "name": "resume-extract",
+  "version": "0.0.1",
+  "summary": "A library for extracting information contained in resumes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "resume_extract-0.0.1.tar.gz",
+  "download_time": "2025-10-03T08:15:55.741438",
+  "package_url": "https://pypi.org/project/resume-extract/"
+}

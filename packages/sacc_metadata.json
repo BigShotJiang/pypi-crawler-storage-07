@@ -1,0 +1,11 @@
+{
+  "name": "sacc",
+  "version": "2.0",
+  "summary": "SACC - the LSST/DESC summary statistic data format library",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "sacc-2.0.tar.gz",
+  "download_time": "2025-10-03T08:15:48.253987",
+  "package_url": "https://pypi.org/project/sacc/"
+}

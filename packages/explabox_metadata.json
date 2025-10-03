@@ -1,0 +1,11 @@
+{
+  "name": "explabox",
+  "version": "1.0.2",
+  "summary": "Explore/examine/explain/expose your model with the explabox!",
+  "author": "Marcel Robeer for NPAI and other contributors",
+  "license": "GNU LGPL v3",
+  "home_page": "https://explabox.rtfd.io",
+  "download_filename": "explabox-1.0.2.tar.gz",
+  "download_time": "2025-10-03T08:15:57.311786",
+  "package_url": "https://pypi.org/project/explabox/"
+}

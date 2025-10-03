@@ -1,0 +1,11 @@
+{
+  "name": "simple-job-files",
+  "version": "0.2.0",
+  "summary": "Pydantic Models for the GA4GH Task Execution Service",
+  "author": "John Chilton",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simple_job_files-0.2.0.tar.gz",
+  "download_time": "2025-10-03T08:16:17.093539",
+  "package_url": "https://pypi.org/project/simple-job-files/"
+}

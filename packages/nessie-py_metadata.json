@@ -1,11 +1,11 @@
 {
   "name": "nessie-py",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "A fast and flexible friends-of-friends galaxy-group finder based on Rust.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nessie_py-1.0.3.tar.gz",
-  "download_time": "2025-10-03T03:06:04.186748",
+  "download_filename": "nessie_py-1.0.5.tar.gz",
+  "download_time": "2025-10-03T08:16:11.392573",
   "package_url": "https://pypi.org/project/nessie-py/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-it-fatturapa-pec",
+  "version": "16.0.1.2.4",
+  "summary": "Invio fatture elettroniche tramite PEC",
+  "author": "Openforce Srls Unipersonale, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-italy",
+  "download_filename": "odoo_addon_l10n_it_fatturapa_pec-16.0.1.2.4-py3-none-any.whl",
+  "download_time": "2025-10-03T08:16:06.716610",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-it-fatturapa-pec/"
+}

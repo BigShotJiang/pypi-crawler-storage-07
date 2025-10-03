@@ -1,0 +1,11 @@
+{
+  "name": "polygraph-benchmark",
+  "version": "1.0.0",
+  "summary": "Evaluation benchmarks for graph generative models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "polygraph_benchmark-1.0.0.tar.gz",
+  "download_time": "2025-10-03T08:15:45.524443",
+  "package_url": "https://pypi.org/project/polygraph-benchmark/"
+}
