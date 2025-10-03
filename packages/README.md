@@ -1,14 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-03T04:50:32.031420
+- **Download Time**: 2025-10-03T05:13:27.892081
 - **Total Packages**: 78
-- **Total Size**: 2.97 MB
+- **Total Size**: 9.05 MB
 
 ## Packages List
+- confido-atls
+- ltts
+- authentik-client
+- usentinel
+- dragon-ml-toolbox
+- tcg-research-desk
+- maven-proxy
+- openfinops
+- calcite
+- h2ogpte
+- rxfoundry.clients.swifty_api
+- rxfoundry.clients.swifty_oauth_api
+- composio-openai-agents
+- composio-openai
+- composio-llamaindex
+- composio-langgraph
+- composio-langchain
+- composio-google-adk
+- composio-google
+- composio-gemini
+- composio-crewai
+- composio-autogen
+- composio-anthropic
+- composio
+- fastquadtree
+- bfb-delivery
+- santok
+- llmswap
+- aipscan
+- fred-oss
+- openearth
+- spotiphy
+- robhan-cdk-lib.aws-grafana
+- reference-package
+- robhan-cdk-lib.aws-aps
+- k-nickname
+- robhan-cdk-lib.utils
+- diffseek
+- statsig-python-core
+- bscommon
 - brewing
 - klavis
-- openvsc
 - maleo-database
 - syndesi
 - iamdata
@@ -17,23 +56,16 @@
 - bcml-ai
 - nonebot-plugin-tweet
 - palabra-ai
-- ltts
-- maven-proxy
 - nonebot-plugin-mcnews
-- authentik-client
 - MaxBridge
 - blurhash-avif
 - aria2tui
 - aiq-platform-api
 - pycronado
 - listpick
-- rxfoundry.clients.swifty_api
-- rxfoundry.clients.swifty_oauth_api
-- bscommon
 - pyproforma
 - boson-multimodal
 - sqlmesh
-- llmswap
 - friendly-module-not-found-error
 - python-gmp
 - isolate-proto
@@ -52,35 +84,3 @@
 - peakrdl
 - peakrdl-cli
 - cpp-linter
-- appwrite
-- joblet-mcp-server
-- zenx
-- keras-nlp-nightly
-- keras-hub-nightly
-- djaploy
-- svc-infra
-- dragon-ml-toolbox
-- applydir
-- omniopt2
-- p1-taskqueue
-- tirex-mirror
-- xnoapi
-- odoo-addon-hr-timesheet-day-week
-- chromedriver-binary
-- lumen-tools
-- robotframework-schemathesislibrary
-- barkr
-- fclogr
-- langflow
-- cdktf-cdktf-provider-opentelekomcloud
-- dhisana
-- odoo-addon-stock-inventory
-- odoo-addon-stock-inventory-verification-request
-- odoo-addon-stock-change-qty-reason
-- hallunox
-- arize-phoenix
-- bisocket
-- ragas
-- ragas-examples
-- odoo-addon-stock-measuring-device
-- aipscan

@@ -1,0 +1,11 @@
+{
+  "name": "spotiphy",
+  "version": "0.3.1",
+  "summary": "An integrated pipeline designed to deconvolute and decompose spatial transcriptomics data, and produce pseudo single-cell resolution images.",
+  "author": "Ziqian Zheng, Jiyuan Yang",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/jyyulab/Spotiphy",
+  "download_filename": "spotiphy-0.3.1.tar.gz",
+  "download_time": "2025-10-03T05:13:01.413637",
+  "package_url": "https://pypi.org/project/spotiphy/"
+}
