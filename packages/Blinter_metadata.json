@@ -1,11 +1,11 @@
 {
   "name": "Blinter",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "summary": "Blinter is a linter for Windows batch files. It provides comprehensive static analysis to identify syntax errors, security vulnerabilities, performance issues and style problems.",
   "author": null,
   "license": "CRL",
   "home_page": null,
-  "download_filename": "blinter-1.0.20.tar.gz",
-  "download_time": "2025-10-03T21:49:52.031251",
+  "download_filename": "blinter-1.0.21.tar.gz",
+  "download_time": "2025-10-03T22:24:43.303193",
   "package_url": "https://pypi.org/project/Blinter/"
 }

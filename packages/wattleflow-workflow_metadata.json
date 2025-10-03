@@ -1,0 +1,11 @@
+{
+  "name": "wattleflow-workflow",
+  "version": "0.0.0.46",
+  "summary": "Wattleflow Workflow - Data engineering framework.",
+  "author": "WattleFlow",
+  "license": null,
+  "home_page": "https://github.com/wattleflow/workflow.git",
+  "download_filename": "wattleflow_workflow-0.0.0.46-py3-none-any.whl",
+  "download_time": "2025-10-03T22:24:43.813533",
+  "package_url": "https://pypi.org/project/wattleflow-workflow/"
+}

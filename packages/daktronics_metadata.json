@@ -1,11 +1,11 @@
 {
   "name": "daktronics",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "summary": "A Python library for reading data from Daktronics consoles.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "daktronics-1.0.2.tar.gz",
-  "download_time": "2025-10-03T16:14:19.203090",
+  "download_filename": "daktronics-1.1.0.tar.gz",
+  "download_time": "2025-10-03T22:25:07.853997",
   "package_url": "https://pypi.org/project/daktronics/"
 }
