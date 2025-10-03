@@ -1,11 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-03T15:43:06.214298
-- **Total Packages**: 88
-- **Total Size**: 20.14 MB
+- **Download Time**: 2025-10-03T15:49:45.158716
+- **Total Packages**: 87
+- **Total Size**: 13.49 MB
 
 ## Packages List
+- floorplan-epc-detector
+- opentrons-shared-data
+- logfire-api
+- logfire
+- holm
+- demo-greeter-pkg-rameh
+- idds-workflow
+- plotsignif
+- idds-website
+- idds-monitor
+- idds-server
+- idds-doma
+- idds-common
+- idds-client
+- idds-atlas
+- django-nativemojo
+- sphinx-syntax
+- local-context-server
+- qaz008fear
+- yourbubble
+- pycarta
+- ign-pdal-tools
+- shredword
+- hogwarts-terminal
+- demo-greeter-ali
+- sparv-sbx-sentence-sentiment-kb-sent
+- eigenshuffle
+- Sandroid
+- ap-health-report
+- pybotchi
+- howso-visuals
+- RDP-MCP
+- nauert
+- coiled
 - demo-greeter-jad-pkg
 - demo-greeter-christ
 - demo-greeter-hasan
@@ -23,7 +57,6 @@
 - hardware-ml-benchmark
 - demo-greeter-mh-hij-02
 - relationalai
-- qaz008fear
 - py-pve-cloud
 - ecodev-core
 - diffweave-ai
@@ -47,8 +80,6 @@
 - trelby
 - hydro-analysis-toolkit
 - sdss-almanac
-- local-context-server
-- ap-health-report
 - bigbro
 - snowflake-labs-mcp
 - smartsheet-tools
@@ -62,35 +93,3 @@
 - airflow-operators
 - datajunction-server
 - cargos-api
-- mwxlib
-- odoo-addon-loyalty-coupon-no-mail
-- fastloop
-- pyUnfoldedCircleRemote
-- oarepo-ui
-- sphinx-syntax
-- dls-dodal
-- demo-greeter-pkg-peter
-- dara-core
-- dara-components
-- create-dara-app
-- opensafely
-- demo-fida
-- datefun
-- md2fileo
-- sqlite-ai
-- py-rattler
-- bloqade-geometry
-- wowool-entity-graph
-- ial-build
-- icechunk
-- jsonapi-client-framework
-- Bible9000
-- demo-greeter-adam
-- fastdup
-- gerrit-clone
-- csu
-- coiled
-- libpyvivotek
-- demo-greeter-sarah
-- xdsl
-- make-post-sell

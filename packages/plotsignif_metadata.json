@@ -1,0 +1,11 @@
+{
+  "name": "plotsignif",
+  "version": "0.1.0",
+  "summary": "Add significance bars to a plot.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "plotsignif-0.1.0.tar.gz",
+  "download_time": "2025-10-03T15:49:01.586552",
+  "package_url": "https://pypi.org/project/plotsignif/"
+}
