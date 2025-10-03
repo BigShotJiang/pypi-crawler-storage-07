@@ -1,11 +1,11 @@
 {
   "name": "dagster-iceberg",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "Package for PyIceberg-specific Dagster framework op and resource components.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dagster_iceberg-0.3.4.tar.gz",
-  "download_time": "2025-10-03T17:11:15.503632",
+  "download_filename": "dagster_iceberg-0.3.5.tar.gz",
+  "download_time": "2025-10-03T18:16:50.806636",
   "package_url": "https://pypi.org/project/dagster-iceberg/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "Orange3-Textable",
+  "version": "3.2.5",
+  "summary": "Textable add-on for Orange 3 data mining software package.",
+  "author": "LangTech Sarl",
+  "license": "GPLv3",
+  "home_page": "http://textable.io",
+  "download_filename": "orange3_textable-3.2.5.tar.gz",
+  "download_time": "2025-10-03T18:17:11.141748",
+  "package_url": "https://pypi.org/project/Orange3-Textable/"
+}

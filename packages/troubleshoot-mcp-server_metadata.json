@@ -1,0 +1,11 @@
+{
+  "name": "troubleshoot-mcp-server",
+  "version": "1.13.3",
+  "summary": "MCP server for Kubernetes support bundles",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "troubleshoot_mcp_server-1.13.3.tar.gz",
+  "download_time": "2025-10-03T18:17:03.286292",
+  "package_url": "https://pypi.org/project/troubleshoot-mcp-server/"
+}

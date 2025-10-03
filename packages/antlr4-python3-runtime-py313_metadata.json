@@ -1,0 +1,11 @@
+{
+  "name": "antlr4-python3-runtime-py313",
+  "version": "4.7.2",
+  "summary": "ANTLR 4.7.2 runtime for Python 3.6.3",
+  "author": "Eric Vergnaud, Terence Parr, Sam Harwell",
+  "license": "BSD",
+  "home_page": "http://www.antlr.org",
+  "download_filename": "antlr4_python3_runtime_py313-4.7.2.tar.gz",
+  "download_time": "2025-10-03T18:17:02.740462",
+  "package_url": "https://pypi.org/project/antlr4-python3-runtime-py313/"
+}

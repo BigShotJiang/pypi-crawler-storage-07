@@ -1,11 +1,11 @@
 {
   "name": "structured-logger-railway",
-  "version": "1.3.2",
+  "version": "1.4.0",
   "summary": "A flexible structured JSON logger for Python applications",
   "author": "Nikita Yastreb, Patrick Ward",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "structured_logger_railway-1.3.2.tar.gz",
-  "download_time": "2025-09-29T20:38:04.476734",
+  "download_filename": "structured_logger_railway-1.4.0.tar.gz",
+  "download_time": "2025-10-03T18:17:06.335156",
   "package_url": "https://pypi.org/project/structured-logger-railway/"
 }

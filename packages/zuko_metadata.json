@@ -1,0 +1,11 @@
+{
+  "name": "zuko",
+  "version": "1.5.0",
+  "summary": "Normalizing flows in PyTorch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zuko-1.5.0.tar.gz",
+  "download_time": "2025-10-03T18:16:42.731015",
+  "package_url": "https://pypi.org/project/zuko/"
+}

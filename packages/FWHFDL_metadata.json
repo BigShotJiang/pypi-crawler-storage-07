@@ -1,11 +1,11 @@
 {
   "name": "FWHFDL",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "WHFDL Feature Selector",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fwhfdl-0.0.1-py3-none-any.whl",
-  "download_time": "2025-10-03T15:12:37.136017",
+  "download_filename": "fwhfdl-0.0.2-py3-none-any.whl",
+  "download_time": "2025-10-03T18:16:28.695042",
   "package_url": "https://pypi.org/project/FWHFDL/"
 }

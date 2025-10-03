@@ -1,11 +1,11 @@
 {
   "name": "re-invent-2025-mcp",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "MCP server for re:Invent 2025 session catalog with 1,843 sessions and 13 search tools",
   "author": "Manu Mishra",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "re_invent_2025_mcp-1.0.3.tar.gz",
-  "download_time": "2025-10-01T05:32:42.248511",
+  "download_filename": "re_invent_2025_mcp-1.0.4.tar.gz",
+  "download_time": "2025-10-03T18:16:53.026321",
   "package_url": "https://pypi.org/project/re-invent-2025-mcp/"
 }

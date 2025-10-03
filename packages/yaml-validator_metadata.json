@@ -1,0 +1,11 @@
+{
+  "name": "yaml-validator",
+  "version": "0.1.0",
+  "summary": "A Python utility for validating user YAML configuration files against a default/template YAML file with support for optional fields",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yaml_validator-0.1.0.tar.gz",
+  "download_time": "2025-10-03T18:16:37.287379",
+  "package_url": "https://pypi.org/project/yaml-validator/"
+}
