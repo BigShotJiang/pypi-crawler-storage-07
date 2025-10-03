@@ -1,0 +1,11 @@
+{
+  "name": "plaid-python",
+  "version": "37.0.0",
+  "summary": "Python client library for the Plaid API and Link",
+  "author": "Plaid Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/plaid/plaid-python",
+  "download_filename": "plaid_python-37.0.0.tar.gz",
+  "download_time": "2025-10-03T23:27:24.561077",
+  "package_url": "https://pypi.org/project/plaid-python/"
+}

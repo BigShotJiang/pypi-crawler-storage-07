@@ -1,0 +1,11 @@
+{
+  "name": "a2a-registry-client",
+  "version": "0.0.4",
+  "summary": "Python client library for the A2A Registry",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "a2a_registry_client-0.0.4.tar.gz",
+  "download_time": "2025-10-03T23:27:07.202192",
+  "package_url": "https://pypi.org/project/a2a-registry-client/"
+}

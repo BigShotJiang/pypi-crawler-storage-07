@@ -1,11 +1,11 @@
 {
   "name": "imgen-cli",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "summary": "Planner + CLI for managing durable image slots and variants",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "imgen_cli-0.1.15.tar.gz",
-  "download_time": "2025-10-03T22:24:52.308784",
+  "download_filename": "imgen_cli-0.1.16.tar.gz",
+  "download_time": "2025-10-03T23:27:21.327882",
   "package_url": "https://pypi.org/project/imgen-cli/"
 }
