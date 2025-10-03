@@ -1,11 +1,11 @@
 {
   "name": "lhs-global-service-fastapi",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Global Oracle logging and debug management for FastAPI apps.",
   "author": "Rohit Jagtap",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/your-repo",
-  "download_filename": "lhs_global_service_fastapi-0.2.3.tar.gz",
-  "download_time": "2025-10-01T05:12:09.335715",
+  "download_filename": "lhs_global_service_fastapi-0.2.4.tar.gz",
+  "download_time": "2025-10-03T06:45:18.790530",
   "package_url": "https://pypi.org/project/lhs-global-service-fastapi/"
 }

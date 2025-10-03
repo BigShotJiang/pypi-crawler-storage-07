@@ -1,0 +1,11 @@
+{
+  "name": "clsar",
+  "version": "2.0.0",
+  "summary": "Activity Cliff-Informed Contrastive Learning for Molecular Property Prediction",
+  "author": "WanXiang Shen",
+  "license": null,
+  "home_page": "https://github.com/shenwanxiang/ACANet/tree/main",
+  "download_filename": "clsar-2.0.0-py3-none-any.whl",
+  "download_time": "2025-10-03T06:45:21.111673",
+  "package_url": "https://pypi.org/project/clsar/"
+}

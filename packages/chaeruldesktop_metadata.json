@@ -1,11 +1,11 @@
 {
   "name": "chaeruldesktop",
-  "version": "0.1.1",
-  "summary": "Komponen GUI sederhana berbasis CustomTkinter untuk aplikasi desktop Python",
+  "version": "0.1.4",
+  "summary": "Code ini di buat untuk meringkas kode tkinter menjadi lebih mudah. support terus ya :)",
   "author": "Chaerul",
   "license": null,
   "home_page": "https://github.com/chaerul24/chaeruldesktop",
-  "download_filename": "chaeruldesktop-0.1.1.tar.gz",
-  "download_time": "2025-10-02T09:40:34.311586",
+  "download_filename": "chaeruldesktop-0.1.4.tar.gz",
+  "download_time": "2025-10-03T06:45:19.949010",
   "package_url": "https://pypi.org/project/chaeruldesktop/"
 }
