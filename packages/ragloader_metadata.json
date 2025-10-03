@@ -1,0 +1,11 @@
+{
+  "name": "ragloader",
+  "version": "0.1.13",
+  "summary": "A tool for uploading and embedding documents for RAG systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ragloader-0.1.13.tar.gz",
+  "download_time": "2025-10-03T13:27:24.617542",
+  "package_url": "https://pypi.org/project/ragloader/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nbdev-sphinx",
-  "version": "0.0.2145",
+  "version": "0.0.2146",
   "summary": "nbdev docs lookup for sphinx",
   "author": "Jeremy Howard",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/fastai/nbdev-index/tree/master/",
-  "download_filename": "nbdev_sphinx-0.0.2145.tar.gz",
-  "download_time": "2025-10-03T02:13:30.870303",
+  "download_filename": "nbdev_sphinx-0.0.2146.tar.gz",
+  "download_time": "2025-10-03T13:27:08.707346",
   "package_url": "https://pypi.org/project/nbdev-sphinx/"
 }

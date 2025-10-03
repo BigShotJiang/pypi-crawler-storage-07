@@ -1,0 +1,11 @@
+{
+  "name": "napatrackmater",
+  "version": "5.8.8",
+  "summary": "Import Trackmate XML files for Track Visualization and analysis in Napari.",
+  "author": "Varun Kapoor, Mari Tolonen, Jakub Sedzinski",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/Kapoorlabs-CAPED/napatrackmater",
+  "download_filename": "napatrackmater-5.8.8.tar.gz",
+  "download_time": "2025-10-03T13:27:12.516209",
+  "package_url": "https://pypi.org/project/napatrackmater/"
+}

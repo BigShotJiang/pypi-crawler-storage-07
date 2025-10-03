@@ -1,11 +1,11 @@
 {
   "name": "rxfoundry.clients.swifty_oauth_api",
-  "version": "0.0.841",
+  "version": "0.0.842",
   "summary": "Swifty OAuth API",
   "author": "RxFoundry Team",
   "license": "NoLicense",
   "home_page": "https://github.com/GIT_USER_ID/GIT_REPO_ID",
-  "download_filename": "rxfoundry_clients_swifty_oauth_api-0.0.841.tar.gz",
-  "download_time": "2025-10-03T13:01:53.490659",
+  "download_filename": "rxfoundry_clients_swifty_oauth_api-0.0.842.tar.gz",
+  "download_time": "2025-10-03T13:27:22.532114",
   "package_url": "https://pypi.org/project/rxfoundry.clients.swifty_oauth_api/"
 }

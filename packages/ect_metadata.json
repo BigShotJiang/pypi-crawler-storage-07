@@ -1,0 +1,11 @@
+{
+  "name": "ect",
+  "version": "1.2.2",
+  "summary": "A python package for computing the Euler Characteristic Transform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ect-1.2.2.tar.gz",
+  "download_time": "2025-10-03T13:27:15.644080",
+  "package_url": "https://pypi.org/project/ect/"
+}

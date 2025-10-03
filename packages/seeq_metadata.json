@@ -1,11 +1,11 @@
 {
   "name": "seeq",
-  "version": "66.59.2.20251001",
+  "version": "66.60.0.20251003",
   "summary": "The Seeq SDK for Python",
   "author": "Seeq Corporation",
   "license": null,
   "home_page": "https://www.seeq.com",
-  "download_filename": "seeq-66.59.2.20251001.tar.gz",
-  "download_time": "2025-10-01T13:52:15.029310",
+  "download_filename": "seeq-66.60.0.20251003.tar.gz",
+  "download_time": "2025-10-03T13:27:13.045358",
   "package_url": "https://pypi.org/project/seeq/"
 }

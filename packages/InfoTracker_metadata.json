@@ -1,11 +1,11 @@
 {
   "name": "InfoTracker",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "summary": "Column-level SQL lineage, impact analysis, and breaking-change detection (MS SQL first)",
   "author": "InfoTracker Authors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "infotracker-0.5.3.tar.gz",
-  "download_time": "2025-10-02T09:41:04.024377",
+  "download_filename": "infotracker-0.5.4.tar.gz",
+  "download_time": "2025-10-03T13:27:23.051672",
   "package_url": "https://pypi.org/project/InfoTracker/"
 }
