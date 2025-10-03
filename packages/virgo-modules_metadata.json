@@ -1,11 +1,11 @@
 {
   "name": "virgo-modules",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "data processing and statistical modeling using stock market data",
   "author": "Miguel Mayhuire",
   "license": "MIT",
   "home_page": "https://github.com/miguelmayhem92/virgo_module",
-  "download_filename": "virgo_modules-0.8.0.tar.gz",
-  "download_time": "2025-09-28T18:35:33.672661",
+  "download_filename": "virgo_modules-0.8.1.tar.gz",
+  "download_time": "2025-10-03T15:31:08.134990",
   "package_url": "https://pypi.org/project/virgo-modules/"
 }

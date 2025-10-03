@@ -1,11 +1,11 @@
 {
   "name": "sphinx-unpack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Automatically document variadic keyword arguments annotated with typed dicts via Unpack",
   "author": "Charles Tapley Hoyt",
   "license": null,
   "home_page": null,
-  "download_filename": "sphinx_unpack-0.0.1.tar.gz",
-  "download_time": "2025-10-03T15:12:46.322408",
+  "download_filename": "sphinx_unpack-0.0.2.tar.gz",
+  "download_time": "2025-10-03T15:30:58.086029",
   "package_url": "https://pypi.org/project/sphinx-unpack/"
 }

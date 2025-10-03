@@ -1,0 +1,11 @@
+{
+  "name": "fastdup",
+  "version": "2.40",
+  "summary": "FastDup Python 2 compatibility stub - shows version requirement error",
+  "author": "Dr. Danny Bickson & Dr. Amir Alush",
+  "license": "Non commercial",
+  "home_page": "https://github.com/visualdatabase/fastdup",
+  "download_filename": "fastdup-2.40-py2-none-any.whl",
+  "download_time": "2025-10-03T15:30:51.193789",
+  "package_url": "https://pypi.org/project/fastdup/"
+}

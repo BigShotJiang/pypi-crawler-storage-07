@@ -1,0 +1,11 @@
+{
+  "name": "trelby",
+  "version": "2.4.16.1",
+  "summary": "Free, multiplatform, feature-rich screenwriting program",
+  "author": "Osku Salerma",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://www.trelby.org",
+  "download_filename": "trelby-2.4.16.1.tar.gz",
+  "download_time": "2025-10-03T15:30:47.455073",
+  "package_url": "https://pypi.org/project/trelby/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "backtracking-llm",
+  "version": "0.2.0",
+  "summary": "Library for running inference on large language models with the ability to remove generated tokens.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "backtracking_llm-0.2.0.tar.gz",
+  "download_time": "2025-10-03T15:31:10.769736",
+  "package_url": "https://pypi.org/project/backtracking-llm/"
+}
