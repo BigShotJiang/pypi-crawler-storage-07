@@ -1,11 +1,11 @@
 {
   "name": "nbprune",
-  "version": "0.5.1",
+  "version": "0.5.3",
   "summary": "With this tool, one can define pieces of a notebook that belong to teachers and should not be exposed to students.",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "nbprune-0.5.1.tar.gz",
-  "download_time": "2025-10-01T10:35:29.467631",
+  "download_filename": "nbprune-0.5.3.tar.gz",
+  "download_time": "2025-10-03T10:49:00.465544",
   "package_url": "https://pypi.org/project/nbprune/"
 }

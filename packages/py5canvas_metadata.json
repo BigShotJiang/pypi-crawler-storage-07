@@ -1,11 +1,11 @@
 {
   "name": "py5canvas",
-  "version": "0.99",
+  "version": "1.0",
   "summary": "Drawings and animations with a p5.js / Processing-like API.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "py5canvas-0.99.tar.gz",
-  "download_time": "2025-10-01T21:35:46.787641",
+  "download_filename": "py5canvas-1.0.tar.gz",
+  "download_time": "2025-10-03T10:49:02.031966",
   "package_url": "https://pypi.org/project/py5canvas/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "simple-api-mock-server",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "A simple, file-based API mocking server.",
   "author": "Sanat Ladkat",
   "license": null,
   "home_page": "https://github.com/sanatladkat/simple-api-mock-server",
-  "download_filename": "simple-api-mock-server-0.3.2.tar.gz",
-  "download_time": "2025-10-03T10:13:30.175561",
+  "download_filename": "simple-api-mock-server-0.3.3.tar.gz",
+  "download_time": "2025-10-03T10:49:27.194856",
   "package_url": "https://pypi.org/project/simple-api-mock-server/"
 }

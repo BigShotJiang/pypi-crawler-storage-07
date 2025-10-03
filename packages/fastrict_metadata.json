@@ -1,11 +1,11 @@
 {
   "name": "fastrict",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "summary": "A comprehensive rate limiting system for FastAPI with Redis backend",
   "author": "Mohammad Mahdi Samei",
   "license": "MIT",
   "home_page": "https://github.com/msameim181/fastrict",
-  "download_filename": "fastrict-0.0.3.tar.gz",
-  "download_time": "2025-10-02T20:32:54.926350",
+  "download_filename": "fastrict-0.1.0.tar.gz",
+  "download_time": "2025-10-03T10:49:08.851714",
   "package_url": "https://pypi.org/project/fastrict/"
 }

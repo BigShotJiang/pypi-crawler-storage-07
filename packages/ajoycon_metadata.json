@@ -1,0 +1,11 @@
+{
+  "name": "ajoycon",
+  "version": "1.0.0",
+  "summary": "Modern async Python driver for Nintendo Switch Joy-Con",
+  "author": "Technoculture Research",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ajoycon-1.0.0.tar.gz",
+  "download_time": "2025-10-03T10:49:25.648539",
+  "package_url": "https://pypi.org/project/ajoycon/"
+}

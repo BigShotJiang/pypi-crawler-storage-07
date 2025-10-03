@@ -1,0 +1,11 @@
+{
+  "name": "fluvialgen",
+  "version": "1.0.0",
+  "summary": "A Python package for generating synthetic river networks and datasets",
+  "author": "Jose Enrique Ruiz Navarro",
+  "license": null,
+  "home_page": "https://github.com/joseenriqueruiznavarro/FluvialGen",
+  "download_filename": "fluvialgen-1.0.0.tar.gz",
+  "download_time": "2025-10-03T10:48:56.171146",
+  "package_url": "https://pypi.org/project/fluvialgen/"
+}

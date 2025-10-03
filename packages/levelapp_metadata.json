@@ -1,0 +1,11 @@
+{
+  "name": "levelapp",
+  "version": "0.1.1",
+  "summary": "LevelApp is an evaluation framework for AI/LLM-based software application. [Powered by Norma]",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "levelapp-0.1.1.tar.gz",
+  "download_time": "2025-10-03T10:49:33.437883",
+  "package_url": "https://pypi.org/project/levelapp/"
+}
