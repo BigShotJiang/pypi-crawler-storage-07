@@ -1,11 +1,11 @@
 {
   "name": "clai",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "summary": "Pydantic AI CLI: command line interface to chat to LLMs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clai-1.0.13.tar.gz",
-  "download_time": "2025-10-02T03:39:28.735965",
+  "download_filename": "clai-1.0.14.tar.gz",
+  "download_time": "2025-10-03T00:06:32.374577",
   "package_url": "https://pypi.org/project/clai/"
 }

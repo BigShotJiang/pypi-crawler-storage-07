@@ -1,11 +1,11 @@
 {
   "name": "runloop_api_client",
-  "version": "0.62.0",
+  "version": "0.63.0",
   "summary": "The official Python library for the runloop API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "runloop_api_client-0.62.0.tar.gz",
-  "download_time": "2025-10-01T22:11:02.735625",
+  "download_filename": "runloop_api_client-0.63.0.tar.gz",
+  "download_time": "2025-10-03T00:06:43.725693",
   "package_url": "https://pypi.org/project/runloop_api_client/"
 }

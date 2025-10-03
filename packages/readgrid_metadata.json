@@ -1,11 +1,11 @@
 {
   "name": "readgrid",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "A document layout pipeline for detecting tables, images, and structured extraction.",
   "author": "David Jeremiah",
   "license": "MIT",
   "home_page": "https://github.com/davidkjeremiah/readgrid",
-  "download_filename": "readgrid-0.1.7.tar.gz",
-  "download_time": "2025-09-29T13:51:40.047508",
+  "download_filename": "readgrid-0.1.9.tar.gz",
+  "download_time": "2025-10-03T00:06:26.745110",
   "package_url": "https://pypi.org/project/readgrid/"
 }

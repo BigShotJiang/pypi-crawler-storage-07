@@ -1,11 +1,72 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-02T23:35:39.353864
-- **Total Packages**: 84
-- **Total Size**: 10.02 MB
+- **Download Time**: 2025-10-03T00:07:22.305525
+- **Total Packages**: 87
+- **Total Size**: 15.38 MB
 
 ## Packages List
+- readgrid
+- modelswrkpi
+- func-validator
+- cucu
+- pydantic-graph
+- pydantic-evals
+- pydantic-ai-slim
+- pydantic-ai-examples
+- pydantic-ai
+- clai
+- dasein-core
+- mkdocs-asciidoctor-backend
+- pdf-to-md-llm
+- orbnet
+- langchain-aws
+- dbbasic-pipe
+- omserv
+- ommlds
+- omlish
+- omlish-cext
+- ominfra
+- omextra
+- omdev
+- omdev-cli
+- omdev-cext
+- shipit-cli
+- plexmix
+- runloop_api_client
+- devsecops-engine-tools
+- mkds
+- ntmemoryapi
+- pipeline-eds
+- energyml-utils
+- vsthost
+- synth-ai
+- policyengine-api-simulation-client
+- policyengine-api-full-client
+- hotlog
+- mkdocs-include-stubs-plugin
+- authentik-client
+- ibm-watsonx-data-intelligence-mcp-server
+- moose-lib
+- nitypes
+- egglog
+- metaport-agent-python
+- fpy2
+- sqlmesh
+- django-nh3
+- odoo-addon-l10n-br-account-payment-order
+- odoo-addon-l10n-br-account-payment-brcobranca
+- mchat-core
+- DynamicRoutingTask
+- aind-behavior-curriculum
+- pulumi-cloudflare
+- davidkhala.data.frame
+- py-me
+- mlcflow
+- langchain-qdrant
+- xarray-beam
+- base-loom-server
+- coloredstrings
 - nv-ingest
 - peti007link
 - nv-ingest-client
@@ -24,9 +85,7 @@
 - owasp-schema
 - langchain-nomic
 - sik-llms
-- authentik-client
 - oaxaca
-- coloredstrings
 - imgen-cli
 - mara-client
 - otpylib-config
@@ -34,59 +93,3 @@
 - langchain-groq
 - mac-messages-mcp-fastmcp
 - django-mqtt-bridge
-- machineconfig
-- frameio-experimental
-- truss
-- palabra-ai
-- langchain-deepseek
-- ibm-watsonx-data-intelligence-mcp-server
-- goodmem-client
-- indexify
-- langchain-chroma
-- mysingle-quant
-- langchain-exa
-- langchain-cli
-- morphcloud
-- pipeline-eds
-- agentex-sdk
-- rxfoundry.clients.swifty_api
-- rxfoundry.clients.swifty_oauth_api
-- req-update-check
-- llamactl
-- llama-deploy-core
-- llama-deploy-appserver
-- nothing-less
-- cb-events
-- odoo-addon-l10n-br-account-nfe
-- v440
-- opentrons-http-api-client
-- connectonion
-- bigwig-io
-- turbopdf
-- benchling-api-client
-- checkdmarc
-- uagents-composio-adapter
-- lsdb
-- ubicoders-vrobots-ipc
-- flwr-nightly
-- formatting-library
-- pros-cli
-- wayflowcore
-- cdk-s3-vectors
-- MAVez
-- dhisana
-- kumo-api
-- lbt-dragonfly
-- dragonfly-radiance
-- modal
-- dragonfly-energy
-- darknet2any
-- workstack
-- tissuelab-sdk
-- airbyte
-- dtpyfw
-- mieltocore
-- cirq-web
-- cirq-google
-- cirq-pasqal
-- cirq-core
