@@ -1,11 +1,11 @@
 {
   "name": "files-com-mcp",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "summary": "MCP for the Files.com API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "files_com_mcp-1.0.21.tar.gz",
-  "download_time": "2025-10-03T22:24:37.746561",
+  "download_filename": "files_com_mcp-1.0.22.tar.gz",
+  "download_time": "2025-10-03T22:39:43.792866",
   "package_url": "https://pypi.org/project/files-com-mcp/"
 }

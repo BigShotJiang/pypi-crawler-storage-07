@@ -1,17 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-03T22:32:54.984069
-- **Total Packages**: 85
-- **Total Size**: 4.36 MB
+- **Download Time**: 2025-10-03T22:40:09.804801
+- **Total Packages**: 89
+- **Total Size**: 13.04 MB
 
 ## Packages List
+- edc-qol
+- easier-openai
+- pulumi-fastly
+- pulumi-docker
+- ltts
+- files-com
+- octodns-desec
+- hkjc
+- code-rag-agent
+- cb-events
+- orb-billing
+- servicenow-api
+- authentik-client
+- pulumi-digitalocean
+- fan-manager
+- tunnel-manager
+- vector-mcp
+- telescope-cortex
+- ofrak-type
+- wheel-getter
+- ofrak-patch-maker
+- ofrak-io
+- ofrak-capstone
+- ofrak-angr
+- gitlab-api
+- systems-manager
+- fal
+- media-downloader
+- audio-transcriber
+- deribit-trading-sdk
+- bounce-desktop
+- quilt-mcp
+- repository-manager
+- container-manager-mcp
+- ofrak
+- ansible-tower-mcp
+- toolplot
+- pulumi-f5bigip
+- kalibr
+- files-com-mcp
+- nheri-simcenter
 - pulumi-external
 - quantconnect-stubs
 - code-puppy
 - vellum-workflow-server
 - pulumi-databricks
-- cb-events
 - bookwyrm
 - terminator-py
 - goodgleif
@@ -25,7 +65,6 @@
 - argos3
 - pulumi-dnsimple
 - fennec-ml
-- authentik-client
 - pyXLMS
 - mcp-server-things
 - agent-starter-pack
@@ -40,12 +79,10 @@
 - deadline-cloud-test-fixtures
 - postgres-mcp-enhanced
 - django-spire
-- files-com-mcp
 - pulumi-consul
 - axis-vapix
 - djaodjin-signup
 - pulumi-confluentcloud
-- easier-openai
 - vulnguard
 - dasein-core
 - Blinter
@@ -58,36 +95,3 @@
 - TEsimVar
 - jleechanorg-pr-automation
 - viu-chem
-- modelswrkpi
-- pulumi-cloudamqp
-- pulumi-azuread
-- nado-protocol
-- imgen-cli
-- pulumi-alicloud
-- coq-tools
-- cq-stanza
-- pulumi-azuredevops
-- GeneralManager
-- kfactory
-- finlight-client
-- databricks-labs-ucx
-- mcp-proxy-adapter
-- satcat
-- aegis-game
-- justllms
-- openc3
-- rugo
-- session-mgmt-mcp
-- servextools
-- zeroproof
-- pulumi-auth0
-- databricks-labs-lakebridge
-- pulumi-artifactory
-- toolos
-- tobiko-cloud-pydantic
-- tobiko-cloud-api-client
-- tobiko-cloud-helpers
-- maleo-managers
-- daktronics
-- crackerjack
-- schemathesis

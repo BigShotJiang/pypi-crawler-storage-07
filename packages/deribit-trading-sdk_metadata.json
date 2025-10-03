@@ -1,0 +1,11 @@
+{
+  "name": "deribit-trading-sdk",
+  "version": "0.1.7",
+  "summary": "The unofficial Deribit API SDK, by Tribulnation. Compatible with Trading SDK.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deribit_trading_sdk-0.1.7.tar.gz",
+  "download_time": "2025-10-03T22:39:38.604660",
+  "package_url": "https://pypi.org/project/deribit-trading-sdk/"
+}

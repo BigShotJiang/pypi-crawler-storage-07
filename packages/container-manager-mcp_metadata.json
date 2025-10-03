@@ -1,11 +1,11 @@
 {
   "name": "container-manager-mcp",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "summary": "Container Manager manage Docker, Docker Swarm, and Podman containers as an MCP Server",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "container_manager_mcp-1.1.4.tar.gz",
-  "download_time": "2025-10-03T06:45:36.210382",
+  "download_filename": "container_manager_mcp-1.1.5.tar.gz",
+  "download_time": "2025-10-03T22:39:40.695891",
   "package_url": "https://pypi.org/project/container-manager-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "octodns-desec",
+  "version": "1.1.0",
+  "summary": "deSEC.io provider for octoDNS",
+  "author": "TilCreator and blackdotraven",
+  "license": "MIT",
+  "home_page": "https://github.com/rootshell-labs/octodns-desec",
+  "download_filename": "octodns_desec-1.1.0.tar.gz",
+  "download_time": "2025-10-03T22:39:26.694772",
+  "package_url": "https://pypi.org/project/octodns-desec/"
+}

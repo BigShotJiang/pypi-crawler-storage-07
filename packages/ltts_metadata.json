@@ -1,11 +1,11 @@
 {
   "name": "ltts",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "summary": "Text-to-speech CLI using Kokoro TTS",
   "author": "Frank Chiarulli Jr.",
   "license": null,
   "home_page": null,
-  "download_filename": "ltts-0.2.8.tar.gz",
-  "download_time": "2025-10-03T05:12:45.613377",
+  "download_filename": "ltts-0.2.9.tar.gz",
+  "download_time": "2025-10-03T22:39:25.567900",
   "package_url": "https://pypi.org/project/ltts/"
 }

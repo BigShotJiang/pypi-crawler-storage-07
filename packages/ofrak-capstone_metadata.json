@@ -1,0 +1,11 @@
+{
+  "name": "ofrak-capstone",
+  "version": "1.1.0",
+  "summary": null,
+  "author": "Red Balloon Security",
+  "license": "Proprietary",
+  "home_page": "https://ofrak.com/",
+  "download_filename": "ofrak_capstone-1.1.0.tar.gz",
+  "download_time": "2025-10-03T22:39:34.991901",
+  "package_url": "https://pypi.org/project/ofrak-capstone/"
+}
