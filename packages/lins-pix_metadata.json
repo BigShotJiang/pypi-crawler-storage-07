@@ -1,0 +1,11 @@
+{
+  "name": "lins-pix",
+  "version": "2.0.8",
+  "summary": "Pacote para gerenciar transacoes PIX",
+  "author": "Grupo Lins Ferrão",
+  "license": "MIT",
+  "home_page": "https://bitbucket.org/grupolinsferrao/pypck-lins-pix/",
+  "download_filename": "lins_pix-2.0.8.tar.gz",
+  "download_time": "2025-10-03T16:37:04.097060",
+  "package_url": "https://pypi.org/project/lins-pix/"
+}

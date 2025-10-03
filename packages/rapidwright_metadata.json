@@ -1,0 +1,11 @@
+{
+  "name": "rapidwright",
+  "version": "2025.1.3",
+  "summary": "Xilinx RapidWright Framework Wrapped for Python.",
+  "author": "Chris Lavin",
+  "license": "Apache 2.0 and Others",
+  "home_page": "https://github.com/Xilinx/RapidWright",
+  "download_filename": "rapidwright-2025.1.3.tar.gz",
+  "download_time": "2025-10-03T16:37:11.997833",
+  "package_url": "https://pypi.org/project/rapidwright/"
+}

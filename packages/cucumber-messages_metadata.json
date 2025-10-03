@@ -1,0 +1,11 @@
+{
+  "name": "cucumber-messages",
+  "version": "30.0.0",
+  "summary": "Cucumber Messages is a message protocol for representing results and other information from Cucumber. ",
+  "author": "Cucumber Limited",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cucumber_messages-30.0.0.tar.gz",
+  "download_time": "2025-10-03T16:37:05.707204",
+  "package_url": "https://pypi.org/project/cucumber-messages/"
+}

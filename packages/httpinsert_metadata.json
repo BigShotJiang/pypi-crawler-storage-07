@@ -1,11 +1,11 @@
 {
   "name": "httpinsert",
-  "version": "3.2.3",
+  "version": "3.2.4",
   "summary": "HTTPInsert - Inserting payloads into all sections of HTTP requests",
   "author": "William Kristoffersen",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "httpinsert-3.2.3.tar.gz",
-  "download_time": "2025-10-02T10:49:09.074767",
+  "download_filename": "httpinsert-3.2.4.tar.gz",
+  "download_time": "2025-10-03T16:37:14.636408",
   "package_url": "https://pypi.org/project/httpinsert/"
 }

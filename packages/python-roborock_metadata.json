@@ -1,11 +1,11 @@
 {
   "name": "python-roborock",
-  "version": "2.50.2",
+  "version": "2.50.3",
   "summary": "A package to control Roborock vacuums.",
   "author": "humbertogontijo",
   "license": "GPL-3.0-only",
   "home_page": "https://github.com/humbertogontijo/python-roborock",
-  "download_filename": "python_roborock-2.50.2.tar.gz",
-  "download_time": "2025-10-03T14:32:57.167363",
+  "download_filename": "python_roborock-2.50.3.tar.gz",
+  "download_time": "2025-10-03T16:37:12.526062",
   "package_url": "https://pypi.org/project/python-roborock/"
 }

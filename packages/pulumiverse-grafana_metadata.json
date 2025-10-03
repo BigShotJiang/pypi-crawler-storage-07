@@ -1,11 +1,11 @@
 {
   "name": "pulumiverse-grafana",
-  "version": "2.9.0",
+  "version": "2.10.0",
   "summary": "A Pulumi package for creating and managing grafana.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pulumiverse_grafana-2.9.0.tar.gz",
-  "download_time": "2025-10-03T16:14:07.562658",
+  "download_filename": "pulumiverse_grafana-2.10.0.tar.gz",
+  "download_time": "2025-10-03T16:37:38.307420",
   "package_url": "https://pypi.org/project/pulumiverse-grafana/"
 }
