@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-fieldservice-agreement",
-  "version": "18.0.2.0.0.1",
+  "version": "18.0.2.0.0.2",
   "summary": "Manage Field Service agreements and contracts",
   "author": "Open Source Integrators, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/field-service",
-  "download_filename": "odoo_addon_fieldservice_agreement-18.0.2.0.0.1-py3-none-any.whl",
-  "download_time": "2025-10-02T03:07:04.998857",
+  "download_filename": "odoo_addon_fieldservice_agreement-18.0.2.0.0.2-py3-none-any.whl",
+  "download_time": "2025-10-03T03:05:32.828377",
   "package_url": "https://pypi.org/project/odoo-addon-fieldservice-agreement/"
 }

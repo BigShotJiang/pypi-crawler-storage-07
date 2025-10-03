@@ -1,0 +1,11 @@
+{
+  "name": "xlsx-mcp-server",
+  "version": "0.1.1",
+  "summary": "一个基于 FastMCP 和 Openpyxl 实现的 Excel MCP 服务器，提供了一系列操作 Excel 文件的工具，可以被 LLM 应用程序调用。",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xlsx_mcp_server-0.1.1-py3-none-any.whl",
+  "download_time": "2025-10-03T03:05:24.833444",
+  "package_url": "https://pypi.org/project/xlsx-mcp-server/"
+}

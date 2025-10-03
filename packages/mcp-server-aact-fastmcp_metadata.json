@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-aact-fastmcp",
+  "version": "0.4.1",
+  "summary": "MCP server for AACT clinical trials database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_aact_fastmcp-0.4.1.tar.gz",
+  "download_time": "2025-10-03T03:06:03.131673",
+  "package_url": "https://pypi.org/project/mcp-server-aact-fastmcp/"
+}
