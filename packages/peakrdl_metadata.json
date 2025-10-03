@@ -1,0 +1,11 @@
+{
+  "name": "peakrdl",
+  "version": "1.5.0",
+  "summary": "Toolchain for control/status register automation and code generation.",
+  "author": "Alex Mykyta",
+  "license": "LGPLv3",
+  "home_page": null,
+  "download_filename": "peakrdl-1.5.0.tar.gz",
+  "download_time": "2025-10-03T04:34:51.756404",
+  "package_url": "https://pypi.org/project/peakrdl/"
+}
