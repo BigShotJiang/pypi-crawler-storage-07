@@ -1,0 +1,11 @@
+{
+  "name": "piservod",
+  "version": "0.1.2",
+  "summary": "Python bindings for piservod - software PWM daemon for controlling servos on Raspberry Pi",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "piservod-0.1.2.tar.gz",
+  "download_time": "2025-10-03T10:13:44.061154",
+  "package_url": "https://pypi.org/project/piservod/"
+}

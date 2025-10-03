@@ -1,11 +1,11 @@
 {
   "name": "eorcalc",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "GPU-accelerated reionization field calculator with power spectrum analysis for the Epoch of Reionization",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eorcalc-0.1.1.tar.gz",
-  "download_time": "2025-10-02T15:31:51.819365",
+  "download_filename": "eorcalc-0.1.2.tar.gz",
+  "download_time": "2025-10-03T10:13:37.848499",
   "package_url": "https://pypi.org/project/eorcalc/"
 }
