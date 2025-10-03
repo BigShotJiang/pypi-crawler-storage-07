@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-base-custom-info",
+  "version": "15.0.1.0.0.10",
+  "summary": "Add custom field in models",
+  "author": "Tecnativa,Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/server-tools",
+  "download_filename": "odoo_addon_base_custom_info-15.0.1.0.0.10-py3-none-any.whl",
+  "download_time": "2025-10-03T04:14:38.372003",
+  "package_url": "https://pypi.org/project/odoo-addon-base-custom-info/"
+}

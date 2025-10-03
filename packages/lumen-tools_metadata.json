@@ -1,0 +1,11 @@
+{
+  "name": "lumen-tools",
+  "version": "1.0.8",
+  "summary": "Lumen's Python SDK enables seamless integration of Google services.",
+  "author": "Marco",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lumen_tools-1.0.8.tar.gz",
+  "download_time": "2025-10-03T04:14:22.301072",
+  "package_url": "https://pypi.org/project/lumen-tools/"
+}

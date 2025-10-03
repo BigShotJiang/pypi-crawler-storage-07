@@ -1,0 +1,11 @@
+{
+  "name": "applydir",
+  "version": "0.3.0",
+  "summary": "Utility to apply changes to files based on AI-generated recommendations.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "applydir-0.3.0.tar.gz",
+  "download_time": "2025-10-03T04:14:17.079178",
+  "package_url": "https://pypi.org/project/applydir/"
+}

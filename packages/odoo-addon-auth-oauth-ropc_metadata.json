@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-auth-oauth-ropc",
+  "version": "16.0.1.0.0.10",
+  "summary": "Allow to login with OAuth Resource Owner Password Credentials Grant",
+  "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-auth",
+  "download_filename": "odoo_addon_auth_oauth_ropc-16.0.1.0.0.10-py3-none-any.whl",
+  "download_time": "2025-10-03T04:14:44.538128",
+  "package_url": "https://pypi.org/project/odoo-addon-auth-oauth-ropc/"
+}

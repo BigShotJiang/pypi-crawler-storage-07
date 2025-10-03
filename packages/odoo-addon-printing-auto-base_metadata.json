@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-printing-auto-base",
-  "version": "18.0.1.2.0.1",
+  "version": "18.0.1.2.0.2",
   "summary": "Printing Auto Base",
   "author": "BCIM, MT Software, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/report-print-send",
-  "download_filename": "odoo_addon_printing_auto_base-18.0.1.2.0.1-py3-none-any.whl",
-  "download_time": "2025-09-30T03:39:39.139607",
+  "download_filename": "odoo_addon_printing_auto_base-18.0.1.2.0.2-py3-none-any.whl",
+  "download_time": "2025-10-03T04:14:53.819165",
   "package_url": "https://pypi.org/project/odoo-addon-printing-auto-base/"
 }

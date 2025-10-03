@@ -1,11 +1,11 @@
 {
   "name": "fclogr",
-  "version": "0.11.0",
+  "version": "0.13.0",
   "summary": "fclogr is a tool for managing RPM changelogs and updates",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fclogr-0.11.0.tar.gz",
-  "download_time": "2025-10-03T02:13:41.460982",
+  "download_filename": "fclogr-0.13.0.tar.gz",
+  "download_time": "2025-10-03T04:14:23.838520",
   "package_url": "https://pypi.org/project/fclogr/"
 }
