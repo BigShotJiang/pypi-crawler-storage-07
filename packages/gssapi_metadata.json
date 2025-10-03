@@ -1,0 +1,11 @@
+{
+  "name": "gssapi",
+  "version": "1.10.1",
+  "summary": "Python GSSAPI Wrapper",
+  "author": "The Python GSSAPI Team",
+  "license": "ISC",
+  "home_page": "https://github.com/pythongssapi/python-gssapi",
+  "download_filename": "gssapi-1.10.1.tar.gz",
+  "download_time": "2025-10-03T03:39:28.241930",
+  "package_url": "https://pypi.org/project/gssapi/"
+}

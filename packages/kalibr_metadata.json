@@ -1,11 +1,11 @@
 {
   "name": "kalibr",
-  "version": "0.1.15",
-  "summary": "Kalibr SDK – expose once, run everywhere (GPT, Claude, MCP)",
-  "author": null,
+  "version": "0.1.16",
+  "summary": "Kalibr SDK Demo",
+  "author": "Devon Kelley",
   "license": null,
   "home_page": null,
-  "download_filename": "kalibr-0.1.15.tar.gz",
-  "download_time": "2025-10-03T03:05:24.321106",
+  "download_filename": "kalibr-0.1.16.tar.gz",
+  "download_time": "2025-10-03T03:39:25.645666",
   "package_url": "https://pypi.org/project/kalibr/"
 }

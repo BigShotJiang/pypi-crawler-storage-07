@@ -1,0 +1,11 @@
+{
+  "name": "altimate-datapilot-cli",
+  "version": "0.0.25",
+  "summary": "Assistant for Data Teams",
+  "author": "Altimate Inc",
+  "license": "MIT",
+  "home_page": "https://github.com/AltimateAI/datapilot-cli",
+  "download_filename": "altimate-datapilot-cli-0.0.25.tar.gz",
+  "download_time": "2025-10-03T03:39:22.049337",
+  "package_url": "https://pypi.org/project/altimate-datapilot-cli/"
+}

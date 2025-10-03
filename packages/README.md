@@ -1,19 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-03T03:06:04.687623
-- **Total Packages**: 75
-- **Total Size**: 29.08 MB
+- **Download Time**: 2025-10-03T03:39:46.173434
+- **Total Packages**: 77
+- **Total Size**: 16.75 MB
 
 ## Packages List
+- odoo-addon-purchase-stock-secondary-unit
+- odoo-addon-purchase-mto-owner
+- dynamic-temporal-models
+- tailestim
+- zenx
+- ndpolator
+- odoo-addon-project-task-creation-description-notification
+- centrex-trajectories
+- odoo-addon-product-variant-default-code
+- lbm_suite2p_python
+- prime
+- bcml-ai
+- odoo-addon-product-logistics-uom-net-weight
+- django-base16-admin
+- stdem
+- omnigpu
+- sdss-almanac
 - authentik-client
+- odoo-addon-partner-supplier-ref
+- h2ogpte
+- rf-inferno
+- wamu
+- jupyter-ai-router
+- keras-rs-nightly
+- telnyx
+- radboy
+- sensortower-mcp
+- GANDLF
+- odoo-addon-mgmtsystem-review-survey
+- bioguider
+- rxfoundry.clients.swifty_api
+- rxfoundry.clients.swifty_oauth_api
+- altimate-datapilot-cli
+- fred-oss
+- calcite
+- squawk-cli
+- elifetools
+- datadog-barracuda-secure-edge
+- fleet-python
 - kalibr
+- diffsinger-utau
+- odoo-addon-l10n-it-asset-management
+- chunky-files
+- shudaodao
+- gssapi
+- metaport-agent-python
+- telepact-cli
+- langsmith
+- telepact
 - xlsx-mcp-server
 - odoo-addon-l10n-br-fiscal
 - kaq-quant-common
 - odoo-addon-hr-holidays-natural-period
 - metametameta
-- zenx
 - nedo-vision-worker-core
 - pragmastat
 - djaploy
@@ -24,8 +70,6 @@
 - odoo-addon-helpdesk-mgmt-project-domain
 - zededa-edgeai-sdk
 - odoo-addon-fieldservice-agreement
-- dynamic-temporal-models
-- chunky-files
 - superturtle
 - hxy-lib
 - diffseek
@@ -35,49 +79,7 @@
 - odoo-addon-edi-account-oca
 - netbox-services
 - quebec
-- rxfoundry.clients.swifty_oauth_api
-- rxfoundry.clients.swifty_api
 - mimic-iv-analysis
 - brokle
-- calcite
 - odoo-addon-crm-lead-product
 - odoo-addon-crm-stage-multi-team
-- confido-atls
-- specklia
-- ecomp
-- test-juliano-image-processing
-- dino-temporal-lib-helper
-- naif-eop-high-prec
-- pycontrails
-- ltts
-- odoo-addon-account-reconcile-oca
-- odoo-addon-account-check-printing-report-base
-- highlighter-sdk
-- cqc-quam-state
-- tcg-research-desk
-- dasein-core
-- mkfst
-- ruleboost
-- ai-parrot
-- algorand-python
-- puyapy
-- mysingle-quant
-- code-index-mcp
-- yycore009
-- odoo-addon-account-financial-report
-- django-reverse-relationship
-- affinidi-tdk-auth-provider
-- smartsheet-tools
-- metaport-agent-python
-- brain-sdk
-- PressProof
-- pyAgrum-nightly
-- vercel-cli
-- mock-spark
-- fleet-python
-- jbag
-- ncuhep
-- foreman-mcp-server
-- mcp-server-aact-fastmcp
-- c2pa-python
-- nessie-py

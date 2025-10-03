@@ -1,0 +1,11 @@
+{
+  "name": "elifetools",
+  "version": "0.46.0",
+  "summary": "Tools for using article data in Python.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/elifesciences/elife-tools",
+  "download_filename": "elifetools-0.46.0.tar.gz",
+  "download_time": "2025-10-03T03:39:24.109797",
+  "package_url": "https://pypi.org/project/elifetools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wamu",
+  "version": "0.3.4",
+  "summary": "Utilities for working with Weights & Measures in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wamu-0.3.4.tar.gz",
+  "download_time": "2025-10-03T03:39:16.343248",
+  "package_url": "https://pypi.org/project/wamu/"
+}

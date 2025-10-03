@@ -1,0 +1,11 @@
+{
+  "name": "bcml-ai",
+  "version": "0.0.1",
+  "summary": "Example package: install as 'bcml-ai', import as 'bcml'.",
+  "author": null,
+  "license": "GNU Affero General Public License v3.0 (AGPL-3.0-only)\n        SPDX-License-Identifier: AGPL-3.0-only\n        \n        The full license text should be placed here. If this placeholder was generated,\n        fetch the canonical text from https://www.gnu.org/licenses/agpl.txt and replace\n        this file's contents.",
+  "home_page": null,
+  "download_filename": "bcml_ai-0.0.1.tar.gz",
+  "download_time": "2025-10-03T03:39:11.164004",
+  "package_url": "https://pypi.org/project/bcml-ai/"
+}
