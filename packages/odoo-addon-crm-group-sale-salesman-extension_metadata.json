@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-crm-group-sale-salesman-extension",
+  "version": "18.0.1.0.0",
+  "summary": "CRM Group Sale Salesman Extension",
+  "author": "Sygel, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/sygel-technology/sy-crm",
+  "download_filename": "odoo_addon_crm_group_sale_salesman_extension-18.0.1.0.0-py3-none-any.whl",
+  "download_time": "2025-10-03T07:37:11.259004",
+  "package_url": "https://pypi.org/project/odoo-addon-crm-group-sale-salesman-extension/"
+}

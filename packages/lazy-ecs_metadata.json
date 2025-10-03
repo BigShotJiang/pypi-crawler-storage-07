@@ -1,11 +1,11 @@
 {
   "name": "lazy-ecs",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "summary": "A CLI tool for working with AWS services",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lazy_ecs-0.3.2.tar.gz",
-  "download_time": "2025-10-01T10:50:41.737702",
+  "download_filename": "lazy_ecs-0.4.0.tar.gz",
+  "download_time": "2025-10-03T07:37:12.826971",
   "package_url": "https://pypi.org/project/lazy-ecs/"
 }

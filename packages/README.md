@@ -1,18 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-03T07:29:44.438808
-- **Total Packages**: 94
-- **Total Size**: 16.65 MB
+- **Download Time**: 2025-10-03T07:37:52.815223
+- **Total Packages**: 89
+- **Total Size**: 2.35 MB
 
 ## Packages List
+- wildkcat
+- nvidia-safety-harness
+- authentik-client
+- pulumiverse-grafana
+- praasper
+- OpenGeodeWeb-Viewer
+- lsm-storage-engine-key-value-store
+- OpenGeodeWeb-Back
+- watermarklab
+- odoo-addon-crm-group-sale-salesman-extension
+- basis-splines
+- lazy-ecs
+- obj.mpp
+- twitwi
+- OpenGeodeWeb-Microservice
+- logger-36
+- hestia-earth-aggregation
+- hgraph
+- bool-hybrid-array
 - nedo-vision-worker-core
 - ffun
 - qweb
-- bse-option-chain
 - cogames
 - seatsio
-- authentik-client
 - sunscanpy
 - sdg-core-lib
 - assemblypy
@@ -64,13 +81,10 @@
 - fancylog
 - dockreg
 - maven-proxy
-- OpenGeodeWeb-Viewer
-- OpenGeodeWeb-Back
 - fastapi-router-viz
 - orq-ai-sdk
 - yagoutpay-sdk
 - nvidia-scicode
-- OpenGeodeWeb-Microservice
 - nvidia-livecodebench
 - radl
 - GooeyGUI-Python
@@ -81,22 +95,3 @@
 - prefect-datahub
 - acryl-datahub
 - te_quiz
-- wsapto
-- acryl-datahub-actions
-- nvidia-bfcl
-- acryl-datahub-dagster-plugin
-- nvidia-ifbench
-- acryl-datahub-gx-plugin
-- acryl-datahub-airflow-plugin
-- brewing
-- scc-firewall-manager-sdk
-- imagedata
-- habitat-sim-uv-wheels-experimental
-- nvidia-simple-evals
-- nvidia-tooltalk
-- zephy
-- bluer-sbc
-- nvidia-mtbench-evaluator
-- phanterpwa
-- HowdenPipeline
-- snippy-nextgen
