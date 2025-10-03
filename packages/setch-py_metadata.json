@@ -1,11 +1,11 @@
 {
   "name": "setch-py",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "Utility for retrieving system information on Linux",
   "author": "mentiferous",
   "license": null,
   "home_page": null,
-  "download_filename": "setch_py-1.0.6.tar.gz",
-  "download_time": "2025-10-03T14:51:36.789642",
+  "download_filename": "setch_py-1.0.7.tar.gz",
+  "download_time": "2025-10-03T15:12:53.326687",
   "package_url": "https://pypi.org/project/setch-py/"
 }

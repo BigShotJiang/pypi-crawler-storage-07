@@ -1,11 +1,11 @@
 {
   "name": "artifact-filesystem-store",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A tool for storing and retrieving artifacts to a local filesystem backend storage.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "artifact_filesystem_store-0.2.0-py3-none-any.whl",
-  "download_time": "2025-10-03T14:32:53.039436",
+  "download_filename": "artifact_filesystem_store-0.2.1-py3-none-any.whl",
+  "download_time": "2025-10-03T15:12:54.932863",
   "package_url": "https://pypi.org/project/artifact-filesystem-store/"
 }

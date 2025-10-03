@@ -1,0 +1,11 @@
+{
+  "name": "lightshap",
+  "version": "0.1.9",
+  "summary": "A lightweight SHAP library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lightshap-0.1.9.tar.gz",
+  "download_time": "2025-10-03T15:12:51.703428",
+  "package_url": "https://pypi.org/project/lightshap/"
+}

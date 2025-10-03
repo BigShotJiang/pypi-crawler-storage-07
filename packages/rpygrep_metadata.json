@@ -1,0 +1,11 @@
+{
+  "name": "rpygrep",
+  "version": "0.2.0",
+  "summary": "A Python wrapper for ripgrep",
+  "author": "Strawgate",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rpygrep-0.2.0.tar.gz",
+  "download_time": "2025-10-03T15:12:19.232470",
+  "package_url": "https://pypi.org/project/rpygrep/"
+}

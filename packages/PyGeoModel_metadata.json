@@ -1,11 +1,11 @@
 {
   "name": "PyGeoModel",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "An intelligent Python toolkit for geographic modeling with smart model recommendations",
   "author": "Your Name",
   "license": null,
   "home_page": "https://github.com/yourusername/PyGeoModel",
-  "download_filename": "pygeomodel-1.0.2.tar.gz",
-  "download_time": "2025-10-03T13:50:45.035435",
+  "download_filename": "pygeomodel-1.0.4.tar.gz",
+  "download_time": "2025-10-03T15:12:32.172319",
   "package_url": "https://pypi.org/project/PyGeoModel/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "PlayBaghChal",
+  "version": "2.0.0",
+  "summary": "A Pygame implementation of the Bagh-Chal (Tiger and Goat) board game.",
+  "author": "Bhishan Pangeni",
+  "license": null,
+  "home_page": "https://github.com/bhishanP/PlayBaghChal",
+  "download_filename": "playbaghchal-2.0.0.tar.gz",
+  "download_time": "2025-10-03T15:12:47.270226",
+  "package_url": "https://pypi.org/project/PlayBaghChal/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pytech-sqlalchemy-tools",
-  "version": "2.2.4",
+  "version": "2.2.5",
   "summary": "PyTech SQLAlchemy Tools Project",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytech_sqlalchemy_tools-2.2.4.tar.gz",
-  "download_time": "2025-10-03T14:45:05.919102",
+  "download_filename": "pytech_sqlalchemy_tools-2.2.5.tar.gz",
+  "download_time": "2025-10-03T15:12:50.588506",
   "package_url": "https://pypi.org/project/pytech-sqlalchemy-tools/"
 }
