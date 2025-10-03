@@ -1,11 +1,11 @@
 {
   "name": "nominal-api-protos",
-  "version": "0.941.0",
+  "version": "0.942.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nominal_api_protos-0.941.0.tar.gz",
-  "download_time": "2025-10-02T20:49:22.201404",
+  "download_filename": "nominal_api_protos-0.942.0.tar.gz",
+  "download_time": "2025-10-03T17:10:55.027924",
   "package_url": "https://pypi.org/project/nominal-api-protos/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "bear-django-query-profiler",
+  "version": "0.1.0",
+  "summary": "A simple Django middleware to log SQL queries during development.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bear_django_query_profiler-0.1.0.tar.gz",
+  "download_time": "2025-10-03T17:11:01.084239",
+  "package_url": "https://pypi.org/project/bear-django-query-profiler/"
+}

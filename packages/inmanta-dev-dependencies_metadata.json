@@ -1,0 +1,11 @@
+{
+  "name": "inmanta-dev-dependencies",
+  "version": "2.180.0",
+  "summary": "Package collecting all common dev dependencies of inmanta modules and extensions to synchronize dependency versions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "inmanta_dev_dependencies-2.180.0.tar.gz",
+  "download_time": "2025-10-03T17:11:07.379895",
+  "package_url": "https://pypi.org/project/inmanta-dev-dependencies/"
+}

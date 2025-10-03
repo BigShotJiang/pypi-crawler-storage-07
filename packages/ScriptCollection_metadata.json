@@ -1,11 +1,11 @@
 {
   "name": "ScriptCollection",
-  "version": "4.0.11",
+  "version": "4.0.12",
   "summary": "The ScriptCollection is the place for reusable scripts.",
   "author": "Marius Göcke",
   "license": null,
   "home_page": "https://github.com/anionDev/ScriptCollection",
-  "download_filename": "scriptcollection-4.0.11-py3-none-any.whl",
-  "download_time": "2025-10-03T15:12:34.398231",
+  "download_filename": "scriptcollection-4.0.12-py3-none-any.whl",
+  "download_time": "2025-10-03T17:10:52.785624",
   "package_url": "https://pypi.org/project/ScriptCollection/"
 }
