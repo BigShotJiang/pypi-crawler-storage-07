@@ -1,0 +1,11 @@
+{
+  "name": "dockreg",
+  "version": "1.5.0",
+  "summary": "Manage a local, private docker registry",
+  "author": "Murray Andrews",
+  "license": "3-Clause BSD License",
+  "home_page": "https://github.com/jin-gizmo/dockreg",
+  "download_filename": "dockreg-1.5.0.tar.gz",
+  "download_time": "2025-10-03T07:13:42.079177",
+  "package_url": "https://pypi.org/project/dockreg/"
+}

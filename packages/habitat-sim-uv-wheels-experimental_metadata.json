@@ -1,0 +1,11 @@
+{
+  "name": "habitat-sim-uv-wheels-experimental",
+  "version": "0.2.2",
+  "summary": "Experimental UV/pip-compatible wheel for habitat-sim (WSL2/Linux) - For TBP Monty",
+  "author": "killerapp (UV/WSL2 build) - Original: FAIR A-STAR",
+  "license": "MIT",
+  "home_page": "https://github.com/killerapp/habitat-sim",
+  "download_filename": "habitat_sim_uv_wheels_experimental-0.2.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2025-10-03T07:13:59.445949",
+  "package_url": "https://pypi.org/project/habitat-sim-uv-wheels-experimental/"
+}

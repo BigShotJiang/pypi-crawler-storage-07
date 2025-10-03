@@ -1,0 +1,11 @@
+{
+  "name": "yagoutpay-sdk",
+  "version": "0.1.0",
+  "summary": "YagoutPay Python SDK for secure payments",
+  "author": "Lidiya Alemayehu",
+  "license": null,
+  "home_page": "https://github.com/liladet/yagoutpay-sdk",
+  "download_filename": "yagoutpay_sdk-0.1.0.tar.gz",
+  "download_time": "2025-10-03T07:13:45.602460",
+  "package_url": "https://pypi.org/project/yagoutpay-sdk/"
+}
