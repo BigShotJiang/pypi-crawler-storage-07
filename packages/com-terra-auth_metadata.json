@@ -1,11 +1,11 @@
 {
   "name": "com-terra-auth",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Reusable authentication utility",
   "author": "Telephone.com",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "com_terra_auth-0.1.1.tar.gz",
-  "download_time": "2025-10-03T11:35:15.605463",
+  "download_filename": "com_terra_auth-0.1.2.tar.gz",
+  "download_time": "2025-10-03T12:21:13.534259",
   "package_url": "https://pypi.org/project/com-terra-auth/"
 }

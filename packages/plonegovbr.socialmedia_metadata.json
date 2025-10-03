@@ -1,11 +1,11 @@
 {
   "name": "plonegovbr.socialmedia",
-  "version": "2.0.0a9",
+  "version": "2.0.0a10",
   "summary": "Social media components for Plone and Volto",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plonegovbr_socialmedia-2.0.0a9.tar.gz",
-  "download_time": "2025-09-28T12:56:38.860186",
+  "download_filename": "plonegovbr_socialmedia-2.0.0a10.tar.gz",
+  "download_time": "2025-10-03T12:21:31.038924",
   "package_url": "https://pypi.org/project/plonegovbr.socialmedia/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cxxtea",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "cxxtea is a simple block cipher implemented in C",
   "author": "wood",
   "license": "BSD",
   "home_page": "https://github.com/Rin-Wood/cxxtea",
-  "download_filename": "cxxtea-1.0.6.tar.gz",
-  "download_time": "2025-10-03T11:49:38.532621",
+  "download_filename": "cxxtea-1.0.7.tar.gz",
+  "download_time": "2025-10-03T12:21:22.758949",
   "package_url": "https://pypi.org/project/cxxtea/"
 }

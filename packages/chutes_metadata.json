@@ -1,11 +1,11 @@
 {
   "name": "chutes",
-  "version": "0.3.34",
+  "version": "0.3.35",
   "summary": "Chutes development kit and CLI.",
   "author": "Jon Durbin",
   "license": null,
   "home_page": "https://github.com/rayonlabs/chutes",
-  "download_filename": "chutes-0.3.34-py3-none-any.whl",
-  "download_time": "2025-10-02T21:12:32.513470",
+  "download_filename": "chutes-0.3.35-py3-none-any.whl",
+  "download_time": "2025-10-03T12:21:32.181999",
   "package_url": "https://pypi.org/project/chutes/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "FunctionTraceHTML",
+  "version": "1.1",
+  "summary": "Trace Python functions into a color coded HTML log file.",
+  "author": "charlie-de-muis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "functiontracehtml-1.1.tar.gz",
+  "download_time": "2025-10-03T12:21:22.211120",
+  "package_url": "https://pypi.org/project/FunctionTraceHTML/"
+}

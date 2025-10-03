@@ -1,0 +1,11 @@
+{
+  "name": "kn-sock",
+  "version": "0.3.0",
+  "summary": "Modern Python networking library with comprehensive protocol support and developer-friendly APIs",
+  "author": "Khagendra Neupane",
+  "license": null,
+  "home_page": "https://github.com/KhagendraN/kn-sock",
+  "download_filename": "kn_sock-0.3.0.tar.gz",
+  "download_time": "2025-10-03T12:21:19.487163",
+  "package_url": "https://pypi.org/project/kn-sock/"
+}

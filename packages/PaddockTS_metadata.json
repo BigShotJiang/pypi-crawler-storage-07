@@ -1,0 +1,11 @@
+{
+  "name": "PaddockTS",
+  "version": "0.7.0",
+  "summary": "Vegetation fractional cover estimates via a TensorFlow-trained MLP model",
+  "author": "Borevitz Labs Australian National University",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "paddockts-0.7.0-py3-none-any.whl",
+  "download_time": "2025-10-03T12:21:42.988975",
+  "package_url": "https://pypi.org/project/PaddockTS/"
+}

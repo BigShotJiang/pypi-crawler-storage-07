@@ -1,0 +1,11 @@
+{
+  "name": "abacusai",
+  "version": "1.4.65",
+  "summary": "Abacus.AI Python Client Library",
+  "author": "Abacus.AI",
+  "license": "MIT",
+  "home_page": "https://github.com/abacusai/api-python",
+  "download_filename": "abacusai-1.4.65.tar.gz",
+  "download_time": "2025-10-03T12:21:35.938966",
+  "package_url": "https://pypi.org/project/abacusai/"
+}
