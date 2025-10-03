@@ -1,0 +1,11 @@
+{
+  "name": "robokop-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for ROBOKOP Knowledge Graph - query biomedical knowledge graph for nodes, edges, and relationships",
+  "author": "Chris Bizon",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "robokop_mcp-0.1.0.tar.gz",
+  "download_time": "2025-10-03T20:13:59.423088",
+  "package_url": "https://pypi.org/project/robokop-mcp/"
+}

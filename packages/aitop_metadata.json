@@ -1,0 +1,11 @@
+{
+  "name": "aitop",
+  "version": "0.10.1",
+  "summary": "A system monitor focused on AI/ML workload monitoring",
+  "author": "Alexander Warth",
+  "license": null,
+  "home_page": "https://gitlab.com/CochainComplex/aitop",
+  "download_filename": "aitop-0.10.1.tar.gz",
+  "download_time": "2025-10-03T20:13:51.718361",
+  "package_url": "https://pypi.org/project/aitop/"
+}

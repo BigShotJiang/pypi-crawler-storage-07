@@ -1,0 +1,11 @@
+{
+  "name": "pyofm-orion",
+  "version": "1.2.4",
+  "summary": "pyOFM: Python wrapper for OpenFOAM meshes",
+  "author": "MDO Lab",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/OpenOrion/pyofm",
+  "download_filename": "pyofm_orion-1.2.4.tar.gz",
+  "download_time": "2025-10-03T20:14:09.385076",
+  "package_url": "https://pypi.org/project/pyofm-orion/"
+}

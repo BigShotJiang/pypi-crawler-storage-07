@@ -1,11 +1,11 @@
 {
   "name": "tradinghours",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "TradingHours Library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tradinghours-0.5.0.tar.gz",
-  "download_time": "2025-09-29T14:48:37.897375",
+  "download_filename": "tradinghours-0.5.1.tar.gz",
+  "download_time": "2025-10-03T20:14:13.262860",
   "package_url": "https://pypi.org/project/tradinghours/"
 }

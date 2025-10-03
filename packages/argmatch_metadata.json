@@ -1,11 +1,11 @@
 {
   "name": "argmatch",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": null,
   "author": "Matt Gilene",
   "license": null,
   "home_page": null,
-  "download_filename": "argmatch-1.0.2.tar.gz",
-  "download_time": "2025-10-03T19:35:07.334952",
+  "download_filename": "argmatch-1.0.3.tar.gz",
+  "download_time": "2025-10-03T20:14:02.747029",
   "package_url": "https://pypi.org/project/argmatch/"
 }

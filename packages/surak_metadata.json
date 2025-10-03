@@ -1,0 +1,11 @@
+{
+  "name": "surak",
+  "version": "0.1.0",
+  "summary": "Universal Policy Engine for CI/CD - Build policy enforcement into your platform",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "surak-0.1.0.tar.gz",
+  "download_time": "2025-10-03T20:13:55.006875",
+  "package_url": "https://pypi.org/project/surak/"
+}
