@@ -1,11 +1,11 @@
 {
   "name": "evenet",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Training and inference entry points for the EveNet event processing model.",
   "author": "Yulei Zhang, Ting-Hsiang Hsu",
   "license": null,
   "home_page": null,
-  "download_filename": "evenet-0.1.1.tar.gz",
-  "download_time": "2025-10-03T14:45:10.604752",
+  "download_filename": "evenet-0.1.2.tar.gz",
+  "download_time": "2025-10-03T16:53:26.161840",
   "package_url": "https://pypi.org/project/evenet/"
 }

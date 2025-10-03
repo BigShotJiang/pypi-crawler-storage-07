@@ -1,0 +1,11 @@
+{
+  "name": "drppy-client",
+  "version": "4.15.2",
+  "summary": "Python Library to interact with the digitalrebar API.",
+  "author": null,
+  "license": null,
+  "home_page": "https://gitlab.com/rackn/drppy_client",
+  "download_filename": "drppy_client-4.15.2.tar.gz",
+  "download_time": "2025-10-03T16:53:28.389923",
+  "package_url": "https://pypi.org/project/drppy-client/"
+}

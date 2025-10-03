@@ -1,0 +1,11 @@
+{
+  "name": "scrapy-contrib-bigexporters",
+  "version": "0.6.0",
+  "summary": "Scrapy exporter for Big Data formats",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scrapy_contrib_bigexporters-0.6.0.tar.gz",
+  "download_time": "2025-10-03T16:53:05.801063",
+  "package_url": "https://pypi.org/project/scrapy-contrib-bigexporters/"
+}

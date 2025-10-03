@@ -1,11 +1,11 @@
 {
   "name": "CSVtoTableNameless",
-  "version": "3.0.1.2",
+  "version": "3.0.2.0",
   "summary": "Simple commandline utility to convert CSV files to searchable and sortable HTML table.",
   "author": "NanashiTheNameless",
   "license": null,
   "home_page": null,
-  "download_filename": "csvtotablenameless-3.0.1.2.tar.gz",
-  "download_time": "2025-09-28T06:39:05.141141",
+  "download_filename": "csvtotablenameless-3.0.2.0.tar.gz",
+  "download_time": "2025-10-03T16:53:11.735901",
   "package_url": "https://pypi.org/project/CSVtoTableNameless/"
 }

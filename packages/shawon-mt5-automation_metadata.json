@@ -1,11 +1,11 @@
 {
   "name": "shawon-mt5-automation",
-  "version": "0.1.3",
+  "version": "1.1.3",
   "summary": "A Flask webhook server to automate MetaTrader 5 trading based on TradingView signals with configurable settings and API key authentication.",
   "author": "Mahmudul Haque Shawon",
   "license": null,
   "home_page": "https://github.com/yourusername/mt5-webhook-trader",
-  "download_filename": "shawon_mt5_automation-0.1.3.tar.gz",
-  "download_time": "2025-10-03T16:37:09.892835",
+  "download_filename": "shawon_mt5_automation-1.1.3.tar.gz",
+  "download_time": "2025-10-03T16:53:23.291626",
   "package_url": "https://pypi.org/project/shawon-mt5-automation/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ap2",
+  "version": "0.1.1",
+  "summary": "Agent Payments Protocol (Python)",
+  "author": "whill",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ap2-0.1.1.tar.gz",
+  "download_time": "2025-10-03T16:53:27.842191",
+  "package_url": "https://pypi.org/project/ap2/"
+}

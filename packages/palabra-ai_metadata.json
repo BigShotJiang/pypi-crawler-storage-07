@@ -1,11 +1,11 @@
 {
   "name": "palabra-ai",
-  "version": "0.5.9",
+  "version": "0.5.10",
   "summary": "Client library for Palabra AI's real-time speech translation, dubbing, and voice synthesis APIs across 25+ languages.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "palabra_ai-0.5.9.tar.gz",
-  "download_time": "2025-10-03T15:12:37.687352",
+  "download_filename": "palabra_ai-0.5.10-py3-none-any.whl",
+  "download_time": "2025-10-03T16:53:08.928158",
   "package_url": "https://pypi.org/project/palabra-ai/"
 }
