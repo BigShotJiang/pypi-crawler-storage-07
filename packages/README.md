@@ -1,11 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-03T21:15:11.046186
-- **Total Packages**: 83
-- **Total Size**: 5.96 MB
+- **Download Time**: 2025-10-03T21:27:25.891800
+- **Total Packages**: 82
+- **Total Size**: 16.21 MB
 
 ## Packages List
+- openfinops
+- simplini
+- hkjc
+- Pure-Python-Geospatial-Export
+- ibm-watsonx-data-intelligence-mcp-server
+- authentik-client
+- sqlmesh
+- fastled
+- oneforall-gui
+- odoo-connect
+- foxypack
+- jatsgenerator
+- osteoid
+- sourcemeta-jsonschema
+- tcheckerpy
+- context-local-server
+- fal
+- transcribe-with-whisper
+- pywinpty
+- mcp-server-things
+- Blinter
+- fastwoe
+- nado-protocol
+- yaml-validator
+- tensorlake
 - sdxclient
 - llama-cloud-services
 - llama-parse
@@ -19,7 +44,6 @@
 - mashumaro
 - jpy
 - geomux
-- authentik-client
 - oduit
 - kicadfiles
 - rsamal-data-intelligence-mcp-server
@@ -32,7 +56,6 @@
 - vulnguard
 - zaber-motion
 - keyboardsounds
-- oneforall-gui
 - odoo-addon-purchase-request
 - elasticsearch-curator
 - bactopia
@@ -49,7 +72,6 @@
 - aix
 - dsf-aml-sdk
 - justllms
-- pywinpty
 - core-mixins
 - graphstate-opt
 - invokeai-py-client
@@ -66,26 +88,3 @@
 - opendapi
 - minibanana
 - quvis
-- fastled
-- mtllm
-- increase
-- ign-lidar-hd
-- pudupy
-- sotodlib
-- spark-rapids-user-tools
-- devleaps-agent-policies
-- paulfrdnpdf
-- gwtransport
-- agentbase-sdk
-- crankpy
-- byllm
-- Blinter
-- jac-cloud
-- base-loom-server
-- biolink-mcp
-- hash-forge
-- databento
-- jaclang
-- aird
-- crackle-codec
-- pycarlo

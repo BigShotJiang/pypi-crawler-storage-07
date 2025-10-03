@@ -1,0 +1,11 @@
+{
+  "name": "foxypack",
+  "version": "0.0.1",
+  "summary": "Default template for PDM package",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "foxypack-0.0.1.tar.gz",
+  "download_time": "2025-10-03T21:26:44.414908",
+  "package_url": "https://pypi.org/project/foxypack/"
+}

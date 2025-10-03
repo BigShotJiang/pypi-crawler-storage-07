@@ -1,11 +1,11 @@
 {
   "name": "fastled",
-  "version": "1.4.45",
+  "version": "1.4.46",
   "summary": "FastLED Wasm Compiler",
   "author": null,
   "license": "BSD 3-Clause License",
   "home_page": "https://github.com/zackees/fastled-wasm",
-  "download_filename": "fastled-1.4.45.tar.gz",
-  "download_time": "2025-10-03T20:49:48.283322",
+  "download_filename": "fastled-1.4.46.tar.gz",
+  "download_time": "2025-10-03T21:26:42.673144",
   "package_url": "https://pypi.org/project/fastled/"
 }
