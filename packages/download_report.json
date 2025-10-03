@@ -1,8 +1,18 @@
 {
-  "download_time": "2025-10-03T14:45:46.109969",
-  "total_packages_downloaded": 88,
-  "total_size_mb": 14.68,
+  "download_time": "2025-10-03T14:52:25.872061",
+  "total_packages_downloaded": 90,
+  "total_size_mb": 3.67,
   "packages": [
+    "mcp-vector-search",
+    "hardware-ml-benchmark",
+    "mostlyai-engine",
+    "agentscope",
+    "setch-py",
+    "files-com",
+    "rqstr-cli",
+    "vellum-ai",
+    "smoother-omics",
+    "pydiodon",
     "jj",
     "nova-trame",
     "odoo-addon-l10n-es-vat-prorate",
@@ -82,14 +92,6 @@
     "aixtools",
     "mcp-transcriptions-server",
     "biblemate",
-    "ossbom",
-    "the37lab-ampa-sdk",
-    "avalan",
-    "CFEDemands",
-    "quick-pp",
-    "dblinter",
-    "artifact-filesystem-store",
-    "markdpy",
-    "TEsimVar"
+    "ossbom"
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pydiodon",
+  "version": "0.1.0",
+  "summary": "numpy library for linear dimension reduction",
+  "author": "Alain Franc",
+  "license": null,
+  "home_page": "https://gitlab.inria.fr/diodon/pydiodon",
+  "download_filename": "pydiodon-0.1.0-py3-none-any.whl",
+  "download_time": "2025-10-03T14:51:39.928819",
+  "package_url": "https://pypi.org/project/pydiodon/"
+}
