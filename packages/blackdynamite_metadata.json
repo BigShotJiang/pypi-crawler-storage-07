@@ -1,11 +1,11 @@
 {
   "name": "blackdynamite",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "summary": "Scientific Parametric Study Tool",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "blackdynamite-1.2.7.tar.gz",
-  "download_time": "2025-10-03T09:48:55.851052",
+  "download_filename": "blackdynamite-1.2.8.tar.gz",
+  "download_time": "2025-10-03T19:50:51.206848",
   "package_url": "https://pypi.org/project/blackdynamite/"
 }

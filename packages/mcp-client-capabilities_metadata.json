@@ -1,11 +1,11 @@
 {
   "name": "mcp-client-capabilities",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Index of all Model Context Protocol (MCP) clients and their capabilities",
   "author": "Apify",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_client_capabilities-0.0.5.tar.gz",
-  "download_time": "2025-10-01T11:48:13.363231",
+  "download_filename": "mcp_client_capabilities-0.0.6.tar.gz",
+  "download_time": "2025-10-03T19:50:42.655379",
   "package_url": "https://pypi.org/project/mcp-client-capabilities/"
 }

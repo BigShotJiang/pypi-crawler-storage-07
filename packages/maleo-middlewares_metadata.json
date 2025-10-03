@@ -1,11 +1,11 @@
 {
   "name": "maleo-middlewares",
-  "version": "0.0.65",
+  "version": "0.0.67",
   "summary": "Middlewares package for MaleoSuite",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "maleo_middlewares-0.0.65.tar.gz",
-  "download_time": "2025-10-03T11:35:08.589820",
+  "download_filename": "maleo_middlewares-0.0.67.tar.gz",
+  "download_time": "2025-10-03T19:50:57.650634",
   "package_url": "https://pypi.org/project/maleo-middlewares/"
 }
