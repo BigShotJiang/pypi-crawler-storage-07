@@ -1,11 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-03T20:33:39.743796
-- **Total Packages**: 84
-- **Total Size**: 26.42 MB
+- **Download Time**: 2025-10-03T20:43:19.218084
+- **Total Packages**: 86
+- **Total Size**: 18.34 MB
 
 ## Packages List
+- spark-rapids-user-tools
+- devleaps-agent-policies
+- paulfrdnpdf
+- gwtransport
+- agentbase-sdk
+- crankpy
+- byllm
+- fmod-toolkit
+- Blinter
+- jac-cloud
+- base-loom-server
+- biolink-mcp
+- hash-forge
+- invokeai-py-client
+- databento
+- authentik-client
+- jaclang
+- aird
+- minibanana
+- crackle-codec
+- svc-infra
+- pycarlo
+- hyso
+- aegis-game
+- stripe
 - lucupy
 - rds-proxy-password-rotation
 - magpylib
@@ -25,8 +50,6 @@
 - reflex
 - unpage
 - borgitory
-- authentik-client
-- stripe
 - mfcqi
 - nifty-anilist
 - ruleopt
@@ -38,7 +61,6 @@
 - osmose-presets
 - woolworm
 - sdg-hub
-- Blinter
 - pydoll-python
 - opendapi
 - writer-sdk
@@ -56,7 +78,6 @@
 - pyxjustiz
 - yunpath
 - kamihi
-- svc-infra
 - llama-cloud-services
 - llama-parse
 - fabric_ceph_client
@@ -71,22 +92,3 @@
 - adv-optm
 - KhachKhach
 - eval-protocol
-- gemini-client
-- pulumi-azure
-- habapp-rules
-- aitop
-- roma-blackbox
-- bygg
-- ncm
-- lbg-tools
-- cog
-- surak
-- geomux
-- yeref
-- agent-memory-client
-- sqlite-mcp-server-enhanced
-- snowcli-tools
-- robokop-mcp
-- pulse-framework
-- steeleagle-sdk
-- mcp-client-capabilities
