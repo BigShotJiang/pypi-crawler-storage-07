@@ -1,14 +1,20 @@
 {
-  "download_time": "2025-10-03T05:43:50.770469",
-  "total_packages_downloaded": 81,
-  "total_size_mb": 24.68,
+  "download_time": "2025-10-03T05:49:54.036315",
+  "total_packages_downloaded": 79,
+  "total_size_mb": 0.77,
   "packages": [
+    "friendly-module-not-found-error",
+    "mlua",
+    "fun-things",
+    "maven-proxy",
+    "bisos.facterModule",
+    "silverflaghwdata",
+    "ncatbot",
     "duckrun",
     "silantui",
     "autogit",
     "confido-atls",
     "bisos.facter",
-    "silverflaghwdata",
     "cecil",
     "blenv",
     "simulacrum-sdk",
@@ -19,7 +25,6 @@
     "tcg-research-desk",
     "task-scheduling",
     "requestsbankrko",
-    "maven-proxy",
     "prestmit",
     "kosmos-cli",
     "pvb-hashev",
@@ -76,13 +81,6 @@
     "reference-package",
     "robhan-cdk-lib.aws-aps",
     "k-nickname",
-    "robhan-cdk-lib.utils",
-    "diffseek",
-    "statsig-python-core",
-    "bscommon",
-    "brewing",
-    "klavis",
-    "maleo-database",
-    "syndesi"
+    "robhan-cdk-lib.utils"
   ]
 }
