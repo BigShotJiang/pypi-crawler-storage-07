@@ -1,0 +1,11 @@
+{
+  "name": "TPWUtils",
+  "version": "0.2.0",
+  "summary": "A collection of Python 3 utilities for logging, threading, file monitoring, and geographic calculations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tpwutils-0.2.0.tar.gz",
+  "download_time": "2025-10-03T21:14:30.586668",
+  "package_url": "https://pypi.org/project/TPWUtils/"
+}

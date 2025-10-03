@@ -1,14 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-03T20:50:30.608383
-- **Total Packages**: 88
-- **Total Size**: 21.52 MB
+- **Download Time**: 2025-10-03T21:15:11.046186
+- **Total Packages**: 83
+- **Total Size**: 5.96 MB
 
 ## Packages List
+- sdxclient
+- llama-cloud-services
+- llama-parse
+- jax-rocm7-pjrt
+- cryptoowl
+- lablink-allocator-service
+- lablink-client-service
+- svc-infra
+- vellum-workflow-server
+- buildroid
+- mashumaro
+- jpy
+- geomux
+- authentik-client
+- oduit
+- kicadfiles
+- rsamal-data-intelligence-mcp-server
+- TPWUtils
+- hyso
+- ethyca-fides
+- zeromq-router
+- nsj-rest-lib2
+- open-actuator
+- vulnguard
+- zaber-motion
+- keyboardsounds
+- oneforall-gui
+- odoo-addon-purchase-request
+- elasticsearch-curator
+- bactopia
+- FastSQLA
+- mm-test-adapters
+- torchsystem
+- nothing-less
+- pyzurecli
+- inatinqperf
+- httpc
+- CCFT-PyMarkdown
+- pybotchi
+- nautobot-plugin-nornir
+- aix
+- dsf-aml-sdk
+- justllms
+- pywinpty
+- core-mixins
+- graphstate-opt
+- invokeai-py-client
+- music-drummer
+- idc-index
+- opensyndrome
+- simulacrum-sdk
 - kuzu
 - srmp
-- graphstate-opt
 - aitop
 - jupyter-ai-persona-manager
 - jax-rocm7-plugin
@@ -29,68 +79,13 @@
 - agentbase-sdk
 - crankpy
 - byllm
-- fmod-toolkit
 - Blinter
 - jac-cloud
 - base-loom-server
 - biolink-mcp
 - hash-forge
-- invokeai-py-client
 - databento
-- authentik-client
 - jaclang
 - aird
 - crackle-codec
-- svc-infra
 - pycarlo
-- hyso
-- aegis-game
-- stripe
-- lucupy
-- rds-proxy-password-rotation
-- magpylib
-- nmdc-runtime
-- metrics_layer
-- oduit
-- synth-ai
-- vulnguard
-- rsamal-data-intelligence-mcp-server
-- pyrudof
-- proknow
-- blackdoc-temp
-- localfinder
-- pulse-recharts
-- fleetmqsdk
-- pyspatialstats
-- reflex
-- unpage
-- borgitory
-- mfcqi
-- nifty-anilist
-- ruleopt
-- maisaedu-poormans-dms
-- maisaedu-utilities-prefect
-- dbt-model-erd
-- domain-event-pattern
-- fsai-proto-specs
-- osmose-presets
-- woolworm
-- sdg-hub
-- pydoll-python
-- writer-sdk
-- pypomes-core
-- lsm-storage-engine-key-value-store
-- rdf-engine
-- physioprep
-- daedaluslink
-- umlshapes
-- adafruit-circuitpython-portalbase
-- botocraft
-- caom2repo
-- pycons
-- pyxjustiz
-- yunpath
-- kamihi
-- llama-cloud-services
-- llama-parse
-- fabric_ceph_client

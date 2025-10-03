@@ -1,11 +1,11 @@
 {
   "name": "CCFT-PyMarkdown",
-  "version": "2.2.0",
-  "summary": "A Python wrapper around jackdewinter's PyMarkdown linter to suppress errors, caused by custom-formatted tables in Markdown files",
+  "version": "3.0.0",
+  "summary": "ARCHIVED | A Python wrapper around jackdewinter's PyMarkdown linter to suppress errors, caused by custom-formatted tables in Markdown files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ccft_pymarkdown-2.2.0.tar.gz",
-  "download_time": "2025-10-03T19:50:56.570639",
+  "download_filename": "ccft_pymarkdown-3.0.0.tar.gz",
+  "download_time": "2025-10-03T21:14:44.281033",
   "package_url": "https://pypi.org/project/CCFT-PyMarkdown/"
 }

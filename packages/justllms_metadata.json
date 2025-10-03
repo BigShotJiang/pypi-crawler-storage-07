@@ -1,11 +1,11 @@
 {
   "name": "justllms",
-  "version": "2.1.5",
-  "summary": "Production-focused Python library for intelligent LLM routing and multi-provider management",
+  "version": "2.1.6",
+  "summary": "Production-focused Python library for multi-provider LLM management with unified API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "justllms-2.1.5.tar.gz",
-  "download_time": "2025-10-03T19:50:50.689221",
+  "download_filename": "justllms-2.1.6.tar.gz",
+  "download_time": "2025-10-03T21:14:47.211611",
   "package_url": "https://pypi.org/project/justllms/"
 }

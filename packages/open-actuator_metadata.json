@@ -1,0 +1,11 @@
+{
+  "name": "open-actuator",
+  "version": "0.1.0",
+  "summary": "A control software for actuators with GUI interface",
+  "author": "Paul Hetherington",
+  "license": "MIT",
+  "home_page": "https://github.com/h-laboratories/open-actuator",
+  "download_filename": "open_actuator-0.1.0.tar.gz",
+  "download_time": "2025-10-03T21:14:33.756517",
+  "package_url": "https://pypi.org/project/open-actuator/"
+}

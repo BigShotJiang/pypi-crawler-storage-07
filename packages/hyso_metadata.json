@@ -1,11 +1,11 @@
 {
   "name": "hyso",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Hyso: Custom CNN models, SE/CBAM blocks, callbacks, and augmentations",
   "author": "Huseyin Dogan",
   "license": "MIT",
   "home_page": "https://github.com/huseyin-dgn/hyso",
-  "download_filename": "hyso-0.1.1.tar.gz",
-  "download_time": "2025-10-03T20:42:43.375443",
+  "download_filename": "hyso-0.1.2.tar.gz",
+  "download_time": "2025-10-03T21:14:31.230443",
   "package_url": "https://pypi.org/project/hyso/"
 }

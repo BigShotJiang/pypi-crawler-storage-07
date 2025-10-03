@@ -1,0 +1,11 @@
+{
+  "name": "oneforall-gui",
+  "version": "0.1.0a0",
+  "summary": "OneForAll — lightweight Python GUI toolkit using pywebview and Python-only components.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "oneforall_gui-0.1.0a0.tar.gz",
+  "download_time": "2025-10-03T21:14:36.355173",
+  "package_url": "https://pypi.org/project/oneforall-gui/"
+}

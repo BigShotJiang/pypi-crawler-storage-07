@@ -1,0 +1,11 @@
+{
+  "name": "jpy",
+  "version": "1.2.0",
+  "summary": "Bi-directional Python-Java bridge",
+  "author": "Norman Fomferra (Brockmann Consult GmbH) and contributors",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/jpy-consortium/jpy",
+  "download_filename": "jpy-1.2.0.tar.gz",
+  "download_time": "2025-10-03T21:14:26.697493",
+  "package_url": "https://pypi.org/project/jpy/"
+}
