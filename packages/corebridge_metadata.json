@@ -1,0 +1,11 @@
+{
+  "name": "corebridge",
+  "version": "0.6.1",
+  "summary": "Bridge for Univia AICore",
+  "author": "Fenke Meijer",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/fenke/corebridge",
+  "download_filename": "corebridge-0.6.1.tar.gz",
+  "download_time": "2025-10-03T18:53:36.596258",
+  "package_url": "https://pypi.org/project/corebridge/"
+}

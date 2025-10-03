@@ -1,0 +1,11 @@
+{
+  "name": "projorg",
+  "version": "1.1",
+  "summary": "projorg: Python project organization and management",
+  "author": "Ali Siahkoohi",
+  "license": null,
+  "home_page": "https://github.com/alisiahkoohi/projorg",
+  "download_filename": "projorg-1.1.tar.gz",
+  "download_time": "2025-10-03T18:53:44.032743",
+  "package_url": "https://pypi.org/project/projorg/"
+}

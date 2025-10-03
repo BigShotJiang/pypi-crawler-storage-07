@@ -1,0 +1,11 @@
+{
+  "name": "seguin-loom-server",
+  "version": "0.11.1",
+  "summary": "Web server that drives a Séguin dobby loom",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "seguin_loom_server-0.11.1.tar.gz",
+  "download_time": "2025-10-03T18:53:48.754495",
+  "package_url": "https://pypi.org/project/seguin-loom-server/"
+}

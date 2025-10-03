@@ -1,0 +1,11 @@
+{
+  "name": "pbixray",
+  "version": "0.4.0",
+  "summary": "A Python library to parse and analyze PBIX files used with Microsoft Power BI.",
+  "author": "Igor Cotruta",
+  "license": "MIT",
+  "home_page": "https://github.com/Hugoberry/pbixray",
+  "download_filename": "pbixray-0.4.0.tar.gz",
+  "download_time": "2025-10-03T18:53:48.224642",
+  "package_url": "https://pypi.org/project/pbixray/"
+}

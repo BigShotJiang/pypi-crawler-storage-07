@@ -1,11 +1,11 @@
 {
   "name": "sv2svg",
-  "version": "0.11.3",
+  "version": "0.11.4",
   "summary": "SystemVerilog to SVG using Schemdraw (left-to-right logic diagrams)",
   "author": "Erik",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sv2svg-0.11.3.tar.gz",
-  "download_time": "2025-10-03T10:13:45.840995",
+  "download_filename": "sv2svg-0.11.4.tar.gz",
+  "download_time": "2025-10-03T18:54:00.877747",
   "package_url": "https://pypi.org/project/sv2svg/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mwl-phonemizer",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": null,
   "author": "JarbasAi",
   "license": null,
   "home_page": "https://github.com/TigreGotico/mwl_phonemizer",
-  "download_filename": "mwl_phonemizer-0.0.3.tar.gz",
-  "download_time": "2025-10-02T22:39:42.622562",
+  "download_filename": "mwl_phonemizer-0.0.4.tar.gz",
+  "download_time": "2025-10-03T18:53:49.811570",
   "package_url": "https://pypi.org/project/mwl-phonemizer/"
 }

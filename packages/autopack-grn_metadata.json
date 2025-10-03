@@ -1,0 +1,11 @@
+{
+  "name": "autopack-grn",
+  "version": "0.1.5.0",
+  "summary": "CLI to quantize and release Hugging Face models in multiple formats",
+  "author": "GranulaVision",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "autopack_grn-0.1.5.0.tar.gz",
+  "download_time": "2025-10-03T18:54:04.609347",
+  "package_url": "https://pypi.org/project/autopack-grn/"
+}

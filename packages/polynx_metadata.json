@@ -1,11 +1,11 @@
 {
   "name": "polynx",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "String-powered Polars expression engine with extended DataFrame utilities",
   "author": "Lowell Winsston",
   "license": "MIT",
   "home_page": "https://github.com/LowellWinston/polynx.git",
-  "download_filename": "polynx-0.1.14.tar.gz",
-  "download_time": "2025-10-02T21:12:52.418779",
+  "download_filename": "polynx-0.1.15.tar.gz",
+  "download_time": "2025-10-03T18:53:47.701060",
   "package_url": "https://pypi.org/project/polynx/"
 }

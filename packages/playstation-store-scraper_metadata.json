@@ -1,0 +1,11 @@
+{
+  "name": "playstation-store-scraper",
+  "version": "1.0.0",
+  "summary": "A web scraper for the PlayStation Store that retrieves and lists all available games with details such as title, price, platform, and more.",
+  "author": "Hadi Mohseni",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "playstation_store_scraper-1.0.0.tar.gz",
+  "download_time": "2025-10-03T18:53:51.918282",
+  "package_url": "https://pypi.org/project/playstation-store-scraper/"
+}
