@@ -1,0 +1,11 @@
+{
+  "name": "hmm-git-safety",
+  "version": "1.0.0",
+  "summary": "A safety wrapper for git push that prevents accidental pushes to origin without branch name",
+  "author": "hmm contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hmm_git_safety-1.0.0.tar.gz",
+  "download_time": "2025-10-03T08:37:36.183626",
+  "package_url": "https://pypi.org/project/hmm-git-safety/"
+}

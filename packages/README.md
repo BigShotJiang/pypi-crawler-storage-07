@@ -1,15 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-03T08:16:27.961205
-- **Total Packages**: 78
-- **Total Size**: 27.6 MB
+- **Download Time**: 2025-10-03T08:38:22.394685
+- **Total Packages**: 80
+- **Total Size**: 23.38 MB
 
 ## Packages List
+- crowdsec-fastly-bouncer
+- hmm-git-safety
+- vulnguard
+- holado
+- pyteamtv
+- pyAutoMR
+- bool-hybrid-array
+- simpleconfigfinder
+- polars-cloud
+- falcon-mcp-fastmcp
+- grpcio-tools
+- spark-pipelines
+- phylogenie
+- icepapcms
+- tcg-research-desk
+- mpt-extension-sdk
+- datalayer-core
+- grpcio
+- nvfuser-cu126
+- kestrapy
+- nvfuser-cu128
 - polygraph-benchmark
 - nvfuser-cu129
 - lightly-studio
-- vulnguard
 - ros2-unbag
 - sacc
 - brynq-sdk-functions
@@ -28,7 +48,6 @@
 - resume-extract
 - syngen-databricks
 - daytona_sdk
-- explabox
 - daytona
 - syngen
 - xai-review
@@ -36,7 +55,6 @@
 - daytona_api_client_async
 - daytona_toolbox_api_client
 - Joint-python-library
-- bool-hybrid-array
 - daytona_toolbox_api_client_async
 - abvdev
 - tessdb-api
@@ -68,19 +86,3 @@
 - pytest-mergify
 - cython-lint
 - ant-ray-cpp-nightly
-- kestrapy
-- dnd-auction-game
-- ut-eco
-- gcore
-- haiway
-- orq-ai-sdk
-- shipyard-python-sdk
-- elemento-customers
-- autogen
-- ag2
-- annet
-- revengai
-- raphson-music-headless
-- bse-options
-- hg-systematic
-- smartmodels

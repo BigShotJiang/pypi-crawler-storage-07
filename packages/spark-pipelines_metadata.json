@@ -1,11 +1,11 @@
 {
   "name": "spark-pipelines",
-  "version": "1.0.0",
+  "version": "1.4.0",
   "summary": "A Python package for validating Spark DataFrames against data quality rules.",
   "author": "Nilesh Pise",
   "license": "MIT",
   "home_page": "https://github.com/NileshPise/spark_pipelines",
-  "download_filename": "spark-pipelines-1.0.0.tar.gz",
-  "download_time": "2025-10-02T15:12:34.403618",
+  "download_filename": "spark-pipelines-1.4.0.tar.gz",
+  "download_time": "2025-10-03T08:37:42.035412",
   "package_url": "https://pypi.org/project/spark-pipelines/"
 }
