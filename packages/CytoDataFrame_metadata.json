@@ -1,11 +1,11 @@
 {
   "name": "CytoDataFrame",
-  "version": "0.0.27",
+  "version": "0.0.28",
   "summary": "An in-memory data analysis format for single-cell profiles alongside their corresponding images and segmentation masks.",
   "author": "Way Science Community",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "cytodataframe-0.0.27.tar.gz",
-  "download_time": "2025-10-01T12:22:31.701117",
+  "download_filename": "cytodataframe-0.0.28.tar.gz",
+  "download_time": "2025-10-03T14:32:37.393459",
   "package_url": "https://pypi.org/project/CytoDataFrame/"
 }

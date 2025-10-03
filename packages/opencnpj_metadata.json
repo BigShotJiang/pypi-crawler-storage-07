@@ -1,0 +1,11 @@
+{
+  "name": "opencnpj",
+  "version": "0.0.2",
+  "summary": "Wrapper para a API OpenCNPJ",
+  "author": "ofcoliva",
+  "license": "MIT License",
+  "home_page": "https://github.com/ofcoliva/opencnpj",
+  "download_filename": "opencnpj-0.0.2.tar.gz",
+  "download_time": "2025-10-03T14:33:03.359356",
+  "package_url": "https://pypi.org/project/opencnpj/"
+}

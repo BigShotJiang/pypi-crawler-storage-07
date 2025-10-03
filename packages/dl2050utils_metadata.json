@@ -1,11 +1,11 @@
 {
   "name": "dl2050utils",
-  "version": "1.0.647",
+  "version": "1.0.648",
   "summary": "Utils lib",
   "author": "João Neto",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dl2050utils-1.0.647.tar.gz",
-  "download_time": "2025-10-03T14:12:36.743196",
+  "download_filename": "dl2050utils-1.0.648.tar.gz",
+  "download_time": "2025-10-03T14:33:02.847172",
   "package_url": "https://pypi.org/project/dl2050utils/"
 }

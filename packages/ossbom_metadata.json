@@ -1,0 +1,11 @@
+{
+  "name": "ossbom",
+  "version": "1.0.10",
+  "summary": "Main public API",
+  "author": "dreadnought",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ossbom-1.0.10.tar.gz",
+  "download_time": "2025-10-03T14:32:49.420109",
+  "package_url": "https://pypi.org/project/ossbom/"
+}

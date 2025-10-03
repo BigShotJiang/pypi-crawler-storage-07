@@ -1,0 +1,11 @@
+{
+  "name": "cocotb-coverage",
+  "version": "2.0",
+  "summary": "Functional Coverage and Constrained Randomization Extensions for Cocotb",
+  "author": "Marek Cieplucha",
+  "license": "BSD",
+  "home_page": "https://github.com/mciepluc/cocotb-coverage",
+  "download_filename": "cocotb_coverage-2.0-py3-none-any.whl",
+  "download_time": "2025-10-03T14:33:04.385885",
+  "package_url": "https://pypi.org/project/cocotb-coverage/"
+}

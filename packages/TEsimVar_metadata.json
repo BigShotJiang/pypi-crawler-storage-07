@@ -1,0 +1,11 @@
+{
+  "name": "TEsimVar",
+  "version": "0.8.0",
+  "summary": "TEvarSim is a versatile genome simulation tool for generating polymorphic transposable element (TE) variants.",
+  "author": "JIAN MIAO",
+  "license": null,
+  "home_page": "https://github.com/JanMiao/TEsimVar",
+  "download_filename": "tesimvar-0.8.0.tar.gz",
+  "download_time": "2025-10-03T14:32:54.068903",
+  "package_url": "https://pypi.org/project/TEsimVar/"
+}
