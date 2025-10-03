@@ -1,11 +1,11 @@
 {
   "name": "arcade-tdk",
-  "version": "2.5.0",
+  "version": "3.0.0",
   "summary": "Arcade TDK - Toolkit Development Kit for building Arcade tools",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "arcade_tdk-2.5.0.tar.gz",
-  "download_time": "2025-09-29T23:26:49.249730",
+  "download_filename": "arcade_tdk-3.0.0.tar.gz",
+  "download_time": "2025-10-03T19:23:55.140242",
   "package_url": "https://pypi.org/project/arcade-tdk/"
 }

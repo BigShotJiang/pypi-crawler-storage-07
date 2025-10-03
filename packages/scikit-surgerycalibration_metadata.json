@@ -1,0 +1,11 @@
+{
+  "name": "scikit-surgerycalibration",
+  "version": "1.1.0",
+  "summary": "scikit-surgerycalibration provides algorithms designed for the calibration of surgical instruments",
+  "author": "Stephen Thompson",
+  "license": "BSD-3 license",
+  "home_page": "https://github.com/SciKit-Surgery/scikit-surgerycalibration ",
+  "download_filename": "scikit_surgerycalibration-1.1.0.tar.gz",
+  "download_time": "2025-10-03T19:23:47.209118",
+  "package_url": "https://pypi.org/project/scikit-surgerycalibration/"
+}

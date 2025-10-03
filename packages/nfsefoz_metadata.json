@@ -1,0 +1,11 @@
+{
+  "name": "nfsefoz",
+  "version": "0.0.4",
+  "summary": "Biblioteca para acesso ao Webservices de NFSe da Prefeitura Municipal de Sao Jose - SC",
+  "author": "Qualita Seguranca e Saude Ocupacional",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/qualitaocupacional/nfsefoz",
+  "download_filename": "nfsefoz-0.0.4.tar.gz",
+  "download_time": "2025-10-03T19:23:58.858303",
+  "package_url": "https://pypi.org/project/nfsefoz/"
+}

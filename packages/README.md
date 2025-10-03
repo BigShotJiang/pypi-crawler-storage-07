@@ -1,12 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-03T19:11:30.923578
-- **Total Packages**: 86
-- **Total Size**: 14.95 MB
+- **Download Time**: 2025-10-03T19:24:25.534226
+- **Total Packages**: 88
+- **Total Size**: 17.67 MB
 
 ## Packages List
+- futurehouse-client
+- cursorflow
+- fluid-labels
+- smu-ontwins-demo
+- wikidataloader
+- automata-linq-sdk
+- authentik-client
+- fileglancer
+- pymbolic
+- kalibr
+- revisitpy
 - bear-django-request-normalizer
+- micromet
+- azureml-assets
+- arthur-common
+- scrapy-contrib-bigexporters
+- pydap
+- scikit-surgerycalibration
+- pyzurecli
+- oeissequences
+- circuit-agent-sdk
+- system-initiative-api-client
+- hash-forge
+- steeleagle-sdk
+- crackerjack
+- pywershell
+- lightning-pose
+- mixing
+- pybotchi
+- PyInteno
+- arcade-mcp-server
+- arcade-tdk
+- arcade-serve
+- arcade-mcp
+- arcade-core
+- name-resolver-mcp
+- factorio-learning-environment
+- nsj-rest-lib2
+- nfsefoz
+- flatr
+- typos
+- Pure-Python-Geospatial-Export
 - maleo-database
 - darn-dmap
 - barndoor
@@ -15,7 +56,6 @@
 - caffeinated-whale-cli
 - klavis
 - aa-rattingtax
-- authentik-client
 - ensync-sdk
 - kuzu
 - imgen-cli
@@ -54,41 +94,3 @@
 - django-cms
 - spikee
 - asap-o-matic
-- pybotchi
-- c1s-slingshot-sdk-py
-- albert
-- kalibr
-- modal
-- maleo-schemas
-- robeex-ai-drone-api
-- flatr
-- mkdocs-note
-- kaqing
-- baudream
-- corebridge
-- s3dgraphy
-- ethyca-fides
-- sequenzo
-- hvym-stellar
-- dockwershell
-- claude-mpm
-- jotunn
-- inmoose-refbatchfix
-- files-com-mcp
-- sukta
-- projorg
-- meteo-lt-pkg
-- praasper
-- cvdupdate
-- pywershell
-- QualysPy
-- polynx
-- pbixray
-- seguin-loom-server
-- mcp-atlassian-kw
-- mwl-phonemizer
-- onelogin
-- data-repo-client
-- toika-loom-server
-- playstation-store-scraper
-- nodestream
