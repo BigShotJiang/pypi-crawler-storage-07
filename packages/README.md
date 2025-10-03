@@ -1,18 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-03T13:27:40.107856
-- **Total Packages**: 92
-- **Total Size**: 13.05 MB
+- **Download Time**: 2025-10-03T13:43:58.770275
+- **Total Packages**: 89
+- **Total Size**: 13.4 MB
 
 ## Packages List
+- idsw
+- fbgemm-gpu-nightly-cpu
+- algopython
+- ez-mcp-toolbox
+- defuse
+- lima2-client
+- worker-automate-hub
+- makefast
+- rxfoundry.clients.swifty_api
+- rxfoundry.clients.swifty_oauth_api
+- openforis-whisp
+- libdev
+- hestia-earth-utils
 - aedev-aedev
 - ol-openedx-chat-xblock
 - faraday-plugins
 - onboardapis
 - tflite-micro
 - devleaps-agent-policies
-- defuse
 - clue-api
 - elkoep-aio-mqtt
 - wanna-ml
@@ -63,8 +75,6 @@
 - otpme
 - pulumi
 - unique_orchestrator
-- rxfoundry.clients.swifty_api
-- rxfoundry.clients.swifty_oauth_api
 - InfoTracker
 - dxpy
 - apimatic-core
@@ -85,16 +95,3 @@
 - grandlantern
 - PyGeoModel
 - dataprof
-- arches-containers
-- remoulade
-- py3mf-slicer
-- ontbo
-- fastnda
-- datax-analytics
-- tabpfn-extensions
-- shipyard-python-sdk
-- linkmotion
-- kleinkram
-- smu-ontwins-demo
-- stix2extensions
-- nidx-binding

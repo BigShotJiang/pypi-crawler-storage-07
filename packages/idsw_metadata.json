@@ -1,0 +1,11 @@
+{
+  "name": "idsw",
+  "version": "1.4.1",
+  "summary": "Full workflow for ETL, statistics, and Machine learning modelling of (usually) time-stamped industrial facilities data.",
+  "author": "Marco Cesar Prado Soares; Gabriel Fernandes Luz; Ivan Alexander Yapita Vargas; Sergio Guilherme Neto",
+  "license": "MIT",
+  "home_page": "https://github.com/marcosoares-92/IndustrialDataScienceWorkflow",
+  "download_filename": "idsw-1.4.1.tar.gz",
+  "download_time": "2025-10-03T13:43:08.293165",
+  "package_url": "https://pypi.org/project/idsw/"
+}
