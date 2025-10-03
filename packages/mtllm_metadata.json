@@ -1,0 +1,11 @@
+{
+  "name": "mtllm",
+  "version": "0.4.3",
+  "summary": "DEPRECATED: install `byllm` instead.",
+  "author": "Jason Mars",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mtllm-0.4.3.tar.gz",
+  "download_time": "2025-10-03T20:49:48.812001",
+  "package_url": "https://pypi.org/project/mtllm/"
+}

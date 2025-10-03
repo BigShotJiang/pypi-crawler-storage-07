@@ -1,11 +1,11 @@
 {
   "name": "minibanana",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Un motor de videojuegos minimalista hecho con Tkinter, actualizaciones constantes",
   "author": "Bananaprogramadora",
   "license": "MIT",
   "home_page": "https://github.com/banana-programadora/minibanana",
-  "download_filename": "minibanana-1.0.2.tar.gz",
-  "download_time": "2025-10-03T20:42:41.256347",
+  "download_filename": "minibanana-1.0.3.tar.gz",
+  "download_time": "2025-10-03T20:49:47.213791",
   "package_url": "https://pypi.org/project/minibanana/"
 }

@@ -1,11 +1,27 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-03T20:43:19.218084
-- **Total Packages**: 86
-- **Total Size**: 18.34 MB
+- **Download Time**: 2025-10-03T20:50:30.608383
+- **Total Packages**: 88
+- **Total Size**: 21.52 MB
 
 ## Packages List
+- kuzu
+- srmp
+- graphstate-opt
+- aitop
+- jupyter-ai-persona-manager
+- jax-rocm7-plugin
+- apache-tvm-ffi
+- opendapi
+- minibanana
+- quvis
+- fastled
+- mtllm
+- increase
+- ign-lidar-hd
+- pudupy
+- sotodlib
 - spark-rapids-user-tools
 - devleaps-agent-policies
 - paulfrdnpdf
@@ -24,7 +40,6 @@
 - authentik-client
 - jaclang
 - aird
-- minibanana
 - crackle-codec
 - svc-infra
 - pycarlo
@@ -62,7 +77,6 @@
 - woolworm
 - sdg-hub
 - pydoll-python
-- opendapi
 - writer-sdk
 - pypomes-core
 - lsm-storage-engine-key-value-store
@@ -71,7 +85,6 @@
 - daedaluslink
 - umlshapes
 - adafruit-circuitpython-portalbase
-- ign-lidar-hd
 - botocraft
 - caom2repo
 - pycons
@@ -81,14 +94,3 @@
 - llama-cloud-services
 - llama-parse
 - fabric_ceph_client
-- universalinit
-- spams-bin
-- eggp
-- lmur
-- ayechat
-- mellea
-- memory-journal-mcp
-- Adax-local
-- adv-optm
-- KhachKhach
-- eval-protocol

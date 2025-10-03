@@ -1,0 +1,11 @@
+{
+  "name": "jax-rocm7-plugin",
+  "version": "0.6.0",
+  "summary": "JAX Plugin for AMD GPUs (ROCm:7.0)",
+  "author": "GulsumGA-AMD",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ROCm/rocm-jax",
+  "download_filename": "jax_rocm7_plugin-0.6.0-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-10-03T20:49:45.609687",
+  "package_url": "https://pypi.org/project/jax-rocm7-plugin/"
+}
