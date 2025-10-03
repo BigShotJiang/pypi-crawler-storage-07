@@ -1,0 +1,11 @@
+{
+  "name": "opensafely",
+  "version": "1.55.0",
+  "summary": "Command line tool for running OpenSAFELY studies locally.",
+  "author": "OpenSAFELY",
+  "license": "GPLv3",
+  "home_page": "https://github.com/opensafely-core/opensafely-cli",
+  "download_filename": "opensafely-1.55.0.tar.gz",
+  "download_time": "2025-10-03T09:49:00.616583",
+  "package_url": "https://pypi.org/project/opensafely/"
+}

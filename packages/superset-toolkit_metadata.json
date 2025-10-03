@@ -1,0 +1,11 @@
+{
+  "name": "superset-toolkit",
+  "version": "0.1.0",
+  "summary": "Professional toolkit for Superset API automation - datasets, charts, and dashboards",
+  "author": "Open Source Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "superset_toolkit-0.1.0.tar.gz",
+  "download_time": "2025-10-03T09:49:03.743222",
+  "package_url": "https://pypi.org/project/superset-toolkit/"
+}
