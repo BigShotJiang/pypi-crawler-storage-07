@@ -1,0 +1,11 @@
+{
+  "name": "genie.libs.ops",
+  "version": "25.9",
+  "summary": "Genie libs Ops: Libraries to retrieve operational state of the topology",
+  "author": "Cisco Systems Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://developer.cisco.com/pyats",
+  "download_filename": "genie.libs.ops-25.9-py3-none-any.whl",
+  "download_time": "2025-10-03T14:12:53.943983",
+  "package_url": "https://pypi.org/project/genie.libs.ops/"
+}

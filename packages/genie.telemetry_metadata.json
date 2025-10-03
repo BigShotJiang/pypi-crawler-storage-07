@@ -1,0 +1,11 @@
+{
+  "name": "genie.telemetry",
+  "version": "25.9",
+  "summary": "Genie libs Telemetry: Genie Telemetry Libraries",
+  "author": "Cisco Systems Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://developer.cisco.com/pyats",
+  "download_filename": "genie.telemetry-25.9-py3-none-any.whl",
+  "download_time": "2025-10-03T14:12:51.162365",
+  "package_url": "https://pypi.org/project/genie.telemetry/"
+}

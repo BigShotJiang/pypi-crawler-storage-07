@@ -1,0 +1,11 @@
+{
+  "name": "meteostat",
+  "version": "1.7.5",
+  "summary": "Access and analyze historical weather and climate data with Python.",
+  "author": "Meteostat",
+  "license": "MIT",
+  "home_page": "https://github.com/meteostat/meteostat-python",
+  "download_filename": "meteostat-1.7.5.tar.gz",
+  "download_time": "2025-10-03T14:12:44.817741",
+  "package_url": "https://pypi.org/project/meteostat/"
+}

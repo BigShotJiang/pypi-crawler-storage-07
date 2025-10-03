@@ -1,11 +1,11 @@
 {
   "name": "sourcegraph-mcp",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Model Context Protocol server for SourceGraph code search",
   "author": "Dale Brubaker",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sourcegraph_mcp-1.0.0.tar.gz",
-  "download_time": "2025-10-02T19:49:49.911617",
+  "download_filename": "sourcegraph_mcp-1.1.0.tar.gz",
+  "download_time": "2025-10-03T14:12:45.936157",
   "package_url": "https://pypi.org/project/sourcegraph-mcp/"
 }

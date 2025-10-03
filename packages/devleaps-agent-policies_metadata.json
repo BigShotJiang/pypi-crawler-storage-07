@@ -1,11 +1,11 @@
 {
   "name": "devleaps-agent-policies",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Policy framework for Claude Code and Cursor hooks",
   "author": "DevLeaps",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "devleaps_agent_policies-1.0.2.tar.gz",
-  "download_time": "2025-10-03T13:43:19.313222",
+  "download_filename": "devleaps_agent_policies-1.0.3.tar.gz",
+  "download_time": "2025-10-03T14:12:11.677518",
   "package_url": "https://pypi.org/project/devleaps-agent-policies/"
 }

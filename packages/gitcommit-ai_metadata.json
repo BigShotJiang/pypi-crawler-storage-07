@@ -1,0 +1,11 @@
+{
+  "name": "gitcommit-ai",
+  "version": "0.1.0",
+  "summary": "AI-powered git commit message generator with 7 providers, git hooks, and custom prompts",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gitcommit_ai-0.1.0.tar.gz",
+  "download_time": "2025-10-03T14:12:14.494691",
+  "package_url": "https://pypi.org/project/gitcommit-ai/"
+}

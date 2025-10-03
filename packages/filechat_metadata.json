@@ -1,0 +1,11 @@
+{
+  "name": "filechat",
+  "version": "0.4.0",
+  "summary": "A local read-only AI coding assistant",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "filechat-0.4.0.tar.gz",
+  "download_time": "2025-10-03T14:12:29.532550",
+  "package_url": "https://pypi.org/project/filechat/"
+}

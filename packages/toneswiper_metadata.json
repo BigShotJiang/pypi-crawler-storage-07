@@ -1,11 +1,11 @@
 {
   "name": "toneswiper",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A tool for manually annotating audio with ToDI-style prosody.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "toneswiper-0.1.1.tar.gz",
-  "download_time": "2025-10-01T19:33:51.334005",
+  "download_filename": "toneswiper-0.1.2.tar.gz",
+  "download_time": "2025-10-03T14:12:17.452539",
   "package_url": "https://pypi.org/project/toneswiper/"
 }

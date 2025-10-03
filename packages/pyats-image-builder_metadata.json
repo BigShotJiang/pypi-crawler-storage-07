@@ -1,0 +1,11 @@
+{
+  "name": "pyats-image-builder",
+  "version": "25.9",
+  "summary": "pyATS Docker image creation",
+  "author": "Cisco Systems Inc.",
+  "license": "Cisco Systems, Inc. Cisco Confidential",
+  "home_page": "https://developer.cisco.com/docs/pyats/",
+  "download_filename": "pyats_image_builder-25.9-py3-none-any.whl",
+  "download_time": "2025-10-03T14:12:42.946553",
+  "package_url": "https://pypi.org/project/pyats-image-builder/"
+}

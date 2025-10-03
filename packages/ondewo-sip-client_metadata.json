@@ -1,0 +1,11 @@
+{
+  "name": "ondewo-sip-client",
+  "version": "5.3.0",
+  "summary": "ONDEWO Session Initiation Protocol (SIP) Client library for Python",
+  "author": "ONDEWO GmbH",
+  "license": null,
+  "home_page": "https://github.com/ondewo/ondewo-sip-client-python",
+  "download_filename": "ondewo-sip-client-5.3.0.tar.gz",
+  "download_time": "2025-10-03T14:12:04.359315",
+  "package_url": "https://pypi.org/project/ondewo-sip-client/"
+}
