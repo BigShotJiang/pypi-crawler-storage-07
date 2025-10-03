@@ -1,0 +1,11 @@
+{
+  "name": "elifearticle",
+  "version": "0.26.0",
+  "summary": "eLife article objects.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/elifesciences/elife-article",
+  "download_filename": "elifearticle-0.26.0.tar.gz",
+  "download_time": "2025-10-03T23:49:55.401595",
+  "package_url": "https://pypi.org/project/elifearticle/"
+}

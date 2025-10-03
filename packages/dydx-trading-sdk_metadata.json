@@ -1,11 +1,11 @@
 {
   "name": "dydx-trading-sdk",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "The unofficial, actually good, fully-typed async Python SDK for dYdX v4, by Tribulnation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dydx_trading_sdk-0.1.1.tar.gz",
-  "download_time": "2025-10-03T23:27:16.018428",
+  "download_filename": "dydx_trading_sdk-0.1.2.tar.gz",
+  "download_time": "2025-10-03T23:49:48.623744",
   "package_url": "https://pypi.org/project/dydx-trading-sdk/"
 }

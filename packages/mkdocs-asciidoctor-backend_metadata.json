@@ -1,11 +1,11 @@
 {
   "name": "mkdocs-asciidoctor-backend",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Asciidoctor backend for MkDocs",
   "author": "Aidan Reilly",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mkdocs_asciidoctor_backend-0.1.5.tar.gz",
-  "download_time": "2025-10-03T08:16:15.535534",
+  "download_filename": "mkdocs_asciidoctor_backend-0.1.6.tar.gz",
+  "download_time": "2025-10-03T23:50:01.150659",
   "package_url": "https://pypi.org/project/mkdocs-asciidoctor-backend/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cjm-fasthtml-sysmon",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "summary": "FastHTML components and utilities for real-time system resource monitoring with SSE-based live updates.",
   "author": "Christian J. Mills",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/cj-mills/cjm-fasthtml-sysmon",
-  "download_filename": "cjm_fasthtml_sysmon-0.0.11.tar.gz",
-  "download_time": "2025-10-02T02:12:59.723279",
+  "download_filename": "cjm_fasthtml_sysmon-0.0.12.tar.gz",
+  "download_time": "2025-10-03T23:49:59.028634",
   "package_url": "https://pypi.org/project/cjm-fasthtml-sysmon/"
 }
