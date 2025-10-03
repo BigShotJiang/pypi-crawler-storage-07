@@ -1,11 +1,11 @@
 {
   "name": "snippy-nextgen",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "summary": "The Next Generation of Microbial Variant Calling with Snippy",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "snippy_nextgen-1.4.0.tar.gz",
-  "download_time": "2025-10-02T06:54:18.654618",
+  "download_filename": "snippy_nextgen-1.5.0.tar.gz",
+  "download_time": "2025-10-03T06:55:38.254206",
   "package_url": "https://pypi.org/project/snippy-nextgen/"
 }

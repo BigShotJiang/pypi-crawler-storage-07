@@ -1,15 +1,32 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-03T06:46:15.603205
-- **Total Packages**: 91
-- **Total Size**: 44.24 MB
+- **Download Time**: 2025-10-03T06:56:19.333054
+- **Total Packages**: 86
+- **Total Size**: 23.59 MB
 
 ## Packages List
+- zephy
+- bluer-sbc
+- nvidia-mtbench-evaluator
 - authentik-client
+- phanterpwa
+- HowdenPipeline
+- assemblypy
+- snippy-nextgen
+- InsarViz
+- TracChecklist
+- nvidia-hle
+- nvidia-crfm-helm
+- svg.py
+- nonebot-plugin-mcnews
+- bool-hybrid-array
+- localkin-service-audio
+- cribl-mgmt-plane
+- maleo-metadata
+- jale
 - lhs-global-service-fastapi
 - nonebot-plugin-mcversion
-- chaeruldesktop
 - nvidia-eval-factory-garak
 - clsar
 - calcite
@@ -20,7 +37,6 @@
 - sphinx-notionbuilder
 - datashadric
 - fred-oss
-- nonebot-plugin-mcnews
 - ut-com
 - labric
 - electroblocks
@@ -41,7 +57,6 @@
 - lue-reader
 - systems-manager
 - growwapi
-- jale
 - sbom-upload-validator
 - ansible-tower-mcp
 - maleo-google
@@ -50,7 +65,6 @@
 - tunnel-manager
 - pulumi-cloudru
 - ut-cli
-- bool-hybrid-array
 - half-orm
 - ai-edge-litert-nightly
 - maleo-database
@@ -78,22 +92,3 @@
 - futu-stock-mcp-server
 - fastapi-amis
 - autogit
-- cogflow
-- shipit-cli
-- smh-playwright-crawl
-- awsui
-- preling
-- pycronado
-- nexustrader
-- KnotLinkClient-Py
-- CodeVideoRenderer
-- icij-worker
-- icij-common
-- pyjolt
-- django-base16-admin
-- graphiti-core
-- graphistry
-- zenx
-- molass-legacy
-- admize
-- molass

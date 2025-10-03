@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-mcnews",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "NoneBot2 plugin for CheckMCNewsupdate",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nonebot_plugin_mcnews-0.1.4.tar.gz",
-  "download_time": "2025-10-03T06:45:26.829107",
+  "download_filename": "nonebot_plugin_mcnews-0.1.5.tar.gz",
+  "download_time": "2025-10-03T06:55:41.981552",
   "package_url": "https://pypi.org/project/nonebot-plugin-mcnews/"
 }
