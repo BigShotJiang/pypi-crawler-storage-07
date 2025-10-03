@@ -1,0 +1,11 @@
+{
+  "name": "bestdori-api",
+  "version": "2.1.0",
+  "summary": "Bestdori 的各种 API 调用整合，另外附带部分功能",
+  "author": "WindowsSov8",
+  "license": "MIT",
+  "home_page": "https://github.com/WindowsSov8forUs/bestdori-api",
+  "download_filename": "bestdori_api-2.1.0.tar.gz",
+  "download_time": "2025-10-03T05:43:24.095298",
+  "package_url": "https://pypi.org/project/bestdori-api/"
+}

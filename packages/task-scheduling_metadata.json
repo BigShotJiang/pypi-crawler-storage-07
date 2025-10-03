@@ -1,11 +1,11 @@
 {
   "name": "task-scheduling",
-  "version": "2.5.4",
+  "version": "3.1.0",
   "summary": "It is mainly used for task scheduling",
   "author": "fallingmeteorite",
   "license": "MIT License",
   "home_page": "https://github.com/fallingmeteorite/task_scheduling",
-  "download_filename": "task_scheduling-2.5.4.tar.gz",
-  "download_time": "2025-09-28T13:16:37.807877",
+  "download_filename": "task_scheduling-3.1.0.tar.gz",
+  "download_time": "2025-10-03T05:43:16.327508",
   "package_url": "https://pypi.org/project/task-scheduling/"
 }

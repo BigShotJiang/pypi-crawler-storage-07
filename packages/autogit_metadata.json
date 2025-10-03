@@ -1,11 +1,11 @@
 {
   "name": "autogit",
-  "version": "0.0.23",
+  "version": "0.0.25",
   "summary": "autogit is a command line tool for updating multiple GitLab or GitHub repositories with a single command.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "autogit-0.0.23.tar.gz",
-  "download_time": "2025-10-01T04:13:52.591748",
+  "download_filename": "autogit-0.0.25.tar.gz",
+  "download_time": "2025-10-03T05:43:09.821218",
   "package_url": "https://pypi.org/project/autogit/"
 }

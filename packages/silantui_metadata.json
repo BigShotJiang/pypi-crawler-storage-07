@@ -1,11 +1,11 @@
 {
   "name": "silantui",
-  "version": "0.1.1",
-  "summary": "A modern, elegant CLI framework for building AI chat applications",
+  "version": "0.2.0",
+  "summary": "A modern, elegant CLI framework for building AI chat applications with Textual TUI",
   "author": "Silan Hu",
   "license": "MIT",
   "home_page": "https://github.com/Qingbolan/silantui",
-  "download_filename": "silantui-0.1.1.tar.gz",
-  "download_time": "2025-10-02T08:53:43.591466",
+  "download_filename": "silantui-0.2.0.tar.gz",
+  "download_time": "2025-10-03T05:43:09.310805",
   "package_url": "https://pypi.org/project/silantui/"
 }
