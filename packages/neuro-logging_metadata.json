@@ -1,0 +1,11 @@
+{
+  "name": "neuro-logging",
+  "version": "25.10.0",
+  "summary": "Logging client for Neu.ro platform services",
+  "author": null,
+  "license": "Apache 2",
+  "home_page": "https://github.com/neuro-inc/neuro-logging",
+  "download_filename": "neuro_logging-25.10.0.tar.gz",
+  "download_time": "2025-10-03T11:49:48.117661",
+  "package_url": "https://pypi.org/project/neuro-logging/"
+}

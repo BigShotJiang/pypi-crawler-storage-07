@@ -1,0 +1,11 @@
+{
+  "name": "sitemap-harvester",
+  "version": "1.0.0",
+  "summary": "A tool to crawl website sitemaps and create a CSV report of URLs and their metadata",
+  "author": "Meysam Azad",
+  "license": null,
+  "home_page": "https://github.com/meysam81/sitemap-harvester",
+  "download_filename": "sitemap_harvester-1.0.0.tar.gz",
+  "download_time": "2025-10-03T11:49:34.142527",
+  "package_url": "https://pypi.org/project/sitemap-harvester/"
+}

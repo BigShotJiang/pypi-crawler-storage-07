@@ -1,14 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-03T11:35:48.387305
+- **Download Time**: 2025-10-03T11:50:24.847505
 - **Total Packages**: 83
-- **Total Size**: 24.97 MB
+- **Total Size**: 3.34 MB
 
 ## Packages List
-- ultrasphere-harmonics
-- protonx
+- sitemap-harvester
+- rxfoundry.clients.swifty_oauth_api
+- rxfoundry.clients.swifty_api
+- arknet
+- ign-lidar-hd
+- risk-network
+- cxxtea
+- oarepo-dashboard
+- odoo-addon-attachment-queue
 - cloudtools-sdk
+- datalayer-core
+- machineconfig
+- ap-resource-monitor
+- interface-py
+- oceanprotocol-job-details
+- pulumiverse-grafana
+- protonx
+- scjson
+- tira
+- wyoming-kokoro-torch
+- draive
+- neuro-logging
+- edit-package
+- json_2_postgres
+- pytket-qiskit
+- the37lab-ampa-sdk
+- omniopt2
+- slack-lists-mcp
+- authentik-client
+- stix2extensions
+- jira-confluence-mcp
+- apolo-kube-client
+- pysdmx
+- rosbag-standalone
+- claude-commit
+- ultrasphere-harmonics
 - chaeruldesktop
 - com-terra-logger
 - portwatch
@@ -16,15 +49,12 @@
 - screenoverlay
 - godjigame-event-schemas
 - com-terra-error
-- pulumiverse-grafana
 - maleo-middlewares
-- machineconfig
 - autumn-sdk
 - iranetf
 - recodex-pylib
 - spikee
 - torchx-nightly
-- slack-lists-mcp
 - ae-ae
 - invenio-app-rdm
 - meshcore-cli
@@ -36,10 +66,8 @@
 - sunrise6g-opensdk
 - tcg-research-desk
 - chift
-- authentik-client
 - fluidityai
 - pulumi-upcloud
-- rosbag-standalone
 - fipiran
 - ai-pipeline-core
 - localstack-ext
@@ -61,31 +89,3 @@
 - ado-ray-tune
 - ado-sfttrainer
 - ado-core
-- polars-genson
-- scc-firewall-manager-sdk
-- argparcel
-- aedev-project-tpls
-- llm-annotator
-- ecotransformers
-- Vease-Viewer
-- pybandstructure
-- vease-back
-- dazpycheck
-- simplyprint-bambu-lab
-- almapiwrapper
-- syngen-databricks
-- pyrealm
-- mm-sdk
-- opik
-- voice-mode
-- syngen
-- mongofy
-- nucliadb-admin-assets
-- OpenGeodeWeb-Viewer
-- orangebeard-robotframework
-- OpenGeodeWeb-Back
-- vitrage
-- Rubka
-- lymia
-- orangebeard-client
-- OpenGeodeWeb-Microservice
