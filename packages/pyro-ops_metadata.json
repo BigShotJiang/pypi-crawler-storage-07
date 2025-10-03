@@ -1,0 +1,11 @@
+{
+  "name": "pyro-ops",
+  "version": "0.1.1",
+  "summary": "Pyro-Ops: Ground-segment operations toolkit for SmallSat telemetry, FDIR, and automation",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pyro_ops-0.1.1.tar.gz",
+  "download_time": "2025-10-03T00:46:57.324235",
+  "package_url": "https://pypi.org/project/pyro-ops/"
+}

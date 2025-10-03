@@ -1,11 +1,11 @@
 {
   "name": "zededa-edgeai-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Zededa EdgeAI SDK - CLI and Python library for authentication and MLflow integration",
-  "author": "Zededa",
+  "author": null,
   "license": "Apache-2.0",
-  "home_page": "https://github.com/zededa/edgeai",
-  "download_filename": "zededa_edgeai_sdk-1.0.0.tar.gz",
-  "download_time": "2025-10-02T23:27:35.095035",
+  "home_page": null,
+  "download_filename": "zededa_edgeai_sdk-1.0.1.tar.gz",
+  "download_time": "2025-10-03T00:47:05.180646",
   "package_url": "https://pypi.org/project/zededa-edgeai-sdk/"
 }
