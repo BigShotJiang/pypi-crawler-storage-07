@@ -1,51 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-03T21:27:25.891800
-- **Total Packages**: 82
-- **Total Size**: 16.21 MB
+- **Download Time**: 2025-10-03T21:36:35.844271
+- **Total Packages**: 84
+- **Total Size**: 5.78 MB
 
 ## Packages List
-- openfinops
-- simplini
-- hkjc
-- Pure-Python-Geospatial-Export
-- ibm-watsonx-data-intelligence-mcp-server
-- authentik-client
-- sqlmesh
-- fastled
-- oneforall-gui
-- odoo-connect
-- foxypack
-- jatsgenerator
-- osteoid
-- sourcemeta-jsonschema
-- tcheckerpy
-- context-local-server
-- fal
-- transcribe-with-whisper
-- pywinpty
-- mcp-server-things
-- Blinter
-- fastwoe
-- nado-protocol
-- yaml-validator
-- tensorlake
-- sdxclient
-- llama-cloud-services
-- llama-parse
-- jax-rocm7-pjrt
-- cryptoowl
-- lablink-allocator-service
-- lablink-client-service
-- svc-infra
-- vellum-workflow-server
-- buildroid
-- mashumaro
-- jpy
-- geomux
-- oduit
-- kicadfiles
 - rsamal-data-intelligence-mcp-server
 - TPWUtils
 - hyso
@@ -56,12 +16,14 @@
 - vulnguard
 - zaber-motion
 - keyboardsounds
+- oneforall-gui
 - odoo-addon-purchase-request
 - elasticsearch-curator
 - bactopia
 - FastSQLA
 - mm-test-adapters
 - torchsystem
+- oduit
 - nothing-less
 - pyzurecli
 - inatinqperf
@@ -72,6 +34,8 @@
 - aix
 - dsf-aml-sdk
 - justllms
+- svc-infra
+- pywinpty
 - core-mixins
 - graphstate-opt
 - invokeai-py-client
@@ -79,6 +43,7 @@
 - idc-index
 - opensyndrome
 - simulacrum-sdk
+- authentik-client
 - kuzu
 - srmp
 - aitop
@@ -88,3 +53,40 @@
 - opendapi
 - minibanana
 - quvis
+- fastled
+- mtllm
+- increase
+- ign-lidar-hd
+- pudupy
+- sotodlib
+- spark-rapids-user-tools
+- devleaps-agent-policies
+- paulfrdnpdf
+- gwtransport
+- agentbase-sdk
+- crankpy
+- byllm
+- fmod-toolkit
+- Blinter
+- jac-cloud
+- base-loom-server
+- biolink-mcp
+- hash-forge
+- databento
+- jaclang
+- aird
+- crackle-codec
+- pycarlo
+- aegis-game
+- stripe
+- lucupy
+- rds-proxy-password-rotation
+- magpylib
+- nmdc-runtime
+- metrics_layer
+- synth-ai
+- pyrudof
+- proknow
+- blackdoc-temp
+- localfinder
+- pulse-recharts
