@@ -1,11 +1,11 @@
 {
   "name": "prstools",
-  "version": "0.0.36",
+  "version": "0.0.37",
   "summary": "Convenient and powerfull Polygenic Risk Score creation.",
   "author": "Menno Witteveen et al.",
   "license": "MIT License",
   "home_page": "https://github.com/mennojw/prstools-release",
-  "download_filename": "prstools-0.0.36.tar.gz",
-  "download_time": "2025-10-03T16:53:14.052468",
+  "download_filename": "prstools-0.0.37.tar.gz",
+  "download_time": "2025-10-03T21:50:08.471353",
   "package_url": "https://pypi.org/project/prstools/"
 }
