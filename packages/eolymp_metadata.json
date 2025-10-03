@@ -1,11 +1,11 @@
 {
   "name": "eolymp",
-  "version": "0.12.48",
+  "version": "0.12.49",
   "summary": "Eolymp SDK for Python",
   "author": "Sergey Kolodyazhnyy",
   "license": null,
   "home_page": "https://github.com/eolymp/contracts",
-  "download_filename": "eolymp-0.12.48.tar.gz",
-  "download_time": "2025-10-02T21:50:08.458752",
+  "download_filename": "eolymp-0.12.49.tar.gz",
+  "download_time": "2025-10-03T11:26:06.586911",
   "package_url": "https://pypi.org/project/eolymp/"
 }
