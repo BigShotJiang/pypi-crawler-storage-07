@@ -1,0 +1,11 @@
+{
+  "name": "classifierPratik",
+  "version": "0.0.4",
+  "summary": "Zero-shot classification package using Transformers",
+  "author": "Pratik Chourasia",
+  "license": null,
+  "home_page": "https://github.com/PratikChrs/classifierPratik",
+  "download_filename": "classifierpratik-0.0.4.tar.gz",
+  "download_time": "2025-10-03T14:45:15.969046",
+  "package_url": "https://pypi.org/project/classifierPratik/"
+}

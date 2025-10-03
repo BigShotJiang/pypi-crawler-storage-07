@@ -1,11 +1,11 @@
 {
   "name": "py3comtrade",
-  "version": "4.1.5",
+  "version": "4.1.6",
   "summary": "解析comtrade中的cfg、dat、dmf等文件，提供配置文件中通道数量，的解析、数值计算和文件合并功能。",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py3comtrade-4.1.5.tar.gz",
-  "download_time": "2025-10-03T09:31:19.433429",
+  "download_filename": "py3comtrade-4.1.6.tar.gz",
+  "download_time": "2025-10-03T14:45:24.591475",
   "package_url": "https://pypi.org/project/py3comtrade/"
 }

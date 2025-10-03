@@ -1,11 +1,11 @@
 {
   "name": "navam",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "summary": "Personal AI agents for investing, shopping, health, and learning",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "navam-1.5.3.tar.gz",
-  "download_time": "2025-10-03T13:02:10.077404",
+  "download_filename": "navam-1.5.4.tar.gz",
+  "download_time": "2025-10-03T14:45:26.131045",
   "package_url": "https://pypi.org/project/navam/"
 }

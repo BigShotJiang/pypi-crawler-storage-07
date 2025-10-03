@@ -1,11 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-03T14:33:17.657984
-- **Total Packages**: 80
-- **Total Size**: 9.79 MB
+- **Download Time**: 2025-10-03T14:45:46.109969
+- **Total Packages**: 88
+- **Total Size**: 14.68 MB
 
 ## Packages List
+- jj
+- nova-trame
+- odoo-addon-l10n-es-vat-prorate
+- opencloning-linkml
+- fastrict
+- hardware-benchmark
+- literate-octo-one-cu13
+- minecode-pipelines
+- literate-octo-one-cu12
+- habitat-sim-uv-wheels-experimental
+- create-browser-app
+- blockingpy-gpu
+- asgard-eopf
+- blockingpy
+- blockingpy-core
+- pytech-sqlalchemy-tools
+- jaxl-python
+- containerimage-py
+- literate-octo-two-cu12
+- berea
+- literate-octo-two-cu13
+- bluer-ai
+- runware
+- pytech-tools
+- evenet
+- automata-linq-sdk
+- otpme
+- authentik-client
+- pysimlin
+- prstools
+- invenio-app-ils
+- pytech-rules
+- openfinops
+- classifierPratik
+- alita-sdk
+- fbx-tool
+- nucliadb-utils
+- nucliadb-telemetry
+- nucliadb-sdk
+- nucliadb-protos
+- nucliadb-models
+- nucliadb-dataset
+- nucliadb
+- nidx-protos
+- nsj-integracao-api-entidades
+- rara-tools
+- gitcommit-ai
+- phoenixcat
+- dbos
+- py3comtrade
+- churchsong
+- markdowntodocx
+- navam
+- twaddle
 - odoo-addon-account-move-tag
 - accelera
 - unknown-data
@@ -14,7 +68,6 @@
 - CytoDataFrame
 - errorx
 - pulumiverse-grafana
-- create-browser-app
 - beacontower-btpy
 - taxonomy-connector
 - enterprise-integrated-channels
@@ -22,7 +75,6 @@
 - private-assistant-commons
 - sportsball
 - edx-enterprise
-- evenet
 - beeai-framework
 - elkoep-aio-mqtt
 - constrainthg
@@ -30,7 +82,6 @@
 - fastabx
 - pyxjustiz
 - coiled
-- authentik-client
 - aixtools
 - mcp-transcriptions-server
 - biblemate
@@ -43,46 +94,3 @@
 - artifact-filesystem-store
 - markdpy
 - TEsimVar
-- provolone
-- vital
-- datacompy
-- rdworks
-- python-roborock
-- panda-color
-- example-package-clapinarthur
-- safe-internal-lib
-- edgetest
-- setch-py
-- smu-ontwins-demo
-- odoo-addon-sale-loyalty-order-suggestion-multi-product
-- PostPyro
-- asoq
-- agentswarm
-- dl2050utils
-- opencnpj
-- ign-lidar-hd
-- cocotb-coverage
-- nbnorm
-- ksbanim
-- OBPAnalyser
-- adjustor
-- cua-computer-server
-- openinference-instrumentation-bedrock
-- flashquery
-- open-edison
-- ondewo-sip-client
-- openfinops
-- uagents-core
-- dibisoreporting
-- AOT-biomaps
-- Orange3-MLflow-Export
-- smart-bot-factory
-- dwave-experimental
-- devleaps-agent-policies
-- gsrap
-- mkdocs-llmstxt
-- stix2extensions
-- gitcommit-ai
-- py-ctp
-- czsc
-- dhisana
