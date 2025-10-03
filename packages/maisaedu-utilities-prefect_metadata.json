@@ -1,11 +1,11 @@
 {
   "name": "maisaedu-utilities-prefect",
-  "version": "1.2.65",
+  "version": "1.2.66",
   "summary": "Utilities for interaction with Prefect, for +A Education",
   "author": "A+ Educação",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "maisaedu_utilities_prefect-1.2.65.tar.gz",
-  "download_time": "2025-10-02T15:12:29.061686",
+  "download_filename": "maisaedu_utilities_prefect-1.2.66.tar.gz",
+  "download_time": "2025-10-03T20:33:03.798529",
   "package_url": "https://pypi.org/project/maisaedu-utilities-prefect/"
 }

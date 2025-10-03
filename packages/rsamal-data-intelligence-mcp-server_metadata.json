@@ -1,0 +1,11 @@
+{
+  "name": "rsamal-data-intelligence-mcp-server",
+  "version": "0.0.4",
+  "summary": "MCP Server implementation for IBM Data Intelligence",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rsamal_data_intelligence_mcp_server-0.0.4.tar.gz",
+  "download_time": "2025-10-03T20:32:54.016836",
+  "package_url": "https://pypi.org/project/rsamal-data-intelligence-mcp-server/"
+}

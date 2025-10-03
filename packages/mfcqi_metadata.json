@@ -1,0 +1,11 @@
+{
+  "name": "mfcqi",
+  "version": "0.0.1",
+  "summary": "MFCQI - Benchmark Analysis Reporting Utility for comprehensive code quality analysis with LLM integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mfcqi-0.0.1.tar.gz",
+  "download_time": "2025-10-03T20:33:01.643882",
+  "package_url": "https://pypi.org/project/mfcqi/"
+}
