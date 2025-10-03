@@ -1,16 +1,70 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-03T18:54:18.832394
-- **Total Packages**: 83
-- **Total Size**: 36.14 MB
+- **Download Time**: 2025-10-03T19:11:30.923578
+- **Total Packages**: 86
+- **Total Size**: 14.95 MB
 
 ## Packages List
+- bear-django-request-normalizer
+- maleo-database
+- darn-dmap
+- barndoor
+- tacho
+- geolysis
+- caffeinated-whale-cli
+- klavis
+- aa-rattingtax
+- authentik-client
+- ensync-sdk
+- kuzu
+- imgen-cli
+- cdpcurl
+- penguiflow
+- maleo-infra
+- flexmeasures
+- supabase-functions
+- supabase-auth
+- supabase
+- storage3
+- realtime
+- postgrest
+- rxfoundry.clients.swifty_api
+- rxfoundry.clients.swifty_oauth_api
+- quotientai
+- ccdcoe
+- vscode-offline
+- defense-predictor
+- ScriptCollection
+- zrb-extras
+- lumu-mcp-server
+- langflow-nightly
+- bisocket
+- lfx-nightly
+- tobiko-cloud-helpers
+- tobiko-cloud-api-client
+- odoo-addon-resource-booking
+- perceptual-map-closures
+- tobiko-cloud-pydantic
+- opendapi
+- breezeml
+- mmar-mapi
+- aegis-game
+- flashquery
+- django-cms
+- spikee
+- asap-o-matic
+- pybotchi
+- c1s-slingshot-sdk-py
+- albert
+- kalibr
+- modal
+- maleo-schemas
+- robeex-ai-drone-api
+- flatr
 - mkdocs-note
 - kaqing
 - baudream
-- tacho
-- authentik-client
 - corebridge
 - s3dgraphy
 - ethyca-fides
@@ -19,17 +73,14 @@
 - dockwershell
 - claude-mpm
 - jotunn
-- odoo-addon-resource-booking
 - inmoose-refbatchfix
 - files-com-mcp
-- geolysis
 - sukta
 - projorg
 - meteo-lt-pkg
 - praasper
 - cvdupdate
 - pywershell
-- caffeinated-whale-cli
 - QualysPy
 - polynx
 - pbixray
@@ -41,51 +92,3 @@
 - toika-loom-server
 - playstation-store-scraper
 - nodestream
-- Pure-Python-Geospatial-Export
-- fedivis
-- pymosquitto
-- astreum
-- cachewrapper
-- bear-django-remove-trailing-slash
-- ria-toolkit-oss
-- okfn-iati
-- sbase
-- basecase
-- pytest-seleniumbase
-- pytest-sbase
-- selenium-base
-- nsj-integracao-api-client
-- slack-bolt
-- sv2svg
-- ejpcsvparser
-- orb-billing
-- seleniumbase
-- pycarlo
-- nsj-integracao-api-entidades
-- pulumi-azure
-- autopack-grn
-- cartography
-- payloop
-- uthavu-tools
-- mixtrain
-- rdworks
-- cirq-web
-- cirq-ionq
-- cirq-pasqal
-- cirq-google
-- cirq
-- cirq-aqt
-- cirq-core
-- nginx-ldap-auth-service
-- focus-response
-- slack-sdk
-- prefect-client
-- prefect
-- tiny-agent-os
-- smu-ontwins-demo
-- torchxai-tools
-- hybridoma
-- CWHFDL
-- pwdgen-py
-- svc-infra
-- penguiflow

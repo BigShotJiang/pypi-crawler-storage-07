@@ -1,11 +1,11 @@
 {
   "name": "pybotchi",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "summary": "A deterministic, intent-based AI agent builder.",
   "author": "Alexie (Boyong) Madolid",
   "license": null,
   "home_page": "https://github.com/amadolid/pybotchi",
-  "download_filename": "pybotchi-1.0.20.tar.gz",
-  "download_time": "2025-10-03T17:38:45.375703",
+  "download_filename": "pybotchi-1.0.21.tar.gz",
+  "download_time": "2025-10-03T19:11:11.054523",
   "package_url": "https://pypi.org/project/pybotchi/"
 }

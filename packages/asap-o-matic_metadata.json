@@ -1,0 +1,11 @@
+{
+  "name": "asap-o-matic",
+  "version": "2.5.0",
+  "summary": "Rearrange ASAP-seq antibody reads into something Alevin can recognize and count.",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "asap_o_matic-2.5.0.tar.gz",
+  "download_time": "2025-10-03T19:11:10.543182",
+  "package_url": "https://pypi.org/project/asap-o-matic/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "defense-predictor",
+  "version": "1.0.0",
+  "summary": "Python module for running Defense Predictor, a machine learning model to predict antiphage defense systems",
+  "author": "peterdeweirdt",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "defense_predictor-1.0.0.tar.gz",
+  "download_time": "2025-10-03T19:11:00.161595",
+  "package_url": "https://pypi.org/project/defense-predictor/"
+}

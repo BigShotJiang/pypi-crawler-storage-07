@@ -1,11 +1,11 @@
 {
   "name": "supabase-auth",
-  "version": "2.21.0",
+  "version": "2.21.1",
   "summary": "Python Client Library for Supabase Auth",
   "author": "Joel Lee",
   "license": null,
   "home_page": null,
-  "download_filename": "supabase_auth-2.21.0.tar.gz",
-  "download_time": "2025-10-03T17:39:15.547480",
+  "download_filename": "supabase_auth-2.21.1.tar.gz",
+  "download_time": "2025-10-03T19:10:55.017759",
   "package_url": "https://pypi.org/project/supabase-auth/"
 }
