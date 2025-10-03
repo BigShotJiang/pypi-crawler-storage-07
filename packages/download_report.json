@@ -1,9 +1,8 @@
 {
-  "download_time": "2025-10-03T05:13:27.892081",
+  "download_time": "2025-10-03T05:33:04.546665",
   "total_packages_downloaded": 78,
-  "total_size_mb": 9.05,
+  "total_size_mb": 0.98,
   "packages": [
-    "confido-atls",
     "ltts",
     "authentik-client",
     "usentinel",
@@ -80,6 +79,7 @@
     "omdev-cext",
     "peakrdl",
     "peakrdl-cli",
-    "cpp-linter"
+    "cpp-linter",
+    "appwrite"
   ]
 }

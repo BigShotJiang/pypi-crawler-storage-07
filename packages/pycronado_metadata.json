@@ -1,11 +1,11 @@
 {
   "name": "pycronado",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "summary": "Set of trivial tools for building microservices with Tornado",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pycronado-0.0.18.tar.gz",
-  "download_time": "2025-10-03T04:34:37.136716",
+  "download_filename": "pycronado-0.0.19.tar.gz",
+  "download_time": "2025-10-03T05:32:50.967866",
   "package_url": "https://pypi.org/project/pycronado/"
 }
