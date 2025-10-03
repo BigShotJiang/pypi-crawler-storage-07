@@ -1,0 +1,11 @@
+{
+  "name": "opycleid",
+  "version": "0.5.0",
+  "summary": "Transformational music analysis in Python",
+  "author": "Alexandre Popoff",
+  "license": "BSD-3",
+  "home_page": "https://github.com/AlexPof/opycleid.git",
+  "download_filename": "opycleid-0.5.0.tar.gz",
+  "download_time": "2025-10-03T15:42:22.226202",
+  "package_url": "https://pypi.org/project/opycleid/"
+}

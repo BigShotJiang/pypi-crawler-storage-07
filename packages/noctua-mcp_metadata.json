@@ -1,0 +1,11 @@
+{
+  "name": "noctua-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for Barista to control Noctua editing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "noctua_mcp-0.1.1.tar.gz",
+  "download_time": "2025-10-03T15:42:21.065622",
+  "package_url": "https://pypi.org/project/noctua-mcp/"
+}

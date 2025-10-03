@@ -1,11 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-03T15:31:22.896432
-- **Total Packages**: 92
-- **Total Size**: 49.69 MB
+- **Download Time**: 2025-10-03T15:43:06.214298
+- **Total Packages**: 88
+- **Total Size**: 20.14 MB
 
 ## Packages List
+- demo-greeter-jad-pkg
+- demo-greeter-christ
+- demo-greeter-hasan
+- abedwomar
+- add-signif
+- netgen-mesher
+- grasp_agents
+- shawon-mt5-automation
+- noctua-mcp
+- guarddog
+- opycleid
+- demonancyakrimsbdwsjc-pkg
+- krules-framework
+- abjad
+- hardware-ml-benchmark
+- demo-greeter-mh-hij-02
+- relationalai
+- qaz008fear
+- py-pve-cloud
+- ecodev-core
+- diffweave-ai
+- authentik-client
+- psaiops
+- demo-greeter-mustafa
+- andi
+- ipfabric
+- uipath
+- amazon-braket-sdk
+- tobiko-cloud-api-client
+- tobiko-cloud-pydantic
+- abm
+- pycarlo
+- odoo-addon-product-supplierinfo-for-customer-picking
+- tobiko-cloud-helpers
+- solomonai-backend-client-sdk
+- CAPE-parsers
+- demo-greeter-mohammad
+- pulumiverse-grafana
+- trelby
+- hydro-analysis-toolkit
+- sdss-almanac
+- local-context-server
+- ap-health-report
+- bigbro
+- snowflake-labs-mcp
+- smartsheet-tools
+- snowcli-tools
+- delvewheel
+- demo-greeter-haidar-pkg
+- demo-greeter-joelle-pkg
+- lima2-client
 - hybridoma
 - Orange3-MLflow-Export
 - airflow-operators
@@ -15,7 +66,6 @@
 - odoo-addon-loyalty-coupon-no-mail
 - fastloop
 - pyUnfoldedCircleRemote
-- pulumiverse-grafana
 - oarepo-ui
 - sphinx-syntax
 - dls-dodal
@@ -23,17 +73,14 @@
 - dara-core
 - dara-components
 - create-dara-app
-- authentik-client
 - opensafely
 - demo-fida
 - datefun
 - md2fileo
 - sqlite-ai
 - py-rattler
-- qaz008fear
 - bloqade-geometry
 - wowool-entity-graph
-- trelby
 - ial-build
 - icechunk
 - jsonapi-client-framework
@@ -47,54 +94,3 @@
 - demo-greeter-sarah
 - xdsl
 - make-post-sell
-- osso-docktool
-- boogle-logger-2
-- sqliteai-vector
-- julep
-- sphinx-unpack
-- impresso-text-preparation
-- graphiti-core
-- deps-rocker
-- d1snakegame
-- votemarket-toolkit
-- nrel-bird
-- patx
-- boogle-logger
-- pulumi
-- reem-samar-hanin-pkg
-- yang.ncdiff
-- yang.connector
-- unicon.plugins
-- sportsball
-- unicon
-- rest.connector
-- demo-greeter-zahra-pkg
-- livecodec
-- virgo-modules
-- hardware-ml-benchmark
-- drudge-cli
-- segy
-- cued-speech
-- backtracking-llm
-- ert
-- pyats.contrib
-- arthur-client
-- pr-prompt
-- odoo-addon-l10n-ro-vat-on-payment
-- odoo-addon-l10n-ro-config
-- odoo-addon-l10n-ro-partner-create-by-vat
-- pulumi-xyz
-- pyats
-- pyats.utils
-- pyats.topology
-- csvpath
-- biblemate
-- pyats.tcl
-- pyats.robot
-- pycarlo
-- pyats.results
-- rpygrep
-- pyats.reporter
-- pyats.log
-- uv-ship
-- mock-spark

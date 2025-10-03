@@ -1,11 +1,11 @@
 {
   "name": "sdss-almanac",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Everything we've got",
   "author": null,
   "license": "BSD 3-Clause License",
   "home_page": null,
-  "download_filename": "sdss_almanac-0.2.4.tar.gz",
-  "download_time": "2025-10-03T03:39:13.731602",
+  "download_filename": "sdss_almanac-0.2.5.tar.gz",
+  "download_time": "2025-10-03T15:42:39.212102",
   "package_url": "https://pypi.org/project/sdss-almanac/"
 }

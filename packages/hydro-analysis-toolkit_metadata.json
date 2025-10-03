@@ -1,0 +1,11 @@
+{
+  "name": "hydro-analysis-toolkit",
+  "version": "0.8.1",
+  "summary": "ECMWF's Hydrological Analysis Toolkit",
+  "author": null,
+  "license": "Apache License Version 2.0",
+  "home_page": null,
+  "download_filename": "hydro_analysis_toolkit-0.8.1.tar.gz",
+  "download_time": "2025-10-03T15:42:38.186220",
+  "package_url": "https://pypi.org/project/hydro-analysis-toolkit/"
+}

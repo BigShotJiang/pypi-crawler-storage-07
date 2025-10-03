@@ -1,11 +1,11 @@
 {
   "name": "snowcli-tools",
-  "version": "1.6.0",
-  "summary": "Snowflake CLI Tools: generate a Data Catalog and Dependency Graph on top of the official Snowflake CLI; includes parallel query helpers and advanced lineage features",
+  "version": "1.7.0",
+  "summary": "Snowflake CLI Tools: generate a Data Catalog and Dependency Graph on top of the official Snowflake CLI; includes parallel query helpers, advanced lineage features, SQL safety validation, and agent-first error handling",
   "author": "Evan Kim",
   "license": null,
   "home_page": null,
-  "download_filename": "snowcli_tools-1.6.0.tar.gz",
-  "download_time": "2025-09-29T17:30:03.601247",
+  "download_filename": "snowcli_tools-1.7.0.tar.gz",
+  "download_time": "2025-10-03T15:42:43.299409",
   "package_url": "https://pypi.org/project/snowcli-tools/"
 }
