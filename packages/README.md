@@ -1,18 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-03T18:17:14.322394
-- **Total Packages**: 83
-- **Total Size**: 63.51 MB
+- **Download Time**: 2025-10-03T18:42:36.320239
+- **Total Packages**: 84
+- **Total Size**: 0.2 MB
 
 ## Packages List
-- fcdft
-- cryptopyx
-- trackio
-- FWHFDL
-- nswrapslite
-- programgarden
-- vec-inf
 - accelera
 - mbari-aidata
 - OT-knn
@@ -83,9 +76,17 @@
 - maco-model
 - maco
 - axon-dl
+- programgarden
 - Orange3-Textable
 - geojson-modelica-translator
 - python-switchos
 - foundry-sdk
 - zrb-extras
 - llama-index
+- astra-mcp-server
+- synth-ai
+- smu-ontwins-demo
+- skill-framework
+- LLM-Bridge
+- opycleid
+- cdFBA

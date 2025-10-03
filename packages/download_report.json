@@ -1,15 +1,8 @@
 {
-  "download_time": "2025-10-03T18:17:14.322394",
-  "total_packages_downloaded": 83,
-  "total_size_mb": 63.51,
+  "download_time": "2025-10-03T18:42:36.320239",
+  "total_packages_downloaded": 84,
+  "total_size_mb": 0.2,
   "packages": [
-    "fcdft",
-    "cryptopyx",
-    "trackio",
-    "FWHFDL",
-    "nswrapslite",
-    "programgarden",
-    "vec-inf",
     "accelera",
     "mbari-aidata",
     "OT-knn",
@@ -80,11 +73,19 @@
     "maco-model",
     "maco",
     "axon-dl",
+    "programgarden",
     "Orange3-Textable",
     "geojson-modelica-translator",
     "python-switchos",
     "foundry-sdk",
     "zrb-extras",
-    "llama-index"
+    "llama-index",
+    "astra-mcp-server",
+    "synth-ai",
+    "smu-ontwins-demo",
+    "skill-framework",
+    "LLM-Bridge",
+    "opycleid",
+    "cdFBA"
   ]
 }
