@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-tweet",
+  "version": "0.1.0",
+  "summary": "NoneBot2 plugin for forwarding tweets with optional translation support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_tweet-0.1.0.tar.gz",
+  "download_time": "2025-10-03T04:49:53.327178",
+  "package_url": "https://pypi.org/project/nonebot-plugin-tweet/"
+}
