@@ -1,0 +1,11 @@
+{
+  "name": "godjigame-event-schemas",
+  "version": "1.6.0",
+  "summary": "Avro-based event schemas for TypeScript and Python services",
+  "author": "Godji Game",
+  "license": "MIT",
+  "home_page": "https://github.com/goodgameteamit/event-schemas",
+  "download_filename": "godjigame_event_schemas-1.6.0.tar.gz",
+  "download_time": "2025-10-03T11:35:07.020436",
+  "package_url": "https://pypi.org/project/godjigame-event-schemas/"
+}

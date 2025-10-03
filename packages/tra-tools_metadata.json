@@ -1,0 +1,11 @@
+{
+  "name": "tra-tools",
+  "version": "0.0.9.1.dev0",
+  "summary": "some helpful tools",
+  "author": "tra-group",
+  "license": null,
+  "home_page": "https://github.com/tokentranslator-group/tra-tools",
+  "download_filename": "tra-tools-0.0.9.1.dev0.tar.gz",
+  "download_time": "2025-10-03T11:35:30.555851",
+  "package_url": "https://pypi.org/project/tra-tools/"
+}

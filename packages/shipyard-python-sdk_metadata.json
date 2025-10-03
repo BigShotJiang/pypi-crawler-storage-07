@@ -1,11 +1,11 @@
 {
   "name": "shipyard-python-sdk",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Shipyard Python SDK is an agent sandbox sdk",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "shipyard_python_sdk-0.2.0.tar.gz",
-  "download_time": "2025-10-03T07:49:43.393780",
+  "download_filename": "shipyard_python_sdk-0.2.1.tar.gz",
+  "download_time": "2025-10-03T11:35:15.091883",
   "package_url": "https://pypi.org/project/shipyard-python-sdk/"
 }

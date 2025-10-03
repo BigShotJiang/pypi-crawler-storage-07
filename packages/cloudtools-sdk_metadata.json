@@ -1,11 +1,11 @@
 {
   "name": "cloudtools-sdk",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "CloudTools SDK for building services on top of Temporal",
   "author": "CloudTools Team",
   "license": null,
   "home_page": null,
-  "download_filename": "cloudtools_sdk-0.2.0.tar.gz",
-  "download_time": "2025-10-03T09:31:07.992899",
+  "download_filename": "cloudtools_sdk-0.2.1.tar.gz",
+  "download_time": "2025-10-03T11:35:03.804146",
   "package_url": "https://pypi.org/project/cloudtools-sdk/"
 }

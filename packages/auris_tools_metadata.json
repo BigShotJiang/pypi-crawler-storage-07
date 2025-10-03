@@ -1,11 +1,11 @@
 {
   "name": "auris_tools",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "The swiss knife tools to coordinates cloud frameworks with an easy for Auris platforms",
   "author": "Antonio Senra",
   "license": null,
   "home_page": null,
-  "download_filename": "auris_tools-0.0.1.tar.gz",
-  "download_time": "2025-10-01T21:11:11.548100",
+  "download_filename": "auris_tools-0.0.2.tar.gz",
+  "download_time": "2025-10-03T11:35:05.955180",
   "package_url": "https://pypi.org/project/auris_tools/"
 }

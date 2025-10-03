@@ -1,11 +1,11 @@
 {
   "name": "chift",
-  "version": "0.3.20",
+  "version": "0.3.21",
   "summary": "Chift API client",
   "author": "Henry Hertoghe",
   "license": null,
   "home_page": null,
-  "download_filename": "chift-0.3.20.tar.gz",
-  "download_time": "2025-10-02T04:34:04.928914",
+  "download_filename": "chift-0.3.21.tar.gz",
+  "download_time": "2025-10-03T11:35:19.384361",
   "package_url": "https://pypi.org/project/chift/"
 }
