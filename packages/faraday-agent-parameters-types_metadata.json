@@ -1,0 +1,11 @@
+{
+  "name": "faraday-agent-parameters-types",
+  "version": "1.9.1",
+  "summary": "The faraday agents run code remotely to ensure your domains. This info is triggered and published",
+  "author": "Faraday Development Team",
+  "license": "GNU General Public License v3",
+  "home_page": "https://github.com/infobyte/faraday_agent_parameters_types",
+  "download_filename": "faraday_agent_parameters_types-1.9.1.tar.gz",
+  "download_time": "2025-10-03T13:51:07.608267",
+  "package_url": "https://pypi.org/project/faraday-agent-parameters-types/"
+}

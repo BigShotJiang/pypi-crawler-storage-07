@@ -1,0 +1,11 @@
+{
+  "name": "grommunio-exporter",
+  "version": "0.5.1",
+  "summary": "Grommunio email system data exporter for Prometheus",
+  "author": "NetInvent - Orsiris de Jong",
+  "license": "GPLv3",
+  "home_page": "https://github.com/netinvent/grommunio_exporter",
+  "download_filename": "grommunio_exporter-0.5.1.tar.gz",
+  "download_time": "2025-10-03T13:51:31.201069",
+  "package_url": "https://pypi.org/project/grommunio-exporter/"
+}

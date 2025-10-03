@@ -1,0 +1,11 @@
+{
+  "name": "onnx2fmu",
+  "version": "0.2.4",
+  "summary": "A tool for wrapping ONNX netwroks in FMUs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "onnx2fmu-0.2.4.tar.gz",
+  "download_time": "2025-10-03T13:50:46.780025",
+  "package_url": "https://pypi.org/project/onnx2fmu/"
+}

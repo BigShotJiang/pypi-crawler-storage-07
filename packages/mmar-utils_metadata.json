@@ -1,11 +1,11 @@
 {
   "name": "mmar-utils",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "summary": "Utilities for multi-modal architectures team",
   "author": "Eugene Tagin",
   "license": null,
   "home_page": null,
-  "download_filename": "mmar_utils-1.0.11.tar.gz",
-  "download_time": "2025-10-03T10:13:33.089576",
+  "download_filename": "mmar_utils-1.0.12.tar.gz",
+  "download_time": "2025-10-03T13:51:02.132414",
   "package_url": "https://pypi.org/project/mmar-utils/"
 }

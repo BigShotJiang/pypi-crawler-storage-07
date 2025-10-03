@@ -1,0 +1,11 @@
+{
+  "name": "markdowntodocx",
+  "version": "0.1.7.0",
+  "summary": "Convert markdown inside Docx to docx styles",
+  "author": "Fabien Barre",
+  "license": "MIT",
+  "home_page": "https://github.com/fbarre96/MarkDownToDocxStyle",
+  "download_filename": "markdowntodocx-0.1.7.0.tar.gz",
+  "download_time": "2025-10-03T13:51:17.526487",
+  "package_url": "https://pypi.org/project/markdowntodocx/"
+}
