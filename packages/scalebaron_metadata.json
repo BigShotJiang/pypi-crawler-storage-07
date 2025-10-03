@@ -1,0 +1,11 @@
+{
+  "name": "scalebaron",
+  "version": "1.0.0",
+  "summary": "ScaleBarOn: A Python Tool for Scaling Multiple Elemental Maps",
+  "author": "Tracy Punshon",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scalebaron-1.0.0.tar.gz",
+  "download_time": "2025-10-03T17:38:55.355454",
+  "package_url": "https://pypi.org/project/scalebaron/"
+}

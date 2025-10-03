@@ -1,0 +1,11 @@
+{
+  "name": "kompass-core",
+  "version": "0.6.1",
+  "summary": "Navigation Algorithms Library for Kompass",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kompass_core-0.6.1.tar.gz",
+  "download_time": "2025-10-03T17:39:02.675374",
+  "package_url": "https://pypi.org/project/kompass-core/"
+}

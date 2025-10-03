@@ -1,11 +1,11 @@
 {
   "name": "icepapcms",
-  "version": "3.10.1",
+  "version": "3.10.2",
   "summary": "Icepap Configuration Management System and Test Tool",
   "author": "Guifre Cuni et al.",
   "license": "GPLv3",
   "home_page": "https://github.com/ALBA-Synchrotron/IcepapCMS",
-  "download_filename": "icepapcms-3.10.1.tar.gz",
-  "download_time": "2025-10-03T08:37:43.221976",
+  "download_filename": "icepapcms-3.10.2.tar.gz",
+  "download_time": "2025-10-03T17:38:50.662826",
   "package_url": "https://pypi.org/project/icepapcms/"
 }

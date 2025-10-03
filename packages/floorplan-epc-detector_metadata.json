@@ -1,11 +1,11 @@
 {
   "name": "floorplan-epc-detector",
-  "version": "2.0.0",
+  "version": "2.0.4",
   "summary": "A package for making predictions using a custom-trained ONNX floorplan/epc/proprty_image model",
   "author": "Oliver Brown",
   "license": null,
   "home_page": "https://github.com/Resipedia/domusview_epc_floorplan_image_detection",
-  "download_filename": "floorplan_epc_detector-2.0.0.tar.gz",
-  "download_time": "2025-10-03T15:48:57.457720",
+  "download_filename": "floorplan_epc_detector-2.0.4.tar.gz",
+  "download_time": "2025-10-03T17:38:48.515113",
   "package_url": "https://pypi.org/project/floorplan-epc-detector/"
 }

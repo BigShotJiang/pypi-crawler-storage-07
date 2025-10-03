@@ -1,11 +1,11 @@
 {
   "name": "tufteplotlib",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "An extension to matplotlib for creating graphs in the style of Edward Tufte.",
   "author": "Jon Woolfrey",
   "license": "GPLv3",
   "home_page": "https://github.com/Woolfrey/software_tufte_plot",
-  "download_filename": "tufteplotlib-1.0.1.tar.gz",
-  "download_time": "2025-10-02T11:34:36.006547",
+  "download_filename": "tufteplotlib-1.1.0.tar.gz",
+  "download_time": "2025-10-03T17:39:20.682877",
   "package_url": "https://pypi.org/project/tufteplotlib/"
 }

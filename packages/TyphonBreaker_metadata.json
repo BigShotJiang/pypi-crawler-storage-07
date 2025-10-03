@@ -1,11 +1,11 @@
 {
   "name": "TyphonBreaker",
-  "version": "1.0.10",
+  "version": "1.0.10.1",
   "summary": "A auto pyjail (python sandbox) solver",
   "author": "LamentXU(Weilin Du)",
   "license": "Apache-2.0",
   "home_page": "https://github.com/Team-intN18-SoybeanSeclab/Typhon",
-  "download_filename": "typhonbreaker-1.0.10.tar.gz",
-  "download_time": "2025-10-03T17:10:50.567985",
+  "download_filename": "typhonbreaker-1.0.10.1.tar.gz",
+  "download_time": "2025-10-03T17:39:11.953744",
   "package_url": "https://pypi.org/project/TyphonBreaker/"
 }

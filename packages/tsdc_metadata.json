@@ -1,0 +1,11 @@
+{
+  "name": "tsdc",
+  "version": "0.1.0",
+  "summary": "A powerful library for creating time series datasets for machine learning models",
+  "author": "DeepPythonist",
+  "license": "MIT",
+  "home_page": "https://github.com/DeepPythonist/tsdc",
+  "download_filename": "tsdc-0.1.0.tar.gz",
+  "download_time": "2025-10-03T17:38:43.270465",
+  "package_url": "https://pypi.org/project/tsdc/"
+}

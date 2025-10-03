@@ -1,11 +1,11 @@
 {
   "name": "axon-dl",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A Deep Learning Library with focus on fast experimentation.",
   "author": "Yusuf Shihata (Vixel)",
   "license": null,
   "home_page": null,
-  "download_filename": "axon_dl-0.1.0-py3-none-any.whl",
-  "download_time": "2025-10-03T17:10:47.840125",
+  "download_filename": "axon_dl-0.1.2.tar.gz",
+  "download_time": "2025-10-03T17:39:02.160705",
   "package_url": "https://pypi.org/project/axon-dl/"
 }

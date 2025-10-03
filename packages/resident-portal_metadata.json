@@ -1,0 +1,11 @@
+{
+  "name": "resident-portal",
+  "version": "0.0.1",
+  "summary": "API wrapper for ResidentPortal",
+  "author": "Gavyn Stanley",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "resident_portal-0.0.1.tar.gz",
+  "download_time": "2025-10-03T17:38:50.109792",
+  "package_url": "https://pypi.org/project/resident-portal/"
+}

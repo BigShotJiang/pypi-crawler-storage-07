@@ -1,11 +1,11 @@
 {
   "name": "microdag",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Ultra-lightweight DAG blockchain optimized for IoT devices and micropayments",
   "author": "MicroDAG Team",
   "license": "MIT",
   "home_page": "https://github.com/microdag/microdag",
-  "download_filename": "microdag-1.0.2.tar.gz",
-  "download_time": "2025-10-03T16:37:42.500594",
+  "download_filename": "microdag-1.0.3.tar.gz",
+  "download_time": "2025-10-03T17:39:08.364153",
   "package_url": "https://pypi.org/project/microdag/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ocient-graph",
+  "version": "1.0.0",
+  "summary": "Ocient Graph Utilities built on top of pyocient",
+  "author": "Ocient Inc",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://www.ocient.com/",
+  "download_filename": "ocient_graph-1.0.0-py3-none-any.whl",
+  "download_time": "2025-10-03T17:39:01.650264",
+  "package_url": "https://pypi.org/project/ocient-graph/"
+}

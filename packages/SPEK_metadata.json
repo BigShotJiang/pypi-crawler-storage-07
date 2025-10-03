@@ -1,0 +1,11 @@
+{
+  "name": "SPEK",
+  "version": "0.0.4",
+  "summary": "SPEK: Simple Python Extraction Kit - Easy YOLOv8 Object Detection",
+  "author": "Rudransh Joshi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spek-0.0.4.tar.gz",
+  "download_time": "2025-10-03T17:38:53.258591",
+  "package_url": "https://pypi.org/project/SPEK/"
+}
