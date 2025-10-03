@@ -1,0 +1,11 @@
+{
+  "name": "ad9xdds",
+  "version": "0.5.11",
+  "summary": "Ad9xDds is library dedicated to handle AD9854, AD9912 and AD9915 DDS development board.",
+  "author": "Benoit Dubois",
+  "license": "LGPL-3.0-or-later",
+  "home_page": "https://gitlab.com/bendub/ad9xdds",
+  "download_filename": "ad9xdds-0.5.11.tar.gz",
+  "download_time": "2025-10-03T09:30:40.169638",
+  "package_url": "https://pypi.org/project/ad9xdds/"
+}

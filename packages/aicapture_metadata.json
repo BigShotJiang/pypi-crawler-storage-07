@@ -1,0 +1,11 @@
+{
+  "name": "aicapture",
+  "version": "0.3.5",
+  "summary": "A Python module to capture knowledge from documents using Vision Language Models (VLMs)",
+  "author": "Aitomatic",
+  "license": "MIT",
+  "home_page": "https://github.com/Aitomatic/ai-vision-capture",
+  "download_filename": "aicapture-0.3.5.tar.gz",
+  "download_time": "2025-10-03T09:30:46.411379",
+  "package_url": "https://pypi.org/project/aicapture/"
+}

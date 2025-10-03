@@ -1,0 +1,11 @@
+{
+  "name": "sb-async",
+  "version": "0.0.2",
+  "summary": "A high-performance async thread pool with process-based execution and forceful job termination",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sb_async-0.0.2.tar.gz",
+  "download_time": "2025-10-03T09:30:57.206906",
+  "package_url": "https://pypi.org/project/sb-async/"
+}
