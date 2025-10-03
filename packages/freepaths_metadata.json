@@ -1,0 +1,11 @@
+{
+  "name": "freepaths",
+  "version": "2.2",
+  "summary": "Phonon Monte Carlo simulator",
+  "author": "Roman Anufriev",
+  "license": "GPL",
+  "home_page": "https://github.com/anufrievroman/freepaths",
+  "download_filename": "freepaths-2.2.tar.gz",
+  "download_time": "2025-10-03T07:29:06.298688",
+  "package_url": "https://pypi.org/project/freepaths/"
+}

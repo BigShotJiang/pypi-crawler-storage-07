@@ -1,11 +1,11 @@
 {
   "name": "documentdataextraction",
-  "version": "0.0.150",
-  "summary": "Resloved issue of trace due to an invalid quantity value returned by OpenAI in the generate line example function.",
+  "version": "0.0.152",
+  "summary": "Handwritten processing method also call like Encrypted.",
   "author": "Proteus Technology PVT. LTD.",
   "license": null,
   "home_page": null,
-  "download_filename": "documentdataextraction-0.0.150-py3-none-any.whl",
-  "download_time": "2025-09-30T12:22:07.246355",
+  "download_filename": "documentdataextraction-0.0.152-py3-none-any.whl",
+  "download_time": "2025-10-03T07:29:11.259894",
   "package_url": "https://pypi.org/project/documentdataextraction/"
 }

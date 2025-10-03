@@ -1,0 +1,11 @@
+{
+  "name": "seatsio",
+  "version": "81.11.0",
+  "summary": "The official Seats.io Python client library",
+  "author": "The seats.io dev team",
+  "license": "MIT",
+  "home_page": "https://github.com/seatsio/seatsio-python",
+  "download_filename": "seatsio-81.11.0.tar.gz",
+  "download_time": "2025-10-03T07:28:57.630206",
+  "package_url": "https://pypi.org/project/seatsio/"
+}
