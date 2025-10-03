@@ -1,0 +1,11 @@
+{
+  "name": "pyrealm",
+  "version": "2.0.0",
+  "summary": "Python tools for modelling plant productivity and demography.",
+  "author": "David Orme",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyrealm-2.0.0.tar.gz",
+  "download_time": "2025-10-03T11:10:45.522554",
+  "package_url": "https://pypi.org/project/pyrealm/"
+}

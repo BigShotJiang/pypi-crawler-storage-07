@@ -1,0 +1,11 @@
+{
+  "name": "ecotransformers",
+  "version": "1.0.0",
+  "summary": "Towards Net-Zero AI: Reducing Latency and Energy Consumption with Eco-Transformers",
+  "author": "['Shriaarthy E', 'Sangeetha S']",
+  "license": "MIT",
+  "home_page": "https://github.com/aarthyviven/ecotransformers",
+  "download_filename": "ecotransformers-1.0.0.tar.gz",
+  "download_time": "2025-10-03T11:10:40.769512",
+  "package_url": "https://pypi.org/project/ecotransformers/"
+}

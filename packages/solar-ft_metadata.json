@@ -1,0 +1,11 @@
+{
+  "name": "solar-ft",
+  "version": "2.1.0",
+  "summary": "A Python lib for Solar Feature Tracking",
+  "author": "Michele Berretti",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/mib-unitn/SoFT",
+  "download_filename": "solar_ft-2.1.0.tar.gz",
+  "download_time": "2025-10-03T11:11:04.841485",
+  "package_url": "https://pypi.org/project/solar-ft/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vitrage",
-  "version": "15.0.0",
+  "version": "15.0.1",
   "summary": "The OpenStack RCA Service",
   "author": "OpenStack",
   "license": "Apache-2.0",
   "home_page": "https://docs.openstack.org/vitrage/latest/",
-  "download_filename": "vitrage-15.0.0.tar.gz",
-  "download_time": "2025-10-01T10:50:10.130530",
+  "download_filename": "vitrage-15.0.1.tar.gz",
+  "download_time": "2025-10-03T11:10:53.310779",
   "package_url": "https://pypi.org/project/vitrage/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "asynccloup",
+  "version": "3.0.8.1",
+  "summary": "Adds features to AsyncClick: option groups, constraints, subcommand sections and help themes. A fork of Gianluca Gippetto's 'Cloup'.",
+  "author": "Matthias Urlichs",
+  "license": "BSD 3-Clause",
+  "home_page": "https://github.com/M-o-a-T/asynccloup",
+  "download_filename": "asynccloup-3.0.8.1.tar.gz",
+  "download_time": "2025-10-03T11:10:52.053778",
+  "package_url": "https://pypi.org/project/asynccloup/"
+}

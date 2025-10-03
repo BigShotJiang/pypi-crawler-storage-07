@@ -1,17 +1,68 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-03T10:49:37.625155
-- **Total Packages**: 77
-- **Total Size**: 24.78 MB
+- **Download Time**: 2025-10-03T11:11:19.228212
+- **Total Packages**: 76
+- **Total Size**: 33.29 MB
 
 ## Packages List
-- wrap-rocks
+- ado-ray-tune
+- ado-sfttrainer
+- ado-core
+- polars-genson
+- scc-firewall-manager-sdk
+- argparcel
+- aedev-project-tpls
+- authentik-client
+- llm-annotator
+- ecotransformers
+- Vease-Viewer
+- pybandstructure
+- vease-back
+- dazpycheck
+- simplyprint-bambu-lab
+- almapiwrapper
+- syngen-databricks
+- pyrealm
+- portwatch
+- mm-sdk
+- opik
+- voice-mode
+- syngen
+- mongofy
+- nucliadb-admin-assets
+- OpenGeodeWeb-Viewer
+- orangebeard-robotframework
+- OpenGeodeWeb-Back
+- asynccloup
+- shops_nocodb_updater
+- vitrage
+- Rubka
+- lymia
+- orangebeard-client
+- OpenGeodeWeb-Microservice
+- irtranslate
+- kalong
+- pageextractor
+- astro-p3
+- votemarket-toolkit
+- mastsel
+- modaic
+- buz
+- nbnorm
+- bosa-server-plugins-binary
+- fastregex
+- room-env
+- bimdata-api-client
+- fipiran
 - fluvialgen
+- solar-ft
+- unique_sdk
+- omniopt2
+- wrap-rocks
 - kabukit
 - robustloss-lab
 - make-colors
-- OpenGeodeWeb-Microservice
 - Geode-Conversion
 - pulumiverse-grafana
 - nbprune
@@ -31,55 +82,3 @@
 - spotlight-for-windows-seige
 - oarepo
 - fastrict
-- omniopt2
-- aixtools
-- authentik-client
-- Google-Maps-Platform
-- HowdenParser
-- mech-client
-- ruleopt
-- lunar-mcp-server
-- smalk-disk-check
-- wyoming-kokoro-torch
-- daytona_sdk
-- daytona
-- retracesoftware-stream
-- daytona_api_client
-- daytona_api_client_async
-- gllm-agents-binary
-- v440
-- deep-river
-- meshcore
-- pydiverse-transform
-- behavioral-signals-swagger-client
-- pageextractor
-- jaxl-python
-- arches-containers
-- cg-vrp
-- docling
-- cloudnetpy-qc
-- wandelbots-api-client
-- pulumi-command
-- duckrun
-- ajoycon
-- cli-timer
-- simple-api-mock-server
-- ai-edge-torch-nightly
-- threedidepth
-- irtranslate
-- fastapi-router-viz
-- adk-agui-middleware
-- tencent-wedata-feature-engineering
-- rebrandly-otel
-- pennylane-quantuminspire
-- looker_loader
-- wedoco_optimo
-- filekits
-- levelapp
-- blues-lib
-- quantum-flows
-- social-interaction-cloud
-- modelw-preset-django
-- dexray-intercept
-- netcdf2region
-- tf-keras-nightly

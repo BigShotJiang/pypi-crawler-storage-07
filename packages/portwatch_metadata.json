@@ -1,11 +1,11 @@
 {
   "name": "portwatch",
-  "version": "0.0.8",
-  "summary": "Real-time port and process monitor with dev port alerts and built-in config UI",
-  "author": "Madushanaka Rajapaksha",
+  "version": "0.1.1",
+  "summary": "A real-time TUI app to monitor, filter, and kill processes using dev ports — with conflict alerts and built-in config UI.",
+  "author": null,
   "license": "MIT",
-  "home_page": "https://github.com/madushanakarajapakshe999/portwatch",
-  "download_filename": "portwatch-0.0.8.tar.gz",
-  "download_time": "2025-10-01T14:34:50.808453",
+  "home_page": null,
+  "download_filename": "portwatch-0.1.1.tar.gz",
+  "download_time": "2025-10-03T11:10:46.084815",
   "package_url": "https://pypi.org/project/portwatch/"
 }

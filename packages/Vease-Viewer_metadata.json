@@ -1,11 +1,11 @@
 {
   "name": "Vease-Viewer",
-  "version": "2.3.14",
+  "version": "2.3.16",
   "summary": "Vease-Viewer is the viewer microservice of Vease",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vease_viewer-2.3.14.tar.gz",
-  "download_time": "2025-10-03T10:34:23.639064",
+  "download_filename": "vease_viewer-2.3.16.tar.gz",
+  "download_time": "2025-10-03T11:10:41.331116",
   "package_url": "https://pypi.org/project/Vease-Viewer/"
 }
