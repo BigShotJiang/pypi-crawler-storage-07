@@ -1,0 +1,11 @@
+{
+  "name": "futurehouse-mcp",
+  "version": "0.1.3",
+  "summary": "MCP server for FutureHouse platform integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "futurehouse_mcp-0.1.3.tar.gz",
+  "download_time": "2025-10-03T13:01:59.771791",
+  "package_url": "https://pypi.org/project/futurehouse-mcp/"
+}

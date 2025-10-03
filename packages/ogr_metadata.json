@@ -1,0 +1,11 @@
+{
+  "name": "ogr",
+  "version": "0.56.1",
+  "summary": "One API for multiple git forges.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ogr-0.56.1.tar.gz",
+  "download_time": "2025-10-03T13:02:01.340304",
+  "package_url": "https://pypi.org/project/ogr/"
+}

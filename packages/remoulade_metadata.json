@@ -1,11 +1,11 @@
 {
   "name": "remoulade",
-  "version": "3.5.1",
+  "version": "3.6.0",
   "summary": "Background Processing for Python 3.",
   "author": "Wiremind",
   "license": null,
   "home_page": null,
-  "download_filename": "remoulade-3.5.1.tar.gz",
-  "download_time": "2025-10-01T17:32:09.908327",
+  "download_filename": "remoulade-3.6.0.tar.gz",
+  "download_time": "2025-10-03T13:01:39.889737",
   "package_url": "https://pypi.org/project/remoulade/"
 }

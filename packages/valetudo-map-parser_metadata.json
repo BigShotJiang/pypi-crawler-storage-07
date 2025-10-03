@@ -1,0 +1,11 @@
+{
+  "name": "valetudo-map-parser",
+  "version": "0.1.9",
+  "summary": "A Python library to parse Valetudo map data returning a PIL Image object.",
+  "author": "Sandro Cantarella",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "valetudo_map_parser-0.1.9.tar.gz",
+  "download_time": "2025-10-03T13:02:02.886757",
+  "package_url": "https://pypi.org/project/valetudo-map-parser/"
+}

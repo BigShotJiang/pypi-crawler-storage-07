@@ -1,0 +1,11 @@
+{
+  "name": "defuse",
+  "version": "0.0.5",
+  "summary": "Detect unused Python functions and generate usage reports",
+  "author": "Peter Sinkovicz",
+  "license": null,
+  "home_page": "https://github.com/antsticky/defuse",
+  "download_filename": "defuse-0.0.5.tar.gz",
+  "download_time": "2025-10-03T13:01:54.127320",
+  "package_url": "https://pypi.org/project/defuse/"
+}

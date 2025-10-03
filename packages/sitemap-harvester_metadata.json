@@ -1,11 +1,11 @@
 {
   "name": "sitemap-harvester",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A tool to crawl website sitemaps and create a CSV report of URLs and their metadata",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sitemap_harvester-1.0.3.tar.gz",
-  "download_time": "2025-10-03T12:21:10.725668",
+  "download_filename": "sitemap_harvester-1.0.4.tar.gz",
+  "download_time": "2025-10-03T13:01:51.924672",
   "package_url": "https://pypi.org/project/sitemap-harvester/"
 }

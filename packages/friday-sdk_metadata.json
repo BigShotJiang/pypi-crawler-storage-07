@@ -1,0 +1,11 @@
+{
+  "name": "friday-sdk",
+  "version": "0.2.0",
+  "summary": "Official Python SDK for the Friday API",
+  "author": "Friday Team",
+  "license": null,
+  "home_page": "https://github.com/yashpanditrao/friday_sdk",
+  "download_filename": "friday_sdk-0.2.0.tar.gz",
+  "download_time": "2025-10-03T13:02:09.054763",
+  "package_url": "https://pypi.org/project/friday-sdk/"
+}

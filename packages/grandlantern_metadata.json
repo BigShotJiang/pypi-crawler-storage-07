@@ -1,0 +1,11 @@
+{
+  "name": "grandlantern",
+  "version": "0.0.21",
+  "summary": "This is the small library for deep learning.",
+  "author": "grandyarl",
+  "license": null,
+  "home_page": "https://github.com/grand-yarl/grand_lantern",
+  "download_filename": "grandlantern-0.0.21.tar.gz",
+  "download_time": "2025-10-03T13:01:37.774045",
+  "package_url": "https://pypi.org/project/grandlantern/"
+}

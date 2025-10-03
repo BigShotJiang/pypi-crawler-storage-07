@@ -1,0 +1,11 @@
+{
+  "name": "py3mf-slicer",
+  "version": "0.0.5",
+  "summary": "Functions which aids the process of using and slicing 3mf files",
+  "author": "Anton Wiberg",
+  "license": null,
+  "home_page": "https://github.com/wiberganton/py3mf_slicer",
+  "download_filename": "py3mf_slicer-0.0.5.tar.gz",
+  "download_time": "2025-10-03T13:01:40.405431",
+  "package_url": "https://pypi.org/project/py3mf-slicer/"
+}

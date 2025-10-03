@@ -1,0 +1,11 @@
+{
+  "name": "specfile",
+  "version": "0.37.1",
+  "summary": "A library for parsing and manipulating RPM spec files.",
+  "author": "Red Hat",
+  "license": "MIT",
+  "home_page": "https://github.com/packit/specfile",
+  "download_filename": "specfile-0.37.1.tar.gz",
+  "download_time": "2025-10-03T13:02:00.804220",
+  "package_url": "https://pypi.org/project/specfile/"
+}

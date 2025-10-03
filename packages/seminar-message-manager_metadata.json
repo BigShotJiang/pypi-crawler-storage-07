@@ -1,0 +1,11 @@
+{
+  "name": "seminar-message-manager",
+  "version": "0.0.1",
+  "summary": "A package to automate message generation and sending for seminars from a csv file",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "seminar_message_manager-0.0.1.tar.gz",
+  "download_time": "2025-10-03T13:01:52.437344",
+  "package_url": "https://pypi.org/project/seminar-message-manager/"
+}
