@@ -1,11 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-03T17:39:26.383814
+- **Download Time**: 2025-10-03T17:57:54.571463
 - **Total Packages**: 83
-- **Total Size**: 51.13 MB
+- **Total Size**: 18.34 MB
 
 ## Packages List
+- foundry-sdk
+- zrb-extras
+- llama-index
+- astra-mcp-server
+- synth-ai
+- smu-ontwins-demo
+- skill-framework
+- LLM-Bridge
+- opycleid
+- cdFBA
+- lightrag-hku
+- bisocket
+- sema4ai-docint
+- microdag
+- gamengine2d
+- pytest-llm
+- vellum-ai
+- fortytwo-client
+- kradle
+- floorplan-epc-detector
+- transformerlab
+- shub-workflow
 - ModuleContextStreaming
 - tsdc
 - wmill-pg
@@ -17,7 +39,6 @@
 - sentry-kafka-management
 - pulumi-xyz
 - ign-lidar-hd
-- floorplan-epc-detector
 - uber-compose
 - google-cloud-aiplatform
 - resident-portal
@@ -46,7 +67,6 @@
 - axon-dl
 - kompass-core
 - sleipnirgroup-jormungandr
-- shub-workflow
 - scikeo
 - warnet
 - neuroevolve
@@ -54,7 +74,6 @@
 - rat-engine-py
 - geoscan-core
 - vivarium-build-utils
-- microdag
 - entsoe-py
 - cogworks
 - deltaglider
@@ -70,22 +89,3 @@
 - supabase-functions
 - supabase-auth
 - supabase
-- storage3
-- realtime
-- ha-mqtt-discoverable-cli
-- label-studio-sdk
-- python-msilib
-- scoutsdk
-- arcade-mcp
-- torchxai-tools
-- tufteplotlib
-- faradaysec
-- Sandroid
-- postgrest
-- func-validator
-- polars-genson
-- dq-tester
-- ytget-gui
-- odoo-addon-resource-booking
-- smu-ontwins-demo
-- pulumi-provider-boilerplate

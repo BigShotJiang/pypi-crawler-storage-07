@@ -1,11 +1,11 @@
 {
   "name": "tarski-tmp",
-  "version": "0.8.3",
+  "version": "0.8.5",
   "summary": "This is a fork of Tarski, a framework for the specification, modeling and manipulation of AI planning problems.",
   "author": "Miquel Ramírez and Guillem Francès",
   "license": null,
   "home_page": "https://github.com/aig-upf/tarski",
-  "download_filename": "tarski_tmp-0.8.3.tar.gz",
-  "download_time": "2025-10-03T17:38:56.898007",
+  "download_filename": "tarski_tmp-0.8.5.tar.gz",
+  "download_time": "2025-10-03T17:57:34.488742",
   "package_url": "https://pypi.org/project/tarski-tmp/"
 }
