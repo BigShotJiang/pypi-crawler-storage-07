@@ -1,0 +1,11 @@
+{
+  "name": "lib-log-rich",
+  "version": "1.0.0",
+  "summary": "Rich-powered logging runtime with contextual metadata, multi-sink fan-out, and ring-buffer dumps",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lib_log_rich-1.0.0.tar.gz",
+  "download_time": "2025-10-03T02:13:35.247499",
+  "package_url": "https://pypi.org/project/lib-log-rich/"
+}

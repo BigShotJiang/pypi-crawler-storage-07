@@ -1,0 +1,11 @@
+{
+  "name": "diffsinger-utau",
+  "version": "0.1.2",
+  "summary": "DiffSinger UTAU inference toolkit with CLI",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/diffsinger-utau",
+  "download_filename": "diffsinger_utau-0.1.2.tar.gz",
+  "download_time": "2025-10-03T02:13:02.085639",
+  "package_url": "https://pypi.org/project/diffsinger-utau/"
+}

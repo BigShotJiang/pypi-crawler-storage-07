@@ -1,0 +1,11 @@
+{
+  "name": "audiosample",
+  "version": "2.2.11",
+  "summary": "AudioSample is an optimized numpy-like audio manipulation library, created for researchers, used by developers.",
+  "author": "Nir Krakowski",
+  "license": "MIT",
+  "home_page": "https://deepdub.ai",
+  "download_filename": "audiosample-2.2.11.tar.gz",
+  "download_time": "2025-10-03T02:13:37.827780",
+  "package_url": "https://pypi.org/project/audiosample/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "botrun-flow-lang",
-  "version": "5.9.301",
+  "version": "5.10.32",
   "summary": "A flow language for botrun",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "botrun_flow_lang-5.9.301-py3-none-any.whl",
-  "download_time": "2025-09-30T05:47:56.790661",
+  "download_filename": "botrun_flow_lang-5.10.32-py3-none-any.whl",
+  "download_time": "2025-10-03T02:13:19.265903",
   "package_url": "https://pypi.org/project/botrun-flow-lang/"
 }

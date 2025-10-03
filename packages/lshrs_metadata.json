@@ -1,0 +1,11 @@
+{
+  "name": "lshrs",
+  "version": "0.0.0a1",
+  "summary": "A Locality Sensitive Hashing based recommendation system for efficient similarity search.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lshrs-0.0.0a1.tar.gz",
+  "download_time": "2025-10-03T02:13:36.279976",
+  "package_url": "https://pypi.org/project/lshrs/"
+}

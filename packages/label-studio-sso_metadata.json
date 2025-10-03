@@ -1,0 +1,11 @@
+{
+  "name": "label-studio-sso",
+  "version": "1.0.0",
+  "summary": "Generic JWT SSO integration for Label Studio - works with any JWT-based system",
+  "author": "Things-Factory Integration Team",
+  "license": "MIT",
+  "home_page": "https://github.com/hatiolab/label-studio-sso",
+  "download_filename": "label-studio-sso-1.0.0.tar.gz",
+  "download_time": "2025-10-03T02:13:35.762007",
+  "package_url": "https://pypi.org/project/label-studio-sso/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zitadel-client",
+  "version": "4.1.0b7",
+  "summary": "Official Zitadel SDK for Python. Authenticate and access Zitadel's authentication and management APIs in Python.",
+  "author": "Mridang Agarwalla",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "zitadel_client-4.1.0b7.tar.gz",
+  "download_time": "2025-10-03T02:13:04.692370",
+  "package_url": "https://pypi.org/project/zitadel-client/"
+}

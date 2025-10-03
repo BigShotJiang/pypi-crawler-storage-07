@@ -1,0 +1,11 @@
+{
+  "name": "coker",
+  "version": "0.3.7",
+  "summary": "Coker Mathematical Programming Toolkit",
+  "author": "Peter Cudmore",
+  "license": null,
+  "home_page": null,
+  "download_filename": "coker-0.3.7.tar.gz",
+  "download_time": "2025-10-03T02:13:16.180592",
+  "package_url": "https://pypi.org/project/coker/"
+}

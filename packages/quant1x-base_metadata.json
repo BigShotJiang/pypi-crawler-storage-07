@@ -1,11 +1,11 @@
 {
   "name": "quant1x-base",
-  "version": "0.6.28",
+  "version": "0.6.29",
   "summary": "Quant1X量化系统python基础库",
   "author": "WangFeng",
   "license": "MIT license",
   "home_page": "https://gitee.com/quant1x/q1x-base",
-  "download_filename": "quant1x_base-0.6.28.tar.gz",
-  "download_time": "2025-10-02T10:33:23.111899",
+  "download_filename": "quant1x_base-0.6.29.tar.gz",
+  "download_time": "2025-10-03T02:13:24.450216",
   "package_url": "https://pypi.org/project/quant1x-base/"
 }

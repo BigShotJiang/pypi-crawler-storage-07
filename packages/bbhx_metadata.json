@@ -1,0 +1,11 @@
+{
+  "name": "bbhx",
+  "version": "1.2.3",
+  "summary": "GPU/CPU Binary Black Hole Waveforms for LISA.",
+  "author": "Michael Katz, Lorenzo Speri, Christian Chapman-Bird, Alvin J. K. Chua, Niels Warburton, Scott Hughes",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bbhx-1.2.3-cp310-cp310-macosx_13_0_x86_64.whl",
+  "download_time": "2025-10-03T02:13:29.256389",
+  "package_url": "https://pypi.org/project/bbhx/"
+}

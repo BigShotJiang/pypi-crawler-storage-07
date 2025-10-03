@@ -1,0 +1,11 @@
+{
+  "name": "roadmapper",
+  "version": "1.5.5",
+  "summary": "Roadmapper. A Roadmap-as-Code (RaC) python library for generating a roadmap by using python code",
+  "author": "CS Goh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "roadmapper-1.5.5.tar.gz",
+  "download_time": "2025-10-03T02:12:58.405186",
+  "package_url": "https://pypi.org/project/roadmapper/"
+}

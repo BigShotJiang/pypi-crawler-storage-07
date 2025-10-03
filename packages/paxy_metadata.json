@@ -1,11 +1,11 @@
 {
   "name": "paxy",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Paxy: a modern BASIC-like language that compiles to Python bytecode (.pyc).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "paxy-0.2.0.tar.gz",
-  "download_time": "2025-10-02T14:12:32.010994",
+  "download_filename": "paxy-0.3.0.tar.gz",
+  "download_time": "2025-10-03T02:13:01.041831",
   "package_url": "https://pypi.org/project/paxy/"
 }
