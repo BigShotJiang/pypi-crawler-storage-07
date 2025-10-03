@@ -1,0 +1,11 @@
+{
+  "name": "databento-fast",
+  "version": "1.0.0",
+  "summary": "Ultra-fast Databento DBN parser (200M+ records/sec) with C++ and Python",
+  "author": "databento-fast contributors",
+  "license": null,
+  "home_page": "https://github.com/rbarfinezhadfeli0/databento-fast",
+  "download_filename": "databento_fast-1.0.0.tar.gz",
+  "download_time": "2025-10-03T23:12:14.705029",
+  "package_url": "https://pypi.org/project/databento-fast/"
+}

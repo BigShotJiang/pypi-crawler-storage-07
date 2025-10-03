@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-yandex-marketmaker",
+  "version": "0.161.6",
+  "summary": "A Pulumi package for creating and managing yandex cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_yandex_marketmaker-0.161.6.tar.gz",
+  "download_time": "2025-10-03T23:11:45.036411",
+  "package_url": "https://pypi.org/project/pulumi-yandex-marketmaker/"
+}

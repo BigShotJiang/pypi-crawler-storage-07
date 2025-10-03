@@ -1,0 +1,11 @@
+{
+  "name": "qexpy",
+  "version": "2.0.4",
+  "summary": "Package to handle error analysis and data plotting aimed at undergraduate physics.",
+  "author": "Astral Cai, Connor Kapahi, Prof. Ryan Martin",
+  "license": "GNU GPL v3",
+  "home_page": "https://qexpy.readthedocs.io/en/latest/index.html",
+  "download_filename": "qexpy-2.0.4.tar.gz",
+  "download_time": "2025-10-03T23:11:55.542260",
+  "package_url": "https://pypi.org/project/qexpy/"
+}

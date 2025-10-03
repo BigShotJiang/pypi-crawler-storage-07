@@ -1,11 +1,11 @@
 {
   "name": "bounce-desktop",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Hardware-accelerated Linux virtual desktops.",
   "author": "William Henning",
   "license": null,
   "home_page": null,
-  "download_filename": "bounce_desktop-0.1.1.tar.gz",
-  "download_time": "2025-10-03T22:39:39.149180",
+  "download_filename": "bounce_desktop-0.1.2.tar.gz",
+  "download_time": "2025-10-03T23:11:34.392717",
   "package_url": "https://pypi.org/project/bounce-desktop/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "srmp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Python bindings for Search-Based Robot Motion Planning (SRMP)",
   "author": "The SRMP Team",
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "srmp-0.0.2-cp310-cp310-manylinux_2_39_x86_64.whl",
-  "download_time": "2025-10-03T20:49:43.384653",
+  "download_filename": "srmp-0.0.3-cp310-cp310-manylinux_2_39_x86_64.whl",
+  "download_time": "2025-10-03T23:11:57.775116",
   "package_url": "https://pypi.org/project/srmp/"
 }

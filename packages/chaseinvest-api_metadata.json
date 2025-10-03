@@ -1,0 +1,11 @@
+{
+  "name": "chaseinvest-api",
+  "version": "0.3.4",
+  "summary": "An unofficial API for Chase Invest",
+  "author": "MaxxRK",
+  "license": "MIT",
+  "home_page": "https://github.com/MaxxRK/chaseinvest-api",
+  "download_filename": "chaseinvest_api-0.3.4.tar.gz",
+  "download_time": "2025-10-03T23:11:57.108751",
+  "package_url": "https://pypi.org/project/chaseinvest-api/"
+}

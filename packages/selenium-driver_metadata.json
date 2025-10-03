@@ -1,0 +1,11 @@
+{
+  "name": "selenium-driver",
+  "version": "0.1.0",
+  "summary": "Pacote para automação Selenium customizado",
+  "author": "Seu Nome",
+  "license": "MIT",
+  "home_page": "https://github.com/seu_usuario/selenium_driver",
+  "download_filename": "selenium_driver-0.1.0.tar.gz",
+  "download_time": "2025-10-03T23:12:03.651001",
+  "package_url": "https://pypi.org/project/selenium-driver/"
+}
