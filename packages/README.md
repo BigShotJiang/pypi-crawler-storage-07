@@ -1,37 +1,18 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-03T09:31:26.086250
-- **Total Packages**: 89
-- **Total Size**: 26.49 MB
+- **Download Time**: 2025-10-03T09:42:04.706891
+- **Total Packages**: 95
+- **Total Size**: 9.38 MB
 
 ## Packages List
-- pyturso
-- wanna-ml
-- retracesoftware-utils
-- ad9xdds
-- inference-sdk
-- inference-gpu
-- inference-cpu
-- inference-core
-- inference-cli
-- inference
-- pulumiverse-grafana
-- petsctools
-- spark-pipelines
-- maven-proxy
-- aicapture
-- v440
-- models-package
-- authentik-client
-- django-unicom
-- peak-mas
 - tamar-model-client
 - phpipam-mcp-server
 - jupyterlab-pseudo-language-pack
 - jupyterlab-language-pack-zh-TW
 - jupyterlab-language-pack-zh-CN
 - jupyterlab-language-pack-vi-VN
+- models-package
 - jupyterlab-language-pack-uk-UA
 - compass_api_sdk
 - jupyterlab-language-pack-tr-TR
@@ -74,12 +55,14 @@
 - FermaCongress
 - retracesoftware-proxy
 - trxtools
+- django-unicom
 - PyHaste
 - platzky
 - acryl-datahub-actions
 - jupyterlite-xeus
 - acryl-datahub-dagster-plugin
 - prefect-datahub
+- v440
 - acryl-datahub-gx-plugin
 - usentinel
 - dino-temporal-lib-helper
@@ -95,3 +78,26 @@
 - mmar-utils
 - fastbootstrap
 - PyDoof
+- mixedassembly
+- netbox-ninja-plugin
+- policyengine-us
+- authentik-client
+- nexustrader
+- powerbin
+- session-mgmt-mcp
+- autogluon
+- autogluon.timeseries
+- autogluon.multimodal
+- autogluon.tabular
+- llmakits
+- autogluon.features
+- wellapi
+- autogluon.core
+- autogluon.common
+- microsoft-agents-storage-cosmos
+- microsoft-agents-storage-blob
+- microsoft-agents-hosting-teams
+- microsoft-agents-hosting-core
+- microsoft-agents-hosting-aiohttp
+- microsoft-agents-copilotstudio-client
+- microsoft-agents-authentication-msal
