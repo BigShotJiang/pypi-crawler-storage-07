@@ -1,0 +1,11 @@
+{
+  "name": "autocleaneeg-mne-qt-browser-fork",
+  "version": "0.8.2",
+  "summary": "PyQtGraph-based backend for MNE-Python's raw data browser",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autocleaneeg_mne_qt_browser_fork-0.8.2.tar.gz",
+  "download_time": "2025-10-03T16:14:43.954333",
+  "package_url": "https://pypi.org/project/autocleaneeg-mne-qt-browser-fork/"
+}

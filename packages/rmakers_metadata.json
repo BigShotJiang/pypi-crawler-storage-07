@@ -1,0 +1,11 @@
+{
+  "name": "rmakers",
+  "version": "3.30",
+  "summary": "rmakers extends Abjad with tools for rhythm construction.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rmakers-3.30.tar.gz",
+  "download_time": "2025-10-03T16:14:41.337886",
+  "package_url": "https://pypi.org/project/rmakers/"
+}

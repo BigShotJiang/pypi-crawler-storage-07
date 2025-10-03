@@ -1,0 +1,11 @@
+{
+  "name": "django-crisp-modals",
+  "version": "2025.10.0",
+  "summary": "Django Crispy Forms inside Bootstrap Modals",
+  "author": "Michel Fodje",
+  "license": "MIT",
+  "home_page": "https://github.com/michel4j/django-crisp-modals",
+  "download_filename": "django_crisp_modals-2025.10.0.tar.gz",
+  "download_time": "2025-10-03T16:14:11.345758",
+  "package_url": "https://pypi.org/project/django-crisp-modals/"
+}

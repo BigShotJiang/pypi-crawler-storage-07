@@ -1,11 +1,11 @@
 {
   "name": "opsrampcli",
-  "version": "1.6.4",
+  "version": "1.6.5",
   "summary": "A command line interface for OpsRamp",
   "author": "Michael Friedhoff",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opsrampcli-1.6.4.tar.gz",
-  "download_time": "2025-10-02T20:33:01.144139",
+  "download_filename": "opsrampcli-1.6.5.tar.gz",
+  "download_time": "2025-10-03T16:14:06.501172",
   "package_url": "https://pypi.org/project/opsrampcli/"
 }

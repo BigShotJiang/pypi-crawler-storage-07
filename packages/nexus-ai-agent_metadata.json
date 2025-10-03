@@ -1,0 +1,11 @@
+{
+  "name": "nexus-ai-agent",
+  "version": "1.0.0",
+  "summary": "Intelligent Agentic File Assistant powered by Claude",
+  "author": "Chiheb Nabil",
+  "license": null,
+  "home_page": "https://github.com/Remote-Skills/nexus",
+  "download_filename": "nexus_ai_agent-1.0.0.tar.gz",
+  "download_time": "2025-10-03T16:14:46.097833",
+  "package_url": "https://pypi.org/project/nexus-ai-agent/"
+}
