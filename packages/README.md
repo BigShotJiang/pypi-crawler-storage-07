@@ -1,18 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-03T22:25:18.892959
-- **Total Packages**: 88
-- **Total Size**: 20.93 MB
+- **Download Time**: 2025-10-03T22:32:54.984069
+- **Total Packages**: 85
+- **Total Size**: 4.36 MB
 
 ## Packages List
+- pulumi-external
+- quantconnect-stubs
+- code-puppy
+- vellum-workflow-server
+- pulumi-databricks
+- cb-events
+- bookwyrm
+- terminator-py
+- goodgleif
+- hvym-stellar
+- airefinery-sdk
+- pulumi-datadog
+- prstools
+- pelicun
+- meshly
+- trading-sdk
+- argos3
+- pulumi-dnsimple
+- fennec-ml
+- authentik-client
+- pyXLMS
 - mcp-server-things
 - agent-starter-pack
 - pulumi-dbtcloud
 - code-ingestion-service
 - komodoml
 - with-keepass
-- cb-events
 - cloud-volume
 - saturn-client
 - tacotoolbox
@@ -24,8 +44,6 @@
 - pulumi-consul
 - axis-vapix
 - djaodjin-signup
-- bookwyrm
-- with-keypass
 - pulumi-confluentcloud
 - easier-openai
 - vulnguard
@@ -42,9 +60,7 @@
 - viu-chem
 - modelswrkpi
 - pulumi-cloudamqp
-- authentik-client
 - pulumi-azuread
-- goodgleif
 - nado-protocol
 - imgen-cli
 - pulumi-alicloud
@@ -58,10 +74,8 @@
 - mcp-proxy-adapter
 - satcat
 - aegis-game
-- quantconnect-stubs
 - justllms
 - openc3
-- prstools
 - rugo
 - session-mgmt-mcp
 - servextools
@@ -77,20 +91,3 @@
 - daktronics
 - crackerjack
 - schemathesis
-- Pydowndoc
-- ign-lidar-hd
-- pulumi-akamai
-- cordra-python
-- pulumi-archive
-- urbanopt-des
-- ropey-py
-- post-for-me
-- tshu
-- yog
-- abstra
-- nominal-api-protos
-- nominal-api
-- context-local-server
-- pulumi-aiven
-- market-abm
-- singer-sdk

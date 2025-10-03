@@ -1,11 +1,11 @@
 {
   "name": "hvym-stellar",
-  "version": "0.11",
+  "version": "0.12",
   "summary": "Heavymeta Stellar Utilities for Python , By: Fibo Metavinci",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hvym_stellar-0.11.tar.gz",
-  "download_time": "2025-10-03T18:53:38.744573",
+  "download_filename": "hvym_stellar-0.12.tar.gz",
+  "download_time": "2025-10-03T22:32:15.281860",
   "package_url": "https://pypi.org/project/hvym-stellar/"
 }
