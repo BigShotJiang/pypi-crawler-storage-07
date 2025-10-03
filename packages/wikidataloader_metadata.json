@@ -1,11 +1,11 @@
 {
   "name": "wikidataloader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Pythonic wrapper around the Wikidata SPARQL API for quick creation of datasets from Wikidata",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wikidataloader-0.0.2.tar.gz",
-  "download_time": "2025-10-03T19:23:40.129189",
+  "download_filename": "wikidataloader-0.0.3.tar.gz",
+  "download_time": "2025-10-03T19:35:18.702107",
   "package_url": "https://pypi.org/project/wikidataloader/"
 }

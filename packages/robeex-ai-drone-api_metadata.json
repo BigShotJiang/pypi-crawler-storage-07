@@ -1,11 +1,11 @@
 {
   "name": "robeex-ai-drone-api",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "A Python library designed to control and interact with RoBeeX AI Drones",
   "author": "RoBeeX Robotics",
   "license": "MIT",
   "home_page": "https://robeex.com/?utm_source=pypi",
-  "download_filename": "robeex_ai_drone_api-0.2.7.tar.gz",
-  "download_time": "2025-10-03T19:11:14.174453",
+  "download_filename": "robeex_ai_drone_api-0.2.8.tar.gz",
+  "download_time": "2025-10-03T19:35:08.406357",
   "package_url": "https://pypi.org/project/robeex-ai-drone-api/"
 }

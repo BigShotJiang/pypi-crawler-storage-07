@@ -1,11 +1,11 @@
 {
   "name": "cgse-dummy",
-  "version": "0.6.5",
+  "version": "0.6.6",
   "summary": "Demonstration of a CGSE package with a dummy device driver",
   "author": "IVS KU Leuven",
   "license": null,
   "home_page": null,
-  "download_filename": "cgse_dummy-0.6.5.tar.gz",
-  "download_time": "2025-10-02T10:49:03.313776",
+  "download_filename": "cgse_dummy-0.6.6.tar.gz",
+  "download_time": "2025-10-03T19:35:12.682787",
   "package_url": "https://pypi.org/project/cgse-dummy/"
 }

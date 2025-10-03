@@ -1,11 +1,11 @@
 {
   "name": "pm4mkb",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Library that is intended to operate with various process mining tasks.",
   "author": "Maximov Pavel, MKB team",
   "license": null,
   "home_page": null,
-  "download_filename": "pm4mkb-0.1.2.tar.gz",
-  "download_time": "2025-10-02T07:28:23.035163",
+  "download_filename": "pm4mkb-0.1.3.tar.gz",
+  "download_time": "2025-10-03T19:35:06.250905",
   "package_url": "https://pypi.org/project/pm4mkb/"
 }
