@@ -1,11 +1,11 @@
 {
   "name": "mock-spark",
-  "version": "0.2.0",
-  "summary": "A lightweight, type-safe mock implementation of PySpark for testing and development with 250+ tests, 100% mypy compliance, and enterprise-grade features",
+  "version": "0.2.1",
+  "summary": "A lightweight, type-safe mock implementation of PySpark for testing and development with 387+ tests, 89% mypy error reduction, and enterprise-grade features",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mock_spark-0.2.0.tar.gz",
-  "download_time": "2025-10-03T15:12:22.028745",
+  "download_filename": "mock_spark-0.2.1.tar.gz",
+  "download_time": "2025-10-04T22:49:46.986977",
   "package_url": "https://pypi.org/project/mock-spark/"
 }

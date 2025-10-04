@@ -1,0 +1,11 @@
+{
+  "name": "mvdate",
+  "version": "0.1.3",
+  "summary": "Move files to directories based on created date",
+  "author": null,
+  "license": "GNU Lesser GPLv3 only",
+  "home_page": null,
+  "download_filename": "mvdate-0.1.3.tar.gz",
+  "download_time": "2025-10-04T22:49:46.414043",
+  "package_url": "https://pypi.org/project/mvdate/"
+}
