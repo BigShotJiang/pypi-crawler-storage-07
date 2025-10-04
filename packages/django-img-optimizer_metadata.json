@@ -1,0 +1,11 @@
+{
+  "name": "django-img-optimizer",
+  "version": "1.5",
+  "summary": "Image optimizer for Django.",
+  "author": "Peter Stavrou",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_img_optimizer-1.5.tar.gz",
+  "download_time": "2025-10-04T04:35:22.612798",
+  "package_url": "https://pypi.org/project/django-img-optimizer/"
+}

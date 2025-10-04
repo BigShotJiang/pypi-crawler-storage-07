@@ -1,0 +1,11 @@
+{
+  "name": "list2dpro",
+  "version": "0.2.1",
+  "summary": "A comprehensive 2D list manipulation library for Python with four specialized classes: List2DEdit (basic editing), List2DGame (game development), List2DMath (mathematical operations), and List2DData (data processing).",
+  "author": "FriskYan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "list2dpro-0.2.1.tar.gz",
+  "download_time": "2025-10-04T04:35:10.756816",
+  "package_url": "https://pypi.org/project/list2dpro/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "deep-organizer",
+  "version": "1.0.0",
+  "summary": "AI-powered file organization tool that intelligently organizes files based on content analysis",
+  "author": "Deep Organizer",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/deep-organizer",
+  "download_filename": "deep_organizer-1.0.0.tar.gz",
+  "download_time": "2025-10-04T04:35:10.170560",
+  "package_url": "https://pypi.org/project/deep-organizer/"
+}
