@@ -1,11 +1,11 @@
 {
   "name": "moleditpy",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "A program to edit molecular structures using Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "moleditpy-0.2.1.tar.gz",
-  "download_time": "2025-10-03T17:39:00.626736",
+  "download_filename": "moleditpy-0.3.0.tar.gz",
+  "download_time": "2025-10-04T04:49:50.169361",
   "package_url": "https://pypi.org/project/moleditpy/"
 }

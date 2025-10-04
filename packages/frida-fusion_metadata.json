@@ -1,11 +1,11 @@
 {
   "name": "frida-fusion",
-  "version": "0.1.17",
+  "version": "0.1.20",
   "summary": "Hook your mobile tests with Frida",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "frida_fusion-0.1.17.tar.gz",
-  "download_time": "2025-10-01T18:43:38.887455",
+  "download_filename": "frida_fusion-0.1.20.tar.gz",
+  "download_time": "2025-10-04T04:49:41.891100",
   "package_url": "https://pypi.org/project/frida-fusion/"
 }
