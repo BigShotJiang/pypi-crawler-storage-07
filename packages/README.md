@@ -1,22 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-04T13:34:51.900757
+- **Download Time**: 2025-10-04T13:41:02.214770
 - **Total Packages**: 79
-- **Total Size**: 4.64 MB
+- **Total Size**: 10.08 MB
 
 ## Packages List
+- kopi-docka
+- dhi
+- py-pmp-manip
+- opencode-client
+- codearkt
+- magic-reqtools
+- eduslip
+- aplr
+- tensor-chess
+- session-mgmt-mcp
+- authentik-client
+- jir-agent
+- inoopa_utils
+- sv2svg
+- navam
+- fbgemm-gpu-nightly-cpu
+- crackerjack
+- vicinity
+- ai-git-guardian
+- vloex
+- raphson-music-headless
+- aerotrace-parsers
+- tflite-micro
+- dockerclustermon
+- slack-lists-mcp
 - pymitsubishi
 - pyspark-dq-framework
 - nyx-shahmat
-- navam
 - django-rad
 - pysaml2
 - habapp-rules
 - docutranslate
 - wolpie
 - claude-workshop
-- kopi-docka
 - point-topic-mcp
 - datalayer-core
 - bassa-reg
@@ -27,11 +50,8 @@
 - nbdev-pytorch
 - crisp-python
 - nbdev-pandas
-- sv2svg
 - nbdev-numpy
-- authentik-client
 - nbdev-stdlib
-- eduslip
 - culebra-fantasma
 - hyso
 - bscommon
@@ -59,29 +79,9 @@
 - lukan
 - pydantic-ai-claude-code
 - stix2extensions
-- slack-lists-mcp
 - with-respect-to
 - pyforma
 - one-public-api
 - mybox
 - bafser
 - json-model-compiler
-- tensorcircuit-nightly
-- shinestacker
-- lazyscan
-- vibe-reader
-- crackerjack
-- jellyjoin
-- ign-lidar-hd
-- hybridoma
-- domain-event-pattern
-- tycho.nexus
-- inoopa_utils
-- playwrightauthor
-- wavy-totem-lib
-- motionbuilder-stubs
-- rds-proxy-password-rotation
-- agentmake
-- pyside-cli
-- pyjwkest
-- counted-float

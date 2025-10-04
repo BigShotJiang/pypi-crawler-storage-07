@@ -1,0 +1,11 @@
+{
+  "name": "magic-reqtools",
+  "version": "0.2.0",
+  "summary": "IPython magics and helpers for working with HTTP requests",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "magic_reqtools-0.2.0.tar.gz",
+  "download_time": "2025-10-04T13:40:22.002454",
+  "package_url": "https://pypi.org/project/magic-reqtools/"
+}
