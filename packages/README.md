@@ -1,11 +1,23 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-04T17:36:27.663848
-- **Total Packages**: 82
-- **Total Size**: 2.15 MB
+- **Download Time**: 2025-10-04T17:50:20.148529
+- **Total Packages**: 80
+- **Total Size**: 3.01 MB
 
 ## Packages List
+- omnigen-usf
+- nonebot-plugin-warframe
+- retryxlib
+- easycoder
+- neuro-config-client
+- claude-workshop
+- language-fixer
+- pynetro
+- mcp-learning
+- sopel-8ball
+- cached-ipaddress
+- authentik-client
 - biofiles
 - umlio
 - mcp-openstack-ops
@@ -15,7 +27,6 @@
 - pkonfig
 - polish-energy-regulatory-office
 - tai-jaix
-- language-fixer
 - mcp-mysql-ops
 - shards
 - surv
@@ -32,8 +43,6 @@
 - zamp-public-workflow-sdk
 - shoebill-ai
 - mcp-airflow-api
-- nonebot-plugin-warframe
-- authentik-client
 - nexaai
 - naganlp
 - ngilive
@@ -63,7 +72,6 @@
 - mle-kit-mcp
 - alibabacloud-appstream-center20210901
 - timewise
-- claude-workshop
 - Google-Maps-Platform
 - mkfst
 - pdf-to-md-llm
@@ -78,13 +86,3 @@
 - openworkflows
 - bleak-esphome
 - omnara
-- mcp-openwebui-demo
-- aiida-workgraph
-- qbittorrent-ark
-- pcloud-python-sdk
-- pipevine
-- academia-mcp
-- jotsu-mcp
-- deepteam
-- odocxify
-- utils-www-nuuuwan

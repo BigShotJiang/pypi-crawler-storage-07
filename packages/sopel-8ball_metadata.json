@@ -1,0 +1,11 @@
+{
+  "name": "sopel-8ball",
+  "version": "1.0.0",
+  "summary": "Magic 8 ball plugin for Sopel",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sopel_8ball-1.0.0.tar.gz",
+  "download_time": "2025-10-04T17:49:39.620752",
+  "package_url": "https://pypi.org/project/sopel-8ball/"
+}

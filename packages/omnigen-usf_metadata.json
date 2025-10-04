@@ -1,11 +1,11 @@
 {
   "name": "omnigen-usf",
-  "version": "0.0.1.post1",
+  "version": "0.0.1.post2",
   "summary": "Enterprise-Grade Synthetic Data Generation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "omnigen_usf-0.0.1.post1.tar.gz",
-  "download_time": "2025-10-04T16:49:45.086617",
+  "download_filename": "omnigen_usf-0.0.1.post2.tar.gz",
+  "download_time": "2025-10-04T17:49:34.211903",
   "package_url": "https://pypi.org/project/omnigen-usf/"
 }

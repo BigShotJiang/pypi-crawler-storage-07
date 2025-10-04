@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-warframe",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "基于NoneBot的星际战甲事件查询插件",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nonebot_plugin_warframe-0.0.6.tar.gz",
-  "download_time": "2025-10-04T17:28:50.705661",
+  "download_filename": "nonebot_plugin_warframe-0.0.7.tar.gz",
+  "download_time": "2025-10-04T17:49:34.788145",
   "package_url": "https://pypi.org/project/nonebot-plugin-warframe/"
 }

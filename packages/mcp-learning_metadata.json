@@ -1,0 +1,11 @@
+{
+  "name": "mcp-learning",
+  "version": "0.1.0",
+  "summary": "Exploring different features of MCP servers and clients",
+  "author": "Anirban Ray",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_learning-0.1.0.tar.gz",
+  "download_time": "2025-10-04T17:49:39.045192",
+  "package_url": "https://pypi.org/project/mcp-learning/"
+}
