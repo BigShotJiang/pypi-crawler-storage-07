@@ -1,11 +1,11 @@
 {
   "name": "claude-commit",
-  "version": "0.1.1",
+  "version": "0.3.1",
   "summary": "AI-powered git commit message generator using Claude Agent SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_commit-0.1.1.tar.gz",
-  "download_time": "2025-10-03T12:21:26.646969",
+  "download_filename": "claude_commit-0.3.1.tar.gz",
+  "download_time": "2025-10-04T03:01:41.389140",
   "package_url": "https://pypi.org/project/claude-commit/"
 }

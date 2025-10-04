@@ -1,11 +1,11 @@
 {
   "name": "FermaCongress",
-  "version": "1.0.9",
+  "version": "1.2.0",
   "summary": "A ZoomRx - Ferma Congress package for internal usage",
   "author": "Ferma Congress Team",
   "license": "MIT",
   "home_page": "https://www.zoomrx.com/ferma/",
-  "download_filename": "fermacongress-1.0.9.tar.gz",
-  "download_time": "2025-10-03T09:31:13.120858",
+  "download_filename": "fermacongress-1.2.0.tar.gz",
+  "download_time": "2025-10-04T03:01:46.087098",
   "package_url": "https://pypi.org/project/FermaCongress/"
 }

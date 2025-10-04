@@ -1,11 +1,11 @@
 {
   "name": "otpylib",
-  "version": "0.4.7",
+  "version": "0.4.8",
   "summary": "The OTP framework for Python.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "otpylib-0.4.7.tar.gz",
-  "download_time": "2025-10-02T19:11:03.003505",
+  "download_filename": "otpylib-0.4.8.tar.gz",
+  "download_time": "2025-10-04T03:01:31.643002",
   "package_url": "https://pypi.org/project/otpylib/"
 }

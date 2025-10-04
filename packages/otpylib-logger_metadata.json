@@ -1,11 +1,11 @@
 {
   "name": "otpylib-logger",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Runtime logging for otpylib applications.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "otpylib_logger-0.1.1.tar.gz",
-  "download_time": "2025-10-02T21:27:26.470379",
+  "download_filename": "otpylib_logger-0.1.3.tar.gz",
+  "download_time": "2025-10-04T03:01:30.610034",
   "package_url": "https://pypi.org/project/otpylib-logger/"
 }

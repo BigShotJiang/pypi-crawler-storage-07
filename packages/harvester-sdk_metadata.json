@@ -1,0 +1,11 @@
+{
+  "name": "harvester-sdk",
+  "version": "2.1.1",
+  "summary": "Harvester SDK - The Complete AI Processing Platform with Agentic Coding Assistants. Unified interface for all AI processing paradigms with enterprise-grade reliability.",
+  "author": "Quantum Encoding Ltd",
+  "license": "LicenseRef-Proprietary",
+  "home_page": "https://github.com/quantum-encoding/harvester-sdk",
+  "download_filename": "harvester_sdk-2.1.1.tar.gz",
+  "download_time": "2025-10-04T03:01:27.951175",
+  "package_url": "https://pypi.org/project/harvester-sdk/"
+}
