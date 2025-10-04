@@ -1,0 +1,11 @@
+{
+  "name": "schlibs",
+  "version": "0.1.0",
+  "summary": "Shared libraries for JSON-Path/JSON-Pointer conversion and pointer caching",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "schlibs-0.1.0.tar.gz",
+  "download_time": "2025-10-04T15:28:51.215430",
+  "package_url": "https://pypi.org/project/schlibs/"
+}

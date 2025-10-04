@@ -1,11 +1,11 @@
 {
   "name": "vibesurf",
-  "version": "0.1.29",
+  "version": "0.1.30",
   "summary": "VibeSurf: A powerful browser assistant for vibe surfing",
   "author": "Shao Warm",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "vibesurf-0.1.29.tar.gz",
-  "download_time": "2025-10-04T11:35:35.320028",
+  "download_filename": "vibesurf-0.1.30.tar.gz",
+  "download_time": "2025-10-04T15:29:12.668075",
   "package_url": "https://pypi.org/project/vibesurf/"
 }

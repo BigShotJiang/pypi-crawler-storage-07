@@ -1,11 +1,11 @@
 {
   "name": "slack-lists-mcp",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "MCP server to operate Slack Lists",
   "author": "papasim824",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "slack_lists_mcp-0.1.9.tar.gz",
-  "download_time": "2025-10-04T13:18:42.511341",
+  "download_filename": "slack_lists_mcp-0.1.10.tar.gz",
+  "download_time": "2025-10-04T15:29:24.899341",
   "package_url": "https://pypi.org/project/slack-lists-mcp/"
 }

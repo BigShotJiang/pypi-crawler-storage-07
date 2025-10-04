@@ -1,11 +1,11 @@
 {
   "name": "tptq-feacomposer",
-  "version": "1.11.6",
+  "version": "1.11.7",
   "summary": "A feaLib wrapper for composing FEA code in Python",
   "author": "Liang Hai",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tptq_feacomposer-1.11.6.tar.gz",
-  "download_time": "2025-10-03T17:10:52.238393",
+  "download_filename": "tptq_feacomposer-1.11.7.tar.gz",
+  "download_time": "2025-10-04T15:29:20.835122",
   "package_url": "https://pypi.org/project/tptq-feacomposer/"
 }

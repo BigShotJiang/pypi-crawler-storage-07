@@ -1,0 +1,11 @@
+{
+  "name": "whoogle-search",
+  "version": "1.1.0",
+  "summary": "Self-hosted, ad-free, privacy-respecting metasearch engine",
+  "author": "Ben Busby",
+  "license": "MIT",
+  "home_page": "https://github.com/benbusby/whoogle-search",
+  "download_filename": "whoogle_search-1.1.0.tar.gz",
+  "download_time": "2025-10-04T15:29:23.149544",
+  "package_url": "https://pypi.org/project/whoogle-search/"
+}

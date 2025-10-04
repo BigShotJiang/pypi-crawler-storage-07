@@ -1,0 +1,11 @@
+{
+  "name": "mcp-get-weather-zjdxflj",
+  "version": "0.1.6",
+  "summary": "输入 OpenWeather API Key，获取城市天气信息（MCP Server）。",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_get_weather_zjdxflj-0.1.6.tar.gz",
+  "download_time": "2025-10-04T15:28:46.477464",
+  "package_url": "https://pypi.org/project/mcp-get-weather-zjdxflj/"
+}

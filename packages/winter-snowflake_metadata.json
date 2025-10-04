@@ -1,0 +1,11 @@
+{
+  "name": "winter-snowflake",
+  "version": "0.1.0",
+  "summary": "Snowflake Terminal Client with Table Scrolling and Prefix Support",
+  "author": "Winter Team",
+  "license": "MIT",
+  "home_page": "https://github.com/ilham-fauzi/winter",
+  "download_filename": "winter_snowflake-0.1.0.tar.gz",
+  "download_time": "2025-10-04T15:28:56.473449",
+  "package_url": "https://pypi.org/project/winter-snowflake/"
+}

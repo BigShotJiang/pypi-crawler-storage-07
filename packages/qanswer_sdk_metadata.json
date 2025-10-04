@@ -1,11 +1,11 @@
 {
   "name": "qanswer_sdk",
-  "version": "3.1257.0",
+  "version": "3.1259.0",
   "summary": "QAnswer: Api Documentation",
   "author": "OpenAPI Generator Community",
   "license": "NoLicense",
   "home_page": "https://github.com/GIT_USER_ID/GIT_REPO_ID",
-  "download_filename": "qanswer_sdk-3.1257.0.tar.gz",
-  "download_time": "2025-10-02T13:03:00.538522",
+  "download_filename": "qanswer_sdk-3.1259.0.tar.gz",
+  "download_time": "2025-10-04T15:29:05.974118",
   "package_url": "https://pypi.org/project/qanswer_sdk/"
 }
