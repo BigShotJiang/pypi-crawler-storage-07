@@ -1,0 +1,11 @@
+{
+  "name": "timona",
+  "version": "1.0.2",
+  "summary": "Tool to automate Helm deployments",
+  "author": "mihaiush",
+  "license": null,
+  "home_page": "https://github.com/mihaiush/timona",
+  "download_filename": "timona-1.0.2.tar.gz",
+  "download_time": "2025-10-04T08:52:02.007517",
+  "package_url": "https://pypi.org/project/timona/"
+}

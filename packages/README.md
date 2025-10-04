@@ -1,19 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-04T08:35:29.588797
-- **Total Packages**: 72
-- **Total Size**: 9.64 MB
+- **Download Time**: 2025-10-04T08:52:34.575859
+- **Total Packages**: 71
+- **Total Size**: 14.87 MB
 
 ## Packages List
+- veritasai
 - authentik-client
+- sysutil-lib
+- ellar-jwt
+- nerdd-link
+- bool-hybrid-array
+- sleipnirgroup-jormungandr
+- nonebot-plugin-ai-turtle-soup
+- scipreprocess
+- django-markdown-html-field
+- firecast
+- timona
+- tfp-nightly
+- cmessage
+- qvenv
+- wikidataloader
+- nbforager
+- napari-geff
+- deckz
+- deepseek-cli
+- magentic-mcp-server
+- otpylib-config
+- ironBars
+- atomyuan-mcp-server
+- funstall
 - tmux-mcp-tools
 - ray-utilities
 - odoo-addon-mgmtsystem
 - biobridge
 - yta-numpy
 - maniq
-- magentic-mcp-server
 - conson-xp
 - blacksheep
 - janito
@@ -30,10 +53,8 @@
 - nvfuser-cu128
 - pitct
 - nvfuser-cu129
-- qvenv
 - minibanana
 - barangay
-- sleipnirgroup-jormungandr
 - SPrettify
 - yta-colors
 - hanime-plugin
@@ -42,7 +63,6 @@
 - ellar-storage
 - byzh-ai
 - rxctl
-- veritasai
 - mc-creatormc-sdkspring
 - trackerping
 - hybridoma
@@ -57,24 +77,3 @@
 - isd-tui
 - poottu
 - timeitPro
-- scapi
-- codegnan-quest
-- fortytwo-client
-- vsquickview
-- fast-stark-crypto
-- HomeAssistant-API
-- vedro
-- maplib
-- ormparams
-- wayspiritmcp-weather
-- vscode-offline
-- pyscript-programming-language
-- otpylib-logger
-- machineconfig
-- srunx
-- wagtail-tw-blocks
-- stepfile-runner
-- feldera
-- eigenpuls
-- wst-api-client
-- pyturso

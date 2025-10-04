@@ -1,11 +1,11 @@
 {
   "name": "scipreprocess",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A modular pipeline for preprocessing scientific documents (PDF, DOCX, TEX, XML, TXT)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scipreprocess-0.1.1.tar.gz",
-  "download_time": "2025-10-03T16:37:43.537152",
+  "download_filename": "scipreprocess-0.1.2.tar.gz",
+  "download_time": "2025-10-04T08:52:00.428724",
   "package_url": "https://pypi.org/project/scipreprocess/"
 }
