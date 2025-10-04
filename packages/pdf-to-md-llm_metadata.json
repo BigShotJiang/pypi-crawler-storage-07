@@ -1,11 +1,11 @@
 {
   "name": "pdf-to-md-llm",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "Convert PDF documents to clean Markdown using Claude API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pdf_to_md_llm-1.0.2-py3-none-any.whl",
-  "download_time": "2025-10-04T16:34:31.269806",
+  "download_filename": "pdf_to_md_llm-1.0.4-py3-none-any.whl",
+  "download_time": "2025-10-04T17:10:58.096699",
   "package_url": "https://pypi.org/project/pdf-to-md-llm/"
 }

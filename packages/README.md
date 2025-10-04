@@ -1,21 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-04T16:50:25.637135
-- **Total Packages**: 80
-- **Total Size**: 13.09 MB
+- **Download Time**: 2025-10-04T17:11:39.928212
+- **Total Packages**: 84
+- **Total Size**: 4.48 MB
 
 ## Packages List
-- yog
-- llmass
-- eduslip
-- omnigen-usf
-- mainsequence
-- claude-workshop
-- habluetooth
-- nnlogging
-- ScriptCollection
-- echoed
 - polars-genson
 - arkitekt-next
 - semantic-bit
@@ -28,14 +18,18 @@
 - polymo
 - mikro-next
 - tinyshift
+- eduslip
 - coq-tools
+- mainsequence
 - kabinet
 - pyiron-snippets
 - zaroon-easy
 - pyside-cli
 - navam
 - soliscloud
+- claude-workshop
 - nonebot-plugin-htmlkit
+- pcloud-python-sdk
 - drudge-cli
 - pyeyesweb
 - rekuest-next
@@ -86,3 +80,13 @@
 - mcp-openwebui-demo
 - ram-cache
 - package-installer-cli
+- doleus
+- tinyscraper
+- penguin-tamer
+- lovely-tensors
+- maniq
+- calsipro
+- hololinked
+- osism
+- lovely-numpy
+- veotools
