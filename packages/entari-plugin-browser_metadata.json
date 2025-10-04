@@ -1,0 +1,11 @@
+{
+  "name": "entari-plugin-browser",
+  "version": "0.5.0",
+  "summary": "Browser API service for Entari using Playwright",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "entari_plugin_browser-0.5.0.tar.gz",
+  "download_time": "2025-10-04T07:11:24.651447",
+  "package_url": "https://pypi.org/project/entari-plugin-browser/"
+}

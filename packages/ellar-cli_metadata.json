@@ -1,0 +1,11 @@
+{
+  "name": "ellar-cli",
+  "version": "0.4.4",
+  "summary": "Ellar CLI Tool for Scaffolding Ellar Projects, Modules and also running Ellar Commands",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ellar_cli-0.4.4.tar.gz",
+  "download_time": "2025-10-04T07:11:32.589232",
+  "package_url": "https://pypi.org/project/ellar-cli/"
+}
