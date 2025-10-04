@@ -1,11 +1,11 @@
 {
   "name": "dsf-aml-sdk",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "summary": "SDK for DSF Adaptive ML with Knowledge Distillation",
   "author": "Jaime Alexander Jimenez",
   "license": null,
   "home_page": "https://github.com/jaimeajl/dsf-aml-sdk",
-  "download_filename": "dsf-aml-sdk-1.0.11.tar.gz",
-  "download_time": "2025-10-04T02:08:52.816936",
+  "download_filename": "dsf-aml-sdk-1.0.12.tar.gz",
+  "download_time": "2025-10-04T03:25:09.497384",
   "package_url": "https://pypi.org/project/dsf-aml-sdk/"
 }

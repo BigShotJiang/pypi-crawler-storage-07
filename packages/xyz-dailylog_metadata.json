@@ -1,0 +1,11 @@
+{
+  "name": "xyz-dailylog",
+  "version": "0.3.2",
+  "summary": "dailylog",
+  "author": "szuprefix",
+  "license": "MIT",
+  "home_page": "https://github.com/szuprefix/py-xyz-dailylog",
+  "download_filename": "xyz_dailylog-0.3.2-py3-none-any.whl",
+  "download_time": "2025-10-04T03:25:00.006205",
+  "package_url": "https://pypi.org/project/xyz-dailylog/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "HTML4Vision",
+  "version": "0.6.0",
+  "summary": "A simple HTML visualization tool for computer vision research",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "html4vision-0.6.0.tar.gz",
+  "download_time": "2025-10-04T03:24:55.828539",
+  "package_url": "https://pypi.org/project/HTML4Vision/"
+}
