@@ -1,16 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-04T14:51:17.296018
+- **Download Time**: 2025-10-04T15:13:29.120182
 - **Total Packages**: 83
-- **Total Size**: 8.84 MB
+- **Total Size**: 7.04 MB
 
 ## Packages List
-- slack-lists-mcp
-- torchic
-- iagitbetter
-- phoonnx
-- pyya
 - pahlavi
 - fastapi-voyager
 - codegen-cli
@@ -25,6 +20,7 @@
 - pvdeg
 - xarray-sql
 - bluetooth-data-tools
+- torchic
 - pytest-operator
 - v440
 - crosstabs-analytics
@@ -89,3 +85,7 @@
 - videosdk-plugins-azure
 - videosdk-plugins-aws
 - videosdk-plugins-assemblyai
+- videosdk-plugins-anthropic
+- videosdk-agents
+- borgitory
+- voice-mode

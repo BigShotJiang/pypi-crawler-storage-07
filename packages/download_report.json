@@ -1,13 +1,8 @@
 {
-  "download_time": "2025-10-04T14:51:17.296018",
+  "download_time": "2025-10-04T15:13:29.120182",
   "total_packages_downloaded": 83,
-  "total_size_mb": 8.84,
+  "total_size_mb": 7.04,
   "packages": [
-    "slack-lists-mcp",
-    "torchic",
-    "iagitbetter",
-    "phoonnx",
-    "pyya",
     "pahlavi",
     "fastapi-voyager",
     "codegen-cli",
@@ -22,6 +17,7 @@
     "pvdeg",
     "xarray-sql",
     "bluetooth-data-tools",
+    "torchic",
     "pytest-operator",
     "v440",
     "crosstabs-analytics",
@@ -85,6 +81,10 @@
     "videosdk-plugins-cartesia",
     "videosdk-plugins-azure",
     "videosdk-plugins-aws",
-    "videosdk-plugins-assemblyai"
+    "videosdk-plugins-assemblyai",
+    "videosdk-plugins-anthropic",
+    "videosdk-agents",
+    "borgitory",
+    "voice-mode"
   ]
 }
