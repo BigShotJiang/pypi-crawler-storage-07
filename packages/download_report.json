@@ -1,12 +1,8 @@
 {
-  "download_time": "2025-10-04T16:14:15.961377",
-  "total_packages_downloaded": 76,
-  "total_size_mb": 16.15,
+  "download_time": "2025-10-04T16:35:10.714064",
+  "total_packages_downloaded": 75,
+  "total_size_mb": 0.03,
   "packages": [
-    "inoopa_utils",
-    "bus-202",
-    "viskex",
-    "pylib-sakata",
     "collectivecrossing",
     "wanting",
     "cadence-seq",
@@ -78,6 +74,9 @@
     "odoo-addon-l10n-br-nfe",
     "odoo-addon-l10n-br-nfse",
     "xiaomi-flashable-firmware-creator",
-    "spot-planner"
+    "spot-planner",
+    "gh2md",
+    "file2txt",
+    "langlint"
   ]
 }
