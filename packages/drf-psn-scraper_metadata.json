@@ -1,0 +1,11 @@
+{
+  "name": "drf-psn-scraper",
+  "version": "1.0.0",
+  "summary": "A Django REST Framework-based API that scrapes product data from the PlayStation Store.",
+  "author": "Hadi Mohseni",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "drf_psn_scraper-1.0.0.tar.gz",
+  "download_time": "2025-10-04T20:30:55.698011",
+  "package_url": "https://pypi.org/project/drf-psn-scraper/"
+}
