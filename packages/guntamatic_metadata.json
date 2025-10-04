@@ -1,0 +1,11 @@
+{
+  "name": "guntamatic",
+  "version": "1.0.0",
+  "summary": "module to get data from a Guntamatic heater e.g. BMK 20",
+  "author": "Jens Timmerman",
+  "license": "Apache License 2.0",
+  "home_page": "https://gitea.caret.be/jens/guntamatic",
+  "download_filename": "guntamatic-1.0.0.tar.gz",
+  "download_time": "2025-10-04T12:19:15.734090",
+  "package_url": "https://pypi.org/project/guntamatic/"
+}
