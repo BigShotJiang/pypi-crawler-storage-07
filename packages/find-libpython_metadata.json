@@ -1,0 +1,11 @@
+{
+  "name": "find-libpython",
+  "version": "0.5.0",
+  "summary": "Finds the libpython associated with your environment, wherever it may be hiding",
+  "author": "Takafumi Arakaki",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "find_libpython-0.5.0.tar.gz",
+  "download_time": "2025-10-04T20:12:50.410559",
+  "package_url": "https://pypi.org/project/find-libpython/"
+}

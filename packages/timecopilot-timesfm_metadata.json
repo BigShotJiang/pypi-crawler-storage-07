@@ -1,0 +1,11 @@
+{
+  "name": "timecopilot-timesfm",
+  "version": "0.2.1",
+  "summary": "Open weights time-series foundation model from Google Research.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "timecopilot_timesfm-0.2.1.tar.gz",
+  "download_time": "2025-10-04T20:12:38.930260",
+  "package_url": "https://pypi.org/project/timecopilot-timesfm/"
+}

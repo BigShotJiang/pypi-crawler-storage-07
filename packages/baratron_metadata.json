@@ -1,0 +1,11 @@
+{
+  "name": "baratron",
+  "version": "0.4.0",
+  "summary": "Python driver for MKS eBaratron capacitance manometers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "baratron-0.4.0.tar.gz",
+  "download_time": "2025-10-04T20:12:35.232560",
+  "package_url": "https://pypi.org/project/baratron/"
+}
