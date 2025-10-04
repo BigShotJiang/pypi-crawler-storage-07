@@ -1,11 +1,11 @@
 {
   "name": "hive-messaging",
-  "version": "0.16.4",
+  "version": "0.16.5",
   "summary": "Messaging layer for Hive",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hive_messaging-0.16.4.tar.gz",
-  "download_time": "2025-09-29T20:29:07.949347",
+  "download_filename": "hive_messaging-0.16.5.tar.gz",
+  "download_time": "2025-10-04T09:50:12.520322",
   "package_url": "https://pypi.org/project/hive-messaging/"
 }

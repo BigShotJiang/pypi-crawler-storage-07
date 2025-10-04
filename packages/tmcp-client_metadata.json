@@ -1,11 +1,11 @@
 {
   "name": "tmcp-client",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Lightweight MCP client for TowardsAGI MCP servers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tmcp_client-1.0.1.tar.gz",
-  "download_time": "2025-10-04T09:12:11.778942",
+  "download_filename": "tmcp_client-1.0.2.tar.gz",
+  "download_time": "2025-10-04T09:50:16.039137",
   "package_url": "https://pypi.org/project/tmcp-client/"
 }

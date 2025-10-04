@@ -1,0 +1,11 @@
+{
+  "name": "torch-subpixel-crop",
+  "version": "0.0.4",
+  "summary": "Extract 2D/3D subimages with subpixel precision in PyTorch",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "torch_subpixel_crop-0.0.4.tar.gz",
+  "download_time": "2025-10-04T09:50:20.433273",
+  "package_url": "https://pypi.org/project/torch-subpixel-crop/"
+}
