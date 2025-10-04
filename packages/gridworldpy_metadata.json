@@ -1,11 +1,11 @@
 {
   "name": "gridworldpy",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A flexible and interactive grid world environment for reinforcement learning",
   "author": "LIC",
   "license": "MIT",
   "home_page": "https://github.com/hitlic/gridworldpy",
-  "download_filename": "gridworldpy-0.1.1.tar.gz",
-  "download_time": "2025-10-02T14:34:33.665817",
+  "download_filename": "gridworldpy-0.1.2-py3-none-any.whl",
+  "download_time": "2025-10-04T06:16:04.141973",
   "package_url": "https://pypi.org/project/gridworldpy/"
 }

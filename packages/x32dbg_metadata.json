@@ -1,0 +1,11 @@
+{
+  "name": "x32dbg",
+  "version": "2.0.0",
+  "summary": "An automated testing plugin developed for the x32dbg debugger, used to quickly build Python based test scripts to accelerate the development of exploit programs, assist in vulnerability mining, and analyze malware.",
+  "author": "lyshark",
+  "license": "MIT Licence",
+  "home_page": "http://lyscript.lyshark.com",
+  "download_filename": "x32dbg-2.0.0.tar.gz",
+  "download_time": "2025-10-04T06:16:08.589007",
+  "package_url": "https://pypi.org/project/x32dbg/"
+}

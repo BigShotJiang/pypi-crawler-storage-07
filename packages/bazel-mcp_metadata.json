@@ -1,11 +1,11 @@
 {
   "name": "bazel-mcp",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "summary": "MCP server exposing Bazel build/run/test/query as tools",
   "author": "Bazel MCP Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bazel_mcp-0.1.0.tar.gz",
-  "download_time": "2025-10-04T05:49:22.895137",
+  "download_filename": "bazel_mcp-1.0.1.tar.gz",
+  "download_time": "2025-10-04T06:16:12.856862",
   "package_url": "https://pypi.org/project/bazel-mcp/"
 }

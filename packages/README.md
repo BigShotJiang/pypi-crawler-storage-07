@@ -1,27 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-04T05:49:54.239888
-- **Total Packages**: 63
-- **Total Size**: 1.32 MB
+- **Download Time**: 2025-10-04T06:16:38.458638
+- **Total Packages**: 67
+- **Total Size**: 4.79 MB
 
 ## Packages List
+- svc-infra
+- jupyter-a2a
+- gridworldpy
+- arclet-entari
+- moleditpy
+- authentik-client
+- smu-ontwins-demo
+- ellar
+- x64dbg
+- pyg-nightly
+- x32dbg
+- funstall
+- graphistry
+- ssh-proto-types
+- rabinmiller
+- perturbvi
+- mongodb-query-builder
+- beartype
+- bazel-mcp
+- cofmpy
+- fovus
+- django-ipc
+- zrb
 - haliosai
 - mineralML
 - xarray-beam
 - spotlight-in-windows-seige
 - flatr
-- bazel-mcp
 - quillion
 - hkjc
 - univorm
 - ubicoders-vrobots-ipc
-- svc-infra
 - quillion-cli
-- authentik-client
-- mongodb-query-builder
 - leetcode-py-sdk
-- moleditpy
 - contact
 - llama-index-llms-ollama
 - llama-index-llms-bedrock-converse
@@ -36,7 +54,6 @@
 - robhan-cdk-lib.aws-aps
 - robhan-cdk-lib.aws-grafana
 - robhan-cdk-lib.utils
-- perturbvi
 - nlbone
 - simple-data-loader
 - pytest-checkpoint
@@ -56,16 +73,3 @@
 - modxpy
 - frida-fusion
 - mem8
-- iamdata
-- jarvis-ai-assistant
-- genpdf-butler
-- mcss-package
-- mysingle-quant
-- trompy
-- dandy
-- deep-organizer
-- list2dpro
-- tailscale-lambda-proxy
-- copra-theorem-prover
-- renzmc
-- codeeval-adjudication-engine
