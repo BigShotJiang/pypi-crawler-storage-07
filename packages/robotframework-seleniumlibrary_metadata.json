@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-seleniumlibrary",
+  "version": "6.8.0",
+  "summary": "Web testing library for Robot Framework",
+  "author": "Ed Manlove, Yuri Verweij",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/robotframework/SeleniumLibrary",
+  "download_filename": "robotframework_seleniumlibrary-6.8.0.tar.gz",
+  "download_time": "2025-10-04T13:49:35.652007",
+  "package_url": "https://pypi.org/project/robotframework-seleniumlibrary/"
+}

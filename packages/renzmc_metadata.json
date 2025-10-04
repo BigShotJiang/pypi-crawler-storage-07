@@ -1,11 +1,11 @@
 {
   "name": "renzmc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Bahasa pemrograman berbasis Bahasa Indonesia yang powerful dan modern",
   "author": "RenzMc",
   "license": null,
   "home_page": "https://github.com/RenzMc/RenzmcLang",
-  "download_filename": "renzmc-0.0.2.tar.gz",
-  "download_time": "2025-10-04T04:35:13.815143",
+  "download_filename": "renzmc-0.0.3.tar.gz",
+  "download_time": "2025-10-04T13:49:36.790656",
   "package_url": "https://pypi.org/project/renzmc/"
 }

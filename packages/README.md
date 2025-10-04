@@ -1,11 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-04T13:41:02.214770
-- **Total Packages**: 79
-- **Total Size**: 10.08 MB
+- **Download Time**: 2025-10-04T13:50:10.060918
+- **Total Packages**: 81
+- **Total Size**: 7.93 MB
 
 ## Packages List
+- semhash
+- toolos
+- global-equities-momentum
+- unbabelizer
+- bscommon
+- deepeval
+- arango-cve-processor
+- wolpie
+- oduit
+- srl-framework
+- memium
+- jellyjoin
+- animepahe-dl
+- myst-libre
+- pynetro
+- bencode.cy
+- evolib
+- robotframework-seleniumlibrary
+- bafser-tgapi
+- renzmc
+- authentik-client
+- jir-agent
+- davidkhala.utils
+- dockerclustermon
+- pyelox
+- lazyscan
+- cookieplone
 - kopi-docka
 - dhi
 - py-pmp-manip
@@ -16,8 +43,6 @@
 - aplr
 - tensor-chess
 - session-mgmt-mcp
-- authentik-client
-- jir-agent
 - inoopa_utils
 - sv2svg
 - navam
@@ -29,7 +54,6 @@
 - raphson-music-headless
 - aerotrace-parsers
 - tflite-micro
-- dockerclustermon
 - slack-lists-mcp
 - pymitsubishi
 - pyspark-dq-framework
@@ -38,7 +62,6 @@
 - pysaml2
 - habapp-rules
 - docutranslate
-- wolpie
 - claude-workshop
 - point-topic-mcp
 - datalayer-core
@@ -54,7 +77,6 @@
 - nbdev-stdlib
 - culebra-fantasma
 - hyso
-- bscommon
 - localsite
 - dymoapi
 - torchfont
@@ -62,26 +84,6 @@
 - evo
 - harm-analysis
 - pipeline-eds
-- bencode.cy
 - yltop
 - fabriq
 - v440
-- ptrlib
-- amrita
-- avl-core
-- mysingle-quant
-- totalhelp
-- reqman
-- progressivis
-- snakemake
-- piwave
-- lidfax-tl
-- lukan
-- pydantic-ai-claude-code
-- stix2extensions
-- with-respect-to
-- pyforma
-- one-public-api
-- mybox
-- bafser
-- json-model-compiler
