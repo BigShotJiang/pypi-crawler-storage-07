@@ -1,0 +1,11 @@
+{
+  "name": "SPrettify",
+  "version": "0.0.3",
+  "summary": "A library that clumps up general useful use cases for string prettifying",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sprettify-0.0.3.tar.gz",
+  "download_time": "2025-10-04T08:14:51.021526",
+  "package_url": "https://pypi.org/project/SPrettify/"
+}

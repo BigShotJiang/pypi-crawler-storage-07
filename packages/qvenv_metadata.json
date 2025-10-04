@@ -1,0 +1,11 @@
+{
+  "name": "qvenv",
+  "version": "1.0.0",
+  "summary": "A command-line tool for managing Python virtual environments",
+  "author": "Griffin Strier",
+  "license": "MIT",
+  "home_page": "https://github.com/GriffinCanCode/QVenv",
+  "download_filename": "qvenv-1.0.0.tar.gz",
+  "download_time": "2025-10-04T08:14:48.685339",
+  "package_url": "https://pypi.org/project/qvenv/"
+}

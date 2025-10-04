@@ -1,0 +1,11 @@
+{
+  "name": "magentic-mcp-server",
+  "version": "0.1.1",
+  "summary": "Local MCP server shim for development",
+  "author": "magentic",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "magentic_mcp_server-0.1.1.tar.gz",
+  "download_time": "2025-10-04T08:14:58.341791",
+  "package_url": "https://pypi.org/project/magentic-mcp-server/"
+}

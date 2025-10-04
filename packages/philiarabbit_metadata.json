@@ -1,11 +1,11 @@
 {
   "name": "philiarabbit",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": null,
   "author": "Amir RedHat",
   "license": null,
   "home_page": null,
-  "download_filename": "philiarabbit-0.2.0.tar.gz",
-  "download_time": "2025-09-30T08:43:36.806875",
+  "download_filename": "philiarabbit-0.2.1.tar.gz",
+  "download_time": "2025-10-04T08:14:54.174324",
   "package_url": "https://pypi.org/project/philiarabbit/"
 }

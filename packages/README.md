@@ -1,16 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-04T07:50:49.246894
-- **Total Packages**: 84
-- **Total Size**: 3.76 MB
+- **Download Time**: 2025-10-04T08:15:28.155488
+- **Total Packages**: 76
+- **Total Size**: 8.18 MB
 
 ## Packages List
+- nvfuser-cu128
+- pitct
+- nvfuser-cu129
+- qvenv
+- minibanana
+- barangay
+- sleipnirgroup-jormungandr
+- SPrettify
+- yta-colors
+- authentik-client
+- hanime-plugin
+- pyglove
+- philiarabbit
+- ellar-storage
+- byzh-ai
+- rxctl
+- veritasai
+- mc-creatormc-sdkspring
+- trackerping
+- hybridoma
+- magentic-mcp-server
+- xiaomi-flashable-firmware-creator
+- StreamingCommunity
+- pulumi-gcp
+- axosyslog-cfg-helper
+- ellar-sql
+- janito
+- hanzo-mcp
+- artemis-model
+- codegnan
 - arithoperator
 - isd-tui
-- janito
 - pixell-kit
-- StreamingCommunity
 - poottu
 - timeitPro
 - scapi
@@ -19,15 +47,11 @@
 - minsearch
 - vsquickview
 - fast-stark-crypto
-- pitct
-- byzh-ai
 - HomeAssistant-API
 - vedro
 - maplib
 - ormparams
-- veritasai
 - wayspiritmcp-weather
-- authentik-client
 - vscode-offline
 - pyscript-programming-language
 - otpylib-logger
@@ -55,38 +79,6 @@
 - zrb
 - tritonparse
 - penguiflow
-- artemis-model
 - tf-models-nightly
 - entari-plugin-browser
 - pyside-cli
-- ironBars
-- robotframework-schemathesislibrary
-- streamlit-nightly
-- cs-mcp
-- kapipe
-- ablisk
-- sidemantic
-- feu
-- HTML4Vision
-- pygameforbabies
-- univorm
-- ellar-cli
-- moleditpy
-- ilbuilder
-- essentials
-- dj-boilerplate-generator
-- maturin
-- bscommon
-- pulumi-postgresql
-- smoosense
-- stable-delusion
-- odoo-addon-mgmtsystem-objective
-- pygpsclient
-- guardpost
-- victron-mqtt
-- netbox-aws-vpc-plugin
-- mcp-notebook-data
-- pyscn
-- beartype
-- ai-edge-litert-sdk-mediatek-nightly
-- ai-edge-litert-sdk-qualcomm-nightly
