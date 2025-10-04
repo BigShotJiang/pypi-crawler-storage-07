@@ -1,11 +1,11 @@
 {
   "name": "stepfile-runner",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "A Pythonic stepfile runner that executes commands from a configuration file.",
   "author": "ZaiperUnbound",
   "license": null,
   "home_page": "https://github.com/dreamingcuriosity/stepfile-runner",
-  "download_filename": "stepfile_runner-0.1.1.tar.gz",
-  "download_time": "2025-10-04T02:08:57.661838",
+  "download_filename": "stepfile_runner-0.2.0.tar.gz",
+  "download_time": "2025-10-04T07:35:02.490083",
   "package_url": "https://pypi.org/project/stepfile-runner/"
 }
