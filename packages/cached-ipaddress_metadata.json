@@ -1,11 +1,11 @@
 {
   "name": "cached-ipaddress",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Cache construction of ipaddress objects",
   "author": "J. Nick Koston",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "cached_ipaddress-1.0.0.tar.gz",
-  "download_time": "2025-10-04T17:49:40.201343",
+  "download_filename": "cached_ipaddress-1.0.1.tar.gz",
+  "download_time": "2025-10-04T18:16:23.190409",
   "package_url": "https://pypi.org/project/cached-ipaddress/"
 }

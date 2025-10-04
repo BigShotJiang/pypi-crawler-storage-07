@@ -1,0 +1,11 @@
+{
+  "name": "chzzkpy",
+  "version": "2.1.2",
+  "summary": "An unofficial Python library of Chzzk(Naver live-streaming service)",
+  "author": "gunyu1019",
+  "license": "MIT",
+  "home_page": "https://github.com/gunyu1019/chzzkpy",
+  "download_filename": "chzzkpy-2.1.2.tar.gz",
+  "download_time": "2025-10-04T18:16:30.634514",
+  "package_url": "https://pypi.org/project/chzzkpy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mad-proxy",
-  "version": "0.2",
-  "summary": "A local HTTP/HTTPS proxy with custom detection and blocking policies.",
+  "version": "0.3",
+  "summary": "Lightweight HTTP/HTTPS interception proxy with real-time traffic firewall and domain block.",
   "author": "machphy",
   "license": null,
   "home_page": "https://github.com/machphy/mad-proxy",
-  "download_filename": "mad_proxy-0.2.tar.gz",
-  "download_time": "2025-09-29T12:20:43.855506",
+  "download_filename": "mad_proxy-0.3.tar.gz",
+  "download_time": "2025-10-04T18:16:32.684951",
   "package_url": "https://pypi.org/project/mad-proxy/"
 }

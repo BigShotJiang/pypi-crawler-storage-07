@@ -1,11 +1,11 @@
 {
   "name": "coloredstrings",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "summary": "Colorize Different.",
   "author": "samedit66",
   "license": null,
   "home_page": null,
-  "download_filename": "coloredstrings-2.0.2.tar.gz",
-  "download_time": "2025-10-03T00:07:05.463879",
+  "download_filename": "coloredstrings-2.1.0.tar.gz",
+  "download_time": "2025-10-04T18:16:32.171319",
   "package_url": "https://pypi.org/project/coloredstrings/"
 }
