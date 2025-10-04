@@ -1,0 +1,11 @@
+{
+  "name": "eyepy",
+  "version": "1.0.0",
+  "summary": "A python package to read, analyse and visualize OCT and fundus data form various sources.",
+  "author": "Olivier Morelle",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eyepy-1.0.0.tar.gz",
+  "download_time": "2025-10-04T22:30:41.770429",
+  "package_url": "https://pypi.org/project/eyepy/"
+}

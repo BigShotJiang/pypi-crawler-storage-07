@@ -1,0 +1,11 @@
+{
+  "name": "fluxgraph",
+  "version": "2.0.0",
+  "summary": "Production-grade enterprise AI agent orchestration framework",
+  "author": "Ihtesham Jahangir",
+  "license": "MIT",
+  "home_page": "https://github.com/ihtesham-jahangir/fluxgraph",
+  "download_filename": "fluxgraph-2.0.0.tar.gz",
+  "download_time": "2025-10-04T22:30:40.649752",
+  "package_url": "https://pypi.org/project/fluxgraph/"
+}

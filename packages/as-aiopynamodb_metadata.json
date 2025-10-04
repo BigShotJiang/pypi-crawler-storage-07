@@ -1,0 +1,11 @@
+{
+  "name": "as-aiopynamodb",
+  "version": "1.0.2",
+  "summary": "An Async Pythonic Interface to DynamoDB",
+  "author": "Jharrod LaFon",
+  "license": "MIT",
+  "home_page": "http://jlafon.io/pynamodb.html",
+  "download_filename": "as_aiopynamodb-1.0.2.tar.gz",
+  "download_time": "2025-10-04T22:30:36.168853",
+  "package_url": "https://pypi.org/project/as-aiopynamodb/"
+}
