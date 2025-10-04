@@ -1,11 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-04T15:29:35.660592
-- **Total Packages**: 81
-- **Total Size**: 21.6 MB
+- **Download Time**: 2025-10-04T15:36:04.313886
+- **Total Packages**: 76
+- **Total Size**: 1.69 MB
 
 ## Packages List
+- rko-lio
+- cogworks
+- ScriptCollection
+- doleus
+- methodism
+- odoo-addon-l10n-br-fiscal
+- odoo-addon-l10n-br-nfe
+- odoo-addon-l10n-br-nfse
+- xiaomi-flashable-firmware-creator
+- spot-planner
+- imsg2spot
+- gh2md
+- file2txt
+- langlint
+- llm-annotator
+- dotchatbot
+- archeryutils
+- vscode-multi
+- pyfujitsugeneral
 - faststream
 - dnsdiag
 - mcp-get-weather-zjdxflj
@@ -18,10 +37,8 @@
 - schlibs
 - mzfont
 - pipedsl
-- gh2md
 - nonebot-plugin-htmlrender
 - boilersync
-- cogworks
 - ltts
 - winter-snowflake
 - tomato-clock-cli
@@ -50,16 +67,12 @@
 - freeflock-contraptions
 - vibesurf
 - akash
-- ScriptCollection
 - mccoygroup-psience
 - mccoygroup-mcutils
 - v440
 - torchic
-- spot-planner
 - flux-local
 - toolos
-- imsg2spot
-- llm-annotator
 - autotwin_gmglib
 - tptq-feacomposer
 - vondb
@@ -69,21 +82,3 @@
 - slugkit-py-sdk
 - math-mcp-learning-server
 - slack-lists-mcp
-- iagitbetter
-- phoonnx
-- pyya
-- pahlavi
-- fastapi-voyager
-- codegen-cli
-- django-streaming
-- zapgpt
-- nvidia-dali-nightly-cuda120
-- windmill-lib
-- histomap
-- pulumiverse-cpln
-- pvdeg
-- xarray-sql
-- bluetooth-data-tools
-- pytest-operator
-- crosstabs-analytics
-- maniq

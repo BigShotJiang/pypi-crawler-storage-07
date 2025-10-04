@@ -1,11 +1,11 @@
 {
   "name": "gh2md",
-  "version": "2.4.0",
+  "version": "2.5.0",
   "summary": "Export Github repository issues to markdown files: https://github.com/mattduck/gh2md.",
   "author": "Matthew Duck",
   "license": "MIT",
   "home_page": "https://github.com/mattduck/gh2md",
-  "download_filename": "gh2md-2.4.0.tar.gz",
-  "download_time": "2025-10-04T15:28:53.240635",
+  "download_filename": "gh2md-2.5.0.tar.gz",
+  "download_time": "2025-10-04T15:35:28.836858",
   "package_url": "https://pypi.org/project/gh2md/"
 }
