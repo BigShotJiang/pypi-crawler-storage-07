@@ -1,0 +1,11 @@
+{
+  "name": "minimal-activitypub",
+  "version": "1.4.7",
+  "summary": "Minimal inplementation of ActivityPub Interface",
+  "author": "marvin8",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "minimal_activitypub-1.4.7.tar.gz",
+  "download_time": "2025-10-04T22:39:39.758432",
+  "package_url": "https://pypi.org/project/minimal-activitypub/"
+}

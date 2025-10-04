@@ -1,11 +1,23 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-04T22:31:16.336203
-- **Total Packages**: 79
-- **Total Size**: 13.84 MB
+- **Download Time**: 2025-10-04T22:40:16.704526
+- **Total Packages**: 78
+- **Total Size**: 11.84 MB
 
 ## Packages List
+- chromator
+- gtm-experiments-tool
+- tai-jaix
+- langflow-viz
+- authentik-client
+- QGISLibrary
+- ngilive
+- toolos
+- openavmkit
+- minimal-activitypub
+- atomic-red-team-mcp
+- pumaguard
 - hypothesis
 - sollol
 - cornac
@@ -14,7 +26,6 @@
 - as-aiopynamodb
 - mcp-proxy-adapter
 - mkaireadme
-- authentik-client
 - huez
 - json-to-parquet
 - metametameta
@@ -34,7 +45,6 @@
 - mcp-server-things
 - sai-rl
 - conventional-commits-generator
-- tai-jaix
 - sidemantic
 - llm-annotator
 - rich-click
@@ -48,10 +58,8 @@
 - deriva-ml
 - nmea2000
 - paynt
-- openavmkit
 - decayshape
 - biblemate
-- langflow-viz
 - PYield
 - geodiff
 - batem
@@ -60,7 +68,6 @@
 - unique_toolkit
 - unbabelizer
 - cndi
-- toolos
 - graphiti-core
 - eduslip
 - Google-FX-Image-IA-S-I
@@ -77,11 +84,3 @@
 - geek-cafe-services
 - rdworks
 - Google-FX-Image
-- gguf-connector
-- django-s3-aws
-- bioql
-- jules-mcp
-- wristband-fastapi-auth
-- fennec-framework
-- fsdata
-- iatoolkit
