@@ -1,11 +1,11 @@
 {
   "name": "mybox",
-  "version": "5.4.9",
+  "version": "5.4.10",
   "summary": "Manage the configuration and tools on your workstation without bothering the OS too much",
   "author": "Alexey Kotlyarov",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "mybox-5.4.9.tar.gz",
-  "download_time": "2025-10-04T09:12:16.364019",
+  "download_filename": "mybox-5.4.10.tar.gz",
+  "download_time": "2025-10-04T11:49:58.855223",
   "package_url": "https://pypi.org/project/mybox/"
 }

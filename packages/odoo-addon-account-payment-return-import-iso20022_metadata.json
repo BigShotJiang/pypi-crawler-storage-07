@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-payment-return-import-iso20022",
+  "version": "18.0.1.1.1",
+  "summary": "This addon allows to import payment returns from ISO 20022 files like PAIN or CAMT.",
+  "author": "Odoo Community Association (OCA),Tecnativa,ACSONE SA/NV",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-payment",
+  "download_filename": "odoo_addon_account_payment_return_import_iso20022-18.0.1.1.1-py3-none-any.whl",
+  "download_time": "2025-10-04T11:50:00.397623",
+  "package_url": "https://pypi.org/project/odoo-addon-account-payment-return-import-iso20022/"
+}

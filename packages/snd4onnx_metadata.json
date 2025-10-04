@@ -1,0 +1,11 @@
+{
+  "name": "snd4onnx",
+  "version": "1.1.7",
+  "summary": "Simple node deletion tool for onnx.",
+  "author": "Katsuya Hyodo",
+  "license": "MIT License",
+  "home_page": "https://github.com/PINTO0309/snd4onnx",
+  "download_filename": "snd4onnx-1.1.7.tar.gz",
+  "download_time": "2025-10-04T11:50:06.145291",
+  "package_url": "https://pypi.org/project/snd4onnx/"
+}
