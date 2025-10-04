@@ -1,11 +1,11 @@
 {
   "name": "boogle-logger",
-  "version": "99.0.0",
+  "version": "99.99.99",
   "summary": "Dependency Confusion Attack Demo",
   "author": "Attacker",
   "license": null,
   "home_page": null,
-  "download_filename": "boogle_logger-99.0.0.tar.gz",
-  "download_time": "2025-10-03T15:31:02.329511",
+  "download_filename": "boogle_logger-99.99.99.tar.gz",
+  "download_time": "2025-10-04T08:34:54.971693",
   "package_url": "https://pypi.org/project/boogle-logger/"
 }

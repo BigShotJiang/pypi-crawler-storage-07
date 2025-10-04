@@ -1,11 +1,11 @@
 {
   "name": "codegnan",
-  "version": "0.1.0",
-  "summary": "A quest-based learning engine for coding challenges",
+  "version": "0.2.0",
+  "summary": "An interactive Python learning quest with 15+ MCQs and coding challenges, featuring automated testing and badge system for gamified learning",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "codegnan-0.1.0.tar.gz",
-  "download_time": "2025-10-04T08:15:03.061874",
+  "download_filename": "codegnan-0.2.0.tar.gz",
+  "download_time": "2025-10-04T08:34:55.542009",
   "package_url": "https://pypi.org/project/codegnan/"
 }
