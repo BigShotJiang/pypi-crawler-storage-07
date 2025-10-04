@@ -1,11 +1,11 @@
 {
   "name": "pyya",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "Convert YAML/TOML configuration files to Python objects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyya-0.1.11.tar.gz",
-  "download_time": "2025-10-03T10:13:36.043579",
+  "download_filename": "pyya-0.1.12.tar.gz",
+  "download_time": "2025-10-04T14:50:35.335113",
   "package_url": "https://pypi.org/project/pyya/"
 }

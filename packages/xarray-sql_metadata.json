@@ -1,0 +1,11 @@
+{
+  "name": "xarray-sql",
+  "version": "0.1.2",
+  "summary": "Querry Xarray with SQL.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "xarray_sql-0.1.2.tar.gz",
+  "download_time": "2025-10-04T14:50:42.356922",
+  "package_url": "https://pypi.org/project/xarray-sql/"
+}

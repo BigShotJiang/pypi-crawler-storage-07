@@ -1,0 +1,11 @@
+{
+  "name": "windmill-lib",
+  "version": "0.0.1",
+  "summary": "A tiny library that offers support for event handling and messaging streams between multiple consumers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "windmill_lib-0.0.1.tar.gz",
+  "download_time": "2025-10-04T14:50:40.031265",
+  "package_url": "https://pypi.org/project/windmill-lib/"
+}

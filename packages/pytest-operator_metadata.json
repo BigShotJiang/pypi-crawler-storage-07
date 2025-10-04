@@ -1,0 +1,11 @@
+{
+  "name": "pytest-operator",
+  "version": "0.43.2",
+  "summary": "Fixtures for Charmed Operators",
+  "author": null,
+  "license": "Apache",
+  "home_page": null,
+  "download_filename": "pytest_operator-0.43.2.tar.gz",
+  "download_time": "2025-10-04T14:50:43.464386",
+  "package_url": "https://pypi.org/project/pytest-operator/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "acb",
-  "version": "0.23.0",
+  "version": "0.23.1",
   "summary": "ACB: Asynchronous Component Base",
   "author": null,
   "license": "BSD-3-CLAUSE",
   "home_page": null,
-  "download_filename": "acb-0.23.0.tar.gz",
-  "download_time": "2025-10-01T21:29:06.239655",
+  "download_filename": "acb-0.23.1.tar.gz",
+  "download_time": "2025-10-04T14:50:53.362276",
   "package_url": "https://pypi.org/project/acb/"
 }

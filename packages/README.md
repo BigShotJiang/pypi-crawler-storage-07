@@ -1,11 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-04T14:38:30.556105
-- **Total Packages**: 86
-- **Total Size**: 10.08 MB
+- **Download Time**: 2025-10-04T14:51:17.296018
+- **Total Packages**: 83
+- **Total Size**: 8.84 MB
 
 ## Packages List
+- slack-lists-mcp
+- torchic
+- iagitbetter
+- phoonnx
+- pyya
+- pahlavi
+- fastapi-voyager
+- codegen-cli
+- vondb
+- emtrace
+- django-streaming
+- zapgpt
+- nvidia-dali-nightly-cuda120
+- windmill-lib
+- histomap
+- pulumiverse-cpln
+- pvdeg
+- xarray-sql
+- bluetooth-data-tools
+- pytest-operator
+- v440
+- crosstabs-analytics
+- maniq
+- spot-planner
+- langlint
+- annotatedyaml
+- authentik-client
+- ovos-number-parser
+- ciscoconfparse2
+- otdf-python
+- math-mcp-learning-server
+- TimeVariables
+- freeflock-contraptions
+- bscommon
+- pdf-to-md-llm
+- magentic-mcp-server
+- vellum-ai
+- acb
+- file2txt
+- nbcmdio
+- imsg2spot
+- cppio
+- speechreclib
+- aibox-nlp
+- atenpdu
+- uv-jupyter-kernel
+- pymelodia
+- trompy
+- pygpsclient
+- code-puppy
+- codearkt
 - tacotoolbox
 - quantumwalks
 - sae-lens
@@ -14,10 +65,8 @@
 - videosdk-plugins-smallestai
 - videosdk-plugins-simli
 - gamengine2d
-- math-mcp-learning-server
 - videosdk-plugins-silero
 - videosdk-plugins-sarvamai
-- imsg2spot
 - animepahe-dl
 - bump-my-version
 - videosdk-plugins-rnnoise
@@ -40,55 +89,3 @@
 - videosdk-plugins-azure
 - videosdk-plugins-aws
 - videosdk-plugins-assemblyai
-- videosdk-plugins-anthropic
-- videosdk-agents
-- borgitory
-- voice-mode
-- v440
-- claude-code-log
-- authentik-client
-- web3-wizzard-lib
-- tensorzero
-- wolpie
-- jira-agent
-- pydantic-ai-claude-code
-- py-pmp-manip
-- keynet
-- ScriptCollection
-- basellm
-- dhi
-- inoopa_utils
-- joinly-client
-- pvdeg
-- package-installer-cli
-- sv2svg
-- pipeline-eds
-- serverz
-- event-calplot
-- markdown-query
-- mysingle-quant
-- culebra-fantasma
-- Pydowndoc
-- masai-framework
-- mcp-server-selenium
-- wise-agent-toolkit
-- navam
-- emtrace
-- pytensor
-- finlight-client
-- ipyprogressivis
-- tensordict-nightly
-- jules-api
-- scjson
-- postgres-mcp-enhanced
-- nqxpack
-- collective.html2blocks
-- financetoolkit
-- muna
-- enumetyped
-- toolos
-- PyCgame
-- semhash
-- global-equities-momentum
-- unbabelizer
-- bscommon
