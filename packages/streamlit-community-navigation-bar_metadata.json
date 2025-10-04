@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-community-navigation-bar",
+  "version": "4.7.10",
+  "summary": "A component that allows you to place a navigation bar in your Streamlit app.",
+  "author": "Gabriel Tem Pass",
+  "license": "MIT License",
+  "home_page": "https://github.com/streamlit-community/streamlit-navigation-bar",
+  "download_filename": "streamlit_community_navigation_bar-4.7.10-py3-none-any.whl",
+  "download_time": "2025-10-04T16:50:04.217198",
+  "package_url": "https://pypi.org/project/streamlit-community-navigation-bar/"
+}

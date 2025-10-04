@@ -1,0 +1,11 @@
+{
+  "name": "toolbrain",
+  "version": "0.1.0",
+  "summary": "A framework for training LLM-powered agents to use tools more effectively using Reinforcement Learning",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "toolbrain-0.1.0.tar.gz",
+  "download_time": "2025-10-04T16:50:01.647751",
+  "package_url": "https://pypi.org/project/toolbrain/"
+}

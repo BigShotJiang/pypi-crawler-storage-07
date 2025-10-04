@@ -1,11 +1,11 @@
 {
   "name": "drudge-cli",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "summary": "🚀 A powerful work time tracking tool for the command line",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "drudge_cli-2.0.1.tar.gz",
-  "download_time": "2025-10-03T19:50:58.183225",
+  "download_filename": "drudge_cli-2.1.0.tar.gz",
+  "download_time": "2025-10-04T16:49:59.599928",
   "package_url": "https://pypi.org/project/drudge-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "langgate-registry",
+  "version": "0.4.0",
+  "summary": "Model registry implementation for LangGate AI Gateway",
+  "author": "Tanantor Ltd.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langgate_registry-0.4.0.tar.gz",
+  "download_time": "2025-10-04T16:50:07.295314",
+  "package_url": "https://pypi.org/project/langgate-registry/"
+}

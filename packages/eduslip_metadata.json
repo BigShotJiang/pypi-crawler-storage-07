@@ -1,11 +1,11 @@
 {
   "name": "eduslip",
-  "version": "0.1.19",
+  "version": "0.1.22",
   "summary": "Eduslip CLI in Python",
   "author": "Your Name",
   "license": null,
   "home_page": "https://github.com/yourusername/eduslip",
-  "download_filename": "eduslip-0.1.19.tar.gz",
-  "download_time": "2025-10-04T13:40:22.546414",
+  "download_filename": "eduslip-0.1.22.tar.gz",
+  "download_time": "2025-10-04T16:49:44.573294",
   "package_url": "https://pypi.org/project/eduslip/"
 }

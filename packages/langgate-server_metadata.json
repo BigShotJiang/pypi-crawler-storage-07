@@ -1,0 +1,11 @@
+{
+  "name": "langgate-server",
+  "version": "0.4.0",
+  "summary": "Server implementation for LangGate AI Gateway",
+  "author": "Tanantor Ltd.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langgate_server-0.4.0.tar.gz",
+  "download_time": "2025-10-04T16:50:06.269288",
+  "package_url": "https://pypi.org/project/langgate-server/"
+}

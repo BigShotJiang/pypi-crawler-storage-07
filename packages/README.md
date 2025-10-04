@@ -1,20 +1,76 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-04T16:35:10.714064
-- **Total Packages**: 75
-- **Total Size**: 0.03 MB
+- **Download Time**: 2025-10-04T16:50:25.637135
+- **Total Packages**: 80
+- **Total Size**: 13.09 MB
 
 ## Packages List
+- yog
+- llmass
+- eduslip
+- omnigen-usf
+- mainsequence
+- claude-workshop
+- habluetooth
+- nnlogging
+- ScriptCollection
+- echoed
+- polars-genson
+- arkitekt-next
+- semantic-bit
+- authentik-client
+- rds-proxy-password-rotation
+- yoyodyne
+- PyCgame
+- squawk-cli
+- pdf-to-md-llm
+- polymo
+- mikro-next
+- tinyshift
+- coq-tools
+- kabinet
+- pyiron-snippets
+- zaroon-easy
+- pyside-cli
+- navam
+- soliscloud
+- nonebot-plugin-htmlkit
+- drudge-cli
+- pyeyesweb
+- rekuest-next
+- LuminaDB
+- toolbrain
+- gh-maintainer-dashboard
+- t-doc-common
+- pasarguard-node-bridge
+- artemis-model
+- streamlit-community-navigation-bar
+- odoo-addon-stock-release-channel-shipment-lead-time
+- programasweights
+- langgate-transform
+- langgate-server
+- langgate-sdk
+- langgate-registry
+- langgate-processor
+- langgate-core
+- langgate-client
+- langgate
+- debug-dojo
+- rapidgeo
+- policyengine-api-simulation-client
+- policyengine-api-full-client
+- voice-mode
+- inoopa_utils
+- bus-202
+- viskex
+- pylib-sakata
 - collectivecrossing
 - wanting
 - cadence-seq
-- authentik-client
-- pdf-to-md-llm
 - codex-weather-agent
 - jupyter-deploy
 - pipevine
-- artemis-model
 - opteryx
 - ASMRManager
 - math-mcp-learning-server
@@ -30,54 +86,3 @@
 - mcp-openwebui-demo
 - ram-cache
 - package-installer-cli
-- doleus
-- tinyscraper
-- penguin-tamer
-- lovely-tensors
-- maniq
-- calsipro
-- hololinked
-- osism
-- lovely-numpy
-- veotools
-- pipedsl
-- pulumiverse-cpln
-- python-openevse-http
-- arts
-- oduit
-- ScriptCollection
-- fupi
-- xcomponent
-- xecution
-- spells-mtg
-- wsxtext009
-- bota
-- bioql
-- viblr-sdk
-- mcp-openstack-ops
-- reyapi
-- metaheuristicpy
-- mcp-postgresql-ops
-- pycasbin
-- mcp-mysql-ops
-- togura
-- bombardx
-- mat-io
-- ltts
-- imsg2spot
-- mcp-airflow-api
-- biblemate
-- brats
-- casa-lm
-- mcp-ambari-api
-- rko-lio
-- cogworks
-- methodism
-- odoo-addon-l10n-br-fiscal
-- odoo-addon-l10n-br-nfe
-- odoo-addon-l10n-br-nfse
-- xiaomi-flashable-firmware-creator
-- spot-planner
-- gh2md
-- file2txt
-- langlint

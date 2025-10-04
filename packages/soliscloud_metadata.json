@@ -1,0 +1,11 @@
+{
+  "name": "soliscloud",
+  "version": "1.1.5",
+  "summary": "A small package to work with Solis Cloud API",
+  "author": "Skywatcher",
+  "license": null,
+  "home_page": "https://github.com/skywatcher-uk/soliscloud",
+  "download_filename": "soliscloud-1.1.5.tar.gz",
+  "download_time": "2025-10-04T16:49:58.573065",
+  "package_url": "https://pypi.org/project/soliscloud/"
+}

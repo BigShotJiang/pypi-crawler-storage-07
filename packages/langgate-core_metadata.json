@@ -1,0 +1,11 @@
+{
+  "name": "langgate-core",
+  "version": "0.4.0",
+  "summary": "Core models and utilities for LangGate",
+  "author": "Tanantor Ltd.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langgate_core-0.4.0.tar.gz",
+  "download_time": "2025-10-04T16:50:08.322828",
+  "package_url": "https://pypi.org/project/langgate-core/"
+}
