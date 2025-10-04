@@ -1,11 +1,22 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-04T10:43:07.450851
-- **Total Packages**: 80
-- **Total Size**: 11.64 MB
+- **Download Time**: 2025-10-04T10:50:07.169091
+- **Total Packages**: 75
+- **Total Size**: 2.13 MB
 
 ## Packages List
+- inmanta-module-git-ops
+- veritasai
+- mysingle-quant
+- ut-cli
+- ScriptCollection
+- task-scheduling
+- fluvialgen
+- konduktor-nightly
+- web-research-agent
+- llmass
+- crackerjack
 - eduslip
 - pydantic
 - trainy-policy-nightly
@@ -16,7 +27,6 @@
 - fastapi-email-auth
 - pgpack-dumper
 - ledsign
-- llmass
 - unitelabs-sila
 - simpn
 - apache-airflow-providers-fab
@@ -26,12 +36,10 @@
 - PyQQSkeyTool
 - mwxlib
 - windmill-project
-- mysingle-quant
 - dana-python
 - amrita
 - onepush
 - maniq
-- veritasai
 - chutes
 - kagura-ai
 - spectre-core
@@ -51,7 +59,6 @@
 - lifespring
 - bool-hybrid-array
 - stackitui
-- ScriptCollection
 - aignostics
 - fasttext-community
 - py-encase
@@ -74,15 +81,3 @@
 - nvidia-nat-zep-cloud
 - nvidia-nat-s3
 - nvidia-nat
-- nvidia-nat-ragaai
-- nvidia-nat-weave
-- nvidia-nat-semantic-kernel
-- nvidia-nat-data-flywheel
-- duckrun
-- nvidia-nat-adk
-- nvidia-nat-test
-- aiqtoolkit-langchain
-- aiqtoolkit-zep-cloud
-- aiqtoolkit
-- aiqtoolkit-agno
-- aiqtoolkit-mem0ai

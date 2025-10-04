@@ -1,11 +1,11 @@
 {
   "name": "web-research-agent",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "An AI agent using ReAct methodology for autonomous web research tasks",
   "author": "Victor Jotham Ashioya",
   "license": "MIT",
   "home_page": "https://github.com/victorashioya/web_research_agent",
-  "download_filename": "web_research_agent-1.2.0.tar.gz",
-  "download_time": "2025-10-04T09:12:00.699802",
+  "download_filename": "web_research_agent-1.2.1.tar.gz",
+  "download_time": "2025-10-04T10:49:32.063495",
   "package_url": "https://pypi.org/project/web-research-agent/"
 }
