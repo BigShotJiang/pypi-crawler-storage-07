@@ -1,0 +1,11 @@
+{
+  "name": "lidfax-tl",
+  "version": "0.9.5",
+  "summary": "This library is built for the LidFax userbot and is based on Telethon.",
+  "author": "LidF1x",
+  "license": "CCBYNCND V4",
+  "home_page": "https://github.com/sz3333/lidfax-tl",
+  "download_filename": "lidfax_tl-0.9.5.tar.gz",
+  "download_time": "2025-10-04T12:58:08.116034",
+  "package_url": "https://pypi.org/project/lidfax-tl/"
+}

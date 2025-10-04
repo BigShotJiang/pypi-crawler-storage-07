@@ -1,11 +1,11 @@
 {
   "name": "wolpie",
-  "version": "0.1.0",
+  "version": "0.1.5",
   "summary": "Some useful Python tooling",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wolpie-0.1.0.tar.gz",
-  "download_time": "2025-10-04T11:24:15.537918",
+  "download_filename": "wolpie-0.1.5.tar.gz",
+  "download_time": "2025-10-04T12:58:10.923903",
   "package_url": "https://pypi.org/project/wolpie/"
 }

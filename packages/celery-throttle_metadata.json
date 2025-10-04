@@ -1,0 +1,11 @@
+{
+  "name": "celery-throttle",
+  "version": "0.1.0b1",
+  "summary": "Advanced rate limiting and queue management for Celery workers using Redis-based token bucket algorithms",
+  "author": "Celery Throttle Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "celery_throttle-0.1.0b1.tar.gz",
+  "download_time": "2025-10-04T12:58:32.707069",
+  "package_url": "https://pypi.org/project/celery-throttle/"
+}

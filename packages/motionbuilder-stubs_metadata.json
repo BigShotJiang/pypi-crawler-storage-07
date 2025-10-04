@@ -1,0 +1,11 @@
+{
+  "name": "motionbuilder-stubs",
+  "version": "2026.1.1",
+  "summary": "Stubs for Autodesk MotionBuilder's pyfbsdk api",
+  "author": "Nils Soderman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "motionbuilder_stubs-2026.1.1.tar.gz",
+  "download_time": "2025-10-04T12:58:24.936636",
+  "package_url": "https://pypi.org/project/motionbuilder-stubs/"
+}
