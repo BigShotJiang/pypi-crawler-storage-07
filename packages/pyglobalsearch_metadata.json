@@ -1,0 +1,11 @@
+{
+  "name": "pyglobalsearch",
+  "version": "0.3.0",
+  "summary": "This package provides a Python interface to Rust's globalsearch crate. globalsearch is a Global optimization algorithm with scatter search and local NLP solvers written in Rust.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyglobalsearch-0.3.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-10-04T19:35:15.780322",
+  "package_url": "https://pypi.org/project/pyglobalsearch/"
+}

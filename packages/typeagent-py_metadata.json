@@ -1,0 +1,11 @@
+{
+  "name": "typeagent-py",
+  "version": "0.1.8",
+  "summary": "TypeAgent implements an agentic memory framework.",
+  "author": "Steven Lucco, Umesh Madan, Guido van Rossum",
+  "license": null,
+  "home_page": null,
+  "download_filename": "typeagent_py-0.1.8.tar.gz",
+  "download_time": "2025-10-04T19:35:20.130018",
+  "package_url": "https://pypi.org/project/typeagent-py/"
+}

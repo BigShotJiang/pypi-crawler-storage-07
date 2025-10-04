@@ -1,0 +1,11 @@
+{
+  "name": "agentci",
+  "version": "0.1.0",
+  "summary": "Agent CI command-line interface",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentci-0.1.0.tar.gz",
+  "download_time": "2025-10-04T19:35:19.066267",
+  "package_url": "https://pypi.org/project/agentci/"
+}
