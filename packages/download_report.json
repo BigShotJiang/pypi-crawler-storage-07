@@ -1,8 +1,14 @@
 {
-  "download_time": "2025-10-04T18:38:58.054475",
-  "total_packages_downloaded": 75,
-  "total_size_mb": 12.09,
+  "download_time": "2025-10-04T18:52:45.265061",
+  "total_packages_downloaded": 74,
+  "total_size_mb": 1.85,
   "packages": [
+    "wise-agent-toolkit",
+    "eduslip",
+    "authentik-client",
+    "opencc-pyo3",
+    "ut-pac",
+    "xiangting",
     "convertertools",
     "autocomplete-commit",
     "midil-kit",
@@ -16,7 +22,6 @@
     "ghss",
     "doctra",
     "pyvesync",
-    "authentik-client",
     "sealights-python-agent",
     "sqlsaber",
     "pyprestascan",
@@ -35,7 +40,6 @@
     "language-fixer",
     "livedict",
     "memory-hub-mcp",
-    "wise-agent-toolkit",
     "openalgo",
     "math-mcp-learning-server",
     "xecution",
@@ -72,11 +76,6 @@
     "mad-proxy",
     "duvida",
     "zeed-movslib",
-    "crackle-codec",
-    "ScriptCollection",
-    "sromaster",
-    "thoth_dbmanager",
-    "not-my-board",
-    "nonebot-plugin-warframe"
+    "crackle-codec"
   ]
 }

@@ -1,11 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-04T18:38:58.054475
-- **Total Packages**: 75
-- **Total Size**: 12.09 MB
+- **Download Time**: 2025-10-04T18:52:45.265061
+- **Total Packages**: 74
+- **Total Size**: 1.85 MB
 
 ## Packages List
+- wise-agent-toolkit
+- eduslip
+- authentik-client
+- opencc-pyo3
+- ut-pac
+- xiangting
 - convertertools
 - autocomplete-commit
 - midil-kit
@@ -19,7 +25,6 @@
 - ghss
 - doctra
 - pyvesync
-- authentik-client
 - sealights-python-agent
 - sqlsaber
 - pyprestascan
@@ -38,7 +43,6 @@
 - language-fixer
 - livedict
 - memory-hub-mcp
-- wise-agent-toolkit
 - openalgo
 - math-mcp-learning-server
 - xecution
@@ -76,8 +80,3 @@
 - duvida
 - zeed-movslib
 - crackle-codec
-- ScriptCollection
-- sromaster
-- thoth_dbmanager
-- not-my-board
-- nonebot-plugin-warframe
