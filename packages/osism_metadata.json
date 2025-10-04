@@ -1,11 +1,11 @@
 {
   "name": "osism",
-  "version": "0.20251003.0",
+  "version": "0.20251004.0",
   "summary": "OSISM manager interface",
   "author": "OSISM GmbH",
   "license": null,
   "home_page": "https://github.com/osism/python-osism",
-  "download_filename": "osism-0.20251003.0.tar.gz",
-  "download_time": "2025-10-03T18:17:01.155123",
+  "download_filename": "osism-0.20251004.0.tar.gz",
+  "download_time": "2025-10-04T16:13:54.369755",
   "package_url": "https://pypi.org/project/osism/"
 }

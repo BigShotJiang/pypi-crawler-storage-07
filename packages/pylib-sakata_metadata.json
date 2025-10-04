@@ -1,0 +1,11 @@
+{
+  "name": "pylib-sakata",
+  "version": "0.3.5",
+  "summary": "Control system design and analysis package",
+  "author": "Koichi Sakata",
+  "license": null,
+  "home_page": "https://github.com/Koichi-Sakata/pylib_sakata",
+  "download_filename": "pylib_sakata-0.3.5.tar.gz",
+  "download_time": "2025-10-04T16:13:36.503752",
+  "package_url": "https://pypi.org/project/pylib-sakata/"
+}

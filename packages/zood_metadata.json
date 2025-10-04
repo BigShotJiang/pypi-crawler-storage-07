@@ -1,0 +1,11 @@
+{
+  "name": "zood",
+  "version": "0.13.13",
+  "summary": "web page documentation & comment generation documentation",
+  "author": "kamilu",
+  "license": "MIT",
+  "home_page": "https://github.com/luzhixing12345/zood",
+  "download_filename": "zood-0.13.13.tar.gz",
+  "download_time": "2025-10-04T16:13:44.473466",
+  "package_url": "https://pypi.org/project/zood/"
+}

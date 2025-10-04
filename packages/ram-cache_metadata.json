@@ -1,0 +1,11 @@
+{
+  "name": "ram-cache",
+  "version": "1.0.0",
+  "summary": "RAM efêmera com TTL, limite de itens e execução paralela de funções",
+  "author": "Ghost",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ram_cache-1.0.0.tar.gz",
+  "download_time": "2025-10-04T16:13:49.175004",
+  "package_url": "https://pypi.org/project/ram-cache/"
+}

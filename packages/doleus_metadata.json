@@ -1,11 +1,11 @@
 {
   "name": "doleus",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Doleus: Test Your Image-based AI Models on Data Slices",
   "author": "Hendrik Schulze Bröring",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "doleus-0.2.1.tar.gz",
-  "download_time": "2025-10-04T15:49:22.609472",
+  "download_filename": "doleus-0.2.2.tar.gz",
+  "download_time": "2025-10-04T16:13:50.225859",
   "package_url": "https://pypi.org/project/doleus/"
 }

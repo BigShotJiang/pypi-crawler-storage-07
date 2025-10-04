@@ -1,0 +1,11 @@
+{
+  "name": "sphinxnotes-strike",
+  "version": "1.3",
+  "summary": "An extension that adds strikethrough text support to Sphinx",
+  "author": "Shengyu Zhang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinxnotes_strike-1.3.tar.gz",
+  "download_time": "2025-10-04T16:13:46.040815",
+  "package_url": "https://pypi.org/project/sphinxnotes-strike/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "codex-weather-agent",
+  "version": "1.0.2",
+  "summary": "Production-ready conversational weather assistant built with LangGraph",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "codex_weather_agent-1.0.2.tar.gz",
+  "download_time": "2025-10-04T16:13:40.189826",
+  "package_url": "https://pypi.org/project/codex-weather-agent/"
+}

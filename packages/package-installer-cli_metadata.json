@@ -1,11 +1,11 @@
 {
   "name": "package-installer-cli",
-  "version": "1.4.3",
+  "version": "1.5.0",
   "summary": "A powerful CLI tool to bootstrap projects with pre-configured templates and features",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "package_installer_cli-1.4.3.tar.gz",
-  "download_time": "2025-10-04T14:30:21.305524",
+  "download_filename": "package_installer_cli-1.5.0.tar.gz",
+  "download_time": "2025-10-04T16:13:49.705139",
   "package_url": "https://pypi.org/project/package-installer-cli/"
 }

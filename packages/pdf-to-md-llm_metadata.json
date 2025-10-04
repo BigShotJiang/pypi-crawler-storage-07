@@ -1,11 +1,11 @@
 {
   "name": "pdf-to-md-llm",
-  "version": "0.3.0",
+  "version": "1.0.1",
   "summary": "Convert PDF documents to clean Markdown using Claude API",
   "author": "Dennis Somerville",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pdf_to_md_llm-0.3.0-py3-none-any.whl",
-  "download_time": "2025-10-04T14:50:51.600986",
+  "download_filename": "pdf_to_md_llm-1.0.1-py3-none-any.whl",
+  "download_time": "2025-10-04T16:13:39.666935",
   "package_url": "https://pypi.org/project/pdf-to-md-llm/"
 }
