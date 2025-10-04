@@ -1,0 +1,11 @@
+{
+  "name": "TFL",
+  "version": "3.11",
+  "summary": "Library with lots of useful stuff (says Ralf Schlatterbeck)",
+  "author": "Christian Tanzer",
+  "license": "BSD License",
+  "home_page": "https://codeberg.org/tanzer/tapyr",
+  "download_filename": "tfl-3.11-py2.py3-none-any.whl",
+  "download_time": "2025-10-04T11:24:14.497345",
+  "package_url": "https://pypi.org/project/TFL/"
+}

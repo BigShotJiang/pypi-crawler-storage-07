@@ -1,0 +1,11 @@
+{
+  "name": "ReST-Tapyr",
+  "version": "3.11",
+  "summary": "Package augmenting docutil's reStructuredText handling.",
+  "author": "Christian Tanzer",
+  "license": "BSD License",
+  "home_page": "https://codeberg.org/tanzer/tapyr",
+  "download_filename": "rest_tapyr-3.11-py2.py3-none-any.whl",
+  "download_time": "2025-10-04T11:24:12.933795",
+  "package_url": "https://pypi.org/project/ReST-Tapyr/"
+}

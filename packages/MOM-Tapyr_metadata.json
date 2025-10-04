@@ -1,0 +1,11 @@
+{
+  "name": "MOM-Tapyr",
+  "version": "3.11",
+  "summary": "Framework for the implementation of essential object models.",
+  "author": "Christian Tanzer",
+  "license": "BSD License",
+  "home_page": "https://codeberg.org/tanzer/tapyr",
+  "download_filename": "mom_tapyr-3.11-py2.py3-none-any.whl",
+  "download_time": "2025-10-04T11:24:11.364749",
+  "package_url": "https://pypi.org/project/MOM-Tapyr/"
+}

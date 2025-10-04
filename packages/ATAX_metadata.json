@@ -1,0 +1,11 @@
+{
+  "name": "ATAX",
+  "version": "3.11",
+  "summary": "Package for doing Einnahmen-Ausgabenrechnung according to Austrian tax laws.",
+  "author": "Christian Tanzer",
+  "license": "BSD License",
+  "home_page": "https://codeberg.org/tanzer/tapyr",
+  "download_filename": "atax-3.11-py2.py3-none-any.whl",
+  "download_time": "2025-10-04T11:24:12.402956",
+  "package_url": "https://pypi.org/project/ATAX/"
+}

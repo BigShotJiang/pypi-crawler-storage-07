@@ -1,11 +1,11 @@
 {
   "name": "pybevy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Placeholder for a project",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pybevy-0.0.1.tar.gz",
-  "download_time": "2025-10-04T11:10:10.527164",
+  "download_filename": "pybevy-0.0.2.tar.gz",
+  "download_time": "2025-10-04T11:24:20.768174",
   "package_url": "https://pypi.org/project/pybevy/"
 }

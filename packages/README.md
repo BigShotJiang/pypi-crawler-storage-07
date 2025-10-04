@@ -1,31 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-04T11:10:49.954181
-- **Total Packages**: 74
-- **Total Size**: 18.67 MB
+- **Download Time**: 2025-10-04T11:24:48.541262
+- **Total Packages**: 77
+- **Total Size**: 14.6 MB
 
 ## Packages List
-- pybevy
-- tmdbpy-wrapper
-- authentik-client
-- native-dumper
+- torchft-nightly
 - smart-bot-factory
+- eduslip
+- authentik-client
+- newspy
+- GTW
+- MOM-Tapyr
+- JNJ
+- ATAX
+- ReST-Tapyr
+- CHJ
+- CAL
+- TFL
+- biblemate
+- wolpie
+- pipeline-eds
+- fixture-foundry
+- VeraGridServer
+- VeraGrid
+- VeraGridEngine
+- pasarguard-node-bridge
+- simple-calculator-tc2
+- pydantic-ai-claude-code
+- heisenbridge
+- pybevy
+- Qubx
+- stdem
+- tenzir-test
+- tmdbpy-wrapper
+- native-dumper
 - polarix
 - econometrust
 - conson-xp
 - tombi
 - make-post-sell
-- simple-calculator-tc2
 - jiratui
 - fastapi-cbv
 - ScriptCollection
 - ap-mail
-- eduslip
 - excel2moodle
 - gwtransport
 - reno-structured-output
-- Qubx
 - llmass
 - ut-com
 - deep-utils
@@ -61,22 +83,3 @@
 - pgpack
 - PyQQSkeyTool
 - mwxlib
-- windmill-project
-- dana-python
-- amrita
-- onepush
-- maniq
-- chutes
-- spectre-core
-- omniadapters
-- omnata-plugin-runtime
-- vandc
-- eigenpuls
-- mcp-server-vector-memory
-- tm-timer
-- sv2svg
-- demesdraw
-- free-deepl-translator
-- quillion
-- tf-keras-nightly
-- ai-edge-torch-nightly
