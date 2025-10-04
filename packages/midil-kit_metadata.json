@@ -1,11 +1,11 @@
 {
   "name": "midil-kit",
-  "version": "3.4.3",
+  "version": "3.4.4",
   "summary": "A Python SDK for backend systems development @midil.io",
   "author": "Engr. Michael Kofi Armah",
   "license": null,
   "home_page": null,
-  "download_filename": "midil_kit-3.4.3.tar.gz",
-  "download_time": "2025-09-28T22:09:43.824439",
+  "download_filename": "midil_kit-3.4.4.tar.gz",
+  "download_time": "2025-10-04T18:38:19.076661",
   "package_url": "https://pypi.org/project/midil-kit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "convertertools",
+  "version": "1.1.0",
+  "summary": "Tools for converting python data types",
+  "author": "J. Nick Koston",
+  "license": null,
+  "home_page": null,
+  "download_filename": "convertertools-1.1.0.tar.gz",
+  "download_time": "2025-10-04T18:38:18.001171",
+  "package_url": "https://pypi.org/project/convertertools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "colmena-ai",
+  "version": "0.1.1",
+  "summary": "AI Agent Orchestration Library - LLM abstraction layer with multi-provider support",
+  "author": "Colmena Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "colmena_ai-0.1.1-cp311-cp311-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-10-04T18:38:19.607642",
+  "package_url": "https://pypi.org/project/colmena-ai/"
+}

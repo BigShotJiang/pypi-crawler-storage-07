@@ -1,0 +1,11 @@
+{
+  "name": "kasa-crypt",
+  "version": "1.0.0",
+  "summary": "Fast kasa crypt",
+  "author": "J. Nick Koston",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kasa_crypt-1.0.0.tar.gz",
+  "download_time": "2025-10-04T18:38:21.727869",
+  "package_url": "https://pypi.org/project/kasa-crypt/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "treeviz-py",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Terminal AST visualizer for document trees",
   "author": "Arthur Debert",
   "license": "MIT",
-  "home_page": "https://github.com/arthur-debert/treeviz",
-  "download_filename": "treeviz_py-0.0.2.tar.gz",
-  "download_time": "2025-10-04T18:16:28.567291",
+  "home_page": null,
+  "download_filename": "treeviz_py-0.0.3.tar.gz",
+  "download_time": "2025-10-04T18:38:32.332465",
   "package_url": "https://pypi.org/project/treeviz-py/"
 }
