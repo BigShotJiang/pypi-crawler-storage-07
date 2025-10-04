@@ -1,11 +1,11 @@
 {
   "name": "dymoapi",
-  "version": "0.0.46",
+  "version": "0.0.47",
   "summary": "Dymo Python API library.",
   "author": "TPEOficial LLC",
   "license": "Apache-2.0",
   "home_page": "https://github.com/TPEOficial/dymo-api-python",
-  "download_filename": "dymoapi-0.0.46.tar.gz",
-  "download_time": "2025-09-27T10:09:40.666109",
+  "download_filename": "dymoapi-0.0.47.tar.gz",
+  "download_time": "2025-10-04T13:18:28.298069",
   "package_url": "https://pypi.org/project/dymoapi/"
 }

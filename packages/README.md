@@ -1,28 +1,69 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-04T12:58:41.905729
-- **Total Packages**: 67
-- **Total Size**: 24.22 MB
+- **Download Time**: 2025-10-04T13:18:57.429540
+- **Total Packages**: 79
+- **Total Size**: 21.35 MB
 
 ## Packages List
+- pyspark-dq-framework
+- nyx-shahmat
+- navam
+- django-rad
+- pysaml2
+- habapp-rules
+- docutranslate
+- wolpie
+- claude-workshop
+- kopi-docka
+- point-topic-mcp
+- datalayer-core
+- bassa-reg
+- nbdev-apl
+- nbdev-django
+- nbdev-sphinx
+- nbdev-scipy
+- nbdev-pytorch
+- crisp-python
+- nbdev-pandas
+- sv2svg
+- nbdev-numpy
+- authentik-client
+- nbdev-stdlib
+- eduslip
+- culebra-fantasma
+- hyso
+- bscommon
+- localsite
+- dymoapi
+- torchfont
+- curripdf
+- evo
+- harm-analysis
+- pipeline-eds
+- bencode.cy
+- yltop
+- fabriq
+- v440
+- ptrlib
+- amrita
+- avl-core
+- mysingle-quant
+- totalhelp
+- reqman
+- progressivis
 - snakemake
 - piwave
 - lidfax-tl
 - lukan
 - pydantic-ai-claude-code
-- bencode.cy
-- eduslip
-- wolpie
 - stix2extensions
 - slack-lists-mcp
 - with-respect-to
 - pyforma
 - one-public-api
-- authentik-client
 - mybox
 - bafser
-- pipeline-eds
 - json-model-compiler
 - tensorcircuit-nightly
 - shinestacker
@@ -30,10 +71,7 @@
 - vibe-reader
 - crackerjack
 - jellyjoin
-- reqman
-- yltop
 - ign-lidar-hd
-- navam
 - hybridoma
 - domain-event-pattern
 - tycho.nexus
@@ -47,29 +85,3 @@
 - pyjwkest
 - counted-float
 - pyausaxs
-- stata-mcp
-- private-assistant-commons
-- kopi-docka
-- amrita
-- pystiebeleltron
-- castenv
-- bscommon
-- davidkhala.databases
-- celery-throttle
-- mi-maica
-- ddo
-- fabriq
-- terminotes
-- django-dynamic-workflows
-- tufup
-- voxtream
-- simple-calculator-tc2
-- oneforall-gui
-- torchruntime
-- zebubot
-- ScriptCollection
-- aitrados-api
-- v440
-- sv2svg
-- akash
-- katharos

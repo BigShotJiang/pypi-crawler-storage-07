@@ -1,11 +1,11 @@
 {
   "name": "point-topic-mcp",
-  "version": "0.1.24",
+  "version": "0.1.25",
   "summary": "UK broadband data analysis MCP server with Snowflake integration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "point_topic_mcp-0.1.24.tar.gz",
-  "download_time": "2025-10-03T10:13:28.354536",
+  "download_filename": "point_topic_mcp-0.1.25.tar.gz",
+  "download_time": "2025-10-04T13:18:15.938025",
   "package_url": "https://pypi.org/project/point-topic-mcp/"
 }

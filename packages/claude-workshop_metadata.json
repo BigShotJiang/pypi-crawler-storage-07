@@ -1,11 +1,11 @@
 {
   "name": "claude-workshop",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "Persistent context and memory tool for Claude Code sessions",
   "author": "Claude & Zach",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_workshop-0.2.5.tar.gz",
-  "download_time": "2025-10-04T03:25:03.212493",
+  "download_filename": "claude_workshop-0.2.6.tar.gz",
+  "download_time": "2025-10-04T13:18:14.725838",
   "package_url": "https://pypi.org/project/claude-workshop/"
 }

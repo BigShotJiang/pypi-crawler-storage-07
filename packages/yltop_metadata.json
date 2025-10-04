@@ -1,11 +1,11 @@
 {
   "name": "yltop",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "The log module is currently implemented to replace logging. And other small wheels",
   "author": "YL_top01",
   "license": null,
-  "home_page": "https://github.com/yourusername/VientianeArena",
-  "download_filename": "yltop-0.1.1.tar.gz",
-  "download_time": "2025-10-04T12:58:20.302294",
+  "home_page": "https://github.com/YLtop01/my-awesome-project",
+  "download_filename": "yltop-0.1.2.tar.gz",
+  "download_time": "2025-10-04T13:18:32.758695",
   "package_url": "https://pypi.org/project/yltop/"
 }

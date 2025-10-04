@@ -1,0 +1,11 @@
+{
+  "name": "culebra-fantasma",
+  "version": "1.0.0",
+  "summary": "🐍 La primera librería completa de Python en español - Más de 100 comandos traducidos",
+  "author": "Miguel Arturo Campos Gomez",
+  "license": "MIT",
+  "home_page": "https://github.com/culebra-fantasma/culebra-fantasma",
+  "download_filename": "culebra_fantasma-1.0.0.tar.gz",
+  "download_time": "2025-10-04T13:18:25.847705",
+  "package_url": "https://pypi.org/project/culebra-fantasma/"
+}
