@@ -1,11 +1,11 @@
 {
   "name": "collectivecrossing",
-  "version": "0.1.1",
-  "summary": "A multi-agent reinforcement learning environment for probibing the overlap of MARL and social sciences",
+  "version": "0.1.2",
+  "summary": "A multi-agent reinforcement learning environment for probing the overlap of MARL and social sciences",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "collectivecrossing-0.1.1-py3-none-any.whl",
-  "download_time": "2025-10-04T16:13:37.025265",
+  "download_filename": "collectivecrossing-0.1.2-py3-none-any.whl",
+  "download_time": "2025-10-04T21:50:14.499876",
   "package_url": "https://pypi.org/project/collectivecrossing/"
 }
