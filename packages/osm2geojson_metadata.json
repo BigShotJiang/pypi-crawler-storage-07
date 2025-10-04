@@ -1,0 +1,11 @@
+{
+  "name": "osm2geojson",
+  "version": "0.2.8",
+  "summary": "Parse OSM and Overpass JSON",
+  "author": "Parfeniuk Mykola",
+  "license": "MIT",
+  "home_page": "https://github.com/aspectumapp/osm2geojson",
+  "download_filename": "osm2geojson-0.2.8.tar.gz",
+  "download_time": "2025-10-04T19:09:25.738231",
+  "package_url": "https://pypi.org/project/osm2geojson/"
+}

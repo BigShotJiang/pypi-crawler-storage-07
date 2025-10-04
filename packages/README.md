@@ -1,14 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-04T18:52:45.265061
-- **Total Packages**: 74
-- **Total Size**: 1.85 MB
+- **Download Time**: 2025-10-04T19:10:03.203080
+- **Total Packages**: 76
+- **Total Size**: 1.82 MB
 
 ## Packages List
-- wise-agent-toolkit
-- eduslip
+- py-me
+- dyngle
+- shipaw
 - authentik-client
+- silverflaghwdata
+- claude-workshop
+- osm2geojson
+- claude-statusline
+- wise-agent-toolkit
+- absfuyu
+- apc-hypaship
+- jules-mcp
+- polymo
+- alxhttp
+- kasa-crypt
+- retryxlib
+- parcelforce-expresslink
+- math-mcp-learning-server
+- eduslip
 - opencc-pyo3
 - ut-pac
 - xiangting
@@ -19,8 +35,6 @@
 - telepact-cli
 - patx
 - telepact
-- kasa-crypt
-- claude-statusline
 - pwdgen-py
 - ghss
 - doctra
@@ -34,7 +48,6 @@
 - uv
 - uv-build
 - card-forge
-- retryxlib
 - mlrun
 - azure-functions-openapi-pydantic
 - treeviz-py
@@ -44,7 +57,6 @@
 - livedict
 - memory-hub-mcp
 - openalgo
-- math-mcp-learning-server
 - xecution
 - kittylog
 - arkitekt-server
@@ -70,13 +82,3 @@
 - radex-booking
 - bayescurvefit
 - omnigen-usf
-- pcloud-python-sdk
-- pylocalauth
-- shards
-- chzzkpy
-- pulumi-materialize
-- coloredstrings
-- mad-proxy
-- duvida
-- zeed-movslib
-- crackle-codec
