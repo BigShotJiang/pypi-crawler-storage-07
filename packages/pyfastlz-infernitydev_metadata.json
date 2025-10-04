@@ -1,0 +1,11 @@
+{
+  "name": "pyfastlz-infernitydev",
+  "version": "0.0.3",
+  "summary": "An extended wrapper for FastLZ which takes in and returns the length seperately, instead of in the bytes field",
+  "author": "'Jared Suttles, Paul Chan, whirlingstars'",
+  "license": "BSD License",
+  "home_page": "https://github.com/infernitydev/pyfastlz-infernitydev",
+  "download_filename": "pyfastlz_infernitydev-0.0.3-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-10-04T05:13:12.246094",
+  "package_url": "https://pypi.org/project/pyfastlz-infernitydev/"
+}

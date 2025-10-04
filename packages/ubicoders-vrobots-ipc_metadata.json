@@ -1,11 +1,11 @@
 {
   "name": "ubicoders-vrobots-ipc",
-  "version": "0.1.12",
+  "version": "0.2.2",
   "summary": "Ubicoders virtual robots IPC for PC",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ubicoders_vrobots_ipc-0.1.12.tar.gz",
-  "download_time": "2025-10-04T04:35:12.597752",
+  "download_filename": "ubicoders_vrobots_ipc-0.2.2.tar.gz",
+  "download_time": "2025-10-04T05:13:04.256350",
   "package_url": "https://pypi.org/project/ubicoders-vrobots-ipc/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "simple-data-loader",
+  "version": "1.0.4",
+  "summary": "A simple Python package for loading data from CSV and XLSX files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simple_data_loader-1.0.4.tar.gz",
+  "download_time": "2025-10-04T05:13:04.834106",
+  "package_url": "https://pypi.org/project/simple-data-loader/"
+}
