@@ -1,0 +1,11 @@
+{
+  "name": "pyktx",
+  "version": "4.4.2",
+  "summary": "A Python interface to the libktx library",
+  "author": "Shukant Pal, Mark Callow",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/KhronosGroup/KTX-Software",
+  "download_filename": "pyktx-4.4.2.tar.gz",
+  "download_time": "2025-10-04T11:10:24.264954",
+  "package_url": "https://pypi.org/project/pyktx/"
+}

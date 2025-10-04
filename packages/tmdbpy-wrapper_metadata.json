@@ -1,0 +1,11 @@
+{
+  "name": "tmdbpy-wrapper",
+  "version": "1.0.0",
+  "summary": "TMDB v3 API wrapper for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tmdbpy_wrapper-1.0.0.tar.gz",
+  "download_time": "2025-10-04T11:10:11.047809",
+  "package_url": "https://pypi.org/project/tmdbpy-wrapper/"
+}

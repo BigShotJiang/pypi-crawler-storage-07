@@ -1,11 +1,11 @@
 {
   "name": "ut-com",
-  "version": "1.2.6.20251003",
+  "version": "1.2.8.20251004",
   "summary": "Utilities for Communication",
   "author": "Bernd Stroehle",
   "license": null,
   "home_page": null,
-  "download_filename": "ut_com-1.2.6.20251003.tar.gz",
-  "download_time": "2025-10-03T06:45:27.407144",
+  "download_filename": "ut_com-1.2.8.20251004.tar.gz",
+  "download_time": "2025-10-04T11:10:21.620411",
   "package_url": "https://pypi.org/project/ut-com/"
 }

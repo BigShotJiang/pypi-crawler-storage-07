@@ -1,11 +1,11 @@
 {
   "name": "make-post-sell",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "Make Post Sell",
   "author": "Russell Ballestrini",
   "license": null,
   "home_page": "https://www.makepostsell.com",
-  "download_filename": "make_post_sell-1.1.1.tar.gz",
-  "download_time": "2025-10-03T16:14:16.582222",
+  "download_filename": "make_post_sell-1.1.2.tar.gz",
+  "download_time": "2025-10-04T11:10:15.358786",
   "package_url": "https://pypi.org/project/make-post-sell/"
 }

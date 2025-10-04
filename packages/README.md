@@ -1,23 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-04T10:50:07.169091
-- **Total Packages**: 75
-- **Total Size**: 2.13 MB
+- **Download Time**: 2025-10-04T11:10:49.954181
+- **Total Packages**: 74
+- **Total Size**: 18.67 MB
 
 ## Packages List
+- pybevy
+- tmdbpy-wrapper
+- authentik-client
+- native-dumper
+- smart-bot-factory
+- polarix
+- econometrust
+- conson-xp
+- tombi
+- make-post-sell
+- simple-calculator-tc2
+- jiratui
+- fastapi-cbv
+- ScriptCollection
+- ap-mail
+- eduslip
+- excel2moodle
+- gwtransport
+- reno-structured-output
+- Qubx
+- llmass
+- ut-com
+- deep-utils
+- grounding
+- simplyprint-bambu-lab
+- komodoml
+- pyktx
+- unitelabs-cdk
+- celar
+- kagura-ai
 - inmanta-module-git-ops
 - veritasai
 - mysingle-quant
 - ut-cli
-- ScriptCollection
 - task-scheduling
 - fluvialgen
 - konduktor-nightly
 - web-research-agent
-- llmass
 - crackerjack
-- eduslip
 - pydantic
 - trainy-policy-nightly
 - letta-nightly
@@ -30,7 +57,6 @@
 - unitelabs-sila
 - simpn
 - apache-airflow-providers-fab
-- authentik-client
 - DiNetxify
 - pgpack
 - PyQQSkeyTool
@@ -41,7 +67,6 @@
 - onepush
 - maniq
 - chutes
-- kagura-ai
 - spectre-core
 - omniadapters
 - omnata-plugin-runtime
@@ -49,35 +74,9 @@
 - eigenpuls
 - mcp-server-vector-memory
 - tm-timer
-- grounding
 - sv2svg
 - demesdraw
 - free-deepl-translator
 - quillion
 - tf-keras-nightly
 - ai-edge-torch-nightly
-- lifespring
-- bool-hybrid-array
-- stackitui
-- aignostics
-- fasttext-community
-- py-encase
-- nvidia-nat-opentelemetry
-- nvidia-nat-phoenix
-- nvidia-nat-mem0ai
-- pypcapkit
-- nvidia-nat-mysql
-- nvidia-nat-crewai
-- nvidia-nat-agno
-- nvidia-nat-llama-index
-- nvidia-nat-all
-- nblite
-- nvidia-nat-redis
-- nvidia-nat-mcp
-- nvidia-nat-profiling
-- blehhconfig
-- nvidia-nat-ingestion
-- nvidia-nat-langchain
-- nvidia-nat-zep-cloud
-- nvidia-nat-s3
-- nvidia-nat

@@ -1,11 +1,11 @@
 {
   "name": "simplyprint-bambu-lab",
-  "version": "1.0.0b90",
+  "version": "1.0.0b91",
   "summary": "SimplyPrint Bambu Lab integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "simplyprint_bambu_lab-1.0.0b90-py311-none-macosx_10_9_x86_64.whl",
-  "download_time": "2025-10-03T11:10:43.714296",
+  "download_filename": "simplyprint_bambu_lab-1.0.0b91-py311-none-macosx_10_9_x86_64.whl",
+  "download_time": "2025-10-04T11:10:23.225375",
   "package_url": "https://pypi.org/project/simplyprint-bambu-lab/"
 }
