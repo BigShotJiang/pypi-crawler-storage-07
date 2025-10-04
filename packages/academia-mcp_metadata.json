@@ -1,11 +1,11 @@
 {
   "name": "academia-mcp",
-  "version": "1.11.2",
+  "version": "1.11.3",
   "summary": "MCP server that provides different tools to search for scientific publications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "academia_mcp-1.11.2.tar.gz",
-  "download_time": "2025-10-04T17:29:19.651427",
+  "download_filename": "academia_mcp-1.11.3.tar.gz",
+  "download_time": "2025-10-04T20:40:10.952771",
   "package_url": "https://pypi.org/project/academia-mcp/"
 }

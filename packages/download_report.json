@@ -1,8 +1,13 @@
 {
-  "download_time": "2025-10-04T20:31:34.145289",
-  "total_packages_downloaded": 75,
-  "total_size_mb": 6.25,
+  "download_time": "2025-10-04T20:40:52.221567",
+  "total_packages_downloaded": 77,
+  "total_size_mb": 0.58,
   "packages": [
+    "academia-mcp",
+    "mcp-server-things",
+    "tailucas-pylib",
+    "FreeTrace",
+    "glinkfix",
     "nonebot-plugin-memory",
     "selfmemory",
     "advanced-ascii",
@@ -53,7 +58,6 @@
     "pyprestascan",
     "basic-memory",
     "timecopilot-timesfm",
-    "FreeTrace",
     "eigenpuls",
     "dynamic-cli-builder",
     "magentic-mcp-server",
@@ -75,8 +79,6 @@
     "reddev",
     "ksuid-python",
     "phoonnx",
-    "aind-metadata-upgrader",
-    "oxia",
-    "pulumiverse-gandi"
+    "aind-metadata-upgrader"
   ]
 }

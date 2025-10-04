@@ -1,11 +1,16 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-04T20:31:34.145289
-- **Total Packages**: 75
-- **Total Size**: 6.25 MB
+- **Download Time**: 2025-10-04T20:40:52.221567
+- **Total Packages**: 77
+- **Total Size**: 0.58 MB
 
 ## Packages List
+- academia-mcp
+- mcp-server-things
+- tailucas-pylib
+- FreeTrace
+- glinkfix
 - nonebot-plugin-memory
 - selfmemory
 - advanced-ascii
@@ -56,7 +61,6 @@
 - pyprestascan
 - basic-memory
 - timecopilot-timesfm
-- FreeTrace
 - eigenpuls
 - dynamic-cli-builder
 - magentic-mcp-server
@@ -79,5 +83,3 @@
 - ksuid-python
 - phoonnx
 - aind-metadata-upgrader
-- oxia
-- pulumiverse-gandi
