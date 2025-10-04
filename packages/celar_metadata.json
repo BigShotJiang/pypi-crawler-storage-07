@@ -1,11 +1,11 @@
 {
   "name": "celar",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Simple CLI Social Media App",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "celar-0.1.5.tar.gz",
-  "download_time": "2025-10-04T11:10:25.301475",
+  "download_filename": "celar-0.1.6.tar.gz",
+  "download_time": "2025-10-04T11:35:29.142689",
   "package_url": "https://pypi.org/project/celar/"
 }

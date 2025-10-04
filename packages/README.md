@@ -1,14 +1,31 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-04T11:24:48.541262
-- **Total Packages**: 77
-- **Total Size**: 14.6 MB
+- **Download Time**: 2025-10-04T11:36:07.923189
+- **Total Packages**: 75
+- **Total Size**: 4.11 MB
 
 ## Packages List
+- celar
+- eigenpuls
+- pragmastat
+- pulumi-cloudru
+- biblemate
+- codeeval-adjudication-engine
+- bscommon
+- llmass
+- simple-calculator-tc2
+- ap-cfg
+- cogworks
+- dsd-railway
+- vibesurf
+- torchx-nightly
+- eh-pypi-test-template-1
+- dragon-ml-toolbox
+- eduslip
+- quantumwalks
 - torchft-nightly
 - smart-bot-factory
-- eduslip
 - authentik-client
 - newspy
 - GTW
@@ -19,7 +36,6 @@
 - CHJ
 - CAL
 - TFL
-- biblemate
 - wolpie
 - pipeline-eds
 - fixture-foundry
@@ -27,7 +43,6 @@
 - VeraGrid
 - VeraGridEngine
 - pasarguard-node-bridge
-- simple-calculator-tc2
 - pydantic-ai-claude-code
 - heisenbridge
 - pybevy
@@ -48,7 +63,6 @@
 - excel2moodle
 - gwtransport
 - reno-structured-output
-- llmass
 - ut-com
 - deep-utils
 - grounding
@@ -56,7 +70,6 @@
 - komodoml
 - pyktx
 - unitelabs-cdk
-- celar
 - kagura-ai
 - inmanta-module-git-ops
 - veritasai
@@ -68,18 +81,3 @@
 - web-research-agent
 - crackerjack
 - pydantic
-- trainy-policy-nightly
-- letta-nightly
-- reqMock
-- nerdd-link
-- speed-analyzer
-- fastapi-email-auth
-- pgpack-dumper
-- ledsign
-- unitelabs-sila
-- simpn
-- apache-airflow-providers-fab
-- DiNetxify
-- pgpack
-- PyQQSkeyTool
-- mwxlib

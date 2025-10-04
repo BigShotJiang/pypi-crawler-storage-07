@@ -1,0 +1,11 @@
+{
+  "name": "quantumwalks",
+  "version": "1.0.0",
+  "summary": "A comprehensive Python package for simulating quantum walks in various dimensions and on complex networks",
+  "author": "LiangWen",
+  "license": "MIT",
+  "home_page": "https://github.com/TDSKS-123/quantumwalks",
+  "download_filename": "quantumwalks-1.0.0.tar.gz",
+  "download_time": "2025-10-04T11:35:38.412989",
+  "package_url": "https://pypi.org/project/quantumwalks/"
+}

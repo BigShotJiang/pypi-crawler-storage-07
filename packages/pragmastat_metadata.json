@@ -1,11 +1,11 @@
 {
   "name": "pragmastat",
-  "version": "3.1.23",
+  "version": "3.1.24",
   "summary": "Pragmastat: Pragmatic Statistical Toolkit",
   "author": "Andrey Akinshin",
   "license": null,
   "home_page": null,
-  "download_filename": "pragmastat-3.1.23.tar.gz",
-  "download_time": "2025-10-04T09:12:09.214427",
+  "download_filename": "pragmastat-3.1.24.tar.gz",
+  "download_time": "2025-10-04T11:35:30.172303",
   "package_url": "https://pypi.org/project/pragmastat/"
 }
