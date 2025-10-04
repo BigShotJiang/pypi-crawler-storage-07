@@ -1,22 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-04T15:36:04.313886
-- **Total Packages**: 76
-- **Total Size**: 1.69 MB
+- **Download Time**: 2025-10-04T15:50:07.458257
+- **Total Packages**: 77
+- **Total Size**: 1.93 MB
 
 ## Packages List
+- doleus
+- viblr-sdk
+- pipedsl
+- mcp-openstack-ops
+- reyapi
+- metaheuristicpy
+- wsxtext009
+- wolpie
+- penguin-tamer
+- mcp-postgresql-ops
+- pycasbin
+- mcp-mysql-ops
+- togura
+- bombardx
+- mat-io
+- ltts
+- imsg2spot
+- mcp-airflow-api
+- biblemate
+- brats
+- authentik-client
+- casa-lm
+- mcp-ambari-api
 - rko-lio
 - cogworks
 - ScriptCollection
-- doleus
 - methodism
 - odoo-addon-l10n-br-fiscal
 - odoo-addon-l10n-br-nfe
 - odoo-addon-l10n-br-nfse
 - xiaomi-flashable-firmware-creator
 - spot-planner
-- imsg2spot
 - gh2md
 - file2txt
 - langlint
@@ -29,29 +50,24 @@
 - dnsdiag
 - mcp-get-weather-zjdxflj
 - pipeshift-jupyterlab-theme
-- authentik-client
 - ssrjson
 - loco-mcp-workspace
 - loco-mcp-server
 - loco-bindings
 - schlibs
 - mzfont
-- pipedsl
 - nonebot-plugin-htmlrender
 - boilersync
-- ltts
 - winter-snowflake
 - tomato-clock-cli
 - ap-mail
 - ap-cfg
 - cyclonedx-editor-validator
 - akari-bot-webui
-- brats
 - vellum-workflow-server
 - crenametoix
 - pyscn
 - PyCgame
-- mat-io
 - emtrace
 - thoth-dbmanager
 - mccole
@@ -67,18 +83,3 @@
 - freeflock-contraptions
 - vibesurf
 - akash
-- mccoygroup-psience
-- mccoygroup-mcutils
-- v440
-- torchic
-- flux-local
-- toolos
-- autotwin_gmglib
-- tptq-feacomposer
-- vondb
-- beepper
-- zimagi
-- whoogle-search
-- slugkit-py-sdk
-- math-mcp-learning-server
-- slack-lists-mcp
