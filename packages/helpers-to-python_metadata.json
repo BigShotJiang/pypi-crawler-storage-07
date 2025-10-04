@@ -1,11 +1,11 @@
 {
   "name": "helpers-to-python",
-  "version": "2.1",
+  "version": "2.2",
   "summary": "помощники для пайтон",
   "author": "vova2f",
   "license": null,
   "home_page": "https://github.com/vova1f/helpers-to-python",
-  "download_filename": "helpers_to_python-2.1.tar.gz",
-  "download_time": "2025-10-03T10:13:49.550171",
+  "download_filename": "helpers_to_python-2.2.tar.gz",
+  "download_time": "2025-10-04T02:09:19.604509",
   "package_url": "https://pypi.org/project/helpers-to-python/"
 }

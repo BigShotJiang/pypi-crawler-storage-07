@@ -1,0 +1,11 @@
+{
+  "name": "etl-amigo-lib",
+  "version": "0.1.5",
+  "summary": "Biblioteca Pyspark do Amigo",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "etl_amigo_lib-0.1.5-py3-none-any.whl",
+  "download_time": "2025-10-04T02:08:49.040637",
+  "package_url": "https://pypi.org/project/etl-amigo-lib/"
+}

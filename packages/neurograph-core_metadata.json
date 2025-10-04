@@ -1,11 +1,11 @@
 {
   "name": "neurograph-core",
-  "version": "1.202509282026",
+  "version": "1.202510040107",
   "summary": "Neurograph Core",
   "author": "Neurograph Development Team",
-  "license": "(c) 2025 Neurograph. All rights reserved.",
+  "license": "(c) Neurograph 2025. All rights reserved.",
   "home_page": null,
-  "download_filename": "neurograph_core-1.202509282026.tar.gz",
-  "download_time": "2025-09-28T20:37:15.737054",
+  "download_filename": "neurograph_core-1.202510040107.tar.gz",
+  "download_time": "2025-10-04T02:09:23.510394",
   "package_url": "https://pypi.org/project/neurograph-core/"
 }

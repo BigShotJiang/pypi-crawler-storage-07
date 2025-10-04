@@ -1,0 +1,11 @@
+{
+  "name": "embedsim",
+  "version": "0.1.0",
+  "summary": "A Python library for computing Embedding Similarity scores using embeddings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "embedsim-0.1.0.tar.gz",
+  "download_time": "2025-10-04T02:09:17.436810",
+  "package_url": "https://pypi.org/project/embedsim/"
+}

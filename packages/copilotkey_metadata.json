@@ -1,0 +1,11 @@
+{
+  "name": "copilotkey",
+  "version": "0.2.0",
+  "summary": "Send Shift+Win+F23 (Copilot Key) with one call",
+  "author": "Daniel Kramer",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "copilotkey-0.2.0.tar.gz",
+  "download_time": "2025-10-04T02:08:59.370584",
+  "package_url": "https://pypi.org/project/copilotkey/"
+}
