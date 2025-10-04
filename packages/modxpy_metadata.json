@@ -1,11 +1,11 @@
 {
   "name": "modxpy",
-  "version": "1.8.1",
+  "version": "1.8.2",
   "summary": "ModX — The Python Module Universe at Your Fingertips",
   "author": "Austin Wang",
   "license": null,
   "home_page": null,
-  "download_filename": "modxpy-1.8.1.tar.gz",
-  "download_time": "2025-10-04T05:13:15.200626",
+  "download_filename": "modxpy-1.8.2.tar.gz",
+  "download_time": "2025-10-04T23:50:00.091465",
   "package_url": "https://pypi.org/project/modxpy/"
 }
