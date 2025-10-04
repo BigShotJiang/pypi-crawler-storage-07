@@ -1,0 +1,11 @@
+{
+  "name": "ScopusApyJson",
+  "version": "1.1.5",
+  "summary": "Python modules for parsing the response to a Scopus API request",
+  "author": "BiblioAnalysis team",
+  "license": "MIT",
+  "home_page": "https://github.com/TickyWill/ScopusApyJson",
+  "download_filename": "ScopusApyJson-1.1.5.tar.gz",
+  "download_time": "2025-10-04T10:12:24.397514",
+  "package_url": "https://pypi.org/project/ScopusApyJson/"
+}

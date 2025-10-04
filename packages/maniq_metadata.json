@@ -1,11 +1,11 @@
 {
   "name": "maniq",
-  "version": "3.2.0",
+  "version": "3.3.0",
   "summary": "Manim Quality Stress Testing Tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "maniq-3.2.0.tar.gz",
-  "download_time": "2025-10-04T09:12:02.490224",
+  "download_filename": "maniq-3.3.0.tar.gz",
+  "download_time": "2025-10-04T10:12:06.680192",
   "package_url": "https://pypi.org/project/maniq/"
 }
