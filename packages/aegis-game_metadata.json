@@ -1,11 +1,11 @@
 {
   "name": "aegis-game",
-  "version": "2.9.3",
+  "version": "2.9.5",
   "summary": "Survivor Simulation Game",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aegis_game-2.9.3.tar.gz",
-  "download_time": "2025-10-03T22:24:58.670944",
+  "download_filename": "aegis_game-2.9.5.tar.gz",
+  "download_time": "2025-10-04T03:50:20.379455",
   "package_url": "https://pypi.org/project/aegis-game/"
 }

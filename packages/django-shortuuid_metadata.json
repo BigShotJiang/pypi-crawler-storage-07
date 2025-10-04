@@ -1,11 +1,11 @@
 {
   "name": "django-shortuuid",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A modern, Django model field for generating short, unique, URL-safe UUIDs using the shortuuid lib.",
   "author": "stabldev",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_shortuuid-0.1.1.tar.gz",
-  "download_time": "2025-09-29T03:16:27.593058",
+  "download_filename": "django_shortuuid-0.1.2.tar.gz",
+  "download_time": "2025-10-04T03:50:25.041192",
   "package_url": "https://pypi.org/project/django-shortuuid/"
 }
