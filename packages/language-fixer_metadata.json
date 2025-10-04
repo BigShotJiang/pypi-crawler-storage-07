@@ -1,11 +1,11 @@
 {
   "name": "language-fixer",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "A flexible macOS utility that retroactively fixes text typed in the wrong keyboard layout with support for multiple languages",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "language_fixer-0.3.0.tar.gz",
-  "download_time": "2025-10-04T20:30:56.260894",
+  "download_filename": "language_fixer-0.3.1.tar.gz",
+  "download_time": "2025-10-04T20:50:37.447270",
   "package_url": "https://pypi.org/project/language-fixer/"
 }

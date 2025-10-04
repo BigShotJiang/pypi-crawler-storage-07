@@ -1,30 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-04T20:40:52.221567
-- **Total Packages**: 77
-- **Total Size**: 0.58 MB
+- **Download Time**: 2025-10-04T20:51:15.980962
+- **Total Packages**: 82
+- **Total Size**: 5.47 MB
 
 ## Packages List
+- sonika-langchain-bot
+- zeroconf
+- jules-agent-sdk
+- pyausaxs
+- sollol
+- kappe
+- treeviz-py
+- inferedge-moss
+- omnigen-usf
+- language-fixer
+- prompttransform
+- globchat
+- biem-helmholtz-sphere
+- nonebot-plugin-memory
+- mtl-agent
+- cvtkit
+- py3-utilities
+- sidemantic
+- NEMO-billing
+- silverflaghwdata
+- hemplus
+- graphiti-core
+- gptsh-cli
+- ign-lidar-hd
+- schlibs
+- pyqrackising
+- c2cgeoportal-admin
+- c2cgeoportal-geoportal
+- c2cgeoportal-commons
+- loxone-mcp-server
+- checkdmarc
+- authentik-client
+- py-me
+- note-scoring
+- emailproxy
 - academia-mcp
 - mcp-server-things
 - tailucas-pylib
 - FreeTrace
 - glinkfix
-- nonebot-plugin-memory
 - selfmemory
 - advanced-ascii
 - django-org-authz
 - llmswap
 - specifyx
 - drf-psn-scraper
-- language-fixer
-- prompttransform
 - toolos
 - eduslip
 - nostr-tools
 - himena
-- authentik-client
 - kabukit
 - mle-kit-mcp
 - panparsex
@@ -57,29 +88,3 @@
 - dbus-fast
 - vscode-offline
 - gtm-mcp
-- multidimio
-- pyprestascan
-- basic-memory
-- timecopilot-timesfm
-- eigenpuls
-- dynamic-cli-builder
-- magentic-mcp-server
-- descope-pulumi
-- py-me
-- borders
-- sollol
-- pyqrackising
-- mpadam
-- zyracrypt
-- cs2pattern
-- py_log_mjk
-- poodle-async-full
-- session-mgmt-mcp
-- poodle-async-mini
-- freqprob
-- find-libpython
-- colmena-ai
-- reddev
-- ksuid-python
-- phoonnx
-- aind-metadata-upgrader
