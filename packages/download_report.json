@@ -1,8 +1,16 @@
 {
-  "download_time": "2025-10-04T03:50:50.733016",
-  "total_packages_downloaded": 72,
-  "total_size_mb": 16.77,
+  "download_time": "2025-10-04T04:15:09.106539",
+  "total_packages_downloaded": 74,
+  "total_size_mb": 0.67,
   "packages": [
+    "genpdf-butler",
+    "odoo-addon-stock-cycle-count",
+    "rpa-db-manager",
+    "claude-commit",
+    "copilot-proxy",
+    "omniopt2",
+    "neuralcache",
+    "authentik-client",
     "bioql",
     "odoo-addon-auditlog",
     "zenx",
@@ -14,7 +22,6 @@
     "keras-nightly",
     "albi0",
     "kimimaro",
-    "authentik-client",
     "with-keepass",
     "connected-components-3d",
     "pulumi-pagerduty",
@@ -24,7 +31,6 @@
     "whisper-ai-zxs",
     "c2pa-python",
     "jules-agent-sdk",
-    "genpdf-butler",
     "smu-ontwins-demo",
     "cdktf-cdktf-provider-upcloud",
     "jinjax",
@@ -70,10 +76,6 @@
     "leetcode-py-sdk",
     "exodus-calendar",
     "odoo-addon-crm-stage-multi-team",
-    "ApkPatcher-install",
-    "naif-eop-high-prec",
-    "cqc-quam-state",
-    "terminator-py",
-    "dhisana"
+    "ApkPatcher-install"
   ]
 }
