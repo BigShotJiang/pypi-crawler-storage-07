@@ -1,0 +1,11 @@
+{
+  "name": "Tinyscraper",
+  "version": "0.1.2",
+  "summary": "A package designed to help with scraping post data from imageboards built using Tinyboard.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tinyscraper-0.1.2.tar.gz",
+  "download_time": "2025-10-04T22:11:33.635946",
+  "package_url": "https://pypi.org/project/Tinyscraper/"
+}
