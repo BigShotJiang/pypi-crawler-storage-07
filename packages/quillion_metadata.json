@@ -1,11 +1,11 @@
 {
   "name": "quillion",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "Modern asynchronous web framework",
   "author": "anybody",
   "license": "MIT",
   "home_page": "https://github.com/base-of-base/quillion",
-  "download_filename": "quillion-0.2.6.tar.gz",
-  "download_time": "2025-10-04T05:49:23.429567",
+  "download_filename": "quillion-0.2.7.tar.gz",
+  "download_time": "2025-10-04T06:39:58.596749",
   "package_url": "https://pypi.org/project/quillion/"
 }
