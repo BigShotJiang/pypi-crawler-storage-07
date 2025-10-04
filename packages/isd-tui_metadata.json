@@ -1,0 +1,11 @@
+{
+  "name": "isd-tui",
+  "version": "0.6.0",
+  "summary": "Interactive systemd TUI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "isd_tui-0.6.0.tar.gz",
+  "download_time": "2025-10-04T07:50:06.358794",
+  "package_url": "https://pypi.org/project/isd-tui/"
+}

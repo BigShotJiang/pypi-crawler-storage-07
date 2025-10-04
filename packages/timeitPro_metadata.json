@@ -1,0 +1,11 @@
+{
+  "name": "timeitPro",
+  "version": "0.1.1",
+  "summary": "Advanced Python function profiler with JSON logging and Flask dashboard",
+  "author": "ّFarahbakhsh3",
+  "license": null,
+  "home_page": "https://github.com/farahbakhsh3/timeitPro",
+  "download_filename": "timeitpro-0.1.1.tar.gz",
+  "download_time": "2025-10-04T07:50:08.930142",
+  "package_url": "https://pypi.org/project/timeitPro/"
+}
