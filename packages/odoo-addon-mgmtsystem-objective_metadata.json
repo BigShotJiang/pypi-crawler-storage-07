@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mgmtsystem-objective",
+  "version": "18.0.1.0.0.2",
+  "summary": "Define objectives on your management system",
+  "author": "Dixmit,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/management-system",
+  "download_filename": "odoo_addon_mgmtsystem_objective-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-10-04T06:52:53.811208",
+  "package_url": "https://pypi.org/project/odoo-addon-mgmtsystem-objective/"
+}

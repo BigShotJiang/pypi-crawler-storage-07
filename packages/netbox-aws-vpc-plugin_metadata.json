@@ -1,0 +1,11 @@
+{
+  "name": "netbox-aws-vpc-plugin",
+  "version": "0.0.8",
+  "summary": "NetBox plugin for modeling AWS VPCs in NetBox",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "netbox_aws_vpc_plugin-0.0.8.tar.gz",
+  "download_time": "2025-10-04T06:52:56.384560",
+  "package_url": "https://pypi.org/project/netbox-aws-vpc-plugin/"
+}

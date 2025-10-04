@@ -1,8 +1,18 @@
 {
-  "download_time": "2025-10-04T06:40:19.974312",
-  "total_packages_downloaded": 65,
-  "total_size_mb": 15.95,
+  "download_time": "2025-10-04T06:53:28.336897",
+  "total_packages_downloaded": 69,
+  "total_size_mb": 9.31,
   "packages": [
+    "authentik-client",
+    "stable-delusion",
+    "odoo-addon-mgmtsystem-objective",
+    "kapipe",
+    "pygpsclient",
+    "guardpost",
+    "victron-mqtt",
+    "netbox-aws-vpc-plugin",
+    "mcp-notebook-data",
+    "pyscn",
     "beartype",
     "ai-edge-litert-sdk-mediatek-nightly",
     "ai-edge-litert-sdk-qualcomm-nightly",
@@ -14,7 +24,6 @@
     "defuse",
     "django-approval-workflow",
     "funstall",
-    "authentik-client",
     "rabinmiller",
     "pixell-kit",
     "maniq",
@@ -62,11 +71,6 @@
     "policyengine-us",
     "jupyter-agent-toolkit",
     "zenx",
-    "fortytwo-client",
-    "robhan-cdk-lib.aws-aps",
-    "robhan-cdk-lib.aws-grafana",
-    "robhan-cdk-lib.utils",
-    "nlbone",
-    "simple-data-loader"
+    "fortytwo-client"
   ]
 }
