@@ -1,0 +1,11 @@
+{
+  "name": "msd-dataset",
+  "version": "0.1.0",
+  "summary": "MSD: A Benchmark Dataset for Floor Plan Generation of Building Complexes",
+  "author": "Casper van Engelenburg, Fatemeh Mostafavi, Emanuel Kuhn, Yuntae Jeon, Michael Franzen, Matthias Standfest, Jan C. van Gemert, Seyran Khademi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "msd_dataset-0.1.0-py3-none-any.whl",
+  "download_time": "2025-10-04T23:27:31.761062",
+  "package_url": "https://pypi.org/project/msd-dataset/"
+}

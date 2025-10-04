@@ -1,0 +1,11 @@
+{
+  "name": "av-simulation",
+  "version": "1.0.0",
+  "summary": "Autonomous Vehicle Simulation Environment",
+  "author": "Aansh Shah",
+  "license": null,
+  "home_page": null,
+  "download_filename": "av_simulation-1.0.0.tar.gz",
+  "download_time": "2025-10-04T23:27:38.927207",
+  "package_url": "https://pypi.org/project/av-simulation/"
+}
