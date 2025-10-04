@@ -1,22 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-04T21:11:21.163676
-- **Total Packages**: 80
-- **Total Size**: 7.44 MB
+- **Download Time**: 2025-10-04T21:26:50.890026
+- **Total Packages**: 81
+- **Total Size**: 15.85 MB
 
 ## Packages List
+- inferedge-moss-core
+- openavmkit
+- gguf-connector
+- django-s3-aws
+- bioql
+- authentik-client
+- ScriptCollection
+- jules-mcp
+- langflow-viz
+- wristband-fastapi-auth
+- fennec-framework
+- fsdata
+- iatoolkit
+- mkaireadme
+- mfcqi
+- polymo
+- annual-report
+- language-fixer
+- modelred
+- iptw-survival
+- dbt-fabric-samdebruyn
+- cpz-ai
+- polars-genson
+- phoonnx
+- verifiers-monitor
+- penguin-tamer
+- pyconvexity
+- make-post-sell
 - wordcel
 - soundprompt
 - agentcontrol
 - zqb
-- authentik-client
 - inferedge-moss
 - sollol
 - parser201
-- langflow-viz
 - wheel-getter
-- ScriptCollection
 - mvcrender
 - KeyisBTools
 - pysubtrans
@@ -30,18 +55,14 @@
 - zpack
 - parcelforce-expresslink
 - greenplanet-energy-api
-- language-fixer
 - apc-hypaship
 - ulid-transform
 - vrchatapi
 - clicycle
-- verifiers-monitor
 - pylemetry
 - shipaw
 - omnigen-usf
-- mkaireadme
 - mccole
-- penguin-tamer
 - sonika-langchain-bot
 - zeroconf
 - jules-agent-sdk
@@ -66,23 +87,3 @@
 - c2cgeoportal-geoportal
 - c2cgeoportal-commons
 - loxone-mcp-server
-- checkdmarc
-- py-me
-- note-scoring
-- emailproxy
-- academia-mcp
-- mcp-server-things
-- tailucas-pylib
-- FreeTrace
-- glinkfix
-- selfmemory
-- advanced-ascii
-- django-org-authz
-- llmswap
-- specifyx
-- drf-psn-scraper
-- toolos
-- eduslip
-- nostr-tools
-- himena
-- kabukit

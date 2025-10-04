@@ -1,11 +1,11 @@
 {
   "name": "bioql",
-  "version": "4.0.0",
-  "summary": "Enterprise Quantum Computing Platform for Bioinformatics with Natural Language Interface, Error Mitigation, Compliance Logging, Chemistry Benchmarks, and Backend Optimization",
+  "version": "4.1.0",
+  "summary": "Enterprise Quantum Computing Platform for Bioinformatics with Natural Language Interface, Quantum Error Correction (QEC), OpenFermion Chemistry, Qualtran Factorization, Advanced Error Mitigation (95-100% accuracy), Compliance Logging, and Multi-Backend Support (IBM Torino, IonQ, AWS Braket)",
   "author": "BioQL Development Team - SpectrixRD",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/bioql",
-  "download_filename": "bioql-4.0.0.tar.gz",
-  "download_time": "2025-10-04T16:14:02.169149",
+  "download_filename": "bioql-4.1.0.tar.gz",
+  "download_time": "2025-10-04T21:26:11.071747",
   "package_url": "https://pypi.org/project/bioql/"
 }

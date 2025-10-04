@@ -1,0 +1,11 @@
+{
+  "name": "fennec-framework",
+  "version": "0.3.0",
+  "summary": "🦊 Fennec - A lightweight, fast, and agile Python backend framework built in Tunisia",
+  "author": "Ghassen",
+  "license": "MIT",
+  "home_page": "https://github.com/ghassenTn/fennec",
+  "download_filename": "fennec_framework-0.3.0.tar.gz",
+  "download_time": "2025-10-04T21:26:14.249703",
+  "package_url": "https://pypi.org/project/fennec-framework/"
+}
