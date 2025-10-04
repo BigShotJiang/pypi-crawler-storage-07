@@ -1,0 +1,11 @@
+{
+  "name": "mutable-print",
+  "version": "1.0.0",
+  "summary": "A Python library that allows you to retroactively modify printed content in the terminal using ANSI escape sequences.",
+  "author": "PcoiDev",
+  "license": "MIT",
+  "home_page": "https://github.com/PcoiDev/mutable-print",
+  "download_filename": "mutable_print-1.0.0.tar.gz",
+  "download_time": "2025-10-04T17:29:26.883628",
+  "package_url": "https://pypi.org/project/mutable-print/"
+}

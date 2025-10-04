@@ -1,0 +1,11 @@
+{
+  "name": "brainmesh-ai",
+  "version": "0.1.0",
+  "summary": "A RAG client for personalized AI knowledge bases powered by Ollama.",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/brainmesh-ai",
+  "download_filename": "brainmesh_ai-0.1.0.tar.gz",
+  "download_time": "2025-10-04T17:29:11.861981",
+  "package_url": "https://pypi.org/project/brainmesh-ai/"
+}

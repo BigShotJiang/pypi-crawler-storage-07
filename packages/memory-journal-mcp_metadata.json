@@ -1,11 +1,11 @@
 {
   "name": "memory-journal-mcp",
-  "version": "1.0.2",
-  "summary": "A Model Context Protocol server for personal journaling with context awareness",
+  "version": "1.1.2",
+  "summary": "A Model Context Protocol server for personal journaling with context awareness, relationships, and visualization",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "memory_journal_mcp-1.0.2.tar.gz",
-  "download_time": "2025-10-03T23:12:01.026541",
+  "download_filename": "memory_journal_mcp-1.1.2.tar.gz",
+  "download_time": "2025-10-04T17:28:55.093524",
   "package_url": "https://pypi.org/project/memory-journal-mcp/"
 }
