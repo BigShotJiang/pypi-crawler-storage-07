@@ -1,0 +1,11 @@
+{
+  "name": "poetry-plugin-multiverse",
+  "version": "0.4.2",
+  "summary": "Workspace support for Poetry",
+  "author": "Wes Miller",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "poetry_plugin_multiverse-0.4.2.tar.gz",
+  "download_time": "2025-10-04T00:45:48.373894",
+  "package_url": "https://pypi.org/project/poetry-plugin-multiverse/"
+}

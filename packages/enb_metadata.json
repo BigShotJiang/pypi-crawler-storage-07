@@ -1,0 +1,11 @@
+{
+  "name": "enb",
+  "version": "1.1.1",
+  "summary": "enb (Experiment NoteBook): enb is a python library/framework to design, run and analyze computer-based experiments. Persistence, parallelization and plotting can be automatically handled by enb, to help you develop efficient and reproducible science.",
+  "author": "Miguel Hernández Cabronero, et al.",
+  "license": "MIT License",
+  "home_page": "https://github.com/miguelinux314/experiment-notebook",
+  "download_filename": "enb-1.1.1.tar.gz",
+  "download_time": "2025-10-04T00:45:10.993979",
+  "package_url": "https://pypi.org/project/enb/"
+}

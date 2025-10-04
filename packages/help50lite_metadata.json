@@ -1,0 +1,11 @@
+{
+  "name": "help50lite",
+  "version": "0.1.0",
+  "summary": "A lightweight version of help50 with multilingual support.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "help50lite-0.1.0.tar.gz",
+  "download_time": "2025-10-04T00:45:46.252741",
+  "package_url": "https://pypi.org/project/help50lite/"
+}

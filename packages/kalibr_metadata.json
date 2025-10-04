@@ -1,11 +1,11 @@
 {
   "name": "kalibr",
-  "version": "0.1.27",
+  "version": "0.1.32",
   "summary": "Kalibr SDK - Demo MCP/LLM integration layer",
   "author": "Devon Kelley",
   "license": null,
   "home_page": "https://pypi.org/project/kalibr/",
-  "download_filename": "kalibr-0.1.27.tar.gz",
-  "download_time": "2025-10-03T23:36:12.509058",
+  "download_filename": "kalibr-0.1.32.tar.gz",
+  "download_time": "2025-10-04T00:45:15.201353",
   "package_url": "https://pypi.org/project/kalibr/"
 }
