@@ -1,11 +1,11 @@
 {
   "name": "pybmr",
-  "version": "0.7.10",
+  "version": "0.7.11",
   "summary": "Python library for communication with BMR HC64 Heating Controller units",
   "author": "Honza Slesinger",
   "license": null,
   "home_page": "https://github.com/slesinger/pybmr",
-  "download_filename": "pybmr-0.7.10.tar.gz",
-  "download_time": "2025-10-04T19:35:22.329135",
+  "download_filename": "pybmr-0.7.11.tar.gz",
+  "download_time": "2025-10-04T19:49:40.333634",
   "package_url": "https://pypi.org/project/pybmr/"
 }

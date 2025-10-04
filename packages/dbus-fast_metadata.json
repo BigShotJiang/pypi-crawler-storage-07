@@ -1,0 +1,11 @@
+{
+  "name": "dbus-fast",
+  "version": "2.44.4",
+  "summary": "A faster version of dbus-next",
+  "author": "Bluetooth Devices Authors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbus_fast-2.44.4.tar.gz",
+  "download_time": "2025-10-04T19:49:38.757062",
+  "package_url": "https://pypi.org/project/dbus-fast/"
+}

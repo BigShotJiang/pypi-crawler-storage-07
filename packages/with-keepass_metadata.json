@@ -1,11 +1,11 @@
 {
   "name": "with-keepass",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "summary": "A command-line utility that allows you to run any command with environment variables automatically injected from a KeePass database.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "with_keepass-1.1.0.tar.gz",
-  "download_time": "2025-10-04T19:24:53.636915",
+  "download_filename": "with_keepass-1.1.2.tar.gz",
+  "download_time": "2025-10-04T19:49:42.422785",
   "package_url": "https://pypi.org/project/with-keepass/"
 }

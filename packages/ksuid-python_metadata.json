@@ -1,0 +1,11 @@
+{
+  "name": "ksuid-python",
+  "version": "1.0.1",
+  "summary": "K-Sortable Unique Identifier (KSUID) implementation for Python 3.13+",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ksuid_python-1.0.1.tar.gz",
+  "download_time": "2025-10-04T19:49:37.446110",
+  "package_url": "https://pypi.org/project/ksuid-python/"
+}
