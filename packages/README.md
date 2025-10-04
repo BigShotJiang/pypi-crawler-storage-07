@@ -1,24 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-04T14:30:33.246631
+- **Download Time**: 2025-10-04T14:38:30.556105
 - **Total Packages**: 86
-- **Total Size**: 31.97 MB
+- **Total Size**: 10.08 MB
 
 ## Packages List
-- authentik-client
-- cppio
-- speechreclib
-- annotatedyaml
-- aibox-nlp
-- atenpdu
-- v440
-- uv-jupyter-kernel
-- pymelodia
-- trompy
-- pygpsclient
-- code-puppy
-- codearkt
 - tacotoolbox
 - quantumwalks
 - sae-lens
@@ -57,7 +44,9 @@
 - videosdk-agents
 - borgitory
 - voice-mode
+- v440
 - claude-code-log
+- authentik-client
 - web3-wizzard-lib
 - tensorzero
 - wolpie
@@ -92,3 +81,14 @@
 - jules-api
 - scjson
 - postgres-mcp-enhanced
+- nqxpack
+- collective.html2blocks
+- financetoolkit
+- muna
+- enumetyped
+- toolos
+- PyCgame
+- semhash
+- global-equities-momentum
+- unbabelizer
+- bscommon
