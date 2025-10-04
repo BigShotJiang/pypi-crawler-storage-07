@@ -1,11 +1,11 @@
 {
   "name": "qvenv",
-  "version": "1.1.1",
-  "summary": "A command-line tool for managing Python virtual environments with automatic activation and recursive search",
+  "version": "1.2.0",
+  "summary": "A beautiful command-line tool for managing Python virtual environments with automatic activation and recursive search",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "qvenv-1.1.1.tar.gz",
-  "download_time": "2025-10-04T08:52:03.603851",
+  "download_filename": "qvenv-1.2.0.tar.gz",
+  "download_time": "2025-10-04T09:11:56.952553",
   "package_url": "https://pypi.org/project/qvenv/"
 }

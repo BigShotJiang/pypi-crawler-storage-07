@@ -1,0 +1,11 @@
+{
+  "name": "simple-voice-chat",
+  "version": "4.2.2",
+  "summary": "A simple voice chat interface using configurable LLM, STT, and TTS providers.",
+  "author": "thiswillbeyourgithub",
+  "license": "GPLv3",
+  "home_page": "https://github.com/thiswillbeyourgithub/simple_voice_chat",
+  "download_filename": "simple_voice_chat-4.2.2.tar.gz",
+  "download_time": "2025-10-04T09:11:58.893646",
+  "package_url": "https://pypi.org/project/simple-voice-chat/"
+}
