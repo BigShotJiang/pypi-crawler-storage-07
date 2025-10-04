@@ -1,11 +1,11 @@
 {
   "name": "featurecraft",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Automatic feature engineering, insights, and sklearn pipelines for tabular ML with optional time-series support.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "featurecraft-0.1.0.tar.gz",
-  "download_time": "2025-10-04T20:12:30.987417",
+  "download_filename": "featurecraft-0.1.1.tar.gz",
+  "download_time": "2025-10-04T21:10:46.943873",
   "package_url": "https://pypi.org/project/featurecraft/"
 }

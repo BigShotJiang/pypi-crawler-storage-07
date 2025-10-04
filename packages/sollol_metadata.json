@@ -1,11 +1,11 @@
 {
   "name": "sollol",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Super Ollama Load Balancer with Intelligent Routing and Distributed Inference",
   "author": "BenevolentJoker-JohnL",
   "license": "MIT",
   "home_page": "https://github.com/BenevolentJoker-JohnL/SynapticLlamas",
-  "download_filename": "sollol-0.3.1.tar.gz",
-  "download_time": "2025-10-04T20:50:34.806455",
+  "download_filename": "sollol-0.3.2.tar.gz",
+  "download_time": "2025-10-04T21:10:42.757223",
   "package_url": "https://pypi.org/project/sollol/"
 }

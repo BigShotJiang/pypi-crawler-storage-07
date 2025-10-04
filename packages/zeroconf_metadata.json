@@ -1,11 +1,11 @@
 {
   "name": "zeroconf",
-  "version": "0.147.3",
+  "version": "1.0.0",
   "summary": "A pure python implementation of multicast DNS service discovery",
   "author": "Paul Scott-Murphy",
   "license": null,
   "home_page": null,
-  "download_filename": "zeroconf-0.147.3.tar.gz",
-  "download_time": "2025-10-04T20:50:33.139193",
+  "download_filename": "zeroconf-1.0.0.tar.gz",
+  "download_time": "2025-10-04T21:10:59.144561",
   "package_url": "https://pypi.org/project/zeroconf/"
 }
