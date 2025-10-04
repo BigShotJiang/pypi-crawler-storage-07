@@ -1,11 +1,11 @@
 {
   "name": "aibox-nlp",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "AiBox Natural Language Processing Toolkit.",
   "author": "AiBox Lab",
   "license": null,
   "home_page": null,
-  "download_filename": "aibox_nlp-0.5.0.tar.gz",
-  "download_time": "2025-09-28T14:26:25.130890",
+  "download_filename": "aibox_nlp-0.5.1.tar.gz",
+  "download_time": "2025-10-04T14:29:42.712174",
   "package_url": "https://pypi.org/project/aibox-nlp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "event-calplot",
+  "version": "0.1.0",
+  "summary": "A Python package for visualizing event data as calendar heatmaps.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "event_calplot-0.1.0.tar.gz",
+  "download_time": "2025-10-04T14:30:23.392008",
+  "package_url": "https://pypi.org/project/event-calplot/"
+}

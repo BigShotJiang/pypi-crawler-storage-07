@@ -1,11 +1,11 @@
 {
   "name": "trompy",
-  "version": "0.15.7",
+  "version": "0.15.8",
   "summary": "A collection of tools for data analysis and plotting that originated in the McCutcheon Lab (UiT, Tromso)",
   "author": "James E McCutcheon",
   "license": "MIT",
   "home_page": "https://github.com/mccutcheonlab",
-  "download_filename": "trompy-0.15.7.tar.gz",
-  "download_time": "2025-10-04T04:49:48.133135",
+  "download_filename": "trompy-0.15.8.tar.gz",
+  "download_time": "2025-10-04T14:29:46.336537",
   "package_url": "https://pypi.org/project/trompy/"
 }

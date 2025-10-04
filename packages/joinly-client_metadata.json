@@ -1,0 +1,11 @@
+{
+  "name": "joinly-client",
+  "version": "0.1.18",
+  "summary": "Client for joinly: Make your meetings accessible to AI Agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "joinly_client-0.1.18.tar.gz",
+  "download_time": "2025-10-04T14:30:20.041746",
+  "package_url": "https://pypi.org/project/joinly-client/"
+}

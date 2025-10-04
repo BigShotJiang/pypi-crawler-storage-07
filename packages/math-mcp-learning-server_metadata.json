@@ -1,11 +1,11 @@
 {
   "name": "math-mcp-learning-server",
-  "version": "0.6.2",
-  "summary": "Educational MCP server demonstrating FastMCP 2.0 best practices - Complete learning guide with contributing guidelines and roadmap for Model Context Protocol development",
+  "version": "0.6.4",
+  "summary": "Production-ready educational MCP server with persistent workspace and FastMCP Cloud support - Complete learning guide demonstrating FastMCP 2.0 best practices for Model Context Protocol development",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "math_mcp_learning_server-0.6.2.tar.gz",
-  "download_time": "2025-10-04T12:19:11.437265",
+  "download_filename": "math_mcp_learning_server-0.6.4.tar.gz",
+  "download_time": "2025-10-04T14:29:53.746850",
   "package_url": "https://pypi.org/project/math-mcp-learning-server/"
 }

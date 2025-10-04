@@ -1,11 +1,11 @@
 {
   "name": "videosdk-plugins-deepgram",
-  "version": "0.0.36",
+  "version": "0.0.37",
   "summary": "VideoSDK Agent Framework plugin for Deepgram",
   "author": "videosdk",
   "license": null,
   "home_page": null,
-  "download_filename": "videosdk_plugins_deepgram-0.0.36.tar.gz",
-  "download_time": "2025-09-30T13:05:15.913758",
+  "download_filename": "videosdk_plugins_deepgram-0.0.37.tar.gz",
+  "download_time": "2025-10-04T14:30:06.116604",
   "package_url": "https://pypi.org/project/videosdk-plugins-deepgram/"
 }
