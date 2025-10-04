@@ -1,0 +1,11 @@
+{
+  "name": "prompttransform",
+  "version": "0.2.0",
+  "summary": "Adversarial and obfuscation prompt transformation toolkit (packaged duplicate of promptify).",
+  "author": "m4xx101",
+  "license": "Proprietary - See repository licensing terms",
+  "home_page": null,
+  "download_filename": "prompttransform-0.2.0.tar.gz",
+  "download_time": "2025-10-04T19:24:54.199496",
+  "package_url": "https://pypi.org/project/prompttransform/"
+}

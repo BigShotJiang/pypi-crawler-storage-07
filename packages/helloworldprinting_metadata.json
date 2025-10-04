@@ -1,0 +1,11 @@
+{
+  "name": "helloworldprinting",
+  "version": "0.1.0",
+  "summary": "A Python library to make HelloWorld('') actually print.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "helloworldprinting-0.1.0.tar.gz",
+  "download_time": "2025-10-04T19:24:35.504152",
+  "package_url": "https://pypi.org/project/helloworldprinting/"
+}

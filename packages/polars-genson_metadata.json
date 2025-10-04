@@ -1,11 +1,11 @@
 {
   "name": "polars-genson",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "summary": "A Polars plugin for JSON schema inference using genson-rs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "polars_genson-0.5.4-cp39-abi3-macosx_10_12_x86_64.whl",
-  "download_time": "2025-10-04T16:49:48.756775",
+  "download_filename": "polars_genson-0.5.5-cp39-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2025-10-04T19:24:57.511335",
   "package_url": "https://pypi.org/project/polars-genson/"
 }

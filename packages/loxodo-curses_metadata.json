@@ -1,11 +1,11 @@
 {
   "name": "loxodo-curses",
-  "version": "0.20.2",
+  "version": "0.21.0",
   "summary": "A Password Safe V3 compatible password vault",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "loxodo_curses-0.20.2.tar.gz",
-  "download_time": "2025-10-03T18:16:40.871274",
+  "download_filename": "loxodo_curses-0.21.0.tar.gz",
+  "download_time": "2025-10-04T19:24:58.585627",
   "package_url": "https://pypi.org/project/loxodo-curses/"
 }

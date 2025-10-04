@@ -1,11 +1,11 @@
 {
   "name": "cc-clients-python-lib",
-  "version": "0.28.9.0",
+  "version": "0.29.0.0",
   "summary": "Confluent Cloud Clients Python Library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cc_clients_python_lib-0.28.9.0.tar.gz",
-  "download_time": "2025-09-30T21:10:32.117321",
+  "download_filename": "cc_clients_python_lib-0.29.0.0.tar.gz",
+  "download_time": "2025-10-04T19:24:34.951393",
   "package_url": "https://pypi.org/project/cc-clients-python-lib/"
 }

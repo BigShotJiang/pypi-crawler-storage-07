@@ -1,0 +1,11 @@
+{
+  "name": "term-background",
+  "version": "1.0.5",
+  "summary": "Determine if a shell has a light or dark background",
+  "author": "Rocky Bernstein",
+  "license": null,
+  "home_page": null,
+  "download_filename": "term_background-1.0.5.tar.gz",
+  "download_time": "2025-10-04T19:24:59.657019",
+  "package_url": "https://pypi.org/project/term-background/"
+}
