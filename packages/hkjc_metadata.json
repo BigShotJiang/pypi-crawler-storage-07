@@ -1,11 +1,11 @@
 {
   "name": "hkjc",
-  "version": "0.3.7",
+  "version": "0.3.9",
   "summary": "Library for scrapping HKJC data and perform basic analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hkjc-0.3.7.tar.gz",
-  "download_time": "2025-10-04T07:26:51.480611",
+  "download_filename": "hkjc-0.3.9.tar.gz",
+  "download_time": "2025-10-04T09:29:47.585654",
   "package_url": "https://pypi.org/project/hkjc/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "markitdown-cosense",
+  "version": "0.2.0",
+  "summary": "A markitdown plugin for converting Cosense notation to Markdown",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "markitdown_cosense-0.2.0.tar.gz",
+  "download_time": "2025-10-04T09:29:54.877202",
+  "package_url": "https://pypi.org/project/markitdown-cosense/"
+}
