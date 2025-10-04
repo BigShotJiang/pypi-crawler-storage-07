@@ -1,0 +1,11 @@
+{
+  "name": "dynesty",
+  "version": "3.0.0",
+  "summary": "A dynamic nested sampling package for computing Bayesian posteriors and evidences.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dynesty-3.0.0-py3-none-any.whl",
+  "download_time": "2025-10-04T21:35:21.926161",
+  "package_url": "https://pypi.org/project/dynesty/"
+}
