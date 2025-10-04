@@ -1,11 +1,11 @@
 {
   "name": "navam",
-  "version": "1.6.7",
+  "version": "1.6.8",
   "summary": "Standalone AI investment assistant with 18 specialized agents and real-time market data",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "navam-1.6.7.tar.gz",
-  "download_time": "2025-10-04T13:18:10.986477",
+  "download_filename": "navam-1.6.8.tar.gz",
+  "download_time": "2025-10-04T13:34:11.061380",
   "package_url": "https://pypi.org/project/navam/"
 }

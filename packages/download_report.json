@@ -1,8 +1,9 @@
 {
-  "download_time": "2025-10-04T13:18:57.429540",
+  "download_time": "2025-10-04T13:34:51.900757",
   "total_packages_downloaded": 79,
-  "total_size_mb": 21.35,
+  "total_size_mb": 4.64,
   "packages": [
+    "pymitsubishi",
     "pyspark-dq-framework",
     "nyx-shahmat",
     "navam",
@@ -80,7 +81,6 @@
     "agentmake",
     "pyside-cli",
     "pyjwkest",
-    "counted-float",
-    "pyausaxs"
+    "counted-float"
   ]
 }
