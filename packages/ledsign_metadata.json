@@ -1,0 +1,11 @@
+{
+  "name": "ledsign",
+  "version": "0.6.0",
+  "summary": "LED Sign Python API",
+  "author": "Krzesimir Hyżyk",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/krzem5/ledsign",
+  "download_filename": "ledsign-0.6.0.tar.gz",
+  "download_time": "2025-10-04T10:42:29.954681",
+  "package_url": "https://pypi.org/project/ledsign/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "demesdraw",
+  "version": "0.4.1",
+  "summary": "drawing tools for Demes demographic models",
+  "author": "Graham Gower",
+  "license": "ISC",
+  "home_page": "https://github.com/grahamgower/demesdraw",
+  "download_filename": "demesdraw-0.4.1.tar.gz",
+  "download_time": "2025-10-04T10:42:45.582177",
+  "package_url": "https://pypi.org/project/demesdraw/"
+}

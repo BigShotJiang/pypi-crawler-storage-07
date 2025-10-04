@@ -1,0 +1,11 @@
+{
+  "name": "reqMock",
+  "version": "0.0.0.5",
+  "summary": "Mock requests in python3",
+  "author": "KhanhNguyen9872",
+  "license": null,
+  "home_page": "https://github.com/KhanhNguyen9872/reqMock",
+  "download_filename": "reqmock-0.0.0.5.tar.gz",
+  "download_time": "2025-10-04T10:42:27.268118",
+  "package_url": "https://pypi.org/project/reqMock/"
+}
