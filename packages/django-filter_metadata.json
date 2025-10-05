@@ -1,0 +1,11 @@
+{
+  "name": "django-filter",
+  "version": "25.2",
+  "summary": "Django-filter is a reusable Django application for allowing users to filter querysets dynamically.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_filter-25.2.tar.gz",
+  "download_time": "2025-10-05T10:13:00.660033",
+  "package_url": "https://pypi.org/project/django-filter/"
+}

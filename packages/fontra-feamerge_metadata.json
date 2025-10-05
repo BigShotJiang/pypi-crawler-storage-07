@@ -1,11 +1,11 @@
 {
   "name": "fontra-feamerge",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Fontra plugin to merge multiple Adobe feature files into variable feature files",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "fontra_feamerge-0.2.0.tar.gz",
-  "download_time": "2025-10-05T08:50:29.543919",
+  "download_filename": "fontra_feamerge-0.2.1.tar.gz",
+  "download_time": "2025-10-05T10:12:50.977645",
   "package_url": "https://pypi.org/project/fontra-feamerge/"
 }

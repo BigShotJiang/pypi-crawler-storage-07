@@ -1,11 +1,11 @@
 {
   "name": "simplini",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "summary": "A simple INI file parser/writer",
   "author": "Eugene Gubenkov",
   "license": null,
   "home_page": "https://github.com/gubenkoved/simplini",
-  "download_filename": "simplini-0.0.14.tar.gz",
-  "download_time": "2025-10-04T19:24:52.529237",
+  "download_filename": "simplini-0.0.15.tar.gz",
+  "download_time": "2025-10-05T10:12:57.298007",
   "package_url": "https://pypi.org/project/simplini/"
 }

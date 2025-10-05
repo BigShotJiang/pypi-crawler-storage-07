@@ -1,11 +1,11 @@
 {
   "name": "metaheuristicpy",
-  "version": "2.0.1",
+  "version": "3.0.1",
   "summary": "A Python-based package of Metaheuristic Optimization Algorithms for Solving Continous and Discrete Optimization Problem",
   "author": "I Made Satria Bimantara",
   "license": null,
   "home_page": null,
-  "download_filename": "metaheuristicpy-2.0.1.tar.gz",
-  "download_time": "2025-10-04T15:49:25.484330",
+  "download_filename": "metaheuristicpy-3.0.1.tar.gz",
+  "download_time": "2025-10-05T10:12:29.461051",
   "package_url": "https://pypi.org/project/metaheuristicpy/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "gohutool-dataflow",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Dataflow is an open-source Python microservice framework that simplifies the development of stand-alone production-grade Spring applications.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gohutool_dataflow-1.0.1.tar.gz",
-  "download_time": "2025-10-05T09:49:55.564631",
+  "download_filename": "gohutool_dataflow-1.0.2.tar.gz",
+  "download_time": "2025-10-05T10:12:55.180539",
   "package_url": "https://pypi.org/project/gohutool-dataflow/"
 }
