@@ -1,18 +1,24 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-05T05:31:54.570053
-- **Total Packages**: 72
-- **Total Size**: 6.46 MB
+- **Download Time**: 2025-10-05T05:40:59.499097
+- **Total Packages**: 74
+- **Total Size**: 0.36 MB
 
 ## Packages List
+- iicy
+- authentik-client
+- tap-spreadsheets
+- regressiontesting
+- aivim
+- monolit-local-app
+- stac-mcp
 - subtool
 - SoIdea-update-python
 - fastapi-voyager
 - wassima
 - qh3
 - mtcli-risco
-- authentik-client
 - portacode
 - LSTM-SAM-TL
 - echosms
@@ -39,7 +45,6 @@
 - Tinyscraper
 - translatio-delineationis-recens
 - langflow-viz
-- tap-spreadsheets
 - runbooks
 - docstring-format-checker
 - bisos.b
@@ -75,6 +80,3 @@
 - codex-weather-agent
 - ast-grep-py
 - forkmixer
-- certifi
-- query-tables
-- odoo-addon-l10n-es-ticketbai-pos
