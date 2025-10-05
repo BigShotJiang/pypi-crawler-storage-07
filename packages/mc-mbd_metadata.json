@@ -1,0 +1,11 @@
+{
+  "name": "mc-mbd",
+  "version": "0.1.4",
+  "summary": "Multiclass Minimum Barrier Distance segmentation algorithm",
+  "author": "Mvzvrt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mc_mbd-0.1.4.tar.gz",
+  "download_time": "2025-10-05T14:50:56.365045",
+  "package_url": "https://pypi.org/project/mc-mbd/"
+}

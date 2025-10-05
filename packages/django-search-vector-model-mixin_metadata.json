@@ -1,0 +1,11 @@
+{
+  "name": "django-search-vector-model-mixin",
+  "version": "0.1.2",
+  "summary": "Model Mixin for Full Test Search in PostgreSQL with support of multilanguage sites",
+  "author": "Evgenii Legotckoi",
+  "license": "MIT",
+  "home_page": "https://evileg.com",
+  "download_filename": "django_search_vector_model_mixin-0.1.2.tar.gz",
+  "download_time": "2025-10-05T14:51:15.361111",
+  "package_url": "https://pypi.org/project/django-search-vector-model-mixin/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pykernel-mcp",
+  "version": "0.2.2",
+  "summary": "MCP server providing persistent IPython kernel for executing Python code with numpy, pandas, and matplotlib",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pykernel_mcp-0.2.2.tar.gz",
+  "download_time": "2025-10-05T14:50:51.501725",
+  "package_url": "https://pypi.org/project/pykernel-mcp/"
+}
