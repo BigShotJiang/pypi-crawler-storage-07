@@ -1,0 +1,11 @@
+{
+  "name": "enflow",
+  "version": "0.0.4",
+  "summary": "⚡ Open-source framework for sequential decision problems in the energy sector",
+  "author": "rebase.energy",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "enflow-0.0.4.tar.gz",
+  "download_time": "2025-10-05T08:14:58.281126",
+  "package_url": "https://pypi.org/project/enflow/"
+}

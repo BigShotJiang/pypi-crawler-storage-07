@@ -1,0 +1,11 @@
+{
+  "name": "qaekwy",
+  "version": "0.2.0",
+  "summary": "Python client library for Qaekwy, a high-performance operational research solver.",
+  "author": "Alexis LE GOADEC",
+  "license": "EUPL-1.2",
+  "home_page": "https://qaekwy.io",
+  "download_filename": "qaekwy-0.2.0.tar.gz",
+  "download_time": "2025-10-05T08:15:04.922413",
+  "package_url": "https://pypi.org/project/qaekwy/"
+}
