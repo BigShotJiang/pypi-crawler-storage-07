@@ -1,11 +1,11 @@
 {
   "name": "mkdocs-decodiff-plugin",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "MkDocs plugin to decorate git diff lines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mkdocs_decodiff_plugin-0.0.5.tar.gz",
-  "download_time": "2025-09-28T00:51:57.037883",
+  "download_filename": "mkdocs_decodiff_plugin-0.0.6.tar.gz",
+  "download_time": "2025-10-05T12:19:36.259470",
   "package_url": "https://pypi.org/project/mkdocs-decodiff-plugin/"
 }

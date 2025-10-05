@@ -1,11 +1,11 @@
 {
   "name": "gpu-coloc",
-  "version": "0.3.2",
+  "version": "0.4",
   "summary": "Ultra-fast GPU-enabled Bayesian colocalisation",
   "author": "Mihkel Jesse",
   "license": "MIT",
   "home_page": "https://github.com/mjesse-github/gpu-coloc",
-  "download_filename": "gpu_coloc-0.3.2.tar.gz",
-  "download_time": "2025-09-30T17:48:50.659170",
+  "download_filename": "gpu_coloc-0.4.tar.gz",
+  "download_time": "2025-10-05T12:19:36.805435",
   "package_url": "https://pypi.org/project/gpu-coloc/"
 }

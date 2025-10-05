@@ -1,0 +1,11 @@
+{
+  "name": "autocleaneeg-eeg2source",
+  "version": "0.3.7",
+  "summary": "EEG source localization with DK atlas regions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autocleaneeg_eeg2source-0.3.7.tar.gz",
+  "download_time": "2025-10-05T12:19:37.889916",
+  "package_url": "https://pypi.org/project/autocleaneeg-eeg2source/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "v2root",
+  "version": "1.2.0",
+  "summary": "A Python package to manage v2ray with native extensions",
+  "author": "Project V2Root, Sepehr0Day",
+  "license": "MIT",
+  "home_page": "https://github.com/V2RayRoot/V2Root",
+  "download_filename": "v2root-1.2.0.tar.gz",
+  "download_time": "2025-10-05T12:19:42.777060",
+  "package_url": "https://pypi.org/project/v2root/"
+}

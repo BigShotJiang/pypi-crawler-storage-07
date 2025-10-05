@@ -1,11 +1,11 @@
 {
   "name": "sharedbox",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Python containers using shared memory.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sharedbox-0.2.1-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
-  "download_time": "2025-10-05T11:50:11.547418",
+  "download_filename": "sharedbox-0.2.2-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-10-05T12:19:34.659611",
   "package_url": "https://pypi.org/project/sharedbox/"
 }

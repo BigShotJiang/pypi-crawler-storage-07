@@ -1,0 +1,11 @@
+{
+  "name": "flexitransformers",
+  "version": "0.2.0",
+  "summary": "This repository provides a flexible and modular implementation of the Transformer architecture,",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flexitransformers-0.2.0.tar.gz",
+  "download_time": "2025-10-05T12:19:45.054925",
+  "package_url": "https://pypi.org/project/flexitransformers/"
+}
