@@ -1,7 +1,7 @@
 {
-  "download_time": "2025-10-05T05:40:59.499097",
+  "download_time": "2025-10-05T05:50:31.774437",
   "total_packages_downloaded": 74,
-  "total_size_mb": 0.36,
+  "total_size_mb": 3.8,
   "packages": [
     "iicy",
     "authentik-client",
