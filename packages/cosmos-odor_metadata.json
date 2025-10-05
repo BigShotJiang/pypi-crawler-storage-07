@@ -1,0 +1,11 @@
+{
+  "name": "cosmos-odor",
+  "version": "1.0.2",
+  "summary": "A Data-Driven Probabilistic Time Series Simulator for Chemical Plumes",
+  "author": "Aruna Nag",
+  "license": "CC0-1.0",
+  "home_page": "https://github.com/arunavanag591/COSMOS",
+  "download_filename": "cosmos_odor-1.0.2.tar.gz",
+  "download_time": "2025-10-05T00:53:55.194167",
+  "package_url": "https://pypi.org/project/cosmos-odor/"
+}

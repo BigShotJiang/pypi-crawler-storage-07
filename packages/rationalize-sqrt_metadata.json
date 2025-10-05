@@ -1,11 +1,11 @@
 {
   "name": "rationalize-sqrt",
-  "version": "0.1.13",
+  "version": "0.2.1",
   "summary": "command-line app for finding multipliers of square roots",
   "author": "K1CE",
   "license": null,
   "home_page": null,
-  "download_filename": "rationalize_sqrt-0.1.13.tar.gz",
-  "download_time": "2025-10-01T02:30:35.092525",
+  "download_filename": "rationalize_sqrt-0.2.1.tar.gz",
+  "download_time": "2025-10-05T00:54:29.483602",
   "package_url": "https://pypi.org/project/rationalize-sqrt/"
 }

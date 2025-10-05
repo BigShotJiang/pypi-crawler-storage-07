@@ -1,0 +1,11 @@
+{
+  "name": "specpulse",
+  "version": "1.5.0",
+  "summary": "Specification-Driven Development Framework",
+  "author": "SpecPulse",
+  "license": "MIT",
+  "home_page": "https://github.com/specpulse",
+  "download_filename": "specpulse-1.5.0.tar.gz",
+  "download_time": "2025-10-05T00:54:12.195773",
+  "package_url": "https://pypi.org/project/specpulse/"
+}

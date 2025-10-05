@@ -1,11 +1,11 @@
 {
   "name": "vsthost",
-  "version": "0.1.1",
-  "summary": "C++-based audio host CLI launcher",
-  "author": "sinesurge",
+  "version": "0.1.2",
+  "summary": "A c++ written python module for VST instrument hosting for Macos",
+  "author": "Sinesurge",
   "license": null,
   "home_page": null,
-  "download_filename": "vsthost-0.1.1.tar.gz",
-  "download_time": "2025-10-03T00:06:47.263827",
+  "download_filename": "vsthost-0.1.2.tar.gz",
+  "download_time": "2025-10-05T00:54:30.583521",
   "package_url": "https://pypi.org/project/vsthost/"
 }

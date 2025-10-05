@@ -1,11 +1,11 @@
 {
   "name": "mkaireadme",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "An AI-powered CLI to generate professional README.md files.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mkaireadme-0.3.1.tar.gz",
-  "download_time": "2025-10-04T22:30:37.244848",
+  "download_filename": "mkaireadme-0.3.2.tar.gz",
+  "download_time": "2025-10-05T00:54:10.395422",
   "package_url": "https://pypi.org/project/mkaireadme/"
 }

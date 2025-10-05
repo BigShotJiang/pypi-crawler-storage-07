@@ -1,0 +1,11 @@
+{
+  "name": "soa4onnx",
+  "version": "1.0.5",
+  "summary": "Simple model output OP additional tools.",
+  "author": "Katsuya Hyodo",
+  "license": "MIT License",
+  "home_page": "https://github.com/PINTO0309/soa4onnx",
+  "download_filename": "soa4onnx-1.0.5.tar.gz",
+  "download_time": "2025-10-05T00:54:21.078384",
+  "package_url": "https://pypi.org/project/soa4onnx/"
+}

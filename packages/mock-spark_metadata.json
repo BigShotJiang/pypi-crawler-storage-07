@@ -1,11 +1,11 @@
 {
   "name": "mock-spark",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A mock implementation of PySpark for testing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mock_spark-0.2.2.tar.gz",
-  "download_time": "2025-10-04T23:13:53.004026",
+  "download_filename": "mock_spark-0.2.3.tar.gz",
+  "download_time": "2025-10-05T00:54:11.007570",
   "package_url": "https://pypi.org/project/mock-spark/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "bencode.cy",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "summary": "A fast bencode implementation in Cython that supports Python 3. It uses Cython's pure Python syntax.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bencode_cy-1.1.0.tar.gz",
-  "download_time": "2025-10-04T18:16:21.048893",
+  "download_filename": "bencode_cy-1.2.1.tar.gz",
+  "download_time": "2025-10-05T00:54:05.286480",
   "package_url": "https://pypi.org/project/bencode.cy/"
 }
