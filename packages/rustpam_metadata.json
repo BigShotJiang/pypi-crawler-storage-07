@@ -1,11 +1,11 @@
 {
   "name": "rustpam",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "High-performance PAM (k-medoids) clustering implemented in Rust with Python bindings",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rustpam-0.2.0.tar.gz",
-  "download_time": "2025-10-05T06:52:29.500541",
+  "download_filename": "rustpam-0.2.1.tar.gz",
+  "download_time": "2025-10-05T07:50:22.708590",
   "package_url": "https://pypi.org/project/rustpam/"
 }
