@@ -1,0 +1,11 @@
+{
+  "name": "retrivex",
+  "version": "0.1.0",
+  "summary": "Retrieval Models Explainability Toolkit. Explain embedding similarity prediction.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "retrivex-0.1.0.tar.gz",
+  "download_time": "2025-10-05T04:14:37.312581",
+  "package_url": "https://pypi.org/project/retrivex/"
+}

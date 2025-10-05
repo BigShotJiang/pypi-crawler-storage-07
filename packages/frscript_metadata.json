@@ -1,11 +1,11 @@
 {
   "name": "frscript",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "summary": "Simple bytecode compiled C-style scripting language",
   "author": "Omena0",
   "license": "PolyForm Noncommercial License 1.0.0",
   "home_page": "https://github.com/Omena0/fr",
-  "download_filename": "frscript-2.1.0.tar.gz",
-  "download_time": "2025-10-05T03:27:49.048137",
+  "download_filename": "frscript-3.0.0.tar.gz",
+  "download_time": "2025-10-05T04:14:39.393245",
   "package_url": "https://pypi.org/project/frscript/"
 }
