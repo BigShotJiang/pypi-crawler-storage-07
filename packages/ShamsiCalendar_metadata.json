@@ -1,0 +1,11 @@
+{
+  "name": "ShamsiCalendar",
+  "version": "0.1.2",
+  "summary": "Persian (Shamsi) Calendar and Date Entry for Python Tkinter",
+  "author": "Poriya Delavariyan",
+  "license": null,
+  "home_page": "https://github.com/yourusername/ShamsiCalendar",
+  "download_filename": "shamsicalendar-0.1.2.tar.gz",
+  "download_time": "2025-10-05T11:35:21.689161",
+  "package_url": "https://pypi.org/project/ShamsiCalendar/"
+}

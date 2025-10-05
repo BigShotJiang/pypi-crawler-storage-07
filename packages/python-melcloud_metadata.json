@@ -1,0 +1,11 @@
+{
+  "name": "python-melcloud",
+  "version": "0.1.2",
+  "summary": "Asynchronous Python client for controlling Melcloud devices.",
+  "author": "Erwin Douna",
+  "license": "MIT",
+  "home_page": "https://github.com/erwindouna/python-melcloud",
+  "download_filename": "python_melcloud-0.1.2.tar.gz",
+  "download_time": "2025-10-05T11:35:22.740944",
+  "package_url": "https://pypi.org/project/python-melcloud/"
+}

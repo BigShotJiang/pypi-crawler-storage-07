@@ -1,26 +1,32 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-05T11:26:54.918339
-- **Total Packages**: 75
-- **Total Size**: 13.17 MB
+- **Download Time**: 2025-10-05T11:35:59.901835
+- **Total Packages**: 73
+- **Total Size**: 0.51 MB
 
 ## Packages List
+- ShamsiCalendar
+- matchescu-matching
+- python-melcloud
+- gemini-search-mcp
+- QGISLibrary
+- torchx-nightly
+- im-jote
+- jbutils
+- mapsys
 - vellum-workflow-server
 - sso-apigee-client
 - mlua
 - gguf-connector
 - torchft-nightly
 - pyplayready
-- QGISLibrary
 - lief
 - authentik-client
 - nonebot-plugin-msglogger
 - nekro-agent-toolkit
 - pyrudof
-- jbutils
 - pylocalvoice
-- gemini-search-mcp
 - bdclient
 - vellum-ai
 - hallunox
@@ -73,11 +79,3 @@
 - shannon-sdk
 - gpmanager
 - xpropcache
-- speedy-utils
-- v440
-- sten-auth
-- camel-ai
-- simplini
-- odoo-addon-l10n-es-facturae-face
-- passagemath-rankwidth
-- passagemath-plot
