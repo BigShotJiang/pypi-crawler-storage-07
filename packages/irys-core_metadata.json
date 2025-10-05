@@ -1,0 +1,11 @@
+{
+  "name": "irys-core",
+  "version": "0.3.0",
+  "summary": "Core backend & SxT client utilities for Irys Cloud",
+  "author": "Irys Cloud Team",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "irys_core-0.3.0.tar.gz",
+  "download_time": "2025-10-05T10:32:37.334034",
+  "package_url": "https://pypi.org/project/irys-core/"
+}

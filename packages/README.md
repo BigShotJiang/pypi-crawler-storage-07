@@ -1,17 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-05T10:13:15.815720
-- **Total Packages**: 88
-- **Total Size**: 6.17 MB
+- **Download Time**: 2025-10-05T10:33:02.349804
+- **Total Packages**: 85
+- **Total Size**: 30.91 MB
 
 ## Packages List
+- wiliot-testers
+- byzh-ai
+- portacode
+- tob
+- ctfbridge
+- gohutool-dataflow
+- quick-pp
+- byzh-core
+- shannon-sdk
+- gpmanager
+- xpropcache
+- clipash
+- speedy-utils
+- authentik-client
+- v440
+- sten-auth
+- camel-ai
+- simplini
+- duckrun
+- odoo-addon-l10n-es-facturae-face
+- passagemath-rankwidth
+- passagemath-plot
+- passagemath-planarity
+- passagemath-objects
+- roboka
+- passagemath-homfly
+- passagemath-graphs
+- passagemath-glpk
+- passagemath-cmr
+- passagemath-cliquer
+- passagemath-cddlib
+- passagemath-categories
+- private-assistant-commons
+- exnest-ai
+- hyperscale-ozone
+- greedy-ancestral-search
+- ai-edge-torch-nightly
+- tf-keras-nightly
+- irys-core
+- newspy
 - nvidia-nat-llama-index
 - nvidia-nat-s3
 - metaheuristicpy
 - nvidia-nat
-- authentik-client
-- greedy-ancestral-search
 - ScriptCollection
 - nvidia-nat-all
 - nvidia-nat-weave
@@ -30,7 +68,6 @@
 - nvidia-nat-mysql
 - nvidia-nat-semantic-kernel
 - nvidia-nat-agno
-- ctfbridge
 - nvidia-nat-opentelemetry
 - nvidia-nat-ragaai
 - nvidia-nat-profiling
@@ -38,13 +75,11 @@
 - nvidia-nat-langchain
 - aiqtoolkit-semantic-kernel
 - aiqtoolkit-weave
-- duckrun
 - teknohole
 - aiqtoolkit-mem0ai
 - aiqtoolkit-test
 - aiqtoolkit-llama-index
 - qbitwave
-- exnest-ai
 - aiqtoolkit
 - enverge-proxy
 - aiqtoolkit-langchain
@@ -55,42 +90,4 @@
 - hallunox
 - mix-python-sdk
 - infraweave
-- v440
-- gohutool-dataflow
-- newspy
 - tbp-nightly
-- simplini
-- pyscn
-- bool-hybrid-array
-- wrapt
-- inkfox
-- hyperspace-py
-- django-filter
-- aiontfy
-- web-block
-- picle
-- airos
-- wolpie
-- pyodide-mkdocs-theme
-- vellum-workflow-server
-- better-imap
-- DeConveil
-- omnata-plugin-runtime
-- suzaku
-- livedict
-- dc43-contracts-app
-- dc43-integrations
-- dc43-service-backends
-- dc43-service-clients
-- dc43
-- django-private-storage
-- pyside-cli
-- ut-com
-- oelint-adv
-- pathsim
-- mlua
-- amrita
-- lightshap
-- private-assistant-commons
-- voicebridge
-- machineconfig

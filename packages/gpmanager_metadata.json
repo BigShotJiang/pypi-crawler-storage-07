@@ -1,0 +1,11 @@
+{
+  "name": "gpmanager",
+  "version": "0.1.1",
+  "summary": "GPM: Generative Password Manager.",
+  "author": "apehex",
+  "license": ".github/LICENSE.md",
+  "home_page": null,
+  "download_filename": "gpmanager-0.1.1.tar.gz",
+  "download_time": "2025-10-05T10:32:20.403586",
+  "package_url": "https://pypi.org/project/gpmanager/"
+}
