@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-mgmtsystem-nonconformity",
-  "version": "18.0.1.2.0.1",
+  "version": "18.0.1.2.1.2",
   "summary": "Management System - Nonconformity",
   "author": "Savoir-faire Linux, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/management-system",
-  "download_filename": "odoo_addon_mgmtsystem_nonconformity-18.0.1.2.0.1-py3-none-any.whl",
-  "download_time": "2025-10-01T03:32:04.607753",
+  "download_filename": "odoo_addon_mgmtsystem_nonconformity-18.0.1.2.1.2-py3-none-any.whl",
+  "download_time": "2025-10-05T03:27:20.976149",
   "package_url": "https://pypi.org/project/odoo-addon-mgmtsystem-nonconformity/"
 }

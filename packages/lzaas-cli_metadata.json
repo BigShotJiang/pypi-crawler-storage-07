@@ -1,0 +1,11 @@
+{
+  "name": "lzaas-cli",
+  "version": "1.0.0",
+  "summary": "Landing Zone as a Service CLI for AWS Account Factory automation",
+  "author": "Platform Team",
+  "license": null,
+  "home_page": "https://github.com/your-org/sse-landing-zone",
+  "download_filename": "lzaas_cli-1.0.0.tar.gz",
+  "download_time": "2025-10-05T03:27:42.757119",
+  "package_url": "https://pypi.org/project/lzaas-cli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ab-logging",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Standardized logging for auth broker services.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ab_logging-0.1.0.tar.gz",
-  "download_time": "2025-10-05T02:28:25.981415",
+  "download_filename": "ab_logging-0.1.2.tar.gz",
+  "download_time": "2025-10-05T03:27:35.737998",
   "package_url": "https://pypi.org/project/ab-logging/"
 }

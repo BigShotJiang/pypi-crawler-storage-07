@@ -1,0 +1,11 @@
+{
+  "name": "page2vec",
+  "version": "0.1.0",
+  "summary": "Convert knowledge base websites into vectors to load them intovector databases",
+  "author": "Yasu Flores",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/page2vec",
+  "download_filename": "page2vec-0.1.0.tar.gz",
+  "download_time": "2025-10-05T03:27:31.077347",
+  "package_url": "https://pypi.org/project/page2vec/"
+}

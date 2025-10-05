@@ -1,11 +1,11 @@
 {
   "name": "tunnel-manager",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Create SSH Tunnels to your remote hosts and host as an MCP Server for Agentic AI!",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tunnel_manager-1.0.1.tar.gz",
-  "download_time": "2025-10-03T22:39:31.367099",
+  "download_filename": "tunnel_manager-1.0.2.tar.gz",
+  "download_time": "2025-10-05T03:27:19.216606",
   "package_url": "https://pypi.org/project/tunnel-manager/"
 }

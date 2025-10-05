@@ -1,0 +1,11 @@
+{
+  "name": "cfmm2tar",
+  "version": "0.0.3",
+  "summary": "Download a tarballed DICOM dataset from the CFMM DICOM server",
+  "author": "Ali Khan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cfmm2tar-0.0.3.tar.gz",
+  "download_time": "2025-10-05T03:27:44.869367",
+  "package_url": "https://pypi.org/project/cfmm2tar/"
+}

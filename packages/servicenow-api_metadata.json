@@ -1,11 +1,11 @@
 {
   "name": "servicenow-api",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "summary": "Python ServiceNow API Wrapper",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "servicenow_api-1.1.5.tar.gz",
-  "download_time": "2025-10-03T22:39:29.271649",
+  "download_filename": "servicenow_api-1.1.6.tar.gz",
+  "download_time": "2025-10-05T03:27:22.556676",
   "package_url": "https://pypi.org/project/servicenow-api/"
 }
