@@ -1,0 +1,11 @@
+{
+  "name": "clipgenius",
+  "version": "1.0.0",
+  "summary": "AI-powered command-line tool for downloading videos from YouTube and other platforms",
+  "author": "Alex Mills And Team",
+  "license": "MIT",
+  "home_page": "https://github.com/alexusa404-creator/Clipgenius",
+  "download_filename": "clipgenius-1.0.0.tar.gz",
+  "download_time": "2025-10-05T04:50:10.928489",
+  "package_url": "https://pypi.org/project/clipgenius/"
+}

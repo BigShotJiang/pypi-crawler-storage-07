@@ -1,0 +1,11 @@
+{
+  "name": "cerona",
+  "version": "0.1.0",
+  "summary": "A esolang that doesnt use any tokens or parser",
+  "author": "ZaiperUnbound",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cerona-0.1.0.tar.gz",
+  "download_time": "2025-10-05T04:50:10.407758",
+  "package_url": "https://pypi.org/project/cerona/"
+}
