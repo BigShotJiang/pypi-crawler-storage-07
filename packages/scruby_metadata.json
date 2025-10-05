@@ -1,11 +1,11 @@
 {
   "name": "scruby",
-  "version": "0.14.3",
+  "version": "0.15.0",
   "summary": "A fast key-value storage library.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scruby-0.14.3-py3-none-any.whl",
-  "download_time": "2025-10-05T08:34:49.595577",
+  "download_filename": "scruby-0.15.0-py3-none-any.whl",
+  "download_time": "2025-10-05T10:50:14.521899",
   "package_url": "https://pypi.org/project/scruby/"
 }

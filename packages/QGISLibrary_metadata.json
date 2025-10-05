@@ -1,11 +1,11 @@
 {
   "name": "QGISLibrary",
-  "version": "1.1",
-  "summary": "A QGIS Robot Framework library",
+  "version": "1.2",
+  "summary": "A QGIS Robot Framework for QGIS UI automation and QGIS UI Testing",
   "author": "Michal Pilarski",
-  "license": "MIT",
+  "license": "MIT - free and open-source licence",
   "home_page": "https://github.com/yourname/MyLibrary",
-  "download_filename": "qgislibrary-1.1.tar.gz",
-  "download_time": "2025-10-04T22:39:37.239216",
+  "download_filename": "qgislibrary-1.2.tar.gz",
+  "download_time": "2025-10-05T10:50:15.040118",
   "package_url": "https://pypi.org/project/QGISLibrary/"
 }

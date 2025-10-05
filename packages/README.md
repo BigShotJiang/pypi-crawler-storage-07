@@ -1,12 +1,26 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-05T10:42:15.652584
-- **Total Packages**: 86
-- **Total Size**: 1.55 MB
+- **Download Time**: 2025-10-05T10:50:53.129245
+- **Total Packages**: 83
+- **Total Size**: 1.28 MB
 
 ## Packages List
+- jasonite
+- friendly-module-not-found-error
+- adri
+- duckrun
+- mle-kit-mcp
+- mutable-lattice
+- gemini-search-mcp
 - atari-cas-reader
+- clipash
+- gohutool-dataflow
+- olab-open-api
+- konduktor-nightly
+- scruby
+- QGISLibrary
+- mathai
 - trainy-policy-nightly
 - hallunox
 - letta-nightly
@@ -21,19 +35,16 @@
 - portacode
 - tob
 - ctfbridge
-- gohutool-dataflow
 - quick-pp
 - byzh-core
 - shannon-sdk
 - gpmanager
 - xpropcache
-- clipash
 - speedy-utils
 - v440
 - sten-auth
 - camel-ai
 - simplini
-- duckrun
 - odoo-addon-l10n-es-facturae-face
 - passagemath-rankwidth
 - passagemath-plot
@@ -78,17 +89,3 @@
 - nvidia-nat-semantic-kernel
 - nvidia-nat-agno
 - nvidia-nat-opentelemetry
-- nvidia-nat-ragaai
-- nvidia-nat-profiling
-- nvidia-nat-data-flywheel
-- nvidia-nat-langchain
-- aiqtoolkit-semantic-kernel
-- aiqtoolkit-weave
-- teknohole
-- aiqtoolkit-mem0ai
-- aiqtoolkit-test
-- aiqtoolkit-llama-index
-- qbitwave
-- aiqtoolkit
-- enverge-proxy
-- aiqtoolkit-langchain

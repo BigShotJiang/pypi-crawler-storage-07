@@ -1,0 +1,11 @@
+{
+  "name": "jasonite",
+  "version": "0.1.1",
+  "summary": "Jasonite: a tiny JSON-backed document store for Python",
+  "author": "Gianni Amato",
+  "license": null,
+  "home_page": "https://github.com/guelfoweb/jasonite",
+  "download_filename": "jasonite-0.1.1.tar.gz",
+  "download_time": "2025-10-05T10:50:08.261170",
+  "package_url": "https://pypi.org/project/jasonite/"
+}

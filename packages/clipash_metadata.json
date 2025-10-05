@@ -1,11 +1,11 @@
 {
   "name": "clipash",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A clipboard-activated AI assistant powered by Gemini.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clipash-1.0.3.tar.gz",
-  "download_time": "2025-10-05T10:32:21.444136",
+  "download_filename": "clipash-1.0.4.tar.gz",
+  "download_time": "2025-10-05T10:50:12.445261",
   "package_url": "https://pypi.org/project/clipash/"
 }
