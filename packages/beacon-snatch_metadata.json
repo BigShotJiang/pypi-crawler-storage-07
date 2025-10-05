@@ -1,0 +1,11 @@
+{
+  "name": "beacon-snatch",
+  "version": "0.1.8",
+  "summary": "Snatch from Beacon",
+  "author": "RetroZelda",
+  "license": null,
+  "home_page": "https://github.com/retrozelda/beacon-snatch",
+  "download_filename": "beacon_snatch-0.1.8.tar.gz",
+  "download_time": "2025-10-05T06:52:16.624075",
+  "package_url": "https://pypi.org/project/beacon-snatch/"
+}

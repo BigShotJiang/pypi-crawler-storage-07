@@ -1,0 +1,11 @@
+{
+  "name": "stanza",
+  "version": "1.11.0",
+  "summary": "A Python NLP Library for Many Human Languages, by the Stanford NLP Group",
+  "author": "Stanford Natural Language Processing Group",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/stanfordnlp/stanza",
+  "download_filename": "stanza-1.11.0.tar.gz",
+  "download_time": "2025-10-05T06:52:22.267979",
+  "package_url": "https://pypi.org/project/stanza/"
+}

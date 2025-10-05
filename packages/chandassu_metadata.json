@@ -1,0 +1,11 @@
+{
+  "name": "chandassu",
+  "version": "1.0.1",
+  "summary": "First-ever Python library implementing 'Chandassu', metrical poetry in Telugu Language",
+  "author": "Boddu Sri Pavan",
+  "license": "MIT",
+  "home_page": "https://github.com/BodduSriPavan-111/chandassu",
+  "download_filename": "chandassu-1.0.1.tar.gz",
+  "download_time": "2025-10-05T06:52:15.036391",
+  "package_url": "https://pypi.org/project/chandassu/"
+}

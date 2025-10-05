@@ -1,0 +1,11 @@
+{
+  "name": "bluehive",
+  "version": "0.1.0a10",
+  "summary": "The official Python library for the bluehive API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "bluehive-0.1.0a10.tar.gz",
+  "download_time": "2025-10-05T06:52:25.350367",
+  "package_url": "https://pypi.org/project/bluehive/"
+}
