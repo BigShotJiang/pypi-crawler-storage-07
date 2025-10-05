@@ -1,11 +1,11 @@
 {
   "name": "k-nickname",
-  "version": "0.1.4",
-  "summary": "Generate random nickname for Korean users.",
+  "version": "0.1.5",
+  "summary": "A simple Python package to generate Korean-style nickname",
   "author": "kyohoonsim",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "k_nickname-0.1.4.tar.gz",
-  "download_time": "2025-10-03T16:14:19.713353",
+  "download_filename": "k_nickname-0.1.5.tar.gz",
+  "download_time": "2025-10-05T03:49:10.096393",
   "package_url": "https://pypi.org/project/k-nickname/"
 }
