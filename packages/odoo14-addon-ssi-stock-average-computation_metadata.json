@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-ssi-stock-average-computation",
+  "version": "14.0.1.0.1.dev4",
+  "summary": "SSI Stock Average Computation",
+  "author": "OpenSynergy Indonesia, PT. Simetri Sinergi Indonesia",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/open-synergy/ssi-stock-average-computation",
+  "download_filename": "odoo14_addon_ssi_stock_average_computation-14.0.1.0.1.dev4-py3-none-any.whl",
+  "download_time": "2025-10-05T05:12:04.207495",
+  "package_url": "https://pypi.org/project/odoo14-addon-ssi-stock-average-computation/"
+}

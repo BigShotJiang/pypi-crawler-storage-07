@@ -1,11 +1,11 @@
 {
   "name": "prism-blanklines",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Blank line enforcement for Python code based on CLAUDE.md rules",
   "author": "Greg Smethells",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "prism_blanklines-0.2.1.tar.gz",
-  "download_time": "2025-09-26T23:25:40.459782",
+  "download_filename": "prism_blanklines-0.3.0.tar.gz",
+  "download_time": "2025-10-05T05:12:12.791309",
   "package_url": "https://pypi.org/project/prism-blanklines/"
 }

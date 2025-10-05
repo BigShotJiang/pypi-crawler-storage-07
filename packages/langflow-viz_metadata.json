@@ -1,11 +1,11 @@
 {
   "name": "langflow-viz",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Elegant visualizer and analyzer for LangGraph-like workflow graphs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langflow_viz-0.2.0.tar.gz",
-  "download_time": "2025-10-05T04:14:40.460253",
+  "download_filename": "langflow_viz-0.2.1.tar.gz",
+  "download_time": "2025-10-05T05:12:07.442828",
   "package_url": "https://pypi.org/project/langflow-viz/"
 }
