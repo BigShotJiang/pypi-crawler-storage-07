@@ -1,11 +1,11 @@
 {
   "name": "bioql",
-  "version": "5.0.1",
-  "summary": "Enterprise Quantum Computing v5.0.1 - Full QEC Control with Surface/Steane/Shor Codes, Qualtran Visualization, Physical vs Logical Qubit Management, Error Mitigation (ZNE, PEC, Readout), Target Fidelity (95-99.9%), Dynamic QEC Pricing, OpenFermion Chemistry, Compliance Logging, Multi-Backend Support (IBM Torino 133q, IonQ, AWS Braket), AWS Braket Setup Examples",
+  "version": "5.0.4",
+  "summary": "Enterprise Quantum Computing v5.0.4 - AI Agent Fix: VSCode Assistant uses correct drug_discovery_templates, SMILES Validation, PDB Search/Download, Real Molecular Docking, 6 Drug Discovery Modules, Full QEC Control, Error Mitigation, OpenFermion Chemistry, Multi-Backend Support (IBM Torino 133q, IonQ, AWS Braket)",
   "author": "BioQL Development Team - SpectrixRD",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/bioql",
-  "download_filename": "bioql-5.0.1.tar.gz",
-  "download_time": "2025-10-05T02:28:57.216851",
+  "download_filename": "bioql-5.0.4.tar.gz",
+  "download_time": "2025-10-05T15:50:57.533183",
   "package_url": "https://pypi.org/project/bioql/"
 }

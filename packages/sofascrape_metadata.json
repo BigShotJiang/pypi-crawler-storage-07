@@ -1,0 +1,11 @@
+{
+  "name": "sofascrape",
+  "version": "0.1.1",
+  "summary": "A Python library for scraping and interacting with SofaScore APIs",
+  "author": "Chumari",
+  "license": null,
+  "home_page": "https://github.com/dchumari/sofascrape.git",
+  "download_filename": "sofascrape-0.1.1.tar.gz",
+  "download_time": "2025-10-05T15:50:58.563468",
+  "package_url": "https://pypi.org/project/sofascrape/"
+}
