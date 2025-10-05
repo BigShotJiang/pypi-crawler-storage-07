@@ -1,11 +1,11 @@
 {
   "name": "llmass",
-  "version": "1.1.17",
+  "version": "1.1.18",
   "summary": "AI-powered email management and automation system: auto-categorize, detect spam, and generate responses with LLM",
   "author": "Tom Sapletta",
   "license": "Apache-2.0",
   "home_page": "https://github.com/dobyemail/llmass",
-  "download_filename": "llmass-1.1.17.tar.gz",
-  "download_time": "2025-10-04T17:29:23.236105",
+  "download_filename": "llmass-1.1.18.tar.gz",
+  "download_time": "2025-10-05T08:34:37.427372",
   "package_url": "https://pypi.org/project/llmass/"
 }

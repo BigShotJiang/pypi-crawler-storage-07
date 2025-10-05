@@ -1,0 +1,11 @@
+{
+  "name": "clavier_lib",
+  "version": "0.1.0",
+  "summary": "Measuring distance between keyboards characters",
+  "author": "MaxHalford",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clavier_lib-0.1.0.tar.gz",
+  "download_time": "2025-10-05T08:34:34.744744",
+  "package_url": "https://pypi.org/project/clavier_lib/"
+}

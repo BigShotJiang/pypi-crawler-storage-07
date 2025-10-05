@@ -1,0 +1,11 @@
+{
+  "name": "khmer-nid-detector",
+  "version": "1.0.0",
+  "summary": "Khmer National ID card detection and information extraction",
+  "author": "Roem Reaksmey",
+  "license": null,
+  "home_page": null,
+  "download_filename": "khmer_nid_detector-1.0.0.tar.gz",
+  "download_time": "2025-10-05T08:34:45.901519",
+  "package_url": "https://pypi.org/project/khmer-nid-detector/"
+}

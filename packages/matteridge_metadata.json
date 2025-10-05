@@ -1,0 +1,11 @@
+{
+  "name": "matteridge",
+  "version": "0.3.1",
+  "summary": "A Mattermost/XMPP gateway",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "matteridge-0.3.1.tar.gz",
+  "download_time": "2025-10-05T08:34:37.947825",
+  "package_url": "https://pypi.org/project/matteridge/"
+}

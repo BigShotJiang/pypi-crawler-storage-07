@@ -1,11 +1,11 @@
 {
   "name": "phoenixcat",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "summary": "An enhanced infrastructure library for PyTorch.",
   "author": "Hongyao Yu, Sijin Yu",
   "license": "Apache 2.0 License",
   "home_page": "https://github.com/Chrisqcwx/phoenixcat",
-  "download_filename": "phoenixcat-0.4.4.tar.gz",
-  "download_time": "2025-10-03T14:45:23.496905",
+  "download_filename": "phoenixcat-0.4.5.tar.gz",
+  "download_time": "2025-10-05T08:34:45.380984",
   "package_url": "https://pypi.org/project/phoenixcat/"
 }
