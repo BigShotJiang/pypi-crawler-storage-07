@@ -1,0 +1,11 @@
+{
+  "name": "pydaikin",
+  "version": "2.17.1",
+  "summary": "Python Daikin HVAC appliances interface",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydaikin-2.17.1.tar.gz",
+  "download_time": "2025-10-05T07:32:14.414113",
+  "package_url": "https://pypi.org/project/pydaikin/"
+}

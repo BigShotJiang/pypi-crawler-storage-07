@@ -1,0 +1,11 @@
+{
+  "name": "example_package_clapinarthur",
+  "version": "0.0.3",
+  "summary": "A small example package",
+  "author": "Clapin Arthur",
+  "license": "MIT",
+  "home_page": "https://github.com/pypa/sampleproject",
+  "download_filename": "example_package_clapinarthur-0.0.3.tar.gz",
+  "download_time": "2025-10-05T07:32:10.270401",
+  "package_url": "https://pypi.org/project/example_package_clapinarthur/"
+}

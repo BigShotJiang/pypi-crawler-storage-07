@@ -1,11 +1,11 @@
 {
   "name": "simtoolsz",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "summary": "A simple and convenient toolkit containing useful functions, classes, and methods.",
   "author": null,
   "license": "MulanPSL-2.0",
   "home_page": null,
-  "download_filename": "simtoolsz-0.2.8.tar.gz",
-  "download_time": "2025-09-30T06:48:35.268282",
+  "download_filename": "simtoolsz-0.2.9.tar.gz",
+  "download_time": "2025-10-05T07:32:09.233899",
   "package_url": "https://pypi.org/project/simtoolsz/"
 }
