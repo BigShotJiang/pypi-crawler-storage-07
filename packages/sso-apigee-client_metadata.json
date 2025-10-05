@@ -1,11 +1,11 @@
 {
   "name": "sso-apigee-client",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Python client library for APIGEE Service",
   "author": "Your Organization",
   "license": "MIT",
   "home_page": "https://github.com/yourorg/sso-apigee-service",
-  "download_filename": "sso_apigee_client-1.0.0.tar.gz",
-  "download_time": "2025-10-05T11:26:10.866516",
+  "download_filename": "sso_apigee_client-1.0.2.tar.gz",
+  "download_time": "2025-10-05T11:50:12.077775",
   "package_url": "https://pypi.org/project/sso-apigee-client/"
 }

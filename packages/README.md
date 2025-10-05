@@ -1,11 +1,24 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-05T11:35:59.901835
-- **Total Packages**: 73
-- **Total Size**: 0.51 MB
+- **Download Time**: 2025-10-05T11:50:43.061071
+- **Total Packages**: 67
+- **Total Size**: 1.29 MB
 
 ## Packages List
+- cutesy
+- jbutils
+- mix-python-sdk
+- spark-pipelines
+- mybox
+- clipash
+- xhamster-api
+- sharedbox
+- sso-apigee-client
+- carconnectivity-connector-audi
+- arango-cve-processor
+- authentik-client
+- intersphinx-registry
 - ShamsiCalendar
 - matchescu-matching
 - python-melcloud
@@ -13,16 +26,13 @@
 - QGISLibrary
 - torchx-nightly
 - im-jote
-- jbutils
 - mapsys
 - vellum-workflow-server
-- sso-apigee-client
 - mlua
 - gguf-connector
 - torchft-nightly
 - pyplayready
 - lief
-- authentik-client
 - nonebot-plugin-msglogger
 - nekro-agent-toolkit
 - pyrudof
@@ -35,14 +45,11 @@
 - django-private-storage
 - vandc
 - mathai
-- sharedbox
 - portacode
 - demoparser2
-- clipash
 - vprikol
 - entity-query-language
 - quick-pp
-- mybox
 - ajMathbasics
 - byotrack
 - odfdo
@@ -66,16 +73,3 @@
 - scruby
 - trainy-policy-nightly
 - letta-nightly
-- livedict
-- ctf-dl
-- pygame-popup
-- ign-lidar-hd
-- ab-dependency
-- wiliot-testers
-- byzh-ai
-- tob
-- ctfbridge
-- byzh-core
-- shannon-sdk
-- gpmanager
-- xpropcache
