@@ -1,0 +1,11 @@
+{
+  "name": "SoIdea-update-python",
+  "version": "0.1.2",
+  "summary": "本项目为跨平台自动升级脚本，支持命令行参数、GUI显示、配置文件、默认参数三层优先级，具备日志轮转、异常兜底、回滚、进程管理、hash 校验等生产级特性。",
+  "author": "Soidea",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/Soidea",
+  "download_filename": "soidea_update_python-0.1.2.tar.gz",
+  "download_time": "2025-10-05T05:31:16.349328",
+  "package_url": "https://pypi.org/project/SoIdea-update-python/"
+}

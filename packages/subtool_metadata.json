@@ -1,0 +1,11 @@
+{
+  "name": "subtool",
+  "version": "0.0.3",
+  "summary": "Local subtitle generation and translation CLI using Whisper and NLLB-200",
+  "author": "Frank Chiarulli Jr.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "subtool-0.0.3.tar.gz",
+  "download_time": "2025-10-05T05:31:15.835949",
+  "package_url": "https://pypi.org/project/subtool/"
+}

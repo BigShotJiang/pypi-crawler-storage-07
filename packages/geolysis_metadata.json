@@ -1,11 +1,11 @@
 {
   "name": "geolysis",
-  "version": "0.18.0",
+  "version": "0.19.0",
   "summary": "geolysis is an opensource software for geotechnical engineering analysis and modeling.",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "geolysis-0.18.0.tar.gz",
-  "download_time": "2025-10-05T05:12:07.963540",
+  "download_filename": "geolysis-0.19.0.tar.gz",
+  "download_time": "2025-10-05T05:31:26.424916",
   "package_url": "https://pypi.org/project/geolysis/"
 }
