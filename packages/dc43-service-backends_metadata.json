@@ -1,11 +1,11 @@
 {
   "name": "dc43-service-backends",
-  "version": "0.15.0.0",
+  "version": "0.16.0",
   "summary": "Backend service implementations for dc43",
   "author": "Andy Petrella",
   "license": null,
   "home_page": null,
-  "download_filename": "dc43_service_backends-0.15.0.0.tar.gz",
-  "download_time": "2025-10-02T17:29:05.599931",
+  "download_filename": "dc43_service_backends-0.16.0.tar.gz",
+  "download_time": "2025-10-05T09:49:57.759097",
   "package_url": "https://pypi.org/project/dc43-service-backends/"
 }

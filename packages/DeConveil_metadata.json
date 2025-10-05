@@ -1,0 +1,11 @@
+{
+  "name": "DeConveil",
+  "version": "0.1.1",
+  "summary": "An extension of PyDESeq2/DESeq2 designed to account for genome aneuploidy",
+  "author": "Katsiaryna Davydzenka",
+  "license": "MIT",
+  "home_page": "https://github.com/caravagnalab/DeConveil",
+  "download_filename": "deconveil-0.1.1.tar.gz",
+  "download_time": "2025-10-05T09:49:53.951356",
+  "package_url": "https://pypi.org/project/DeConveil/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-private-storage",
+  "version": "3.1.2",
+  "summary": "Private media file storage for Django projects",
+  "author": "Diederik van der Boor",
+  "license": "License-Expression :: OSI Approved :: Apache-2.0",
+  "home_page": "https://github.com/edoburu/django-private-storage",
+  "download_filename": "django_private_storage-3.1.2.tar.gz",
+  "download_time": "2025-10-05T09:49:59.934827",
+  "package_url": "https://pypi.org/project/django-private-storage/"
+}

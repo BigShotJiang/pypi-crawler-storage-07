@@ -1,11 +1,11 @@
 {
   "name": "hallunox",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "A confidence-aware routing system for LLM hallucination detection using multi-signal approach",
   "author": "Nandakishor M",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/convai-innovations/hallunox",
-  "download_filename": "hallunox-0.2.4.tar.gz",
-  "download_time": "2025-10-05T09:35:31.785002",
+  "download_filename": "hallunox-0.2.5.tar.gz",
+  "download_time": "2025-10-05T09:49:59.412822",
   "package_url": "https://pypi.org/project/hallunox/"
 }
