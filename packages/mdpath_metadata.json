@@ -1,0 +1,11 @@
+{
+  "name": "mdpath",
+  "version": "1.0.3",
+  "summary": "MD signal transduction calculation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mdpath-1.0.3.tar.gz",
+  "download_time": "2025-10-05T08:50:25.161390",
+  "package_url": "https://pypi.org/project/mdpath/"
+}
