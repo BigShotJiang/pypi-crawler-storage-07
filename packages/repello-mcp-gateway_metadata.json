@@ -1,0 +1,11 @@
+{
+  "name": "repello-mcp-gateway",
+  "version": "1.0.1",
+  "summary": "A gateway for MCP servers with Repello ARGUS integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "repello_mcp_gateway-1.0.1.tar.gz",
+  "download_time": "2025-10-05T11:10:48.748606",
+  "package_url": "https://pypi.org/project/repello-mcp-gateway/"
+}
