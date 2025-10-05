@@ -1,0 +1,11 @@
+{
+  "name": "elasticsearch-memory-mcp",
+  "version": "6.2.0",
+  "summary": "🧠 Elasticsearch-powered MCP server with hierarchical memory categorization, intelligent auto-detection, and batch review capabilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "elasticsearch_memory_mcp-6.2.0.tar.gz",
+  "download_time": "2025-10-05T06:16:32.091584",
+  "package_url": "https://pypi.org/project/elasticsearch-memory-mcp/"
+}

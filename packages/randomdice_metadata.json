@@ -1,0 +1,11 @@
+{
+  "name": "randomdice",
+  "version": "0.1.4",
+  "summary": "A sample Python package",
+  "author": "aiwonderland",
+  "license": null,
+  "home_page": "https://github.com/aiwonderland/randomdice",
+  "download_filename": "randomdice-0.1.4.tar.gz",
+  "download_time": "2025-10-05T06:16:36.823949",
+  "package_url": "https://pypi.org/project/randomdice/"
+}

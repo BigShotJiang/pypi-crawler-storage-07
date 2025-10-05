@@ -1,11 +1,11 @@
 {
   "name": "dedup-rs",
-  "version": "0.3.0",
-  "summary": null,
-  "author": null,
+  "version": "0.4.0",
+  "summary": "Rust implementation of deduplication algorithms with Python bindings",
+  "author": "Wayne Lau",
   "license": null,
   "home_page": null,
-  "download_filename": "dedup_rs-0.3.0.tar.gz",
-  "download_time": "2025-10-05T03:27:50.585279",
+  "download_filename": "dedup_rs-0.4.0.tar.gz",
+  "download_time": "2025-10-05T06:16:49.940129",
   "package_url": "https://pypi.org/project/dedup-rs/"
 }
