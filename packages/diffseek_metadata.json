@@ -1,11 +1,11 @@
 {
   "name": "diffseek",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "diffseek - A tool for comparing long strings across devices via binary search",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "diffseek-0.1.1.tar.gz",
-  "download_time": "2025-10-03T05:13:04.516629",
+  "download_filename": "diffseek-0.1.2.tar.gz",
+  "download_time": "2025-10-05T09:29:52.063306",
   "package_url": "https://pypi.org/project/diffseek/"
 }
