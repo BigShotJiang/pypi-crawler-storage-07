@@ -1,0 +1,11 @@
+{
+  "name": "pyplayready",
+  "version": "0.8.0",
+  "summary": "pyplayready CDM (Content Decryption Module) implementation in Python.",
+  "author": "DevLARLEY, Erevoc",
+  "license": "CC BY-NC-ND 4.0",
+  "home_page": null,
+  "download_filename": "pyplayready-0.8.0.tar.gz",
+  "download_time": "2025-10-05T11:26:13.499499",
+  "package_url": "https://pypi.org/project/pyplayready/"
+}

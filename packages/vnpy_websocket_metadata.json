@@ -1,0 +1,11 @@
+{
+  "name": "vnpy_websocket",
+  "version": "1.1.1",
+  "summary": "Websocket API client for VeighNa quant trading framework.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vnpy_websocket-1.1.1.tar.gz",
+  "download_time": "2025-10-05T11:26:22.633148",
+  "package_url": "https://pypi.org/project/vnpy_websocket/"
+}

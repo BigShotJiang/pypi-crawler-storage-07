@@ -1,11 +1,11 @@
 {
   "name": "pylocalvoice",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A professional Python library for local voice and Hmong language processing",
   "author": "YangNobody12",
   "license": null,
   "home_page": "https://github.com/yangnobody12/pylocalvoice",
-  "download_filename": "pylocalvoice-0.1.0.tar.gz",
-  "download_time": "2025-10-05T11:10:46.152582",
+  "download_filename": "pylocalvoice-0.1.1.tar.gz",
+  "download_time": "2025-10-05T11:26:18.750399",
   "package_url": "https://pypi.org/project/pylocalvoice/"
 }

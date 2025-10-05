@@ -1,27 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-05T11:11:19.081760
-- **Total Packages**: 76
-- **Total Size**: 5.03 MB
+- **Download Time**: 2025-10-05T11:26:54.918339
+- **Total Packages**: 75
+- **Total Size**: 13.17 MB
 
 ## Packages List
+- vellum-workflow-server
+- sso-apigee-client
+- mlua
+- gguf-connector
+- torchft-nightly
+- pyplayready
+- QGISLibrary
+- lief
+- authentik-client
+- nonebot-plugin-msglogger
+- nekro-agent-toolkit
+- pyrudof
+- jbutils
+- pylocalvoice
+- gemini-search-mcp
+- bdclient
+- vellum-ai
+- hallunox
+- pyVersioning
+- vnpy_websocket
+- django-private-storage
+- vandc
 - mathai
 - sharedbox
 - portacode
 - demoparser2
-- QGISLibrary
 - clipash
-- nonebot-plugin-msglogger
-- authentik-client
 - vprikol
 - entity-query-language
 - quick-pp
 - mybox
 - ajMathbasics
-- hallunox
 - byotrack
-- pylocalvoice
 - odfdo
 - protoprimer
 - SwiftGUI
@@ -36,7 +53,6 @@
 - duckrun
 - mle-kit-mcp
 - mutable-lattice
-- gemini-search-mcp
 - atari-cas-reader
 - gohutool-dataflow
 - olab-open-api
@@ -65,20 +81,3 @@
 - odoo-addon-l10n-es-facturae-face
 - passagemath-rankwidth
 - passagemath-plot
-- passagemath-planarity
-- passagemath-objects
-- roboka
-- passagemath-homfly
-- passagemath-graphs
-- passagemath-glpk
-- passagemath-cmr
-- passagemath-cliquer
-- passagemath-cddlib
-- passagemath-categories
-- private-assistant-commons
-- exnest-ai
-- hyperscale-ozone
-- greedy-ancestral-search
-- ai-edge-torch-nightly
-- tf-keras-nightly
-- irys-core
