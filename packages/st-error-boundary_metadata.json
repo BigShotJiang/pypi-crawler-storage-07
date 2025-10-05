@@ -1,11 +1,11 @@
 {
   "name": "st-error-boundary",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A tiny, typed error-boundary decorator for Streamlit apps (UI-safe fallback + pluggable hooks)",
-  "author": "yuki",
+  "author": "K-dash",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "st_error_boundary-0.1.0.tar.gz",
-  "download_time": "2025-10-05T04:14:29.665379",
+  "download_filename": "st_error_boundary-0.1.1.tar.gz",
+  "download_time": "2025-10-05T04:34:15.377709",
   "package_url": "https://pypi.org/project/st-error-boundary/"
 }

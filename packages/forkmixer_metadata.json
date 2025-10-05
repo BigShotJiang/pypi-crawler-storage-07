@@ -1,0 +1,11 @@
+{
+  "name": "forkmixer",
+  "version": "0.1.0",
+  "summary": "ForkMixer -- A fork of Mixer, a fixtures replacement. Supported Django ORM, SqlAlchemy ORM, Mongoengine ODM and custom python objects.",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "forkmixer-0.1.0.tar.gz",
+  "download_time": "2025-10-05T04:34:20.754637",
+  "package_url": "https://pypi.org/project/forkmixer/"
+}

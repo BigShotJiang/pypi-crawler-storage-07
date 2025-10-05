@@ -1,11 +1,11 @@
 {
   "name": "forecasting-tools",
-  "version": "0.2.67",
+  "version": "0.2.68",
   "summary": "AI forecasting and research tools to help humans reason about and forecast the future",
   "author": "Benjamin Wilson",
   "license": "MIT",
   "home_page": "https://github.com/Metaculus/forecasting-tools",
-  "download_filename": "forecasting_tools-0.2.67.tar.gz",
-  "download_time": "2025-10-02T20:14:41.775785",
+  "download_filename": "forecasting_tools-0.2.68.tar.gz",
+  "download_time": "2025-10-05T04:34:17.545259",
   "package_url": "https://pypi.org/project/forecasting-tools/"
 }

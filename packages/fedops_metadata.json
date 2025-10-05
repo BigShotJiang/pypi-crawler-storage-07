@@ -1,11 +1,11 @@
 {
   "name": "fedops",
-  "version": "1.1.29.9",
+  "version": "1.1.30.0",
   "summary": "FL Lifecycle Operations Management Platform",
   "author": "Semo Yang",
   "license": null,
   "home_page": "https://github.com/gachon-CCLab/FedOps.git",
-  "download_filename": "fedops-1.1.29.9.tar.gz",
-  "download_time": "2025-09-30T16:39:05.747930",
+  "download_filename": "fedops-1.1.30.0.tar.gz",
+  "download_time": "2025-10-05T04:34:11.647111",
   "package_url": "https://pypi.org/project/fedops/"
 }
