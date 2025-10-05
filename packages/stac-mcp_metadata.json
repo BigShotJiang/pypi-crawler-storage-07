@@ -1,11 +1,11 @@
 {
   "name": "stac-mcp",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "summary": "An MCP Server for STAC requests",
   "author": "BnJam",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "stac_mcp-0.5.4.tar.gz",
-  "download_time": "2025-10-05T06:16:40.085837",
+  "download_filename": "stac_mcp-0.5.5.tar.gz",
+  "download_time": "2025-10-05T07:12:01.237005",
   "package_url": "https://pypi.org/project/stac-mcp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pyezvizapi",
-  "version": "1.0.3.2",
+  "version": "1.0.3.3",
   "summary": "Pilot your Ezviz cameras",
   "author": "Renier Moorcroft",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/RenierM26/pyEzvizApi/",
-  "download_filename": "pyezvizapi-1.0.3.2.tar.gz",
-  "download_time": "2025-10-05T06:52:18.158946",
+  "download_filename": "pyezvizapi-1.0.3.3.tar.gz",
+  "download_time": "2025-10-05T07:12:00.066302",
   "package_url": "https://pypi.org/project/pyezvizapi/"
 }
