@@ -1,8 +1,18 @@
 {
-  "download_time": "2025-10-05T10:33:02.349804",
-  "total_packages_downloaded": 85,
-  "total_size_mb": 30.91,
+  "download_time": "2025-10-05T10:42:15.652584",
+  "total_packages_downloaded": 86,
+  "total_size_mb": 1.55,
   "packages": [
+    "atari-cas-reader",
+    "trainy-policy-nightly",
+    "hallunox",
+    "letta-nightly",
+    "livedict",
+    "ctf-dl",
+    "authentik-client",
+    "pygame-popup",
+    "ign-lidar-hd",
+    "ab-dependency",
     "wiliot-testers",
     "byzh-ai",
     "portacode",
@@ -16,7 +26,6 @@
     "xpropcache",
     "clipash",
     "speedy-utils",
-    "authentik-client",
     "v440",
     "sten-auth",
     "camel-ai",
@@ -79,14 +88,6 @@
     "qbitwave",
     "aiqtoolkit",
     "enverge-proxy",
-    "aiqtoolkit-langchain",
-    "fontra-feamerge",
-    "aiqtoolkit-crewai",
-    "aiqtoolkit-zep-cloud",
-    "aiqtoolkit-agno",
-    "hallunox",
-    "mix-python-sdk",
-    "infraweave",
-    "tbp-nightly"
+    "aiqtoolkit-langchain"
   ]
 }

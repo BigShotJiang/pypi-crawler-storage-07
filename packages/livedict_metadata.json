@@ -1,11 +1,11 @@
 {
   "name": "livedict",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "TTL-based key-value store with sandboxed hooks and (optionally) persistence backends (SQLite/Memory/Redis).",
   "author": "Hemanshu Vaidya",
   "license": null,
   "home_page": "https://github.com/hemanshu03/LiveDict",
-  "download_filename": "livedict-2.0.1.tar.gz",
-  "download_time": "2025-10-05T09:49:56.105296",
+  "download_filename": "livedict-2.0.2.tar.gz",
+  "download_time": "2025-10-05T10:41:31.453209",
   "package_url": "https://pypi.org/project/livedict/"
 }

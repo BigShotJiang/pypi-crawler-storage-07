@@ -1,11 +1,21 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-05T10:33:02.349804
-- **Total Packages**: 85
-- **Total Size**: 30.91 MB
+- **Download Time**: 2025-10-05T10:42:15.652584
+- **Total Packages**: 86
+- **Total Size**: 1.55 MB
 
 ## Packages List
+- atari-cas-reader
+- trainy-policy-nightly
+- hallunox
+- letta-nightly
+- livedict
+- ctf-dl
+- authentik-client
+- pygame-popup
+- ign-lidar-hd
+- ab-dependency
 - wiliot-testers
 - byzh-ai
 - portacode
@@ -19,7 +29,6 @@
 - xpropcache
 - clipash
 - speedy-utils
-- authentik-client
 - v440
 - sten-auth
 - camel-ai
@@ -83,11 +92,3 @@
 - aiqtoolkit
 - enverge-proxy
 - aiqtoolkit-langchain
-- fontra-feamerge
-- aiqtoolkit-crewai
-- aiqtoolkit-zep-cloud
-- aiqtoolkit-agno
-- hallunox
-- mix-python-sdk
-- infraweave
-- tbp-nightly

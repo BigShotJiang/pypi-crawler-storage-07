@@ -1,0 +1,11 @@
+{
+  "name": "pygame-popup",
+  "version": "0.11.0",
+  "summary": "A popup manager for pygame",
+  "author": "Grimmys",
+  "license": null,
+  "home_page": "https://github.com/Grimmys/pygame_popup_manager",
+  "download_filename": "pygame-popup-0.11.0.tar.gz",
+  "download_time": "2025-10-05T10:41:33.084525",
+  "package_url": "https://pypi.org/project/pygame-popup/"
+}

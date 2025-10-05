@@ -1,11 +1,11 @@
 {
   "name": "ab-dependency",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ab_dependency-0.1.6.tar.gz",
-  "download_time": "2025-09-28T06:39:26.182460",
+  "download_filename": "ab_dependency-0.1.7.tar.gz",
+  "download_time": "2025-10-05T10:41:34.144610",
   "package_url": "https://pypi.org/project/ab-dependency/"
 }
