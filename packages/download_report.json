@@ -1,17 +1,21 @@
 {
-  "download_time": "2025-10-05T06:17:10.001083",
+  "download_time": "2025-10-05T06:41:04.167882",
   "total_packages_downloaded": 67,
-  "total_size_mb": 5.09,
+  "total_size_mb": 15.12,
   "packages": [
+    "huqt-oracle-pysdk",
+    "nswrapslite",
+    "ai-edge-litert-nightly",
+    "ceccomp",
+    "wkls",
+    "lego-rendering",
     "jh2",
     "elasticsearch-memory-mcp",
     "KalturaApiClient",
     "PyKet",
     "mtcli-risco",
-    "ceccomp",
     "opower",
     "wi1-bot",
-    "wkls",
     "adv-optm",
     "randomdice",
     "pygamejr",
@@ -27,7 +31,6 @@
     "mtcli-trade",
     "akash",
     "llmswap",
-    "huqt-oracle-pysdk",
     "simple-backtest",
     "evolverx",
     "LSTM-SAM-TL",
@@ -49,7 +52,6 @@
     "ast-tool-py",
     "mix-python-sdk",
     "ajMathbasics",
-    "lego-rendering",
     "parameterizable",
     "geolysis",
     "byzh-ai",
@@ -67,8 +69,6 @@
     "runbooks",
     "docstring-format-checker",
     "bisos.b",
-    "skypilot-nightly",
-    "prism-blanklines",
-    "sequence"
+    "skypilot-nightly"
   ]
 }
