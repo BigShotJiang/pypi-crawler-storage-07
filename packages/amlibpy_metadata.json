@@ -1,11 +1,11 @@
 {
   "name": "amlibpy",
-  "version": "2025.10.5.post4",
+  "version": "2025.10.5.post5",
   "summary": "Python utilities for working with common amLib interfaces. Very much not complete!",
   "author": "Bottersnike",
   "license": null,
   "home_page": null,
-  "download_filename": "amlibpy-2025.10.5.post4.tar.gz",
-  "download_time": "2025-10-05T00:54:08.058639",
+  "download_filename": "amlibpy-2025.10.5.post5.tar.gz",
+  "download_time": "2025-10-05T02:28:59.890495",
   "package_url": "https://pypi.org/project/amlibpy/"
 }
